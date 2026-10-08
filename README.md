@@ -9,7 +9,7 @@
 ## ทำงานอย่างไร
 
 ```
-GitHub Actions (ทุก 30 นาที)
+GitHub Actions (ทุก 1 ชั่วโมง)
   → npm run ingest: เช็ค EDGAR → ดาวน์โหลด 13F ใหม่ → map CUSIP → ticker → คำนวณ diff
   → commit /data เฉพาะเมื่อมีข้อมูลใหม่
   → Vercel build หน้าเว็บ static ใหม่
