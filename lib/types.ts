@@ -63,6 +63,12 @@ export interface Holding extends Position {
   ticker: string | null;
   /** Share of totalValue; null for options. */
   weight: number | null;
+  /**
+   * Quarter-end price implied by 13F filings (value ÷ shares), as the median across every
+   * filer holding the same CUSIP that quarter. Null for options and PRN rows.
+   * Not split-adjusted.
+   */
+  price: number | null;
 }
 
 export type ChangeAction = "new" | "add" | "reduce" | "exit";

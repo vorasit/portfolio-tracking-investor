@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { buildPortfolio, diffHoldings, previousQuarter, quarterOf } from "./portfolio";
+import { buildPortfolio, buildPriceIndex, diffHoldings, previousQuarter, quarterOf } from "./portfolio";
 import type { CikQuarter, Holding, Position } from "./types";
 
 const pos = (cusip: string, shares: number, value: number, putCall: Position["putCall"] = null): Position => ({
@@ -17,6 +17,7 @@ const holding = (cusip: string, shares: number, putCall: Position["putCall"] = n
   ...pos(cusip, shares, shares * 10, putCall),
   ticker: cusip.toLowerCase(),
   weight: null,
+  price: null,
 });
 
 describe("quarter helpers", () => {
@@ -29,6 +30,35 @@ describe("quarter helpers", () => {
   it("steps back across a year boundary", () => {
     assert.equal(previousQuarter("2026-Q1"), "2025-Q4");
     assert.equal(previousQuarter("2026-Q3"), "2026-Q2");
+  });
+});
+
+describe("buildPriceIndex", () => {
+  const filer = (cik: string, quarter: string, positions: Position[]): CikQuarter => ({
+    cik,
+    period: "2026-06-30",
+    quarter,
+    filings: [],
+    positions,
+  });
+
+  it("takes the median implied price across filers and ignores options", () => {
+    const priceOf = buildPriceIndex([
+      filer("1", "2026-Q2", [pos("A", 10, 1000), pos("A", 100, 999_999, "Put")]),
+      filer("2", "2026-Q2", [pos("A", 3, 1000)]), // rounded thousands: implied 333.33
+      filer("3", "2026-Q2", [pos("A", 20, 2020)]),
+      filer("4", "2026-Q1", [pos("A", 10, 900)]),
+    ]);
+    assert.equal(priceOf("2026-Q2", "A"), 101);
+    assert.equal(priceOf("2026-Q1", "A"), 90);
+    assert.equal(priceOf("2026-Q2", "B"), null);
+  });
+
+  it("is used by buildPortfolio for share positions only", () => {
+    const part = filer("1", "2026-Q2", [pos("A", 10, 1000), pos("A", 5, 500, "Call")]);
+    part.filings = [{ cik: "1", accession: "a", form: "13F-HR", filedAt: "2026-08-14", amendmentType: null }];
+    const portfolio = buildPortfolio("x", [part], () => null, buildPriceIndex([part]));
+    assert.deepEqual(portfolio.holdings.map((h) => [h.putCall, h.price]), [[null, 100], ["Call", null]]);
   });
 });
 

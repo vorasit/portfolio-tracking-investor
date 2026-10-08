@@ -2,8 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChangeCell, WeightBar, tableClass, tableWrapClass, tbodyClass, theadClass } from "@/app/_components/ui";
-import { findStock, loadStockIndex } from "@/lib/data";
-import { formatPercent, formatQuarter, formatShares, formatUsd } from "@/lib/format";
+import { findStock, loadPriceHistory, loadStockIndex } from "@/lib/data";
+import {
+  externalQuoteLinks,
+  formatPercent,
+  formatPrice,
+  formatQuarter,
+  formatShares,
+  formatSignedPercent,
+  formatUsd,
+} from "@/lib/format";
+import { previousQuarter } from "@/lib/portfolio";
 
 export function generateStaticParams() {
   return loadStockIndex().map((s) => ({ slug: s.slug }));
@@ -20,6 +29,8 @@ export default async function StockPage({ params }: PageProps<"/stocks/[slug]">)
 
   const shareHolders = stock.holders.filter((h) => !h.putCall);
   const optionHolders = stock.holders.filter((h) => h.putCall);
+  const prices = loadPriceHistory(stock.ticker);
+  const priceIn = new Map(prices.map((p) => [p.quarter, p.price]));
   const investorLink = (id: string, name: string) => (
     <Link href={`/investors/${id}`} className="font-medium hover:underline">
       {name}
@@ -34,6 +45,23 @@ export default async function StockPage({ params }: PageProps<"/stocks/[slug]">)
         <p className="mt-3">
           ถือโดยนักลงทุน <span className="font-semibold">{stock.holderCount}</span> คน
           {stock.totalValue > 0 && <> มูลค่ารวม {formatUsd(stock.totalValue)}</>}
+        </p>
+        {prices[0] && (
+          <p className="mt-1">
+            ราคาสิ้นไตรมาส {formatQuarter(prices[0].quarter)}{" "}
+            <span className="font-semibold tabular-nums">{formatPrice(prices[0].price)}</span>
+          </p>
+        )}
+        <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
+          ดูราคาปัจจุบัน:{" "}
+          {externalQuoteLinks(stock.ticker).map((link, i) => (
+            <span key={link.href}>
+              {i > 0 && " · "}
+              <a href={link.href} target="_blank" rel="noopener noreferrer" className="underline">
+                {link.label}
+              </a>
+            </span>
+          ))}
         </p>
       </header>
 
@@ -110,6 +138,40 @@ export default async function StockPage({ params }: PageProps<"/stocks/[slug]">)
                     </td>
                   </tr>
                 ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {prices.length > 0 && (
+        <section className="mb-10">
+          <h2 className="mb-1 text-lg font-semibold">ราคาสิ้นไตรมาส</h2>
+          <p className="mb-3 text-sm text-zinc-500">
+            คำนวณจากมูลค่า ÷ จำนวนหุ้นใน 13F (ค่ามัธยฐานของทุกกองทุนที่ถือ) ไม่ได้ปรับ stock split
+          </p>
+          <div className={`${tableWrapClass} max-w-md`}>
+            <table className={tableClass}>
+              <thead className={theadClass}>
+                <tr>
+                  <th className="px-4 py-3 font-medium">ไตรมาส</th>
+                  <th className="px-4 py-3 text-right font-medium">ราคา</th>
+                  <th className="px-4 py-3 text-right font-medium">เทียบไตรมาสก่อน</th>
+                </tr>
+              </thead>
+              <tbody className={tbodyClass}>
+                {prices.map(({ quarter, price }) => {
+                  const before = priceIn.get(previousQuarter(quarter));
+                  return (
+                    <tr key={quarter}>
+                      <td className="px-4 py-2.5">{formatQuarter(quarter)}</td>
+                      <td className="px-4 py-2.5 text-right tabular-nums">{formatPrice(price)}</td>
+                      <td className="px-4 py-2.5 text-right tabular-nums text-zinc-500">
+                        {before ? formatSignedPercent(price / before - 1) : "–"}
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>

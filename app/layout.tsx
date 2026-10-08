@@ -15,7 +15,8 @@ export const metadata: Metadata = {
 };
 
 // Data-as-code: every page is generated at build time from /data.
-// Live prices will come from the client via /api/prices, never from server rendering.
+// No live prices: free price APIs do not license public display (see plan.md),
+// so pages show quarter-end prices implied by 13F filings and link out for quotes.
 export const ensureStatic = "navigation";
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

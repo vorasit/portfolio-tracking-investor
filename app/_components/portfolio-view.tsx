@@ -16,6 +16,7 @@ import {
   edgarFilingUrl,
   formatDate,
   formatPercent,
+  formatPrice,
   formatQuarter,
   formatShares,
   formatSignedPercent,
@@ -107,7 +108,7 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
       <section className="mb-10">
         <h2 className="mb-3 text-lg font-semibold">หุ้นที่ถือ</h2>
         <div className={tableWrapClass}>
-          <table className={`${tableClass} min-w-[48rem]`}>
+          <table className={`${tableClass} min-w-[54rem]`}>
             <thead className={theadClass}>
               <tr>
                 <th className="px-4 py-3 font-medium">#</th>
@@ -115,6 +116,7 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
                 <th className="px-4 py-3 font-medium">สัดส่วน</th>
                 <th className="px-4 py-3 text-right font-medium">มูลค่า</th>
                 <th className="px-4 py-3 text-right font-medium">จำนวนหุ้น</th>
+                <th className="px-4 py-3 text-right font-medium">ราคาสิ้นไตรมาส</th>
                 <th className="px-4 py-3 font-medium">เทียบไตรมาสก่อน</th>
               </tr>
             </thead>
@@ -137,6 +139,9 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
                     {formatShares(h.shares)}
                     {h.shareType === "PRN" && <span className="ml-1 text-xs text-zinc-500">PRN</span>}
                   </td>
+                  <td className="px-4 py-2.5 text-right tabular-nums">
+                    {h.price === null ? <span className="text-zinc-400">–</span> : formatPrice(h.price)}
+                  </td>
                   <td className="px-4 py-2.5">
                     <ChangeCell change={changeOf(h)} hasPrevious={hasPrevious} />
                   </td>
@@ -151,9 +156,10 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
             {formatPercent(shownWeight)} ของมูลค่าพอร์ต
           </p>
         )}
-        {shownShares.some((h) => h.shareType === "PRN") && (
-          <p className="mt-2 text-xs text-zinc-500">PRN คือตราสารหนี้ แสดงเป็นมูลค่าเงินต้นแทนจำนวนหุ้น</p>
-        )}
+        <p className="mt-2 text-xs text-zinc-500">
+          ราคาสิ้นไตรมาสคำนวณจากมูลค่า ÷ จำนวนหุ้นใน 13F ของทุกกองทุนที่ถือหุ้นตัวนั้น ไม่ใช่ราคาปัจจุบัน
+          {shownShares.some((h) => h.shareType === "PRN") && " · PRN คือตราสารหนี้ แสดงเป็นมูลค่าเงินต้นแทนจำนวนหุ้น"}
+        </p>
       </section>
 
       {options.length > 0 && (
