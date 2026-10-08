@@ -8,15 +8,15 @@
   ],
   "totalValue": 195567932,
   "holdings": [
-    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":299685,"shareType":"SH","putCall":null,"value":52945349,"ticker":"IBKR","weight":0.270726},
-    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":611689,"shareType":"SH","putCall":null,"value":28779967,"ticker":"GIL","weight":0.147161},
-    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":21293,"shareType":"SH","putCall":null,"value":26984193,"ticker":"TDG","weight":0.137979},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":22502581,"ticker":"GOOG","weight":0.115063},
-    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":153930,"shareType":"SH","putCall":null,"value":17086230,"ticker":"NRP","weight":0.087367},
-    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC N","titleOfClass":"CL A","shares":38239,"shareType":"SH","putCall":null,"value":13107182,"ticker":"CHTR","weight":0.067021},
-    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":12685218,"ticker":"SGU","weight":0.064863},
-    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":65683,"shareType":"SH","putCall":null,"value":11072840,"ticker":"GWRE","weight":0.056619},
-    {"cusip":"50187T106","name":"LGI HOMES INC","titleOfClass":"COM","shares":116380,"shareType":"SH","putCall":null,"value":10404372,"ticker":"LGIH","weight":0.053201}
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":299685,"shareType":"SH","putCall":null,"value":52945349,"ticker":"IBKR","weight":0.270726,"price":176.67},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":611689,"shareType":"SH","putCall":null,"value":28779967,"ticker":"GIL","weight":0.147161,"price":47.05},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":21293,"shareType":"SH","putCall":null,"value":26984193,"ticker":"TDG","weight":0.137979,"price":1267.28},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":22502581,"ticker":"GOOG","weight":0.115063,"price":190.44},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":153930,"shareType":"SH","putCall":null,"value":17086230,"ticker":"NRP","weight":0.087367,"price":111},
+    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC N","titleOfClass":"CL A","shares":38239,"shareType":"SH","putCall":null,"value":13107182,"ticker":"CHTR","weight":0.067021,"price":342.77},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":12685218,"ticker":"SGU","weight":0.064863,"price":11.54},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":65683,"shareType":"SH","putCall":null,"value":11072840,"ticker":"GWRE","weight":0.056619,"price":168.58},
+    {"cusip":"50187T106","name":"LGI HOMES INC","titleOfClass":"COM","shares":116380,"shareType":"SH","putCall":null,"value":10404372,"ticker":"LGIH","weight":0.053201,"price":89.4}
   ],
   "changes": [
     {"cusip":"45841N107","ticker":"IBKR","name":"INTERACTIVE BROKERS GROUP IN","putCall":null,"action":"reduce","shares":299685,"prevShares":302647},

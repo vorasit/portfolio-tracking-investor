@@ -8,9 +8,9 @@
   ],
   "totalValue": 212013361,
   "holdings": [
-    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":272613,"shareType":"SH","putCall":null,"value":86598246,"ticker":"TSLA","weight":0.408457},
-    {"cusip":"67066G104","name":"NVIDIA CORP","titleOfClass":"COM","shares":537742,"shareType":"SH","putCall":null,"value":84957859,"ticker":"NVDA","weight":0.400719},
-    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":40457256,"ticker":"VST","weight":0.190824}
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":272613,"shareType":"SH","putCall":null,"value":86598246,"ticker":"TSLA","weight":0.408457,"price":317.66},
+    {"cusip":"67066G104","name":"NVIDIA CORP","titleOfClass":"COM","shares":537742,"shareType":"SH","putCall":null,"value":84957859,"ticker":"NVDA","weight":0.400719,"price":157.99},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":40457256,"ticker":"VST","weight":0.190824,"price":193.81}
   ],
   "changes": [
     {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"add","shares":272613,"prevShares":57180},

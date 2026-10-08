@@ -8,13 +8,13 @@
   ],
   "totalValue": 3116388059,
   "holdings": [
-    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":672186,"shareType":"SH","putCall":null,"value":803114389,"ticker":"FICO","weight":0.257707},
-    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1524036,"shareType":"SH","putCall":null,"value":620678901,"ticker":"SPGI","weight":0.199166},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317188,"shareType":"SH","putCall":null,"value":596580789,"ticker":"MCO","weight":0.191433},
-    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1065934,"shareType":"SH","putCall":null,"value":547463702,"ticker":"MA","weight":0.175673},
-    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":171083,"shareType":"SH","putCall":null,"value":340359364,"ticker":"ASML","weight":0.109216},
-    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":462978,"shareType":"SH","putCall":null,"value":158843122,"ticker":"V","weight":0.05097},
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":189072,"shareType":"SH","putCall":null,"value":49347792,"ticker":"INTU","weight":0.015835}
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":672186,"shareType":"SH","putCall":null,"value":803114389,"ticker":"FICO","weight":0.257707,"price":1194.78},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1524036,"shareType":"SH","putCall":null,"value":620678901,"ticker":"SPGI","weight":0.199166,"price":407.26},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317188,"shareType":"SH","putCall":null,"value":596580789,"ticker":"MCO","weight":0.191433,"price":452.92},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1065934,"shareType":"SH","putCall":null,"value":547463702,"ticker":"MA","weight":0.175673,"price":513.6},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":171083,"shareType":"SH","putCall":null,"value":340359364,"ticker":"ASML","weight":0.109216,"price":1989.44},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":462978,"shareType":"SH","putCall":null,"value":158843122,"ticker":"V","weight":0.05097,"price":343.09},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":189072,"shareType":"SH","putCall":null,"value":49347792,"ticker":"INTU","weight":0.015835,"price":261}
   ],
   "changes": [
     {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC CORP","putCall":null,"action":"reduce","shares":672186,"prevShares":769342},

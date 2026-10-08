@@ -8,10 +8,10 @@
   ],
   "totalValue": 234824008,
   "holdings": [
-    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799580,"shareType":"SH","putCall":null,"value":85875958,"ticker":"HCC","weight":0.365703},
-    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1427564,"shareType":"SH","putCall":null,"value":56046163,"ticker":"VAL","weight":0.238673},
-    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":414616,"shareType":"SH","putCall":null,"value":51930654,"ticker":"AMR","weight":0.221147},
-    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":1728744,"shareType":"SH","putCall":null,"value":40971233,"ticker":"NE","weight":0.174476}
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799580,"shareType":"SH","putCall":null,"value":85875958,"ticker":"HCC","weight":0.365703,"price":47.72},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1427564,"shareType":"SH","putCall":null,"value":56046163,"ticker":"VAL","weight":0.238673,"price":39.26},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":414616,"shareType":"SH","putCall":null,"value":51930654,"ticker":"AMR","weight":0.221147,"price":125.25},
+    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":1728744,"shareType":"SH","putCall":null,"value":40971233,"ticker":"NE","weight":0.174476,"price":23.7}
   ],
   "changes": [
     {"cusip":"G9460G101","ticker":"VAL","name":"VALARIS LTD","putCall":null,"action":"new","shares":1427564,"prevShares":0},

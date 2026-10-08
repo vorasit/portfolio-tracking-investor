@@ -9,17 +9,17 @@
   ],
   "totalValue": 1667513916,
   "holdings": [
-    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":4107424,"shareType":"SH","putCall":null,"value":299472284,"ticker":"MRCY","weight":0.179592},
-    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3565158,"shareType":"SH","putCall":null,"value":254908797,"ticker":"COO","weight":0.152868},
-    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":4435605,"shareType":"SH","putCall":null,"value":247506759,"ticker":"FISV","weight":0.148429},
-    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":343665,"shareType":"SH","putCall":null,"value":223499096,"ticker":"SPY","weight":0.134031},
-    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":211664915,"ticker":"LW","weight":0.126934},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":75307,"shareType":"SH","putCall":null,"value":144142869,"ticker":"MKL","weight":0.086442},
-    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":5431388,"shareType":"SH","putCall":null,"value":85109850,"ticker":"ALKT","weight":0.05104},
-    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":73060757,"ticker":"FUN","weight":0.043814},
-    {"cusip":"74624M102","name":"EVERPURE INC","titleOfClass":"CL A","shares":1042296,"shareType":"SH","putCall":null,"value":61537156,"ticker":"P","weight":0.036904},
-    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6743653,"shareType":"SH","putCall":null,"value":37157528,"ticker":"RPD","weight":0.022283},
-    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2090412,"shareType":"SH","putCall":null,"value":29453905,"ticker":null,"weight":0.017663}
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":4107424,"shareType":"SH","putCall":null,"value":299472284,"ticker":"MRCY","weight":0.179592,"price":72.91},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3565158,"shareType":"SH","putCall":null,"value":254908797,"ticker":"COO","weight":0.152868,"price":71.5},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":4435605,"shareType":"SH","putCall":null,"value":247506759,"ticker":"FISV","weight":0.148429,"price":55.8},
+    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":343665,"shareType":"SH","putCall":null,"value":223499096,"ticker":"SPY","weight":0.134031,"price":650.34},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":211664915,"ticker":"LW","weight":0.126934,"price":42.26},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":75307,"shareType":"SH","putCall":null,"value":144142869,"ticker":"MKL","weight":0.086442,"price":1914.07},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":5431388,"shareType":"SH","putCall":null,"value":85109850,"ticker":"ALKT","weight":0.05104,"price":15.67},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":73060757,"ticker":"FUN","weight":0.043814,"price":17.75},
+    {"cusip":"74624M102","name":"EVERPURE INC","titleOfClass":"CL A","shares":1042296,"shareType":"SH","putCall":null,"value":61537156,"ticker":"P","weight":0.036904,"price":59.04},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6743653,"shareType":"SH","putCall":null,"value":37157528,"ticker":"RPD","weight":0.022283,"price":5.51},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2090412,"shareType":"SH","putCall":null,"value":29453905,"ticker":null,"weight":0.017663,"price":14.09}
   ],
   "changes": [
     {"cusip":"74624M102","ticker":"P","name":"EVERPURE INC","putCall":null,"action":"new","shares":1042296,"prevShares":0},

@@ -8,16 +8,16 @@
   ],
   "totalValue": 1991086576,
   "holdings": [
-    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7232219,"shareType":"SH","putCall":null,"value":374990555,"ticker":"LW","weight":0.188335},
-    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6753413,"shareType":"SH","putCall":null,"value":363738824,"ticker":"MRCY","weight":0.182684},
-    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":513053,"shareType":"SH","putCall":null,"value":316989796,"ticker":"SPY","weight":0.159204},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":151432,"shareType":"SH","putCall":null,"value":302464220,"ticker":"MKL","weight":0.151909},
-    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":3608897,"shareType":"SH","putCall":null,"value":274203994,"ticker":"TRMB","weight":0.137716},
-    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":5729914,"shareType":"SH","putCall":null,"value":132532911,"ticker":"RPD","weight":0.066563},
-    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":5821337,"shareType":"SH","putCall":null,"value":113050365,"ticker":null,"weight":0.056778},
-    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":1006763,"shareType":"SH","putCall":null,"value":68419613,"ticker":"FRPT","weight":0.034363},
-    {"cusip":"96208T104","name":"WEX INC","titleOfClass":"COM","shares":164029,"shareType":"SH","putCall":null,"value":24094220,"ticker":"WEX","weight":0.012101},
-    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":20602078,"ticker":null,"weight":0.010347}
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7232219,"shareType":"SH","putCall":null,"value":374990555,"ticker":"LW","weight":0.188335,"price":51.85},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6753413,"shareType":"SH","putCall":null,"value":363738824,"ticker":"MRCY","weight":0.182684,"price":53.86},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":513053,"shareType":"SH","putCall":null,"value":316989796,"ticker":"SPY","weight":0.159204,"price":617.85},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":151432,"shareType":"SH","putCall":null,"value":302464220,"ticker":"MKL","weight":0.151909,"price":1997.36},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":3608897,"shareType":"SH","putCall":null,"value":274203994,"ticker":"TRMB","weight":0.137716,"price":75.98},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":5729914,"shareType":"SH","putCall":null,"value":132532911,"ticker":"RPD","weight":0.066563,"price":23.13},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":5821337,"shareType":"SH","putCall":null,"value":113050365,"ticker":null,"weight":0.056778,"price":19.42},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":1006763,"shareType":"SH","putCall":null,"value":68419613,"ticker":"FRPT","weight":0.034363,"price":67.96},
+    {"cusip":"96208T104","name":"WEX INC","titleOfClass":"COM","shares":164029,"shareType":"SH","putCall":null,"value":24094220,"ticker":"WEX","weight":0.012101,"price":146.89},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":20602078,"ticker":null,"weight":0.010347,"price":9.64}
   ],
   "changes": [
     {"cusip":"96208T104","ticker":"WEX","name":"WEX INC","putCall":null,"action":"new","shares":164029,"prevShares":0},

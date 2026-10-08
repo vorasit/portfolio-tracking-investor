@@ -8,15 +8,15 @@
   ],
   "totalValue": 4527265517,
   "holdings": [
-    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":768422,"shareType":"SH","putCall":null,"value":1404644679,"ticker":"FICO","weight":0.310263},
-    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1755098,"shareType":"SH","putCall":null,"value":925445624,"ticker":"SPGI","weight":0.204416},
-    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1484772,"shareType":"SH","putCall":null,"value":834352778,"ticker":"MA","weight":0.184295},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1314144,"shareType":"SH","putCall":null,"value":659161489,"ticker":"MCO","weight":0.145598},
-    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":912017,"shareType":"SH","putCall":null,"value":323811636,"ticker":"V","weight":0.071525},
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":263312,"shareType":"SH","putCall":null,"value":207392431,"ticker":"INTU","weight":0.04581},
-    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":125627,"shareType":"SH","putCall":null,"value":100676222,"ticker":"ASML","weight":0.022238},
-    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":144000,"shareType":"SH","putCall":null,"value":37349280,"ticker":"EFX","weight":0.00825},
-    {"cusip":"55354G100","name":"MSCI INC","titleOfClass":"COM","shares":59700,"shareType":"SH","putCall":null,"value":34431378,"ticker":"MSCI","weight":0.007605}
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":768422,"shareType":"SH","putCall":null,"value":1404644679,"ticker":"FICO","weight":0.310263,"price":1827.96},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1755098,"shareType":"SH","putCall":null,"value":925445624,"ticker":"SPGI","weight":0.204416,"price":527.29},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1484772,"shareType":"SH","putCall":null,"value":834352778,"ticker":"MA","weight":0.184295,"price":561.94},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1314144,"shareType":"SH","putCall":null,"value":659161489,"ticker":"MCO","weight":0.145598,"price":501.59},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":912017,"shareType":"SH","putCall":null,"value":323811636,"ticker":"V","weight":0.071525,"price":355.05},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":263312,"shareType":"SH","putCall":null,"value":207392431,"ticker":"INTU","weight":0.04581,"price":787.63},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":125627,"shareType":"SH","putCall":null,"value":100676222,"ticker":"ASML","weight":0.022238,"price":801.39},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":144000,"shareType":"SH","putCall":null,"value":37349280,"ticker":"EFX","weight":0.00825,"price":259.37},
+    {"cusip":"55354G100","name":"MSCI INC","titleOfClass":"COM","shares":59700,"shareType":"SH","putCall":null,"value":34431378,"ticker":"MSCI","weight":0.007605,"price":576.74}
   ],
   "changes": [
     {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"reduce","shares":263312,"prevShares":297360}

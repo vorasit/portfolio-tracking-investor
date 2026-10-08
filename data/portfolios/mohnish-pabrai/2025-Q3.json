@@ -8,11 +8,11 @@
   ],
   "totalValue": 336857377,
   "holdings": [
-    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799831,"shareType":"SH","putCall":null,"value":114541245,"ticker":"HCC","weight":0.340029},
-    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":532000,"shareType":"SH","putCall":null,"value":87295880,"ticker":"AMR","weight":0.259148},
-    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":24442332,"shareType":"SH","putCall":null,"value":76260076,"ticker":"RIG","weight":0.226387},
-    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1066255,"shareType":"SH","putCall":null,"value":52001256,"ticker":"VAL","weight":0.154372},
-    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":239000,"shareType":"SH","putCall":null,"value":6758920,"ticker":"NE","weight":0.020065}
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799831,"shareType":"SH","putCall":null,"value":114541245,"ticker":"HCC","weight":0.340029,"price":63.64},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":532000,"shareType":"SH","putCall":null,"value":87295880,"ticker":"AMR","weight":0.259148,"price":164.09},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":24442332,"shareType":"SH","putCall":null,"value":76260076,"ticker":"RIG","weight":0.226387,"price":3.12},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1066255,"shareType":"SH","putCall":null,"value":52001256,"ticker":"VAL","weight":0.154372,"price":48.77},
+    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":239000,"shareType":"SH","putCall":null,"value":6758920,"ticker":"NE","weight":0.020065,"price":28.28}
   ],
   "changes": [
     {"cusip":"H8817H100","ticker":"RIG","name":"TRANSOCEAN LTD","putCall":null,"action":"new","shares":24442332,"prevShares":0},

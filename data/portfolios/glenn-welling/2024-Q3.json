@@ -8,15 +8,15 @@
   ],
   "totalValue": 616544212,
   "holdings": [
-    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":3989468,"shareType":"SH","putCall":null,"value":112822155,"ticker":"EVH","weight":0.182991},
-    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5341368,"shareType":"SH","putCall":null,"value":106560292,"ticker":"VFC","weight":0.172835},
-    {"cusip":"62886E108","name":"NCR VOYIX CORPORATION","titleOfClass":"COM","shares":7171029,"shareType":"SH","putCall":null,"value":97310864,"ticker":"VYX","weight":0.157833},
-    {"cusip":"63001N106","name":"NCR ATLEOS CORPORATION","titleOfClass":"COM SHS","shares":3008223,"shareType":"SH","putCall":null,"value":85824602,"ticker":"NATL","weight":0.139203},
-    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":6114956,"shareType":"SH","putCall":null,"value":82368457,"ticker":"PTLO","weight":0.133597},
-    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13535560,"shareType":"SH","putCall":null,"value":46291615,"ticker":null,"weight":0.075082},
-    {"cusip":"69354N106","name":"PRA GROUP INC","titleOfClass":"COM","shares":1703512,"shareType":"SH","putCall":null,"value":38090528,"ticker":"PRAA","weight":0.061781},
-    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":609713,"shareType":"SH","putCall":null,"value":33619575,"ticker":"BL","weight":0.054529},
-    {"cusip":"64157F103","name":"NEVRO CORP","titleOfClass":"COM","shares":2442956,"shareType":"SH","putCall":null,"value":13656124,"ticker":null,"weight":0.022149}
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":3989468,"shareType":"SH","putCall":null,"value":112822155,"ticker":"EVH","weight":0.182991,"price":28.28},
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5341368,"shareType":"SH","putCall":null,"value":106560292,"ticker":"VFC","weight":0.172835,"price":19.95},
+    {"cusip":"62886E108","name":"NCR VOYIX CORPORATION","titleOfClass":"COM","shares":7171029,"shareType":"SH","putCall":null,"value":97310864,"ticker":"VYX","weight":0.157833,"price":13.57},
+    {"cusip":"63001N106","name":"NCR ATLEOS CORPORATION","titleOfClass":"COM SHS","shares":3008223,"shareType":"SH","putCall":null,"value":85824602,"ticker":"NATL","weight":0.139203,"price":28.53},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":6114956,"shareType":"SH","putCall":null,"value":82368457,"ticker":"PTLO","weight":0.133597,"price":13.47},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13535560,"shareType":"SH","putCall":null,"value":46291615,"ticker":null,"weight":0.075082,"price":3.42},
+    {"cusip":"69354N106","name":"PRA GROUP INC","titleOfClass":"COM","shares":1703512,"shareType":"SH","putCall":null,"value":38090528,"ticker":"PRAA","weight":0.061781,"price":22.36},
+    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":609713,"shareType":"SH","putCall":null,"value":33619575,"ticker":"BL","weight":0.054529,"price":55.14},
+    {"cusip":"64157F103","name":"NEVRO CORP","titleOfClass":"COM","shares":2442956,"shareType":"SH","putCall":null,"value":13656124,"ticker":null,"weight":0.022149,"price":5.59}
   ],
   "changes": null
 }

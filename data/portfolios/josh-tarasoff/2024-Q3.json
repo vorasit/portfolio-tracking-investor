@@ -8,15 +8,15 @@
   ],
   "totalValue": 329506644,
   "holdings": [
-    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":374300,"shareType":"SH","putCall":null,"value":69743319,"ticker":"AMZN","weight":0.21166},
-    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":1036115,"shareType":"SH","putCall":null,"value":55069512,"ticker":"BN","weight":0.167127},
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":71,"shareType":"SH","putCall":null,"value":49073780,"ticker":"BRK.A","weight":0.148931},
-    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":1087910,"shareType":"SH","putCall":null,"value":45670462,"ticker":"TRUP","weight":0.138603},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":22470,"shareType":"SH","putCall":null,"value":35245993,"ticker":"MKL","weight":0.106966},
-    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":97270,"shareType":"SH","putCall":null,"value":25448750,"ticker":"TSLA","weight":0.077233},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":111520,"shareType":"SH","putCall":null,"value":18495592,"ticker":"GOOGL","weight":0.056131},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":39350,"shareType":"SH","putCall":null,"value":16932305,"ticker":"MSFT","weight":0.051387},
-    {"cusip":"G17977110","name":"BURFORD CAP LTD","titleOfClass":"ORD SHS","shares":1042755,"shareType":"SH","putCall":null,"value":13826931,"ticker":"BUR","weight":0.041963}
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":374300,"shareType":"SH","putCall":null,"value":69743319,"ticker":"AMZN","weight":0.21166,"price":186.33},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":1036115,"shareType":"SH","putCall":null,"value":55069512,"ticker":"BN","weight":0.167127,"price":53.15},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":71,"shareType":"SH","putCall":null,"value":49073780,"ticker":"BRK.A","weight":0.148931,"price":691180},
+    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":1087910,"shareType":"SH","putCall":null,"value":45670462,"ticker":"TRUP","weight":0.138603,"price":41.98},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":22470,"shareType":"SH","putCall":null,"value":35245993,"ticker":"MKL","weight":0.106966,"price":1568.58},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":97270,"shareType":"SH","putCall":null,"value":25448750,"ticker":"TSLA","weight":0.077233,"price":261.63},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":111520,"shareType":"SH","putCall":null,"value":18495592,"ticker":"GOOGL","weight":0.056131,"price":165.85},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":39350,"shareType":"SH","putCall":null,"value":16932305,"ticker":"MSFT","weight":0.051387,"price":430.3},
+    {"cusip":"G17977110","name":"BURFORD CAP LTD","titleOfClass":"ORD SHS","shares":1042755,"shareType":"SH","putCall":null,"value":13826931,"ticker":"BUR","weight":0.041963,"price":13.26}
   ],
   "changes": null
 }

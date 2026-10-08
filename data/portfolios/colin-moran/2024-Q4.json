@@ -8,13 +8,13 @@
   ],
   "totalValue": 1622875999,
   "holdings": [
-    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":5079371,"shareType":"SH","putCall":null,"value":430273517,"ticker":"BILL","weight":0.26513},
-    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10179538,"shareType":"SH","putCall":null,"value":335721163,"ticker":"APPN","weight":0.206868},
-    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":3915413,"shareType":"SH","putCall":null,"value":213507471,"ticker":"GLBE","weight":0.131561},
-    {"cusip":"443573100","name":"HUBSPOT INC","titleOfClass":"COM","shares":295789,"shareType":"SH","putCall":null,"value":206096902,"ticker":"HUBS","weight":0.126995},
-    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1727731,"shareType":"SH","putCall":null,"value":172254781,"ticker":"FND","weight":0.106142},
-    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3829470,"shareType":"SH","putCall":null,"value":139584182,"ticker":"TOST","weight":0.08601},
-    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":2059737,"shareType":"SH","putCall":null,"value":125437983,"ticker":"AFRM","weight":0.077294}
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":5079371,"shareType":"SH","putCall":null,"value":430273517,"ticker":"BILL","weight":0.26513,"price":84.71},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10179538,"shareType":"SH","putCall":null,"value":335721163,"ticker":"APPN","weight":0.206868,"price":32.98},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":3915413,"shareType":"SH","putCall":null,"value":213507471,"ticker":"GLBE","weight":0.131561,"price":54.53},
+    {"cusip":"443573100","name":"HUBSPOT INC","titleOfClass":"COM","shares":295789,"shareType":"SH","putCall":null,"value":206096902,"ticker":"HUBS","weight":0.126995,"price":696.77},
+    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1727731,"shareType":"SH","putCall":null,"value":172254781,"ticker":"FND","weight":0.106142,"price":99.7},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3829470,"shareType":"SH","putCall":null,"value":139584182,"ticker":"TOST","weight":0.08601,"price":36.45},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":2059737,"shareType":"SH","putCall":null,"value":125437983,"ticker":"AFRM","weight":0.077294,"price":60.9}
   ],
   "changes": [
     {"cusip":"03782L101","ticker":"APPN","name":"APPIAN CORP","putCall":null,"action":"add","shares":10179538,"prevShares":10169273},

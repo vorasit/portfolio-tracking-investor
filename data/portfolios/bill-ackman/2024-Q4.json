@@ -9,17 +9,17 @@
   ],
   "totalValue": 12661093451,
   "holdings": [
-    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":34893064,"shareType":"SH","putCall":null,"value":2004606527,"ticker":"BN","weight":0.158328},
-    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1499199575,"ticker":"QSR","weight":0.11841},
-    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":24653533,"shareType":"SH","putCall":null,"value":1486608040,"ticker":"CMG","weight":0.117415},
-    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1450100763,"ticker":"HHH","weight":0.114532},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7547582,"shareType":"SH","putCall":null,"value":1437361516,"ticker":"GOOG","weight":0.113526},
-    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":18768946,"shareType":"SH","putCall":null,"value":1420246144,"ticker":"NKE","weight":0.112174},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":5440546,"shareType":"SH","putCall":null,"value":1344685349,"ticker":"HLT","weight":0.106206},
-    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14877651,"shareType":"SH","putCall":null,"value":1076695603,"ticker":"CP","weight":0.08504},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":3986488,"shareType":"SH","putCall":null,"value":754642178,"ticker":"GOOGL","weight":0.059603},
-    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":140414651,"ticker":"SEG","weight":0.01109},
-    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":12713963,"shareType":"SH","putCall":null,"value":46533105,"ticker":"HTZ","weight":0.003675}
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":34893064,"shareType":"SH","putCall":null,"value":2004606527,"ticker":"BN","weight":0.158328,"price":57.45},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1499199575,"ticker":"QSR","weight":0.11841,"price":65.18},
+    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":24653533,"shareType":"SH","putCall":null,"value":1486608040,"ticker":"CMG","weight":0.117415,"price":60.3},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1450100763,"ticker":"HHH","weight":0.114532,"price":76.92},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7547582,"shareType":"SH","putCall":null,"value":1437361516,"ticker":"GOOG","weight":0.113526,"price":190.44},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":18768946,"shareType":"SH","putCall":null,"value":1420246144,"ticker":"NKE","weight":0.112174,"price":75.67},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":5440546,"shareType":"SH","putCall":null,"value":1344685349,"ticker":"HLT","weight":0.106206,"price":247.16},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14877651,"shareType":"SH","putCall":null,"value":1076695603,"ticker":"CP","weight":0.08504,"price":72.37},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":3986488,"shareType":"SH","putCall":null,"value":754642178,"ticker":"GOOGL","weight":0.059603,"price":189.3},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":140414651,"ticker":"SEG","weight":0.01109,"price":27.95},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":12713963,"shareType":"SH","putCall":null,"value":46533105,"ticker":"HTZ","weight":0.003675,"price":3.66}
   ],
   "changes": [
     {"cusip":"42806J700","ticker":"HTZ","name":"HERTZ GLOBAL HLDGS INC","putCall":null,"action":"new","shares":12713963,"prevShares":0},

@@ -8,17 +8,17 @@
   ],
   "totalValue": 672601603,
   "holdings": [
-    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":1251374,"shareType":"SH","putCall":null,"value":96856348,"ticker":"FOUR","weight":0.144003},
-    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":990486,"shareType":"SH","putCall":null,"value":90827566,"ticker":"OKTA","weight":0.135039},
-    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1077913,"shareType":"SH","putCall":null,"value":78601416,"ticker":"PCOR","weight":0.116862},
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":114369,"shareType":"SH","putCall":null,"value":78103734,"ticker":"INTU","weight":0.116122},
-    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":896034,"shareType":"SH","putCall":null,"value":75598389,"ticker":"CSGP","weight":0.112397},
-    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":374221,"shareType":"SH","putCall":null,"value":72482865,"ticker":"MNDY","weight":0.107765},
-    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":1848244,"shareType":"SH","putCall":null,"value":52564059,"ticker":"BRZE","weight":0.07815},
-    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":1553659,"shareType":"SH","putCall":null,"value":42119695,"ticker":"NCNO","weight":0.062622},
-    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":9840605,"shareType":"SH","putCall":null,"value":35918208,"ticker":"BLND","weight":0.053402},
-    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":1081446,"shareType":"SH","putCall":null,"value":26809046,"ticker":"VERX","weight":0.039859},
-    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY ONE S C","shares":217523,"shareType":"SH","putCall":null,"value":22720277,"ticker":"FWONK","weight":0.03378}
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":1251374,"shareType":"SH","putCall":null,"value":96856348,"ticker":"FOUR","weight":0.144003,"price":77.4},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":990486,"shareType":"SH","putCall":null,"value":90827566,"ticker":"OKTA","weight":0.135039,"price":91.7},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1077913,"shareType":"SH","putCall":null,"value":78601416,"ticker":"PCOR","weight":0.116862,"price":72.92},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":114369,"shareType":"SH","putCall":null,"value":78103734,"ticker":"INTU","weight":0.116122,"price":682.91},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":896034,"shareType":"SH","putCall":null,"value":75598389,"ticker":"CSGP","weight":0.112397,"price":84.37},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":374221,"shareType":"SH","putCall":null,"value":72482865,"ticker":"MNDY","weight":0.107765,"price":193.69},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":1848244,"shareType":"SH","putCall":null,"value":52564059,"ticker":"BRZE","weight":0.07815,"price":28.44},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":1553659,"shareType":"SH","putCall":null,"value":42119695,"ticker":"NCNO","weight":0.062622,"price":27.11},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":9840605,"shareType":"SH","putCall":null,"value":35918208,"ticker":"BLND","weight":0.053402,"price":3.65},
+    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":1081446,"shareType":"SH","putCall":null,"value":26809046,"ticker":"VERX","weight":0.039859,"price":24.79},
+    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY ONE S C","shares":217523,"shareType":"SH","putCall":null,"value":22720277,"ticker":"FWONK","weight":0.03378,"price":104.45}
   ],
   "changes": [
     {"cusip":"531229755","ticker":"FWONK","name":"LIBERTY MEDIA CORP DEL","putCall":null,"action":"new","shares":217523,"prevShares":0},

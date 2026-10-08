@@ -8,13 +8,13 @@
   ],
   "totalValue": 144091000,
   "holdings": [
-    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":97600,"shareType":"SH","putCall":null,"value":48838000,"ticker":"BRK.B","weight":0.338939},
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":30,"shareType":"SH","putCall":null,"value":22466000,"ticker":"BRK.A","weight":0.155915},
-    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":21986000,"ticker":"AXP","weight":0.152584},
-    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":40000,"shareType":"SH","putCall":null,"value":20544000,"ticker":"MA","weight":0.142577},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":27000,"shareType":"SH","putCall":null,"value":12229000,"ticker":"MCO","weight":0.08487},
-    {"cusip":"N3167Y103","name":"FERRARI N V","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":11114000,"ticker":"RACE","weight":0.077132},
-    {"cusip":"233912104","name":"DAILY JOURNAL CORP","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":6914000,"ticker":"DJCO","weight":0.047984}
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":97600,"shareType":"SH","putCall":null,"value":48838000,"ticker":"BRK.B","weight":0.338939,"price":500.39},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":30,"shareType":"SH","putCall":null,"value":22466000,"ticker":"BRK.A","weight":0.155915,"price":748850},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":21986000,"ticker":"AXP","weight":0.152584,"price":338.25},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":40000,"shareType":"SH","putCall":null,"value":20544000,"ticker":"MA","weight":0.142577,"price":513.6},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":27000,"shareType":"SH","putCall":null,"value":12229000,"ticker":"MCO","weight":0.08487,"price":452.92},
+    {"cusip":"N3167Y103","name":"FERRARI N V","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":11114000,"ticker":"RACE","weight":0.077132,"price":372.29},
+    {"cusip":"233912104","name":"DAILY JOURNAL CORP","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":6914000,"ticker":"DJCO","weight":0.047984,"price":601.19}
   ],
   "changes": []
 }

@@ -8,16 +8,16 @@
   ],
   "totalValue": 1902301416,
   "holdings": [
-    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":3958849,"shareType":"SH","putCall":null,"value":484285998,"ticker":"MRCY","weight":0.254579},
-    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3582480,"shareType":"SH","putCall":null,"value":256899641,"ticker":"COO","weight":0.135047},
-    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":342965,"shareType":"SH","putCall":null,"value":256115973,"ticker":"SPY","weight":0.134635},
-    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5394635,"shareType":"SH","putCall":null,"value":232940339,"ticker":"LW","weight":0.122452},
-    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":3662080,"shareType":"SH","putCall":null,"value":179625024,"ticker":"FISV","weight":0.094425},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":76743,"shareType":"SH","putCall":null,"value":149879846,"ticker":"MKL","weight":0.078789},
-    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":6747707,"shareType":"SH","putCall":null,"value":122268451,"ticker":"ALKT","weight":0.064274},
-    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":87672909,"ticker":"FUN","weight":0.046088},
-    {"cusip":"74624M102","name":"EVERPURE INC","titleOfClass":"CL A","shares":989196,"shareType":"SH","putCall":null,"value":77938753,"ticker":"P","weight":0.040971},
-    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6749936,"shareType":"SH","putCall":null,"value":54674482,"ticker":"RPD","weight":0.028741}
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":3958849,"shareType":"SH","putCall":null,"value":484285998,"ticker":"MRCY","weight":0.254579,"price":122.33},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3582480,"shareType":"SH","putCall":null,"value":256899641,"ticker":"COO","weight":0.135047,"price":71.71},
+    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":342965,"shareType":"SH","putCall":null,"value":256115973,"ticker":"SPY","weight":0.134635,"price":746.77},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5394635,"shareType":"SH","putCall":null,"value":232940339,"ticker":"LW","weight":0.122452,"price":43.18},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":3662080,"shareType":"SH","putCall":null,"value":179625024,"ticker":"FISV","weight":0.094425,"price":49.05},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":76743,"shareType":"SH","putCall":null,"value":149879846,"ticker":"MKL","weight":0.078789,"price":1953.01},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":6747707,"shareType":"SH","putCall":null,"value":122268451,"ticker":"ALKT","weight":0.064274,"price":18.12},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":87672909,"ticker":"FUN","weight":0.046088,"price":21.3},
+    {"cusip":"74624M102","name":"EVERPURE INC","titleOfClass":"CL A","shares":989196,"shareType":"SH","putCall":null,"value":77938753,"ticker":"P","weight":0.040971,"price":78.79},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6749936,"shareType":"SH","putCall":null,"value":54674482,"ticker":"RPD","weight":0.028741,"price":8.1}
   ],
   "changes": [
     {"cusip":"216648501","ticker":"COO","name":"COOPER COS INC","putCall":null,"action":"add","shares":3582480,"prevShares":3565158},

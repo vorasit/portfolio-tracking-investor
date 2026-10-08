@@ -8,14 +8,14 @@
   ],
   "totalValue": 2575691752,
   "holdings": [
-    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1340020,"shareType":"SH","putCall":null,"value":719523739,"ticker":"MDGL","weight":0.279352},
-    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":671529927,"ticker":"PPTA","weight":0.260718},
-    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":5843282,"shareType":"SH","putCall":null,"value":417911529,"ticker":"AAMI","weight":0.162252},
-    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":361151434,"ticker":"BHC","weight":0.140215},
-    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":104486703,"shareType":"SH","putCall":null,"value":207928539,"ticker":"THM","weight":0.080727},
-    {"cusip":"66987E206","name":"NOVAGOLD RESOURCES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":162611224,"ticker":"NG","weight":0.063133},
-    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":8443835,"shareType":"SH","putCall":null,"value":33268710,"ticker":"THRY","weight":0.012916},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":5000,"shareType":"SH","putCall":null,"value":1766650,"ticker":"GOOGL","weight":0.000686}
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1340020,"shareType":"SH","putCall":null,"value":719523739,"ticker":"MDGL","weight":0.279352,"price":536.95},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":671529927,"ticker":"PPTA","weight":0.260718,"price":20.76},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":5843282,"shareType":"SH","putCall":null,"value":417911529,"ticker":"AAMI","weight":0.162252,"price":71.52},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":361151434,"ticker":"BHC","weight":0.140215,"price":4.93},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":104486703,"shareType":"SH","putCall":null,"value":207928539,"ticker":"THM","weight":0.080727,"price":1.99},
+    {"cusip":"66987E206","name":"NOVAGOLD RESOURCES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":162611224,"ticker":"NG","weight":0.063133,"price":5.97},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":8443835,"shareType":"SH","putCall":null,"value":33268710,"ticker":"THRY","weight":0.012916,"price":3.94},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":5000,"shareType":"SH","putCall":null,"value":1766650,"ticker":"GOOGL","weight":0.000686,"price":357.37}
   ],
   "changes": [
     {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"new","shares":5000,"prevShares":0},

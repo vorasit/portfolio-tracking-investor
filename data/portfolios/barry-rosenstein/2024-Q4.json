@@ -8,17 +8,17 @@
   ],
   "totalValue": 1913992995,
   "holdings": [
-    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7131339,"shareType":"SH","putCall":null,"value":476587385,"ticker":"LW","weight":0.249002},
-    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":4178088,"shareType":"SH","putCall":null,"value":295223698,"ticker":"TRMB","weight":0.154245},
-    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":291545730,"ticker":"MRCY","weight":0.152323},
-    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":429263,"shareType":"SH","putCall":null,"value":251582459,"ticker":"SPY","weight":0.131444},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":108926,"shareType":"SH","putCall":null,"value":188031329,"ticker":"MKL","weight":0.09824},
-    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":172521674,"ticker":null,"weight":0.090137},
-    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":3690129,"shareType":"SH","putCall":null,"value":148453890,"ticker":"RPD","weight":0.077562},
-    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":69000,"shareType":"SH","putCall":"Call","value":119109870,"ticker":"MKL","weight":null},
-    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":40134209,"ticker":"FIS","weight":0.020969},
-    {"cusip":"977852102","name":"WOLFSPEED INC","titleOfClass":"COM","shares":4988216,"shareType":"SH","putCall":null,"value":33221519,"ticker":null,"weight":0.017357},
-    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":16691102,"ticker":null,"weight":0.008721}
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7131339,"shareType":"SH","putCall":null,"value":476587385,"ticker":"LW","weight":0.249002,"price":66.83},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":4178088,"shareType":"SH","putCall":null,"value":295223698,"ticker":"TRMB","weight":0.154245,"price":70.66},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":291545730,"ticker":"MRCY","weight":0.152323,"price":42},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":429263,"shareType":"SH","putCall":null,"value":251582459,"ticker":"SPY","weight":0.131444,"price":586.08},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":108926,"shareType":"SH","putCall":null,"value":188031329,"ticker":"MKL","weight":0.09824,"price":1726.23},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":172521674,"ticker":null,"weight":0.090137,"price":35.13},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":3690129,"shareType":"SH","putCall":null,"value":148453890,"ticker":"RPD","weight":0.077562,"price":40.23},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":69000,"shareType":"SH","putCall":"Call","value":119109870,"ticker":"MKL","weight":null,"price":null},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":40134209,"ticker":"FIS","weight":0.020969,"price":80.77},
+    {"cusip":"977852102","name":"WOLFSPEED INC","titleOfClass":"COM","shares":4988216,"shareType":"SH","putCall":null,"value":33221519,"ticker":null,"weight":0.017357,"price":6.66},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":16691102,"ticker":null,"weight":0.008721,"price":7.81}
   ],
   "changes": [
     {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"new","shares":108926,"prevShares":0},

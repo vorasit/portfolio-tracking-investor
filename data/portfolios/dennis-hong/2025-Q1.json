@@ -8,16 +8,16 @@
   ],
   "totalValue": 727737175,
   "holdings": [
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":166936,"shareType":"SH","putCall":null,"value":102497035,"ticker":"INTU","weight":0.140843},
-    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":3651918,"shareType":"SH","putCall":null,"value":100318187,"ticker":"NCNO","weight":0.137849},
-    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1437331,"shareType":"SH","putCall":null,"value":94892593,"ticker":"PCOR","weight":0.130394},
-    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":378711,"shareType":"SH","putCall":null,"value":92087367,"ticker":"MNDY","weight":0.126539},
-    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":1148302,"shareType":"SH","putCall":null,"value":90979967,"ticker":"CSGP","weight":0.125018},
-    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":2373386,"shareType":"SH","putCall":null,"value":85631767,"ticker":"BRZE","weight":0.117669},
-    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":898874,"shareType":"SH","putCall":null,"value":73446995,"ticker":"FOUR","weight":0.100925},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":179612,"shareType":"SH","putCall":null,"value":40870711,"ticker":"HLT","weight":0.056161},
-    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":8911039,"shareType":"SH","putCall":null,"value":29851981,"ticker":"BLND","weight":0.04102},
-    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":490162,"shareType":"SH","putCall":null,"value":17160572,"ticker":"VERX","weight":0.023581}
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":166936,"shareType":"SH","putCall":null,"value":102497035,"ticker":"INTU","weight":0.140843,"price":613.99},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":3651918,"shareType":"SH","putCall":null,"value":100318187,"ticker":"NCNO","weight":0.137849,"price":27.47},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1437331,"shareType":"SH","putCall":null,"value":94892593,"ticker":"PCOR","weight":0.130394,"price":66.02},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":378711,"shareType":"SH","putCall":null,"value":92087367,"ticker":"MNDY","weight":0.126539,"price":243.16},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":1148302,"shareType":"SH","putCall":null,"value":90979967,"ticker":"CSGP","weight":0.125018,"price":79.23},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":2373386,"shareType":"SH","putCall":null,"value":85631767,"ticker":"BRZE","weight":0.117669,"price":36.08},
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":898874,"shareType":"SH","putCall":null,"value":73446995,"ticker":"FOUR","weight":0.100925,"price":81.71},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":179612,"shareType":"SH","putCall":null,"value":40870711,"ticker":"HLT","weight":0.056161,"price":227.55},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":8911039,"shareType":"SH","putCall":null,"value":29851981,"ticker":"BLND","weight":0.04102,"price":3.35},
+    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":490162,"shareType":"SH","putCall":null,"value":17160572,"ticker":"VERX","weight":0.023581,"price":35.01}
   ],
   "changes": [
     {"cusip":"92538J106","ticker":"VERX","name":"VERTEX INC","putCall":null,"action":"new","shares":490162,"prevShares":0},

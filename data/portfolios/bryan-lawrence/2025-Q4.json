@@ -8,14 +8,14 @@
   ],
   "totalValue": 233248030,
   "holdings": [
-    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":66286889,"ticker":"IBKR","weight":0.284191},
-    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":42578295,"ticker":"GIL","weight":0.182545},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":37078922,"ticker":"GOOG","weight":0.158968},
-    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":32142475,"ticker":"TDG","weight":0.137804},
-    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":83183,"shareType":"SH","putCall":null,"value":16720615,"ticker":"GWRE","weight":0.071686},
-    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":127351,"shareType":"SH","putCall":null,"value":13295444,"ticker":"NRP","weight":0.057001},
-    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":13014990,"ticker":"SGU","weight":0.055799},
-    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":12130400,"ticker":"LEN","weight":0.052006}
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":66286889,"ticker":"IBKR","weight":0.284191,"price":64.31},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":42578295,"ticker":"GIL","weight":0.182545,"price":62.46},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":37078922,"ticker":"GOOG","weight":0.158968,"price":313.8},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":32142475,"ticker":"TDG","weight":0.137804,"price":1329.85},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":83183,"shareType":"SH","putCall":null,"value":16720615,"ticker":"GWRE","weight":0.071686,"price":201.01},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":127351,"shareType":"SH","putCall":null,"value":13295444,"ticker":"NRP","weight":0.057001,"price":104.4},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":13014990,"ticker":"SGU","weight":0.055799,"price":11.84},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":12130400,"ticker":"LEN","weight":0.052006,"price":102.8}
   ],
   "changes": [
     {"cusip":"40171V100","ticker":"GWRE","name":"GUIDEWIRE SOFTWARE INC","putCall":null,"action":"add","shares":83183,"prevShares":65683},

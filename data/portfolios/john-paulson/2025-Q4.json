@@ -8,15 +8,15 @@
   ],
   "totalValue": 3261997206,
   "holdings": [
-    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1707522,"shareType":"SH","putCall":null,"value":994358361,"ticker":"MDGL","weight":0.304831},
-    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":783128109,"ticker":"PPTA","weight":0.240076},
-    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":509128290,"ticker":"BHC","weight":0.156079},
-    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":363934254,"ticker":"AAMI","weight":0.111568},
-    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":253858728,"ticker":"NG","weight":0.077823},
-    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":132837096,"ticker":"AEM","weight":0.040723},
-    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":130645262,"ticker":"THM","weight":0.040051},
-    {"cusip":"83443Q103","name":"SOLSTICE ADVANCED MATLS INC","titleOfClass":"COM SHS","shares":1395787,"shareType":"SH","putCall":null,"value":67807332,"ticker":"SOLS","weight":0.020787},
-    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4347070,"shareType":"SH","putCall":null,"value":26299774,"ticker":"THRY","weight":0.008062}
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1707522,"shareType":"SH","putCall":null,"value":994358361,"ticker":"MDGL","weight":0.304831,"price":582.34},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":783128109,"ticker":"PPTA","weight":0.240076,"price":24.21},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":509128290,"ticker":"BHC","weight":0.156079,"price":6.95},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":363934254,"ticker":"AAMI","weight":0.111568,"price":47},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":253858728,"ticker":"NG","weight":0.077823,"price":9.32},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":132837096,"ticker":"AEM","weight":0.040723,"price":169.53},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":130645262,"ticker":"THM","weight":0.040051,"price":1.85999},
+    {"cusip":"83443Q103","name":"SOLSTICE ADVANCED MATLS INC","titleOfClass":"COM SHS","shares":1395787,"shareType":"SH","putCall":null,"value":67807332,"ticker":"SOLS","weight":0.020787,"price":48.58},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4347070,"shareType":"SH","putCall":null,"value":26299774,"ticker":"THRY","weight":0.008062,"price":6.05}
   ],
   "changes": [
     {"cusip":"83443Q103","ticker":"SOLS","name":"SOLSTICE ADVANCED MATLS INC","putCall":null,"action":"new","shares":1395787,"prevShares":0},

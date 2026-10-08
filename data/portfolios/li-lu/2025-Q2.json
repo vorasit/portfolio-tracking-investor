@@ -8,15 +8,15 @@
   ],
   "totalValue": 2689202442,
   "holdings": [
-    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":10431387,"shareType":"SH","putCall":null,"value":493613233,"ticker":"BAC","weight":0.183554},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":482273280,"ticker":"PDD","weight":0.179337},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":448205759,"ticker":"GOOGL","weight":0.166669},
-    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":436099532,"ticker":"BRK.B","weight":0.162167},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":434836107,"ticker":"GOOG","weight":0.161697},
-    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":280355924,"ticker":"EWBC","weight":0.104252},
-    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":61607665,"ticker":"OXY","weight":0.022909},
-    {"cusip":"78574H104","name":"SABLE OFFSHORE CORP","titleOfClass":"COM","shares":1343000,"shareType":"SH","putCall":null,"value":29519140,"ticker":"SOC","weight":0.010977},
-    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":22691802,"ticker":"AAPL","weight":0.008438}
+    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":10431387,"shareType":"SH","putCall":null,"value":493613233,"ticker":"BAC","weight":0.183554,"price":47.32},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":482273280,"ticker":"PDD","weight":0.179337,"price":104.66},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":448205759,"ticker":"GOOGL","weight":0.166669,"price":176.23},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":436099532,"ticker":"BRK.B","weight":0.162167,"price":485.77},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":434836107,"ticker":"GOOG","weight":0.161697,"price":177.39},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":280355924,"ticker":"EWBC","weight":0.104252,"price":100.98},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":61607665,"ticker":"OXY","weight":0.022909,"price":42.01},
+    {"cusip":"78574H104","name":"SABLE OFFSHORE CORP","titleOfClass":"COM","shares":1343000,"shareType":"SH","putCall":null,"value":29519140,"ticker":"SOC","weight":0.010977,"price":21.98},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":22691802,"ticker":"AAPL","weight":0.008438,"price":205.17}
   ],
   "changes": [
     {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"new","shares":4608000,"prevShares":0},

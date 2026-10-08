@@ -8,15 +8,15 @@
   ],
   "totalValue": 1112595766,
   "holdings": [
-    {"cusip":"235851102","name":"DANAHER CORP","titleOfClass":"COM","shares":860850,"shareType":"SH","putCall":null,"value":170672121,"ticker":"DHR","weight":0.1534},
-    {"cusip":"N07059210","name":"ASML HOLDING N.V.","titleOfClass":"N Y REGISTRY SHS","shares":173226,"shareType":"SH","putCall":null,"value":167698358,"ticker":"ASML","weight":0.150727},
-    {"cusip":"N00985106","name":"AERCAP","titleOfClass":"SHS","shares":1263998,"shareType":"SH","putCall":null,"value":152943758,"ticker":"AER","weight":0.137466},
-    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":192224,"shareType":"SH","putCall":null,"value":141165461,"ticker":"META","weight":0.126879},
-    {"cusip":"053332102","name":"AUTOZONE","titleOfClass":"COM","shares":29878,"shareType":"SH","putCall":null,"value":128183791,"ticker":"AZO","weight":0.115211},
-    {"cusip":"02079K107","name":"ALPHABET INC CLASS C","titleOfClass":"CAP STK CL C","shares":429318,"shareType":"SH","putCall":null,"value":104560399,"ticker":"GOOG","weight":0.093979},
-    {"cusip":"09857L108","name":"BOOKING HOLDINGS","titleOfClass":"COM","shares":16975,"shareType":"SH","putCall":null,"value":91652608,"ticker":"BKNG","weight":0.082377},
-    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2350449,"shareType":"SH","putCall":null,"value":82923841,"ticker":"RPRX","weight":0.074532},
-    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2399322,"shareType":"SH","putCall":null,"value":72795429,"ticker":"ENOV","weight":0.065428}
+    {"cusip":"235851102","name":"DANAHER CORP","titleOfClass":"COM","shares":860850,"shareType":"SH","putCall":null,"value":170672121,"ticker":"DHR","weight":0.1534,"price":198.26},
+    {"cusip":"N07059210","name":"ASML HOLDING N.V.","titleOfClass":"N Y REGISTRY SHS","shares":173226,"shareType":"SH","putCall":null,"value":167698358,"ticker":"ASML","weight":0.150727,"price":968.09},
+    {"cusip":"N00985106","name":"AERCAP","titleOfClass":"SHS","shares":1263998,"shareType":"SH","putCall":null,"value":152943758,"ticker":"AER","weight":0.137466,"price":121},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":192224,"shareType":"SH","putCall":null,"value":141165461,"ticker":"META","weight":0.126879,"price":734.38},
+    {"cusip":"053332102","name":"AUTOZONE","titleOfClass":"COM","shares":29878,"shareType":"SH","putCall":null,"value":128183791,"ticker":"AZO","weight":0.115211,"price":4290.24},
+    {"cusip":"02079K107","name":"ALPHABET INC CLASS C","titleOfClass":"CAP STK CL C","shares":429318,"shareType":"SH","putCall":null,"value":104560399,"ticker":"GOOG","weight":0.093979,"price":243.55},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS","titleOfClass":"COM","shares":16975,"shareType":"SH","putCall":null,"value":91652608,"ticker":"BKNG","weight":0.082377,"price":5399.27},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2350449,"shareType":"SH","putCall":null,"value":82923841,"ticker":"RPRX","weight":0.074532,"price":35.28},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2399322,"shareType":"SH","putCall":null,"value":72795429,"ticker":"ENOV","weight":0.065428,"price":30.34}
   ],
   "changes": [
     {"cusip":"G7709Q104","ticker":"RPRX","name":"ROYALTY PHARMA PLC","putCall":null,"action":"new","shares":2350449,"prevShares":0},

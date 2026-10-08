@@ -8,16 +8,16 @@
   ],
   "totalValue": 2969350241,
   "holdings": [
-    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1907523,"shareType":"SH","putCall":null,"value":874904499,"ticker":"MDGL","weight":0.294645},
-    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":654385859,"ticker":"PPTA","weight":0.22038},
-    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":70755869,"shareType":"SH","putCall":null,"value":456375355,"ticker":"BHC","weight":0.153695},
-    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":372916461,"ticker":"AAMI","weight":0.125589},
-    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":239694937,"ticker":"NG","weight":0.080723},
-    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":132077042,"ticker":"AEM","weight":0.04448},
-    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":115192596,"ticker":"THM","weight":0.038794},
-    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4280000,"shareType":"SH","putCall":null,"value":51616800,"ticker":"THRY","weight":0.017383},
-    {"cusip":"438516106","name":"HONEYWELL INTL INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":42100000,"ticker":null,"weight":0.014178},
-    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":30086692,"ticker":"TMQ","weight":0.010132}
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1907523,"shareType":"SH","putCall":null,"value":874904499,"ticker":"MDGL","weight":0.294645,"price":458.66},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":654385859,"ticker":"PPTA","weight":0.22038,"price":20.23},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":70755869,"shareType":"SH","putCall":null,"value":456375355,"ticker":"BHC","weight":0.153695,"price":6.45},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":372916461,"ticker":"AAMI","weight":0.125589,"price":48.16},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":239694937,"ticker":"NG","weight":0.080723,"price":8.8},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":132077042,"ticker":"AEM","weight":0.04448,"price":168.56},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":115192596,"ticker":"THM","weight":0.038794,"price":1.64},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4280000,"shareType":"SH","putCall":null,"value":51616800,"ticker":"THRY","weight":0.017383,"price":12.06},
+    {"cusip":"438516106","name":"HONEYWELL INTL INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":42100000,"ticker":null,"weight":0.014178,"price":210.5},
+    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":30086692,"ticker":"TMQ","weight":0.010132,"price":2.1}
   ],
   "changes": [
     {"cusip":"071734107","ticker":"BHC","name":"BAUSCH HEALTH COS INC","putCall":null,"action":"add","shares":70755869,"prevShares":32791702},

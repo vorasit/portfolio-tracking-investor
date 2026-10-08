@@ -8,9 +8,9 @@
   ],
   "totalValue": 74448208,
   "holdings": [
-    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":28906800,"ticker":"TSLA","weight":0.388281},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":49000,"shareType":"SH","putCall":null,"value":25379550,"ticker":"MSFT","weight":0.340902},
-    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":79181,"shareType":"SH","putCall":null,"value":20161858,"ticker":"AAPL","weight":0.270817}
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":28906800,"ticker":"TSLA","weight":0.388281,"price":444.72},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":49000,"shareType":"SH","putCall":null,"value":25379550,"ticker":"MSFT","weight":0.340902,"price":517.95},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":79181,"shareType":"SH","putCall":null,"value":20161858,"ticker":"AAPL","weight":0.270817,"price":254.63}
   ],
   "changes": [
     {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"new","shares":49000,"prevShares":0},
