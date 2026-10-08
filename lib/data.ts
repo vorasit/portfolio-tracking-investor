@@ -1,10 +1,16 @@
 import fs from "node:fs";
 import path from "node:path";
+import investorsJson from "../data/investors.json";
 import { validateInvestors } from "./investors";
+import { buildStockIndex, type StockEntry } from "./stocks";
 import type { Investor, Portfolio } from "./types";
 
 // Synchronous reads on purpose: with Cache Components, sync I/O is prerendered
 // into the static output at build time.
+//
+// Pages for URLs outside generateStaticParams render on their first request, where
+// /data may not be on disk. investors.json is bundled through the import above and
+// the other reads return null when a file is missing, so such URLs become a 404.
 
 export const DATA_DIR = path.join(process.cwd(), "data");
 
@@ -39,12 +45,50 @@ export function listQuarters(dir: string): string[] {
     .sort();
 }
 
+const investors = validateInvestors(investorsJson);
+
 export function loadInvestors(): Investor[] {
-  return validateInvestors(readJson(dataPaths.investors));
+  return investors;
+}
+
+export function findInvestor(id: string): Investor | null {
+  return investors.find((i) => i.id === id) ?? null;
+}
+
+/** Quarters with a portfolio file for this investor, oldest first. */
+export function listPortfolioQuarters(investorId: string): string[] {
+  return listQuarters(dataPaths.portfoliosDir(investorId));
+}
+
+export function loadPortfolio(investorId: string, quarter: string): Portfolio | null {
+  // Both values can come from a URL: only read paths built from known-safe shapes.
+  if (!findInvestor(investorId) || !/^\d{4}-Q[1-4]$/.test(quarter)) return null;
+  return readJsonIfExists<Portfolio>(dataPaths.portfolio(investorId, quarter));
 }
 
 export function loadLatestPortfolio(investorId: string): Portfolio | null {
-  const quarters = listQuarters(dataPaths.portfoliosDir(investorId));
-  const latest = quarters.at(-1);
-  return latest ? readJson<Portfolio>(dataPaths.portfolio(investorId, latest)) : null;
+  const latest = listPortfolioQuarters(investorId).at(-1);
+  return latest ? loadPortfolio(investorId, latest) : null;
+}
+
+/** Every investor that has at least one portfolio, with their latest quarter. */
+export function loadLatestPortfolios(): { investor: Investor; portfolio: Portfolio }[] {
+  return investors.flatMap((investor) => {
+    const portfolio = loadLatestPortfolio(investor.id);
+    return portfolio ? [{ investor, portfolio }] : [];
+  });
+}
+
+// Built once per build process: every stock page needs it, and rebuilding it per page
+// would re-read every investor's portfolio. Rebuilt on each call in dev so data edits show up.
+let stockIndex: StockEntry[] | null = null;
+
+export function loadStockIndex(): StockEntry[] {
+  if (process.env.NODE_ENV !== "production") return buildStockIndex(loadLatestPortfolios());
+  stockIndex ??= buildStockIndex(loadLatestPortfolios());
+  return stockIndex;
+}
+
+export function findStock(slug: string): StockEntry | null {
+  return loadStockIndex().find((s) => s.slug === slug) ?? null;
 }

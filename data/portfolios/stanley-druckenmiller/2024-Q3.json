@@ -32,7 +32,7 @@
     {"cusip":"G6700G107","name":"Nvent Electric Plc","titleOfClass":"SHS","shares":451065,"shareType":"SH","putCall":null,"value":31692000,"ticker":"NVT","weight":0.011107},
     {"cusip":"G7997R103","name":"Seagate Technology Hldngs Pl","titleOfClass":"ORD SHS","shares":263000,"shareType":"SH","putCall":"Call","value":28806000,"ticker":"STX","weight":null},
     {"cusip":"05961W105","name":"Banco Macro Sa","titleOfClass":"SPON ADR B","shares":424130,"shareType":"SH","putCall":null,"value":26932000,"ticker":"BMA","weight":0.009438},
-    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":1427950,"shareType":"SH","putCall":null,"value":25732000,"ticker":null,"weight":0.009018},
+    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":1427950,"shareType":"SH","putCall":null,"value":25732000,"ticker":"TEVA","weight":0.009018},
     {"cusip":"06738E204","name":"Barclays Plc","titleOfClass":"ADR","shares":2007755,"shareType":"SH","putCall":null,"value":24394000,"ticker":"BCS","weight":0.008549},
     {"cusip":"912909108","name":"United States Stl Corp","titleOfClass":"NEW COM","shares":663090,"shareType":"SH","putCall":null,"value":23427000,"ticker":null,"weight":0.00821},
     {"cusip":"85205L107","name":"Springworks Therapeutics Inc","titleOfClass":"COM","shares":705066,"shareType":"SH","putCall":null,"value":22590000,"ticker":null,"weight":0.007917},

@@ -82,6 +82,12 @@ export function diffHoldings(prev: Holding[], curr: Holding[]): Change[] {
     .map(([change]) => change);
 }
 
+/** Finds the change recorded for a holding; null for unchanged positions or when there is no previous quarter. */
+export function changeLookup(changes: Change[] | null): (h: Pick<Holding, "cusip" | "putCall">) => Change | null {
+  const byKey = new Map((changes ?? []).map((c) => [`${c.cusip}|${c.putCall ?? ""}`, c]));
+  return (h) => byKey.get(`${h.cusip}|${h.putCall ?? ""}`) ?? null;
+}
+
 function toChange(h: Holding, action: ChangeAction, shares: number, prevShares: number): Change {
   return { cusip: h.cusip, ticker: h.ticker, name: h.name, putCall: h.putCall, action, shares, prevShares };
 }

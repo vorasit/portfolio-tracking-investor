@@ -62,7 +62,7 @@
     {"cusip":"84265V105","name":"Southern Copper Corp","titleOfClass":"COM","shares":123060,"shareType":"SH","putCall":null,"value":21444000,"ticker":"SCCO","weight":0.004925},
     {"cusip":"G54950103","name":"Linde Plc","titleOfClass":"SHS","shares":41200,"shareType":"SH","putCall":null,"value":21380000,"ticker":"LIN","weight":0.00491},
     {"cusip":"29362U104","name":"Entegris Inc","titleOfClass":"COM","shares":118300,"shareType":"SH","putCall":null,"value":21277000,"ticker":"ENTG","weight":0.004887},
-    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":624999,"shareType":"SH","putCall":null,"value":21175000,"ticker":null,"weight":0.004863},
+    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":624999,"shareType":"SH","putCall":null,"value":21175000,"ticker":"TEVA","weight":0.004863},
     {"cusip":"91332U101","name":"Unity Software Inc","titleOfClass":"COM","shares":738785,"shareType":"SH","putCall":null,"value":21114000,"ticker":"U","weight":0.004849},
     {"cusip":"00835Q202","name":"Aeva Technologies Inc","titleOfClass":"COM NEW","shares":720175,"shareType":"SH","putCall":null,"value":20683000,"ticker":"AEVA","weight":0.00475},
     {"cusip":"767292105","name":"Riot Platforms Inc","titleOfClass":"COM","shares":754800,"shareType":"SH","putCall":null,"value":20666000,"ticker":"RIOT","weight":0.004746},
@@ -102,7 +102,7 @@
     {"cusip":"051774107","name":"Aurora Innovation Inc","titleOfClass":"CLASS A COM","shares":633700,"shareType":"SH","putCall":null,"value":4322000,"ticker":"AUR","weight":0.000993},
     {"cusip":"Q4982L109","name":"Iren Limited","titleOfClass":"ORDINARY SHARES","shares":87100,"shareType":"SH","putCall":null,"value":3983000,"ticker":"IREN","weight":0.000915},
     {"cusip":"399909100","name":"Grupo Financiero Galicia S.A","titleOfClass":"SPONSORED ADR","shares":59500,"shareType":"SH","putCall":null,"value":2977000,"ticker":"GGAL","weight":0.000684},
-    {"cusip":"Y95308105","name":"Wave Life Sciences Ltd","titleOfClass":"SHS","shares":173000,"shareType":"SH","putCall":null,"value":1005000,"ticker":null,"weight":0.000231}
+    {"cusip":"Y95308105","name":"Wave Life Sciences Ltd","titleOfClass":"SHS","shares":173000,"shareType":"SH","putCall":null,"value":1005000,"ticker":"WVE","weight":0.000231}
   ],
   "changes": [
     {"cusip":"457669307","ticker":"INSM","name":"Insmed Inc","putCall":"Call","action":"new","shares":1350000,"prevShares":0},
@@ -176,7 +176,7 @@
     {"cusip":"37950E259","ticker":"ARGT","name":"Global X Fds","putCall":null,"action":"reduce","shares":328800,"prevShares":387400},
     {"cusip":"980745103","ticker":"WWD","name":"Woodward Inc","putCall":null,"action":"reduce","shares":67194,"prevShares":211355},
     {"cusip":"77543R102","ticker":"ROKU","name":"Roku Inc","putCall":null,"action":"reduce","shares":184055,"prevShares":750190},
-    {"cusip":"881624209","ticker":null,"name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"reduce","shares":624999,"prevShares":2377285},
+    {"cusip":"881624209","ticker":"TEVA","name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"reduce","shares":624999,"prevShares":2377285},
     {"cusip":"929740108","ticker":"WAB","name":"Wabtec","putCall":null,"action":"reduce","shares":56595,"prevShares":94895},
     {"cusip":"042068205","ticker":"ARM","name":"Arm Holdings Plc","putCall":null,"action":"reduce","shares":28090,"prevShares":106700},
     {"cusip":"013872106","ticker":"AA","name":"Alcoa Corp","putCall":null,"action":"reduce","shares":185640,"prevShares":1493390},
