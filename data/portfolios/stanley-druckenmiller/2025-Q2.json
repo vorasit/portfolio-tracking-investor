@@ -9,7 +9,7 @@
   "totalValue": 3913950000,
   "holdings": [
     {"cusip":"632307104","name":"Natera Inc","titleOfClass":"COM","shares":3085190,"shareType":"SH","putCall":null,"value":521212000,"ticker":"NTRA","weight":0.133168},
-    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":15968935,"shareType":"SH","putCall":null,"value":267639000,"ticker":null,"weight":0.068381},
+    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":15968935,"shareType":"SH","putCall":null,"value":267639000,"ticker":"TEVA","weight":0.068381},
     {"cusip":"457669307","name":"Insmed Inc","titleOfClass":"COM PAR $.01","shares":2253435,"shareType":"SH","putCall":null,"value":226786000,"ticker":"INSM","weight":0.057943},
     {"cusip":"980745103","name":"Woodward Inc","titleOfClass":"COM","shares":848910,"shareType":"SH","putCall":null,"value":208059000,"ticker":"WWD","weight":0.053158},
     {"cusip":"874039100","name":"Taiwan Semiconductor Mfg Ltd","titleOfClass":"SPONSORED ADS","shares":765085,"shareType":"SH","putCall":null,"value":173284000,"ticker":"TSM","weight":0.044273},
@@ -114,7 +114,7 @@
     {"cusip":"883556102","ticker":"TMO","name":"Thermo Fisher Scientific Inc","putCall":null,"action":"new","shares":12200,"prevShares":0},
     {"cusip":"235851102","ticker":"DHR","name":"Danaher Corporation","putCall":null,"action":"new","shares":24700,"prevShares":0},
     {"cusip":"163851108","ticker":"CC","name":"Chemours Co","putCall":null,"action":"new","shares":421800,"prevShares":0},
-    {"cusip":"881624209","ticker":null,"name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"add","shares":15968935,"prevShares":14879750},
+    {"cusip":"881624209","ticker":"TEVA","name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"add","shares":15968935,"prevShares":14879750},
     {"cusip":"457669307","ticker":"INSM","name":"Insmed Inc","putCall":null,"action":"add","shares":2253435,"prevShares":1369050},
     {"cusip":"874039100","ticker":"TSM","name":"Taiwan Semiconductor Mfg Ltd","putCall":null,"action":"add","shares":765085,"prevShares":598780},
     {"cusip":"G3643J108","ticker":"FLUT","name":"Flutter Entmt Plc","putCall":null,"action":"add","shares":405320,"prevShares":377475},

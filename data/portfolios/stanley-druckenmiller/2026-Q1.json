@@ -21,7 +21,7 @@
     {"cusip":"81141R100","name":"Sea Ltd","titleOfClass":"SPONSORD ADS","shares":1099905,"shareType":"SH","putCall":null,"value":91083000,"ticker":"SE","weight":0.03101},
     {"cusip":"861012102","name":"Stmicroelectronics N V","titleOfClass":"NY REGISTRY","shares":2612880,"shareType":"SH","putCall":null,"value":90275000,"ticker":"STM","weight":0.030735},
     {"cusip":"980745103","name":"Woodward Inc","titleOfClass":"COM","shares":211355,"shareType":"SH","putCall":null,"value":75648000,"ticker":"WWD","weight":0.025755},
-    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":2377285,"shareType":"SH","putCall":null,"value":71604000,"ticker":null,"weight":0.024379},
+    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":2377285,"shareType":"SH","putCall":null,"value":71604000,"ticker":"TEVA","weight":0.024379},
     {"cusip":"77543R102","name":"Roku Inc","titleOfClass":"COM CL A","shares":750190,"shareType":"SH","putCall":null,"value":70983000,"ticker":"ROKU","weight":0.024167},
     {"cusip":"11135F101","name":"Broadcom Inc","titleOfClass":"COM","shares":195955,"shareType":"SH","putCall":null,"value":60650000,"ticker":"AVGO","weight":0.020649},
     {"cusip":"78462F103","name":"State Str Spdr S&P 500 Etf T","titleOfClass":"TR UNIT","shares":90000,"shareType":"SH","putCall":"Call","value":58531000,"ticker":"SPY","weight":null},
@@ -77,7 +77,7 @@
     {"cusip":"58733R102","name":"Mercadolibre  Inc","titleOfClass":"COM","shares":2766,"shareType":"SH","putCall":null,"value":4782000,"ticker":"MELI","weight":0.001628},
     {"cusip":"83443Q103","name":"Solstice Advanced Matls Inc","titleOfClass":"COM SHS","shares":62525,"shareType":"SH","putCall":null,"value":4762000,"ticker":"SOLS","weight":0.001621},
     {"cusip":"960413102","name":"Westlake Corporation","titleOfClass":"COM","shares":21194,"shareType":"SH","putCall":null,"value":2476000,"ticker":"WLK","weight":0.000843},
-    {"cusip":"Y95308105","name":"Wave Life Sciences Ltd","titleOfClass":"SHS","shares":173000,"shareType":"SH","putCall":null,"value":1254000,"ticker":null,"weight":0.000427}
+    {"cusip":"Y95308105","name":"Wave Life Sciences Ltd","titleOfClass":"SHS","shares":173000,"shareType":"SH","putCall":null,"value":1254000,"ticker":"WVE","weight":0.000427}
   ],
   "changes": [
     {"cusip":"46137V357","ticker":"RSP","name":"Invesco Exchange Traded Fd T","putCall":"Call","action":"new","shares":821000,"prevShares":0},
@@ -128,7 +128,7 @@
     {"cusip":"874039100","ticker":"TSM","name":"Taiwan Semiconductor Manufac","putCall":null,"action":"reduce","shares":495280,"prevShares":543085},
     {"cusip":"464286400","ticker":"EWZ","name":"Ishares Inc","putCall":null,"action":"reduce","shares":3436170,"prevShares":3552575},
     {"cusip":"980745103","ticker":"WWD","name":"Woodward Inc","putCall":null,"action":"reduce","shares":211355,"prevShares":590930},
-    {"cusip":"881624209","ticker":null,"name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"reduce","shares":2377285,"prevShares":5874870},
+    {"cusip":"881624209","ticker":"TEVA","name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"reduce","shares":2377285,"prevShares":5874870},
     {"cusip":"22266T109","ticker":"CPNG","name":"Coupang Inc","putCall":null,"action":"reduce","shares":2667485,"prevShares":6772909},
     {"cusip":"G25508105","ticker":"CRH","name":"Crh Plc","putCall":null,"action":"reduce","shares":377555,"prevShares":474955},
     {"cusip":"349381103","ticker":"FIGR","name":"Figure Technology Solutio","putCall":null,"action":"reduce","shares":1150415,"prevShares":1539785},

@@ -9,7 +9,7 @@
   "totalValue": 2982105000,
   "holdings": [
     {"cusip":"632307104","name":"Natera Inc","titleOfClass":"COM","shares":3402330,"shareType":"SH","putCall":null,"value":481123000,"ticker":"NTRA","weight":0.161337},
-    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":14879750,"shareType":"SH","putCall":null,"value":228702000,"ticker":null,"weight":0.076691},
+    {"cusip":"881624209","name":"Teva Pharmaceutical Inds Ltd","titleOfClass":"SPONSORED ADS","shares":14879750,"shareType":"SH","putCall":null,"value":228702000,"ticker":"TEVA","weight":0.076691},
     {"cusip":"22266T109","name":"Coupang Inc","titleOfClass":"CL A","shares":9302634,"shareType":"SH","putCall":null,"value":204007000,"ticker":"CPNG","weight":0.06841},
     {"cusip":"980745103","name":"Woodward Inc","titleOfClass":"COM","shares":1097750,"shareType":"SH","putCall":null,"value":200328000,"ticker":"WWD","weight":0.067177},
     {"cusip":"718172109","name":"Philip Morris Intl Inc","titleOfClass":"COM","shares":1105268,"shareType":"SH","putCall":null,"value":175439000,"ticker":"PM","weight":0.058831},
@@ -74,7 +74,7 @@
     {"cusip":"03831W108","ticker":"APP","name":"Applovin Corp","putCall":null,"action":"new","shares":40200,"prevShares":0},
     {"cusip":"03674X106","ticker":"AR","name":"Antero Resources Corp","putCall":null,"action":"new","shares":258400,"prevShares":0},
     {"cusip":"453204109","ticker":"PI","name":"Impinj Inc","putCall":null,"action":"new","shares":108475,"prevShares":0},
-    {"cusip":"881624209","ticker":null,"name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"add","shares":14879750,"prevShares":8997400},
+    {"cusip":"881624209","ticker":"TEVA","name":"Teva Pharmaceutical Inds Ltd","putCall":null,"action":"add","shares":14879750,"prevShares":8997400},
     {"cusip":"22266T109","ticker":"CPNG","name":"Coupang Inc","putCall":null,"action":"add","shares":9302634,"prevShares":8902649},
     {"cusip":"457669307","ticker":"INSM","name":"Insmed Inc","putCall":null,"action":"add","shares":1369050,"prevShares":593470},
     {"cusip":"874039100","ticker":"TSM","name":"Taiwan Semiconductor Mfg Ltd","putCall":null,"action":"add","shares":598780,"prevShares":107515},
