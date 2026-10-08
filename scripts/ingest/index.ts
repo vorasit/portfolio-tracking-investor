@@ -121,9 +121,12 @@ async function updateCusipMap(retryMissing: boolean) {
   if (missing.length === 0) return;
 
   console.log(`cusip-map: looking up ${missing.length} CUSIP(s)`);
-  Object.assign(map, await mapCusips(missing, process.env.OPENFIGI_API_KEY || undefined));
-  const sorted = Object.fromEntries(Object.entries(map).sort(([a], [b]) => a.localeCompare(b)));
-  writeJsonIfChanged(dataPaths.cusipMap, sorted);
+  // Saved after every request, so an interrupted run keeps what it already looked up.
+  const save = (results: CusipMap) => {
+    Object.assign(map, results);
+    writeJsonIfChanged(dataPaths.cusipMap, Object.fromEntries(Object.entries(map).sort(([a], [b]) => a.localeCompare(b))));
+  };
+  await mapCusips(missing, process.env.OPENFIGI_API_KEY || undefined, save);
 
   const unresolved = missing.filter((c) => map[c] === null);
   if (unresolved.length) {

@@ -10,8 +10,13 @@ interface FigiResult {
 /**
  * Maps CUSIPs to US tickers with the OpenFIGI API.
  * Limits: without a key 25 requests/minute with 10 jobs each; with a key 25 requests/6 seconds with 100 jobs.
+ * `onBatch` receives the results of each request so callers can save progress on long runs.
  */
-export async function mapCusips(cusips: string[], apiKey?: string): Promise<CusipMap> {
+export async function mapCusips(
+  cusips: string[],
+  apiKey?: string,
+  onBatch?: (results: CusipMap) => void,
+): Promise<CusipMap> {
   const batchSize = apiKey ? 100 : 10;
   const http = new ThrottledClient({
     minIntervalMs: apiKey ? 250 : 2500,
@@ -37,10 +42,16 @@ export async function mapCusips(cusips: string[], apiKey?: string): Promise<Cusi
       ),
     });
 
+    const batchResult: CusipMap = {};
     batch.forEach((cusip, j) => {
+      const error = responses[j]?.error;
+      if (error) {
+        console.warn(`  OpenFIGI ${cusip}: ${error}`);
+        // A malformed CUSIP (a filer's typo) will never match; anything else is retried next run.
+        if (!/invalid idvalue/i.test(error)) return;
+      }
       const match = responses[j]?.data?.[0];
-      if (responses[j]?.error) console.warn(`  OpenFIGI ${cusip}: ${responses[j].error}`);
-      result[cusip] = match
+      batchResult[cusip] = match
         ? {
             // OpenFIGI writes share classes as "BRK/B"; price APIs and most sites use "BRK.B".
             ticker: match.ticker.replace("/", "."),
@@ -49,6 +60,8 @@ export async function mapCusips(cusips: string[], apiKey?: string): Promise<Cusi
           }
         : null;
     });
+    Object.assign(result, batchResult);
+    onBatch?.(batchResult);
     console.log(`  OpenFIGI: ${Math.min(i + batchSize, cusips.length)}/${cusips.length}`);
   }
   return result;
