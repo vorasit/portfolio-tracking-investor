@@ -1,20 +1,15 @@
-import { loadInvestors, loadLatestPortfolio } from "@/lib/data";
+import Link from "next/link";
 import {
-  ACTION_LABELS,
-  STYLE_LABELS,
-  formatDate,
-  formatPercent,
-  formatQuarter,
-  formatUsd,
-} from "@/lib/format";
-import type { ChangeAction } from "@/lib/types";
-
-const ACTION_STYLES: Record<ChangeAction, string> = {
-  new: "bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300",
-  add: "bg-sky-100 text-sky-800 dark:bg-sky-950 dark:text-sky-300",
-  reduce: "bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300",
-  exit: "bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300",
-};
+  ChangeSummary,
+  StyleTags,
+  TickerLink,
+  tableClass,
+  tableWrapClass,
+  tbodyClass,
+  theadClass,
+} from "@/app/_components/ui";
+import { loadInvestors, loadLatestPortfolio } from "@/lib/data";
+import { formatDate, formatPercent, formatQuarter, formatUsd } from "@/lib/format";
 
 export default function Home() {
   const rows = loadInvestors().map((investor) => ({
@@ -36,9 +31,9 @@ export default function Home() {
         และมีเฉพาะหุ้นที่ซื้อขายในสหรัฐฯ ฝั่ง long (ไม่รวม short เงินสด และสินทรัพย์นอกสหรัฐฯ)
       </p>
 
-      <div className="overflow-x-auto rounded-lg border border-zinc-200 dark:border-zinc-800">
-        <table className="w-full min-w-[56rem] text-left text-sm">
-          <thead className="bg-zinc-50 whitespace-nowrap text-zinc-600 dark:bg-zinc-900 dark:text-zinc-400">
+      <div className={tableWrapClass}>
+        <table className={`${tableClass} min-w-[56rem]`}>
+          <thead className={theadClass}>
             <tr>
               <th className="px-4 py-3 font-medium">นักลงทุน</th>
               <th className="px-4 py-3 font-medium">ข้อมูล ณ</th>
@@ -48,22 +43,19 @@ export default function Home() {
               <th className="px-4 py-3 font-medium">ถือมากที่สุด</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-zinc-200 dark:divide-zinc-800">
+          <tbody className={tbodyClass}>
             {rows.map(({ investor, portfolio }) => (
               <tr key={investor.id} className="align-top">
                 <td className="px-4 py-3">
-                  <div className="font-medium">{investor.name}</div>
-                  <div className="text-zinc-500">{investor.fund}</div>
-                  <div className="mt-1 flex gap-1">
-                    {investor.styles.map((style) => (
-                      <span
-                        key={style}
-                        className="rounded bg-zinc-100 px-1.5 py-0.5 text-xs text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300"
-                      >
-                        {STYLE_LABELS[style]}
-                      </span>
-                    ))}
-                  </div>
+                  {portfolio ? (
+                    <Link href={`/investors/${investor.id}`} className="font-medium hover:underline">
+                      {investor.name}
+                    </Link>
+                  ) : (
+                    <span className="font-medium">{investor.name}</span>
+                  )}
+                  <div className="mb-1 text-zinc-500">{investor.fund}</div>
+                  <StyleTags styles={investor.styles} />
                 </td>
                 {portfolio ? (
                   <>
@@ -76,20 +68,7 @@ export default function Home() {
                       {portfolio.holdings.filter((h) => !h.putCall).length}
                     </td>
                     <td className="px-4 py-3">
-                      {portfolio.changes ? (
-                        <div className="flex flex-wrap gap-1">
-                          {(Object.keys(ACTION_LABELS) as ChangeAction[]).map((action) => {
-                            const count = portfolio.changes!.filter((c) => c.action === action).length;
-                            return count ? (
-                              <span key={action} className={`rounded px-1.5 py-0.5 text-xs ${ACTION_STYLES[action]}`}>
-                                {ACTION_LABELS[action]} {count}
-                              </span>
-                            ) : null;
-                          })}
-                        </div>
-                      ) : (
-                        <span className="text-zinc-400">ไม่มีข้อมูลไตรมาสก่อน</span>
-                      )}
+                      <ChangeSummary changes={portfolio.changes} />
                     </td>
                     <td className="px-4 py-3">
                       <ol className="space-y-0.5">
@@ -98,7 +77,7 @@ export default function Home() {
                           .slice(0, 3)
                           .map((h) => (
                             <li key={h.cusip} className="flex justify-between gap-3 tabular-nums">
-                              <span className="font-medium">{h.ticker ?? h.name}</span>
+                              <TickerLink ticker={h.ticker} name={h.name} />
                               <span className="text-zinc-500">{formatPercent(h.weight ?? 0)}</span>
                             </li>
                           ))}
@@ -115,20 +94,6 @@ export default function Home() {
           </tbody>
         </table>
       </div>
-
-      <footer className="mt-10 space-y-1 text-xs text-zinc-500">
-        <p>เว็บนี้ไม่ใช่คำแนะนำการลงทุน ข้อมูลอาจคลาดเคลื่อน โปรดตรวจสอบกับเอกสารต้นฉบับก่อนตัดสินใจ</p>
-        <p>
-          แหล่งข้อมูล:{" "}
-          <a className="underline" href="https://www.sec.gov/edgar/search/">
-            SEC EDGAR
-          </a>{" "}
-          (13F-HR) · CUSIP → ticker จาก{" "}
-          <a className="underline" href="https://www.openfigi.com/">
-            OpenFIGI
-          </a>
-        </p>
-      </footer>
     </main>
   );
 }
