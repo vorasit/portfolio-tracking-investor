@@ -1,0 +1,31 @@
+{
+  "investorId": "duan-yongping",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1759760","accession":"0001085146-25-001521","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null},
+    {"cik":"1759760","accession":"0001085146-25-001626","form":"13F-HR/A","filedAt":"2025-02-14","amendmentType":"RESTATEMENT"}
+  ],
+  "totalValue": 14515943539,
+  "holdings": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":40864577,"shareType":"SH","putCall":null,"value":10233307372,"ticker":"AAPL","weight":0.70497},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3621100,"shareType":"SH","putCall":null,"value":1641372208,"ticker":"BRK.B","weight":0.113074},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3766500,"shareType":"SH","putCall":null,"value":717292260,"ticker":"GOOG","weight":0.049414},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":7228700,"shareType":"SH","putCall":null,"value":701111613,"ticker":"PDD","weight":0.048299},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13577000,"shareType":"SH","putCall":null,"value":670839570,"ticker":"OXY","weight":0.046214},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":5450830,"shareType":"SH","putCall":null,"value":462175876,"ticker":"BABA","weight":0.031839},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":746000,"shareType":"SH","putCall":null,"value":83067100,"ticker":"DIS","weight":0.005722},
+    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":163000,"shareType":"SH","putCall":null,"value":6777540,"ticker":"MRNA","weight":0.000467}
+  ],
+  "changes": [
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":7228700,"prevShares":3907600},
+    {"cusip":"674599105","ticker":"OXY","name":"OCCIDENTAL PETE CORP","putCall":null,"action":"add","shares":13577000,"prevShares":9223700},
+    {"cusip":"01609W102","ticker":"BABA","name":"ALIBABA GROUP HLDG LTD","putCall":null,"action":"add","shares":5450830,"prevShares":5443730},
+    {"cusip":"60770K107","ticker":"MRNA","name":"MODERNA INC","putCall":null,"action":"add","shares":163000,"prevShares":97700},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"reduce","shares":40864577,"prevShares":52769155},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":3621100,"prevShares":3782100},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":3766500,"prevShares":5066300},
+    {"cusip":"254687106","ticker":"DIS","name":"DISNEY WALT CO","putCall":null,"action":"reduce","shares":746000,"prevShares":748500}
+  ]
+}

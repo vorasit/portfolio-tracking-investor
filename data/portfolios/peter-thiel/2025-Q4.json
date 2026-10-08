@@ -1,0 +1,16 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-26-000169","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 0,
+  "holdings": [],
+  "changes": [
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"exit","shares":0,"prevShares":65000},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"exit","shares":0,"prevShares":49000},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"exit","shares":0,"prevShares":79181}
+  ]
+}

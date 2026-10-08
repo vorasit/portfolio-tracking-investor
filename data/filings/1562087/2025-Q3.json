@@ -1,0 +1,13 @@
+{
+  "cik": "1562087",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000812","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":28906800},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":49000,"shareType":"SH","putCall":null,"value":25379550},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":79181,"shareType":"SH","putCall":null,"value":20161858}
+  ]
+}

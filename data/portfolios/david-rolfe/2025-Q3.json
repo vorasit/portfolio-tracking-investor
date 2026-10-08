@@ -1,0 +1,52 @@
+{
+  "investorId": "david-rolfe",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"859804","accession":"0000859804-25-000009","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 547897792,
+  "holdings": [
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":189282,"shareType":"SH","putCall":null,"value":52864505,"ticker":"TSM","weight":0.096486},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":70594,"shareType":"SH","putCall":null,"value":51842742,"ticker":"META","weight":0.094621},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":207232,"shareType":"SH","putCall":null,"value":50378126,"ticker":"GOOGL","weight":0.091948},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":166890,"shareType":"SH","putCall":null,"value":42495326,"ticker":"AAPL","weight":0.077561},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":79208,"shareType":"SH","putCall":null,"value":41025625,"ticker":"MSFT","weight":0.074878},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":484651,"shareType":"SH","putCall":null,"value":32500696,"ticker":"PYPL","weight":0.059319},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":5900,"shareType":"SH","putCall":null,"value":31857356,"ticker":"BKNG","weight":0.058145},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":89120,"shareType":"SH","putCall":null,"value":30423956,"ticker":"V","weight":0.055529},
+    {"cusip":"892356106","name":"TRACTOR SUPPLY CO","titleOfClass":"COM","shares":489910,"shareType":"SH","putCall":null,"value":27861167,"ticker":"TSCO","weight":0.050851},
+    {"cusip":"620076307","name":"MOTOROLA SOLUTIONS INC","titleOfClass":"COM NEW","shares":57557,"shareType":"SH","putCall":null,"value":26320370,"ticker":"MSI","weight":0.048039},
+    {"cusip":"911363109","name":"UNITED RENTALS INC","titleOfClass":"COM","shares":26925,"shareType":"SH","putCall":null,"value":25704517,"ticker":"URI","weight":0.046915},
+    {"cusip":"217204106","name":"COPART INC","titleOfClass":"COM","shares":497020,"shareType":"SH","putCall":null,"value":22350989,"ticker":"CPRT","weight":0.040794},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":191668,"shareType":"SH","putCall":null,"value":20663727,"ticker":"ORLY","weight":0.037715},
+    {"cusip":"12514G108","name":"CDW CORP","titleOfClass":"COM","shares":120524,"shareType":"SH","putCall":null,"value":19197010,"ticker":"CDW","weight":0.035038},
+    {"cusip":"98978V103","name":"ZOETIS INC","titleOfClass":"CL A","shares":127522,"shareType":"SH","putCall":null,"value":18658986,"ticker":"ZTS","weight":0.034056},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":34724,"shareType":"SH","putCall":null,"value":16900703,"ticker":"SPGI","weight":0.030846},
+    {"cusip":"28176E108","name":"EDWARDS LIFESCIENCES CORP","titleOfClass":"COM","shares":184701,"shareType":"SH","putCall":null,"value":14364197,"ticker":"EW","weight":0.026217},
+    {"cusip":"679580100","name":"OLD DOMINION FREIGHT LINE IN","titleOfClass":"COM","shares":88547,"shareType":"SH","putCall":null,"value":12465604,"ticker":"ODFL","weight":0.022752},
+    {"cusip":"73278L105","name":"POOL CORP","titleOfClass":"COM","shares":32322,"shareType":"SH","putCall":null,"value":10022190,"ticker":"POOL","weight":0.018292}
+  ],
+  "changes": [
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"add","shares":70594,"prevShares":68330},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"add","shares":207232,"prevShares":201303},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"add","shares":166890,"prevShares":161857},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"add","shares":79208,"prevShares":76605},
+    {"cusip":"70450Y103","ticker":"PYPL","name":"PAYPAL HLDGS INC","putCall":null,"action":"add","shares":484651,"prevShares":465841},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS INC","putCall":null,"action":"add","shares":5900,"prevShares":5655},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"add","shares":89120,"prevShares":85603},
+    {"cusip":"892356106","ticker":"TSCO","name":"TRACTOR SUPPLY CO","putCall":null,"action":"add","shares":489910,"prevShares":472766},
+    {"cusip":"620076307","ticker":"MSI","name":"MOTOROLA SOLUTIONS INC","putCall":null,"action":"add","shares":57557,"prevShares":55591},
+    {"cusip":"911363109","ticker":"URI","name":"UNITED RENTALS INC","putCall":null,"action":"add","shares":26925,"prevShares":26063},
+    {"cusip":"217204106","ticker":"CPRT","name":"COPART INC","putCall":null,"action":"add","shares":497020,"prevShares":480291},
+    {"cusip":"67103H107","ticker":"ORLY","name":"OREILLY AUTOMOTIVE INC","putCall":null,"action":"add","shares":191668,"prevShares":185210},
+    {"cusip":"12514G108","ticker":"CDW","name":"CDW CORP","putCall":null,"action":"add","shares":120524,"prevShares":116123},
+    {"cusip":"98978V103","ticker":"ZTS","name":"ZOETIS INC","putCall":null,"action":"add","shares":127522,"prevShares":123343},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"add","shares":34724,"prevShares":33482},
+    {"cusip":"28176E108","ticker":"EW","name":"EDWARDS LIFESCIENCES CORP","putCall":null,"action":"add","shares":184701,"prevShares":178034},
+    {"cusip":"679580100","ticker":"ODFL","name":"OLD DOMINION FREIGHT LINE IN","putCall":null,"action":"add","shares":88547,"prevShares":85320},
+    {"cusip":"73278L105","ticker":"POOL","name":"POOL CORP","putCall":null,"action":"add","shares":32322,"prevShares":31244},
+    {"cusip":"874039100","ticker":"TSM","name":"TAIWAN SEMICONDUCTOR MFG LTD","putCall":null,"action":"reduce","shares":189282,"prevShares":197500}
+  ]
+}

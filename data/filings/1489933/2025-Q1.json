@@ -1,0 +1,43 @@
+{
+  "cik": "1489933",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1489933","accession":"0001172661-25-002307","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"392709101","name":"GREEN BRICK PARTNERS INC","titleOfClass":"COM","shares":9467383,"shareType":"SH","putCall":null,"value":552043103},
+    {"cusip":"218937100","name":"CORE NATURAL RESOURCES INC","titleOfClass":"COM SHS","shares":2208640,"shareType":"SH","putCall":null,"value":170286144},
+    {"cusip":"10922N103","name":"BRIGHTHOUSE FINL INC","titleOfClass":"COM","shares":2801097,"shareType":"SH","putCall":null,"value":162435615},
+    {"cusip":"50155Q100","name":"KYNDRYL HLDGS INC","titleOfClass":"COMMON STOCK","shares":4135207,"shareType":"SH","putCall":null,"value":129845500},
+    {"cusip":"707569109","name":"PENN ENTERTAINMENT INC","titleOfClass":"COM","shares":6268440,"shareType":"SH","putCall":null,"value":102238256},
+    {"cusip":"N20944109","name":"CNH INDL N V","titleOfClass":"SHS","shares":8076540,"shareType":"SH","putCall":null,"value":99179911},
+    {"cusip":"40434L105","name":"HP INC","titleOfClass":"COM","shares":3018770,"shareType":"SH","putCall":null,"value":83589741},
+    {"cusip":"878742204","name":"TECK RESOURCES LTD","titleOfClass":"CL B","shares":2000000,"shareType":"SH","putCall":null,"value":72860000},
+    {"cusip":"Y2065G121","name":"DHT HOLDINGS INC","titleOfClass":"SHS NEW","shares":6610934,"shareType":"SH","putCall":null,"value":69414807},
+    {"cusip":"G1890L107","name":"CAPRI HOLDINGS LIMITED","titleOfClass":"SHS","shares":3479107,"shareType":"SH","putCall":null,"value":68642781},
+    {"cusip":"G61188101","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL A","shares":5220502,"shareType":"SH","putCall":null,"value":60087978},
+    {"cusip":"G76279101","name":"ROIVANT SCIENCES LTD","titleOfClass":"SHS","shares":5441167,"shareType":"SH","putCall":null,"value":54901375},
+    {"cusip":"92556V106","name":"VIATRIS INC","titleOfClass":"COM","shares":6000830,"shareType":"SH","putCall":null,"value":52267229},
+    {"cusip":"78463V107","name":"SPDR GOLD TR","titleOfClass":"GOLD SHS","shares":180151,"shareType":"SH","putCall":null,"value":51908709},
+    {"cusip":"G7997W102","name":"SEADRILL LTD","titleOfClass":"COM","shares":1588828,"shareType":"SH","putCall":null,"value":39720700},
+    {"cusip":"15135B101","name":"CENTENE CORP DEL","titleOfClass":"COM","shares":547570,"shareType":"SH","putCall":null,"value":33242975},
+    {"cusip":"256746108","name":"DOLLAR TREE INC","titleOfClass":"COM","shares":436360,"shareType":"SH","putCall":null,"value":32757545},
+    {"cusip":"70614W100","name":"PELOTON INTERACTIVE INC","titleOfClass":"CL A COM","shares":5003408,"shareType":"SH","putCall":null,"value":31621539},
+    {"cusip":"388689101","name":"GRAPHIC PACKAGING HLDG CO","titleOfClass":"COM","shares":1047100,"shareType":"SH","putCall":null,"value":27182716},
+    {"cusip":"G48833118","name":"WEATHERFORD INTL PLC","titleOfClass":"ORD SHS","shares":456639,"shareType":"SH","putCall":null,"value":24453019},
+    {"cusip":"36315X101","name":"GALAPAGOS NV","titleOfClass":"SPON ADR","shares":482746,"shareType":"SH","putCall":null,"value":12126580},
+    {"cusip":"22407B108","name":"COYA THERAPEUTICS INC","titleOfClass":"COMMON STOCK","shares":1646440,"shareType":"SH","putCall":null,"value":10652466},
+    {"cusip":"881624209","name":"TEVA PHARMACEUTICAL INDS LTD","titleOfClass":"SPONSORED ADS","shares":568200,"shareType":"SH","putCall":null,"value":8733234},
+    {"cusip":"01626W101","name":"ALIGHT INC","titleOfClass":"COM CL A","shares":1000000,"shareType":"SH","putCall":null,"value":5930000},
+    {"cusip":"87162W100","name":"TD SYNNEX CORPORATION","titleOfClass":"COM","shares":46215,"shareType":"SH","putCall":null,"value":4804511},
+    {"cusip":"00404A109","name":"ACADIA HEALTHCARE COMPANY IN","titleOfClass":"COM","shares":120860,"shareType":"SH","putCall":null,"value":3664476},
+    {"cusip":"92189F106","name":"VANECK ETF TRUST","titleOfClass":"GOLD MINERS ETF","shares":76460,"shareType":"SH","putCall":null,"value":3514867},
+    {"cusip":"92189H607","name":"VANECK ETF TRUST","titleOfClass":"OIL SERVICES ETF","shares":12360,"shareType":"SH","putCall":null,"value":3239803},
+    {"cusip":"38268T103","name":"GOPRO INC","titleOfClass":"CL A","shares":2823100,"shareType":"SH","putCall":null,"value":1871433},
+    {"cusip":"36269B105","name":"GAIN THERAPEUTICS INC","titleOfClass":"COM","shares":566130,"shareType":"SH","putCall":null,"value":1081308},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":34995,"shareType":"SH","putCall":null,"value":61591},
+    {"cusip":"67080N119","name":"NUVATION BIO INC","titleOfClass":"*W EXP 02/10/202","shares":100000,"shareType":"SH","putCall":null,"value":32000},
+    {"cusip":"485859110","name":"KATAPULT HOLDINGS INC","titleOfClass":"*W EXP 06/09/202","shares":262227,"shareType":"SH","putCall":null,"value":2334}
+  ]
+}

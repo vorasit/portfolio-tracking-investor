@@ -1,0 +1,20 @@
+{
+  "cik": "1657335",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1657335","accession":"0001172661-25-001957","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":257685,"shareType":"SH","putCall":null,"value":42670059},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":21293,"shareType":"SH","putCall":null,"value":29454394},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":611689,"shareType":"SH","putCall":null,"value":27048888},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":18460293},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":153930,"shareType":"SH","putCall":null,"value":15993327},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":14487970},
+    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC N","titleOfClass":"CL A","shares":38239,"shareType":"SH","putCall":null,"value":14092219},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":65683,"shareType":"SH","putCall":null,"value":12306367},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":104000,"shareType":"SH","putCall":null,"value":11937120},
+    {"cusip":"50187T106","name":"LGI HOMES INC","titleOfClass":"COM","shares":49996,"shareType":"SH","putCall":null,"value":3323234}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-001058","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 1913992995,
+  "holdings": [
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7131339,"shareType":"SH","putCall":null,"value":476587385,"ticker":"LW","weight":0.249002},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":4178088,"shareType":"SH","putCall":null,"value":295223698,"ticker":"TRMB","weight":0.154245},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":291545730,"ticker":"MRCY","weight":0.152323},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":429263,"shareType":"SH","putCall":null,"value":251582459,"ticker":"SPY","weight":0.131444},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":108926,"shareType":"SH","putCall":null,"value":188031329,"ticker":"MKL","weight":0.09824},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":172521674,"ticker":null,"weight":0.090137},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":3690129,"shareType":"SH","putCall":null,"value":148453890,"ticker":"RPD","weight":0.077562},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":69000,"shareType":"SH","putCall":"Call","value":119109870,"ticker":"MKL","weight":null},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":40134209,"ticker":"FIS","weight":0.020969},
+    {"cusip":"977852102","name":"WOLFSPEED INC","titleOfClass":"COM","shares":4988216,"shareType":"SH","putCall":null,"value":33221519,"ticker":null,"weight":0.017357},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":16691102,"ticker":null,"weight":0.008721}
+  ],
+  "changes": [
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"new","shares":108926,"prevShares":0},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":"Call","action":"new","shares":69000,"prevShares":0},
+    {"cusip":"513272104","ticker":"LW","name":"LAMB WESTON HLDGS INC","putCall":null,"action":"add","shares":7131339,"prevShares":3526754},
+    {"cusip":"753422104","ticker":"RPD","name":"RAPID7 INC","putCall":null,"action":"add","shares":3690129,"prevShares":3655540},
+    {"cusip":"896239100","ticker":"TRMB","name":"TRIMBLE INC","putCall":null,"action":"reduce","shares":4178088,"prevShares":4880944},
+    {"cusip":"78462F103","ticker":"SPY","name":"SPDR S&P 500 ETF TR","putCall":null,"action":"reduce","shares":429263,"prevShares":478963},
+    {"cusip":"31620M106","ticker":"FIS","name":"FIDELITY NATL INFORMATION SV","putCall":null,"action":"reduce","shares":496895,"prevShares":1586929},
+    {"cusip":"977852102","ticker":null,"name":"WOLFSPEED INC","putCall":null,"action":"reduce","shares":4988216,"prevShares":6165933},
+    {"cusip":"513272104","ticker":"LW","name":"LAMB WESTON HLDGS INC","putCall":"Call","action":"exit","shares":0,"prevShares":2302000},
+    {"cusip":"35909D109","ticker":null,"name":"FRONTIER COMMUNICATIONS PARE","putCall":null,"action":"exit","shares":0,"prevShares":3910213},
+    {"cusip":"34965K107","ticker":"FTRE","name":"FORTREA HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":692408}
+  ]
+}

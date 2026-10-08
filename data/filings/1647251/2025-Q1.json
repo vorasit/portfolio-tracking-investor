@@ -1,0 +1,20 @@
+{
+  "cik": "1647251",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-25-000005","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47570947,"shareType":"SH","putCall":null,"value":9521325042},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":17299881,"shareType":"SH","putCall":null,"value":6494202329},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13163107,"shareType":"SH","putCall":null,"value":6129927299},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":16637562,"shareType":"SH","putCall":null,"value":5830799979},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":10361269,"shareType":"SH","putCall":null,"value":5264560779},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":54913285,"shareType":"SH","putCall":null,"value":3854575745},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":26899078,"shareType":"SH","putCall":null,"value":2619619831},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":13855735,"shareType":"SH","putCall":null,"value":2164681479},
+    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":19333428,"shareType":"SH","putCall":null,"value":861116451},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":4085110,"shareType":"SH","putCall":null,"value":631721410}
+  ]
+}

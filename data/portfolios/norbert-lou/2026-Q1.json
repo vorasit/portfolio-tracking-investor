@@ -1,0 +1,20 @@
+{
+  "investorId": "norbert-lou",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1631664","accession":"0001398344-26-009301","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 270645674,
+  "holdings": [
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":104130300,"ticker":"BRK.A","weight":0.384748},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":594570,"shareType":"SH","putCall":null,"value":49361201,"ticker":"CROX","weight":0.182383},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":460000,"shareType":"SH","putCall":null,"value":46303600,"ticker":"SGOV","weight":0.171086},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":42405109,"ticker":"PDD","weight":0.156681},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":628907,"shareType":"SH","putCall":null,"value":28445464,"ticker":"PYPL","weight":0.105102}
+  ],
+  "changes": [
+    {"cusip":"46436E718","ticker":"SGOV","name":"ISHARES TR","putCall":null,"action":"reduce","shares":460000,"prevShares":566000}
+  ]
+}

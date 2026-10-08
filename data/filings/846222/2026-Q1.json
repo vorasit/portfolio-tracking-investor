@@ -1,0 +1,37 @@
+{
+  "cik": "846222",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"846222","accession":"0001213900-26-040342","form":"13F-HR","filedAt":"2026-04-06","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"35045V100","name":"General Motors Co (GM)","titleOfClass":"COMMON","shares":12526135,"shareType":"SH","putCall":null,"value":933197058},
+    {"cusip":"526057104","name":"Lennar Corporation - A (LEN)","titleOfClass":"COMMON","shares":10632131,"shareType":"SH","putCall":null,"value":923294256},
+    {"cusip":"889478103","name":"Toll Brothers, Inc. (TOL)","titleOfClass":"COMMON","shares":5645309,"shareType":"SH","putCall":null,"value":770415319},
+    {"cusip":"745867101","name":"PulteGroup Inc. (PHM)","titleOfClass":"COMMON","shares":5497109,"shareType":"SH","putCall":null,"value":646514989},
+    {"cusip":"23331A109","name":"D R Horton, Inc. (DHI)","titleOfClass":"COMMON","shares":3466920,"shareType":"SH","putCall":null,"value":475730762},
+    {"cusip":"688239201","name":"Oshkosh Corp (OSK)","titleOfClass":"COMMON","shares":2531005,"shareType":"SH","putCall":null,"value":372589246},
+    {"cusip":"042735100","name":"Arrow Electronics Inc (ARW)","titleOfClass":"COMMON","shares":1895860,"shareType":"SH","putCall":null,"value":271885283},
+    {"cusip":"053807103","name":"Avnet Inc (AVT)","titleOfClass":"COMMON","shares":3920512,"shareType":"SH","putCall":null,"value":241581949},
+    {"cusip":"071813109","name":"Baxter International Inc (BAX)","titleOfClass":"COMMON","shares":14307688,"shareType":"SH","putCall":null,"value":240369158},
+    {"cusip":"806857108","name":"SLB LTD (SLB)","titleOfClass":"COMMON","shares":4664577,"shareType":"SH","putCall":null,"value":239712612},
+    {"cusip":"G4705A100","name":"Icon PLC (ICLR)","titleOfClass":"COMMON","shares":2002411,"shareType":"SH","putCall":null,"value":221586801},
+    {"cusip":"521865204","name":"Lear Corporation (LEA)","titleOfClass":"COMMON","shares":1697369,"shareType":"SH","putCall":null,"value":205517439},
+    {"cusip":"05352A100","name":"Avantor Inc (AVTR)","titleOfClass":"COMMON","shares":22593838,"shareType":"SH","putCall":null,"value":177135690},
+    {"cusip":"62955J103","name":"NOV INC (NOV)","titleOfClass":"COMMON","shares":5751338,"shareType":"SH","putCall":null,"value":108182668},
+    {"cusip":"922040845","name":"Vanguard  0-3M T-Bill ETF (VBIL)","titleOfClass":"ETF","shares":1196425,"shareType":"SH","putCall":null,"value":90509551},
+    {"cusip":"59001A102","name":"Meritage Homes Corp (MTH)","titleOfClass":"COMMON","shares":1454849,"shareType":"SH","putCall":null,"value":89967862},
+    {"cusip":"526057302","name":"Lennar Corporation - B SHS (LEN/B)","titleOfClass":"COMMON","shares":364059,"shareType":"SH","putCall":null,"value":30624643},
+    {"cusip":"87724P106","name":"Taylor Morrison Home Corp (TMHC)","titleOfClass":"COMMON","shares":270608,"shareType":"SH","putCall":null,"value":15760210},
+    {"cusip":"67011P100","name":"DNOW INC (DNOW)","titleOfClass":"COMMON","shares":824487,"shareType":"SH","putCall":null,"value":9819640},
+    {"cusip":"G25508105","name":"CRH PLC  (CRH)","titleOfClass":"COMMON","shares":17500,"shareType":"SH","putCall":null,"value":1839600},
+    {"cusip":"00846U101","name":"Agilent Technologies, Inc. (A)","titleOfClass":"COMMON","shares":10700,"shareType":"SH","putCall":null,"value":1219586},
+    {"cusip":"46625H100","name":"J P Morgan Chase (JPM)","titleOfClass":"COMMON","shares":4000,"shareType":"SH","putCall":null,"value":1176640},
+    {"cusip":"808513105","name":"Charles Schwab Corporation (SCHW)","titleOfClass":"COMMON","shares":12500,"shareType":"SH","putCall":null,"value":1174750},
+    {"cusip":"880779103","name":"Terex Corp (TEX)","titleOfClass":"COMMON","shares":10922,"shareType":"SH","putCall":null,"value":645490},
+    {"cusip":"907818108","name":"Union Pacific Corp (UNP)","titleOfClass":"COMMON","shares":2032,"shareType":"SH","putCall":null,"value":493004},
+    {"cusip":"G3922B107","name":"Genpact LTD (G)","titleOfClass":"COMMON","shares":10000,"shareType":"SH","putCall":null,"value":372500},
+    {"cusip":"N82405106","name":"Stellantis NV (STLA)","titleOfClass":"COMMON","shares":37000,"shareType":"SH","putCall":null,"value":262330}
+  ]
+}

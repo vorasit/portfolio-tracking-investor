@@ -1,0 +1,27 @@
+{
+  "investorId": "scott-ferguson",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-24-006591","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 1906150205,
+  "holdings": [
+    {"cusip":"912008109","name":"US FOODS HLDG CORP","titleOfClass":"COM","shares":4825000,"shareType":"SH","putCall":null,"value":296737500,"ticker":"USFD","weight":0.155674},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":3520000,"shareType":"SH","putCall":null,"value":221337600,"ticker":"CVS","weight":0.116118},
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":3295000,"shareType":"SH","putCall":null,"value":214899900,"ticker":"TWLO","weight":0.11274},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":941000,"shareType":"SH","putCall":null,"value":167723840,"ticker":"TLN","weight":0.087991},
+    {"cusip":"98980F104","name":"ZOOMINFO TECHNOLOGIES INC","titleOfClass":"COMMON STOCK","shares":16030000,"shareType":"SH","putCall":null,"value":165429600,"ticker":"GTM","weight":0.086787},
+    {"cusip":"009158106","name":"AIR PRODS & CHEMS INC","titleOfClass":"COM","shares":547500,"shareType":"SH","putCall":null,"value":163012650,"ticker":"APD","weight":0.085519},
+    {"cusip":"958102105","name":"WESTERN DIGITAL CORP.","titleOfClass":"COM","shares":2030000,"shareType":"SH","putCall":null,"value":138628700,"ticker":"WDC","weight":0.072727},
+    {"cusip":"83601L102","name":"SOTERA HEALTH CO","titleOfClass":"COM","shares":7910000,"shareType":"SH","putCall":null,"value":132097000,"ticker":"SHC","weight":0.0693},
+    {"cusip":"65290E101","name":"NEXTRACKER INC","titleOfClass":"CLASS A COM","shares":2855000,"shareType":"SH","putCall":null,"value":107005400,"ticker":"NXT","weight":0.056137},
+    {"cusip":"19247G107","name":"COHERENT CORP","titleOfClass":"COM","shares":823500,"shareType":"SH","putCall":null,"value":73217385,"ticker":"COHR","weight":0.038411},
+    {"cusip":"615394202","name":"MOOG INC","titleOfClass":"CL A","shares":359000,"shareType":"SH","putCall":null,"value":72525180,"ticker":"MOG.A","weight":0.038048},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":2825000,"shareType":"SH","putCall":null,"value":57630000,"ticker":"GDS","weight":0.030234},
+    {"cusip":"85208T107","name":"SPRINKLR INC","titleOfClass":"CL A","shares":6695000,"shareType":"SH","putCall":null,"value":51752350,"ticker":"CXM","weight":0.02715},
+    {"cusip":"457985208","name":"INTEGRA LIFESCIENCES HLDGS C","titleOfClass":"COM NEW","shares":2430000,"shareType":"SH","putCall":null,"value":44153100,"ticker":"IART","weight":0.023163}
+  ],
+  "changes": null
+}

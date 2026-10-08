@@ -1,0 +1,43 @@
+{
+  "cik": "1503174",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1503174","accession":"0001172661-26-003493","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"053774105","name":"AVIS BUDGET GROUP INC","titleOfClass":"COM","shares":17430882,"shareType":"SH","putCall":null,"value":2576807286},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":15184530,"shareType":"SH","putCall":null,"value":1084175442},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":13063442,"shareType":"SH","putCall":null,"value":710389976},
+    {"cusip":"G25457105","name":"CREDO TECHNOLOGY GROUP HOLDI","titleOfClass":"ORDINARY SHARES","shares":2573808,"shareType":"SH","putCall":null,"value":699947086},
+    {"cusip":"876030107","name":"TAPESTRY INC","titleOfClass":"COM","shares":4062897,"shareType":"SH","putCall":null,"value":594726863},
+    {"cusip":"007903107","name":"ADVANCED MICRO DEVICES INC","titleOfClass":"COM","shares":867370,"shareType":"SH","putCall":null,"value":503863907},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":2500000,"shareType":"SH","putCall":null,"value":500225000},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":727009,"shareType":"SH","putCall":null,"value":409516900},
+    {"cusip":"910047109","name":"UNITED AIRLS HLDGS INC","titleOfClass":"COM","shares":2942727,"shareType":"SH","putCall":null,"value":400181445},
+    {"cusip":"19247G107","name":"COHERENT CORP","titleOfClass":"COM","shares":929963,"shareType":"SH","putCall":null,"value":366842505},
+    {"cusip":"122017106","name":"BURLINGTON STORES INC","titleOfClass":"COM","shares":1075291,"shareType":"SH","putCall":null,"value":340652189},
+    {"cusip":"15101Q207","name":"CELESTICA INC","titleOfClass":"COM","shares":911927,"shareType":"SH","putCall":null,"value":332670970},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":5922862,"shareType":"SH","putCall":null,"value":313260171},
+    {"cusip":"72703H101","name":"PLANET FITNESS MASTER ISSUER","titleOfClass":"CL A","shares":4917311,"shareType":"SH","putCall":null,"value":256536115},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":738611,"shareType":"SH","putCall":null,"value":248099435},
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":1075683,"shareType":"SH","putCall":null,"value":221945673},
+    {"cusip":"33829M101","name":"FIVE BELOW INC","titleOfClass":"COM","shares":1105109,"shareType":"SH","putCall":null,"value":198687547},
+    {"cusip":"314911108","name":"FERMI INC","titleOfClass":"COM","shares":20205579,"shareType":"SH","putCall":null,"value":185083104},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":315200,"shareType":"SH","putCall":"Call","value":132573120},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":261301,"shareType":"SH","putCall":null,"value":124789519},
+    {"cusip":"44812J104","name":"HUT 8 CORP","titleOfClass":"COM","shares":1000000,"shareType":"SH","putCall":null,"value":115445000},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":245475,"shareType":"SH","putCall":null,"value":112704937},
+    {"cusip":"009066101","name":"AIRBNB INC","titleOfClass":"COM CL A","shares":627405,"shareType":"SH","putCall":null,"value":89781656},
+    {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":35374,"shareType":"SH","putCall":null,"value":80430925},
+    {"cusip":"93403J106","name":"WARBY PARKER INC","titleOfClass":"CL A COM","shares":1453523,"shareType":"SH","putCall":null,"value":44099888},
+    {"cusip":"159864107","name":"CHARLES RIV LABS INTL INC","titleOfClass":"COM","shares":187384,"shareType":"SH","putCall":null,"value":42496817},
+    {"cusip":"89677Q107","name":"TRIP COM GROUP LTD","titleOfClass":"ADS","shares":763477,"shareType":"SH","putCall":null,"value":30416924},
+    {"cusip":"20030N101","name":"COMCAST CORP NEW","titleOfClass":"CL A","shares":984257,"shareType":"SH","putCall":null,"value":24163509},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":61945,"shareType":"SH","putCall":null,"value":23955990},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":1127533,"shareType":"SH","putCall":null,"value":19585248},
+    {"cusip":"444859102","name":"HUMANA INC","titleOfClass":"COM","shares":33282,"shareType":"SH","putCall":null,"value":13220276},
+    {"cusip":"428050108","name":"HESAI GROUP","titleOfClass":"SPONSORED ADS","shares":563130,"shareType":"SH","putCall":null,"value":10260229},
+    {"cusip":"836100107","name":"SOUNDHOUND AI INC","titleOfClass":"CLASS A COM","shares":1019072,"shareType":"SH","putCall":null,"value":6593396}
+  ]
+}

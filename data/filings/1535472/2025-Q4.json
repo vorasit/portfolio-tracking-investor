@@ -1,0 +1,37 @@
+{
+  "cik": "1535472",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1535472","accession":"0001011438-26-000138","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"452327109","name":"ILLUMINA INC","titleOfClass":"COM","shares":3829608,"shareType":"SH","putCall":null,"value":502291385},
+    {"cusip":"844895102","name":"SOUTHWEST GAS HLDGS INC","titleOfClass":"COM","shares":5030556,"shareType":"SH","putCall":null,"value":402545091},
+    {"cusip":"81663L200","name":"GENEDX HOLDINGS CORP","titleOfClass":"COM CL A","shares":3058629,"shareType":"SH","putCall":null,"value":397805288},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":982732,"shareType":"SH","putCall":null,"value":226834200},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":1943000,"shareType":"SH","putCall":null,"value":221055110},
+    {"cusip":"552953101","name":"MGM RESORTS INTERNATIONAL","titleOfClass":"COM","shares":5385478,"shareType":"SH","putCall":null,"value":196516092},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":2408743,"shareType":"SH","putCall":null,"value":164348535},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":686363,"shareType":"SH","putCall":null,"value":158769489},
+    {"cusip":"29430C102","name":"VESTIS CORPORATION","titleOfClass":"COM SHS","shares":19813963,"shareType":"SH","putCall":null,"value":132159133},
+    {"cusip":"44891N208","name":"IAC INC","titleOfClass":"COM NEW","shares":3355075,"shareType":"SH","putCall":null,"value":131183433},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":500000,"shareType":"SH","putCall":"Call","value":115660000},
+    {"cusip":"151290889","name":"CEMEX SAB DE CV","titleOfClass":"SPON ADR NEW","shares":8600275,"shareType":"SH","putCall":null,"value":98817160},
+    {"cusip":"46090E103","name":"INVESCO QQQ TR","titleOfClass":"UNIT SER 1","shares":150000,"shareType":"SH","putCall":"Put","value":92146500},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":173661,"shareType":"SH","putCall":null,"value":83985933},
+    {"cusip":"530909100","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SER A","shares":1005434,"shareType":"SH","putCall":null,"value":81942871},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":403200,"shareType":"SH","putCall":null,"value":78587712},
+    {"cusip":"34965K107","name":"FORTREA HLDGS INC","titleOfClass":"COMMON STOCK","shares":4508531,"shareType":"SH","putCall":null,"value":77772160},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":500000,"shareType":"SH","putCall":"Call","value":56885000},
+    {"cusip":"015857105","name":"ALGONQUIN PWR UTILS CORP","titleOfClass":"COM","shares":6183855,"shareType":"SH","putCall":null,"value":38030708},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":14500,"shareType":"SH","putCall":null,"value":3841195},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":16250,"shareType":"SH","putCall":null,"value":3030625},
+    {"cusip":"530909308","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SHS SER C","shares":32322,"shareType":"SH","putCall":null,"value":2687898},
+    {"cusip":"L02235106","name":"ARDAGH METAL PACKAGING S A","titleOfClass":"SHS","shares":398835,"shareType":"SH","putCall":null,"value":1635224},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2400,"shareType":"SH","putCall":null,"value":1584216},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":2850,"shareType":"SH","putCall":null,"value":1281702},
+    {"cusip":"343928115","name":"FLYEXCLUSIVE INC","titleOfClass":"*W EXP 99/99/999","shares":200827,"shareType":"SH","putCall":null,"value":57196},
+    {"cusip":"34385P108","name":"STANDARD BIOTOOLS INC","titleOfClass":"COM","shares":44400,"shareType":"SH","putCall":null,"value":56832}
+  ]
+}

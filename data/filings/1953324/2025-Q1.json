@@ -1,0 +1,25 @@
+{
+  "cik": "1953324",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1953324","accession":"0001953324-25-000003","form":"13F-HR","filedAt":"2025-04-11","amendmentType":null},
+    {"cik":"1953324","accession":"0001953324-25-000005","form":"13F-HR/A","filedAt":"2025-07-18","amendmentType":"RESTATEMENT"}
+  ],
+  "positions": [
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":140600,"shareType":"SH","putCall":null,"value":74881000},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":210000,"shareType":"SH","putCall":null,"value":56501000},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":65750,"shareType":"SH","putCall":null,"value":36039000},
+    {"cusip":"060505104","name":"BANK AMERICA CORP","titleOfClass":"COM","shares":767845,"shareType":"SH","putCall":null,"value":32042000},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":30,"shareType":"SH","putCall":null,"value":23953000},
+    {"cusip":"N3167Y103","name":"FERRARI N V","titleOfClass":"COM","shares":60000,"shareType":"SH","putCall":null,"value":23532000},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":17378000},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":27000,"shareType":"SH","putCall":null,"value":12574000},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":47500,"shareType":"SH","putCall":null,"value":6281000},
+    {"cusip":"233912104","name":"DAILY JOURNAL CORP","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":4574000},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":16000,"shareType":"SH","putCall":null,"value":2474000},
+    {"cusip":"81752R100","name":"SERITAGE GROWTH PPTYS","titleOfClass":"CL A","shares":500000,"shareType":"SH","putCall":null,"value":1615000},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":8000,"shareType":"SH","putCall":null,"value":1002000},
+    {"cusip":"218937100","name":"CORE NATURAL RESOURCES INC","titleOfClass":"COM SHS","shares":10740,"shareType":"SH","putCall":null,"value":828000}
+  ]
+}

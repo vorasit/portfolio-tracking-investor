@@ -1,0 +1,34 @@
+{
+  "investorId": "pat-dorsey",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-020887","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 1112595766,
+  "holdings": [
+    {"cusip":"235851102","name":"DANAHER CORP","titleOfClass":"COM","shares":860850,"shareType":"SH","putCall":null,"value":170672121,"ticker":"DHR","weight":0.1534},
+    {"cusip":"N07059210","name":"ASML HOLDING N.V.","titleOfClass":"N Y REGISTRY SHS","shares":173226,"shareType":"SH","putCall":null,"value":167698358,"ticker":"ASML","weight":0.150727},
+    {"cusip":"N00985106","name":"AERCAP","titleOfClass":"SHS","shares":1263998,"shareType":"SH","putCall":null,"value":152943758,"ticker":"AER","weight":0.137466},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":192224,"shareType":"SH","putCall":null,"value":141165461,"ticker":"META","weight":0.126879},
+    {"cusip":"053332102","name":"AUTOZONE","titleOfClass":"COM","shares":29878,"shareType":"SH","putCall":null,"value":128183791,"ticker":"AZO","weight":0.115211},
+    {"cusip":"02079K107","name":"ALPHABET INC CLASS C","titleOfClass":"CAP STK CL C","shares":429318,"shareType":"SH","putCall":null,"value":104560399,"ticker":"GOOG","weight":0.093979},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS","titleOfClass":"COM","shares":16975,"shareType":"SH","putCall":null,"value":91652608,"ticker":"BKNG","weight":0.082377},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2350449,"shareType":"SH","putCall":null,"value":82923841,"ticker":"RPRX","weight":0.074532},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2399322,"shareType":"SH","putCall":null,"value":72795429,"ticker":"ENOV","weight":0.065428}
+  ],
+  "changes": [
+    {"cusip":"G7709Q104","ticker":"RPRX","name":"ROYALTY PHARMA PLC","putCall":null,"action":"new","shares":2350449,"prevShares":0},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N.V.","putCall":null,"action":"add","shares":173226,"prevShares":139989},
+    {"cusip":"235851102","ticker":"DHR","name":"DANAHER CORP","putCall":null,"action":"reduce","shares":860850,"prevShares":926992},
+    {"cusip":"N00985106","ticker":"AER","name":"AERCAP","putCall":null,"action":"reduce","shares":1263998,"prevShares":1361118},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":192224,"prevShares":245108},
+    {"cusip":"053332102","ticker":"AZO","name":"AUTOZONE","putCall":null,"action":"reduce","shares":29878,"prevShares":35667},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC CLASS C","putCall":null,"action":"reduce","shares":429318,"prevShares":661990},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS","putCall":null,"action":"reduce","shares":16975,"prevShares":18290},
+    {"cusip":"194014502","ticker":"ENOV","name":"ENOVIS CORPORATION","putCall":null,"action":"reduce","shares":2399322,"prevShares":2553180},
+    {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"exit","shares":0,"prevShares":146777},
+    {"cusip":"81686C104","ticker":null,"name":"SEMRUSH HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":2284578}
+  ]
+}

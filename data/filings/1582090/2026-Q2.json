@@ -1,0 +1,29 @@
+{
+  "cik": "1582090",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-26-003505","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"87422Q109","name":"Talen Energy Corp","titleOfClass":"COM","shares":1370000,"shareType":"SH","putCall":null,"value":526436200},
+    {"cusip":"G7997R103","name":"Seagate Technology Hldngs PL","titleOfClass":"ORD SHS","shares":472000,"shareType":"SH","putCall":null,"value":455480000},
+    {"cusip":"741623102","name":"Primo Brands Corporation","titleOfClass":"CLASS A COM SHS","shares":17795000,"shareType":"SH","putCall":null,"value":434909800},
+    {"cusip":"71377A103","name":"Performance Food Group Co","titleOfClass":"COM","shares":3350000,"shareType":"SH","putCall":null,"value":374496500},
+    {"cusip":"55306N104","name":"MKS INC.","titleOfClass":"COM","shares":812700,"shareType":"SH","putCall":null,"value":361488960},
+    {"cusip":"253393102","name":"Dicks Sporting Goods Inc","titleOfClass":"COM","shares":1490000,"shareType":"SH","putCall":null,"value":337946900},
+    {"cusip":"146869102","name":"Carvana Co","titleOfClass":"CL A","shares":4475000,"shareType":"SH","putCall":null,"value":294544500},
+    {"cusip":"83601L102","name":"Sotera Health Co","titleOfClass":"COM","shares":15560000,"shareType":"SH","putCall":null,"value":276190000},
+    {"cusip":"15118V207","name":"Celsius Hldgs Inc","titleOfClass":"COM NEW","shares":9090000,"shareType":"SH","putCall":null,"value":266155200},
+    {"cusip":"36165L108","name":"GDS Hldgs Ltd","titleOfClass":"Sponsored ADS","shares":8685000,"shareType":"SH","putCall":null,"value":260810550},
+    {"cusip":"375916103","name":"Gildan Activewear Inc","titleOfClass":"COM","shares":3640000,"shareType":"SH","putCall":null,"value":187824000},
+    {"cusip":"G9456A100","name":"GOLAR LNG LTD","titleOfClass":"SHS","shares":3620000,"shareType":"SH","putCall":null,"value":180420800},
+    {"cusip":"116794108","name":"Bruker Corp","titleOfClass":"COM","shares":2915000,"shareType":"SH","putCall":null,"value":175424700},
+    {"cusip":"861012102","name":"STMicroelectronics N V","titleOfClass":"NY REGISTRY","shares":2200000,"shareType":"SH","putCall":null,"value":164758000},
+    {"cusip":"G11448100","name":"Bitdeer Technologies Group","titleOfClass":"CL A ORD SHS","shares":9635000,"shareType":"SH","putCall":null,"value":152907450},
+    {"cusip":"90138F102","name":"Twilio Inc","titleOfClass":"CL A","shares":620000,"shareType":"SH","putCall":null,"value":127924600},
+    {"cusip":"83001C108","name":"Six Flags Entertainment Corp","titleOfClass":"COM","shares":5030000,"shareType":"SH","putCall":null,"value":107139000},
+    {"cusip":"767292105","name":"Riot Platforms Inc","titleOfClass":"COM","shares":2865000,"shareType":"SH","putCall":null,"value":78443700},
+    {"cusip":"46137V357","name":"Invesco Exchange Traded FD T","titleOfClass":"S&P500 EQL WGT","shares":265000,"shareType":"SH","putCall":null,"value":56384050}
+  ]
+}

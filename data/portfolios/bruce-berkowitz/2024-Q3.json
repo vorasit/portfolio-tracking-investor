@@ -1,0 +1,20 @@
+{
+  "investorId": "bruce-berkowitz",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-24-006738","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 1458777312,
+  "holdings": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":21146067,"shareType":"SH","putCall":null,"value":1233027167,"ticker":"JOE","weight":0.845247},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5446400,"shareType":"SH","putCall":null,"value":158544704,"ticker":"EPD","weight":0.108683},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":653102,"shareType":"SH","putCall":null,"value":28076863,"ticker":"OZK","weight":0.019247},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":50072,"shareType":"SH","putCall":null,"value":23046139,"ticker":"BRK.B","weight":0.015798},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":261450,"shareType":"SH","putCall":null,"value":14832059,"ticker":"WRB","weight":0.010167},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":691180,"ticker":"BRK.A","weight":0.000474},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":559200,"ticker":"AAPL","weight":0.000383}
+  ],
+  "changes": null
+}

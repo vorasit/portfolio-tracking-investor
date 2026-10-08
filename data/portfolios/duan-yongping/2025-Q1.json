@@ -1,0 +1,36 @@
+{
+  "investorId": "duan-yongping",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1759760","accession":"0001085146-25-003301","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 12004289777,
+  "holdings": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":34224181,"shareType":"SH","putCall":null,"value":7602217326,"ticker":"AAPL","weight":0.633292},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3381300,"shareType":"SH","putCall":null,"value":1800812754,"ticker":"BRK.B","weight":0.150014},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":7753900,"shareType":"SH","putCall":null,"value":917674065,"ticker":"PDD","weight":0.076446},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13826100,"shareType":"SH","putCall":null,"value":682456296,"ticker":"OXY","weight":0.056851},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":3982130,"shareType":"SH","putCall":null,"value":526557050,"ticker":"BABA","weight":0.043864},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1110600,"shareType":"SH","putCall":null,"value":173509038,"ticker":"GOOG","weight":0.014454},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":299200,"shareType":"SH","putCall":null,"value":112316688,"ticker":"MSFT","weight":0.009356},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":723000,"shareType":"SH","putCall":null,"value":71360100,"ticker":"DIS","weight":0.005945},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":645100,"shareType":"SH","putCall":null,"value":69915938,"ticker":"NVDA","weight":0.005824},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":271792,"shareType":"SH","putCall":null,"value":45117472,"ticker":"TSM","weight":0.003758},
+    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":83000,"shareType":"SH","putCall":null,"value":2353050,"ticker":"MRNA","weight":0.000196}
+  ],
+  "changes": [
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"new","shares":299200,"prevShares":0},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORPORATION","putCall":null,"action":"new","shares":645100,"prevShares":0},
+    {"cusip":"874039100","ticker":"TSM","name":"TAIWAN SEMICONDUCTOR MFG LTD","putCall":null,"action":"new","shares":271792,"prevShares":0},
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":7753900,"prevShares":7228700},
+    {"cusip":"674599105","ticker":"OXY","name":"OCCIDENTAL PETE CORP","putCall":null,"action":"add","shares":13826100,"prevShares":13577000},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"reduce","shares":34224181,"prevShares":40864577},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":3381300,"prevShares":3621100},
+    {"cusip":"01609W102","ticker":"BABA","name":"ALIBABA GROUP HLDG LTD","putCall":null,"action":"reduce","shares":3982130,"prevShares":5450830},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":1110600,"prevShares":3766500},
+    {"cusip":"254687106","ticker":"DIS","name":"DISNEY WALT CO","putCall":null,"action":"reduce","shares":723000,"prevShares":746000},
+    {"cusip":"60770K107","ticker":"MRNA","name":"MODERNA INC","putCall":null,"action":"reduce","shares":83000,"prevShares":163000}
+  ]
+}

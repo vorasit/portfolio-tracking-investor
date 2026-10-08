@@ -1,0 +1,30 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-14",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-26-000593","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "totalValue": 418666506,
+  "holdings": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":495000,"shareType":"SH","putCall":null,"value":117978300,"ticker":"AMZN","weight":0.281795},
+    {"cusip":"92837L109","name":"VISTA ENERGY S.A.B. DE C.V.","titleOfClass":"SPONSORED ADS","shares":1189792,"shareType":"SH","putCall":null,"value":75908730,"ticker":"VIST","weight":0.181311},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":372755,"shareType":"SH","putCall":null,"value":59130126,"ticker":"VST","weight":0.141234},
+    {"cusip":"025537101","name":"AMERICAN ELEC PWR CO INC","titleOfClass":"COM","shares":308617,"shareType":"SH","putCall":null,"value":42221892,"ticker":"AEP","weight":0.100849},
+    {"cusip":"233331107","name":"DTE ENERGY CO","titleOfClass":"COM","shares":264450,"shareType":"SH","putCall":null,"value":40294247,"ticker":"DTE","weight":0.096244},
+    {"cusip":"337932107","name":"FIRSTENERGY CORP","titleOfClass":"COM","shares":839319,"shareType":"SH","putCall":null,"value":39901225,"ticker":"FE","weight":0.095306},
+    {"cusip":"125896100","name":"CMS ENERGY CORP","titleOfClass":"COM","shares":517124,"shareType":"SH","putCall":null,"value":39559986,"ticker":"CMS","weight":0.09449},
+    {"cusip":"98386P102","name":"X-ENERGY INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":3672000,"ticker":"XE","weight":0.008771}
+  ],
+  "changes": [
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"new","shares":495000,"prevShares":0},
+    {"cusip":"92837L109","ticker":"VIST","name":"VISTA ENERGY S.A.B. DE C.V.","putCall":null,"action":"new","shares":1189792,"prevShares":0},
+    {"cusip":"92840M102","ticker":"VST","name":"VISTRA CORP","putCall":null,"action":"new","shares":372755,"prevShares":0},
+    {"cusip":"025537101","ticker":"AEP","name":"AMERICAN ELEC PWR CO INC","putCall":null,"action":"new","shares":308617,"prevShares":0},
+    {"cusip":"233331107","ticker":"DTE","name":"DTE ENERGY CO","putCall":null,"action":"new","shares":264450,"prevShares":0},
+    {"cusip":"337932107","ticker":"FE","name":"FIRSTENERGY CORP","putCall":null,"action":"new","shares":839319,"prevShares":0},
+    {"cusip":"125896100","ticker":"CMS","name":"CMS ENERGY CORP","putCall":null,"action":"new","shares":517124,"prevShares":0},
+    {"cusip":"98386P102","ticker":"XE","name":"X-ENERGY INC","putCall":null,"action":"new","shares":200000,"prevShares":0}
+  ]
+}

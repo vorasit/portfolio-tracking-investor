@@ -1,0 +1,50 @@
+{
+  "investorId": "karthik-sarma",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1503174","accession":"0001172661-25-000874","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 7037691281,
+  "holdings": [
+    {"cusip":"64110L106","name":"NETFLIX INC","titleOfClass":"COM","shares":2034454,"shareType":"SH","putCall":null,"value":1813349539,"ticker":"NFLX","weight":0.257663},
+    {"cusip":"053774105","name":"AVIS BUDGET GROUP","titleOfClass":"COM","shares":17130882,"shareType":"SH","putCall":null,"value":1380920398,"ticker":"CAR","weight":0.196218},
+    {"cusip":"83304A106","name":"SNAP INC","titleOfClass":"CL A","shares":73723115,"shareType":"SH","putCall":null,"value":793997949,"ticker":"SNAP","weight":0.112821},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":845988,"shareType":"SH","putCall":null,"value":495334434,"ticker":"META","weight":0.070383},
+    {"cusip":"72703H101","name":"PLANET FITNESS INC","titleOfClass":"CL A","shares":4702165,"shareType":"SH","putCall":null,"value":464903054,"ticker":"PLNT","weight":0.066059},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4064381,"shareType":"SH","putCall":null,"value":394204313,"ticker":"PDD","weight":0.056013},
+    {"cusip":"122017106","name":"BURLINGTON STORES INC","titleOfClass":"COM","shares":1270421,"shareType":"SH","putCall":null,"value":362146210,"ticker":"BURL","weight":0.051458},
+    {"cusip":"049468101","name":"ATLASSIAN CORPORATION","titleOfClass":"CL A","shares":1305595,"shareType":"SH","putCall":null,"value":317755711,"ticker":"TEAM","weight":0.045151},
+    {"cusip":"910047109","name":"UNITED AIRLS HLDGS INC","titleOfClass":"COM","shares":2901113,"shareType":"SH","putCall":null,"value":281698072,"ticker":"UAL","weight":0.040027},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":398180,"shareType":"SH","putCall":null,"value":178137768,"ticker":"SPOT","weight":0.025312},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":768027,"shareType":"SH","putCall":null,"value":151677652,"ticker":"TSM","weight":0.021552},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":291979,"shareType":"SH","putCall":null,"value":147700497,"ticker":"UNH","weight":0.020987},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":540235,"shareType":"SH","putCall":null,"value":72548158,"ticker":"NVDA","weight":0.010309},
+    {"cusip":"926400102","name":"VICTORIAS SECRET AND CO","titleOfClass":"COMMON STOCK","shares":893542,"shareType":"SH","putCall":null,"value":37010510,"ticker":"VSXY","weight":0.005259},
+    {"cusip":"20030N101","name":"COMCAST CORP NEW","titleOfClass":"CL A","shares":969699,"shareType":"SH","putCall":null,"value":36392803,"ticker":"CMCSA","weight":0.005171},
+    {"cusip":"243537107","name":"DECKERS OUTDOOR CORP","titleOfClass":"COM","shares":165294,"shareType":"SH","putCall":null,"value":33569558,"ticker":"DECK","weight":0.00477},
+    {"cusip":"444859102","name":"HUMANA INC","titleOfClass":"COM","shares":123293,"shareType":"SH","putCall":null,"value":31280667,"ticker":"HUM","weight":0.004445},
+    {"cusip":"896945201","name":"TRIPADVISOR INC","titleOfClass":"COM","shares":1293952,"shareType":"SH","putCall":null,"value":19111671,"ticker":"TRIP","weight":0.002716},
+    {"cusip":"958102105","name":"WESTERN DIGITAL CORP","titleOfClass":"COM","shares":285837,"shareType":"SH","putCall":null,"value":17044460,"ticker":"WDC","weight":0.002422},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":163357,"shareType":"SH","putCall":null,"value":8907857,"ticker":"GLBE","weight":0.001266}
+  ],
+  "changes": [
+    {"cusip":"926400102","ticker":"VSXY","name":"VICTORIAS SECRET AND CO","putCall":null,"action":"new","shares":893542,"prevShares":0},
+    {"cusip":"243537107","ticker":"DECK","name":"DECKERS OUTDOOR CORP","putCall":null,"action":"new","shares":165294,"prevShares":0},
+    {"cusip":"444859102","ticker":"HUM","name":"HUMANA INC","putCall":null,"action":"new","shares":123293,"prevShares":0},
+    {"cusip":"958102105","ticker":"WDC","name":"WESTERN DIGITAL CORP","putCall":null,"action":"new","shares":285837,"prevShares":0},
+    {"cusip":"83304A106","ticker":"SNAP","name":"SNAP INC","putCall":null,"action":"add","shares":73723115,"prevShares":72721483},
+    {"cusip":"122017106","ticker":"BURL","name":"BURLINGTON STORES INC","putCall":null,"action":"add","shares":1270421,"prevShares":1146448},
+    {"cusip":"910047109","ticker":"UAL","name":"UNITED AIRLS HLDGS INC","putCall":null,"action":"add","shares":2901113,"prevShares":1866513},
+    {"cusip":"91324P102","ticker":"UNH","name":"UNITEDHEALTH GROUP INC","putCall":null,"action":"add","shares":291979,"prevShares":241693},
+    {"cusip":"64110L106","ticker":"NFLX","name":"NETFLIX INC","putCall":null,"action":"reduce","shares":2034454,"prevShares":2081511},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":845988,"prevShares":1064555},
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"reduce","shares":4064381,"prevShares":4351517},
+    {"cusip":"049468101","ticker":"TEAM","name":"ATLASSIAN CORPORATION","putCall":null,"action":"reduce","shares":1305595,"prevShares":1770979},
+    {"cusip":"036752103","ticker":"ELV","name":"ELEVANCE HEALTH INC","putCall":null,"action":"exit","shares":0,"prevShares":193569},
+    {"cusip":"482497104","ticker":"BEKE","name":"KE HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":1313561},
+    {"cusip":"33829M101","ticker":"FIVE","name":"FIVE BELOW INC","putCall":null,"action":"exit","shares":0,"prevShares":148377},
+    {"cusip":"82509L107","ticker":"SHOP","name":"SHOPIFY INC","putCall":null,"action":"exit","shares":0,"prevShares":4066}
+  ]
+}

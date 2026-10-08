@@ -1,0 +1,28 @@
+{
+  "cik": "1112520",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1112520","accession":"0001112520-25-000015","form":"13F-HR","filedAt":"2025-05-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":3331076,"shareType":"SH","putCall":null,"value":1825829377},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":863910,"shareType":"SH","putCall":null,"value":1237620188},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":2435458,"shareType":"SH","putCall":null,"value":1134168436},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":3175240,"shareType":"SH","putCall":null,"value":1112794610},
+    {"cusip":"48251W104","name":"KKR & CO L P DEL","titleOfClass":"COM UNITS","shares":8847564,"shareType":"SH","putCall":null,"value":1022866823},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":19094021,"shareType":"SH","putCall":null,"value":1000717618},
+    {"cusip":"776696106","name":"ROPER TECHNOLOGIES INC","titleOfClass":"COM","shares":1449188,"shareType":"SH","putCall":null,"value":854412261},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":9313592,"shareType":"SH","putCall":null,"value":737915894},
+    {"cusip":"03027X100","name":"AMERICAN TOWER CORP NEW","titleOfClass":"COM","shares":2589192,"shareType":"SH","putCall":null,"value":563408179},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":1775400,"shareType":"SH","putCall":null,"value":363957000},
+    {"cusip":"009066101","name":"AIRBNB INC","titleOfClass":"COM CL A","shares":2917733,"shareType":"SH","putCall":null,"value":348552384},
+    {"cusip":"12510Q100","name":"CCC INTELLIGENT SOLUTIONS HL","titleOfClass":"COM","shares":13190384,"shareType":"SH","putCall":null,"value":119109168},
+    {"cusip":"38267D109","name":"GOOSEHEAD INS INC","titleOfClass":"COM CL A","shares":366125,"shareType":"SH","putCall":null,"value":43224717},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":205275,"shareType":"SH","putCall":null,"value":15995028},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":15175,"shareType":"SH","putCall":null,"value":8081901},
+    {"cusip":"H82027105","name":"SOPHIA GENETICS SA","titleOfClass":"ORDINARY SHARES","shares":2237504,"shareType":"SH","putCall":null,"value":7428513},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"CL A","shares":10139,"shareType":"SH","putCall":null,"value":3017569},
+    {"cusip":"25401T603","name":"DIGITALBRIDGE GROUP INC","titleOfClass":"CL A COM","shares":164740,"shareType":"SH","putCall":null,"value":1453003}
+  ]
+}

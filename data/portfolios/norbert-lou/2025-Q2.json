@@ -1,0 +1,25 @@
+{
+  "investorId": "norbert-lou",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1631664","accession":"0001398344-25-015669","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 309881316,
+  "holdings": [
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":105676000,"ticker":"BRK.A","weight":0.341021},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":566000,"shareType":"SH","putCall":null,"value":56990540,"ticker":"SGOV","weight":0.183911},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":531108,"shareType":"SH","putCall":null,"value":53790618,"ticker":"CROX","weight":0.173585},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":650447,"shareType":"SH","putCall":null,"value":48341221,"ticker":"PYPL","weight":0.155999},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":43434319,"ticker":"PDD","weight":0.140164},
+    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":189933,"shareType":"SH","putCall":null,"value":1648618,"ticker":"SWBI","weight":0.00532}
+  ],
+  "changes": [
+    {"cusip":"227046109","ticker":"CROX","name":"CROCS INC","putCall":null,"action":"new","shares":531108,"prevShares":0},
+    {"cusip":"70450Y103","ticker":"PYPL","name":"PAYPAL HLDGS INC","putCall":null,"action":"new","shares":650447,"prevShares":0},
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":415004,"prevShares":306751},
+    {"cusip":"46436E718","ticker":"SGOV","name":"ISHARES TR","putCall":null,"action":"reduce","shares":566000,"prevShares":581100},
+    {"cusip":"831754106","ticker":"SWBI","name":"SMITH & WESSON BRANDS INC","putCall":null,"action":"reduce","shares":189933,"prevShares":648956}
+  ]
+}

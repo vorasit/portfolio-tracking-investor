@@ -1,0 +1,34 @@
+{
+  "cik": "1581811",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1581811","accession":"0001581811-25-000010","form":"13F-HR","filedAt":"2025-11-12","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1810788,"shareType":"SH","putCall":null,"value":937897645},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":4053249,"shareType":"SH","putCall":null,"value":889971883},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2383373,"shareType":"SH","putCall":null,"value":813635875},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":2588638,"shareType":"SH","putCall":null,"value":639264154},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":2600224,"shareType":"SH","putCall":null,"value":583958306},
+    {"cusip":"101137107","name":"BOSTON SCIENTIFIC CORP","titleOfClass":"COM","shares":5312504,"shareType":"SH","putCall":null,"value":518659766},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":4260846,"shareType":"SH","putCall":null,"value":510875435},
+    {"cusip":"032095101","name":"AMPHENOL CORP NEW","titleOfClass":"CL A","shares":3823422,"shareType":"SH","putCall":null,"value":473148473},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":2077839,"shareType":"SH","putCall":null,"value":441707015},
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":6254134,"shareType":"SH","putCall":null,"value":430346961},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":541167,"shareType":"SH","putCall":null,"value":397422221},
+    {"cusip":"G7997R103","name":"SEAGATE TECHNOLOGY HLDNGS PL","titleOfClass":"ORD SHS","shares":1592983,"shareType":"SH","putCall":null,"value":376039567},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":1412018,"shareType":"SH","putCall":null,"value":358652572},
+    {"cusip":"144285103","name":"CARPENTER TECHNOLOGY CORP","titleOfClass":"COM","shares":1374333,"shareType":"SH","putCall":null,"value":337453725},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":1184788,"shareType":"SH","putCall":null,"value":320117870},
+    {"cusip":"G0450A105","name":"ARCH CAP GROUP LTD","titleOfClass":"ORD","shares":3507882,"shareType":"SH","putCall":null,"value":318270134},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":460155,"shareType":"SH","putCall":null,"value":261740766},
+    {"cusip":"45866F104","name":"INTERCONTINENTAL EXCHANGE IN","titleOfClass":"COM","shares":1036199,"shareType":"SH","putCall":null,"value":174578808},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":2026311,"shareType":"SH","putCall":null,"value":150939906},
+    {"cusip":"29082A107","name":"EMBRAER S.A.","titleOfClass":"SPONSORED ADS","shares":2117012,"shareType":"SH","putCall":null,"value":127973375},
+    {"cusip":"03852U106","name":"ARAMARK","titleOfClass":"COM","shares":3204201,"shareType":"SH","putCall":null,"value":123041318},
+    {"cusip":"89400J107","name":"TRANSUNION","titleOfClass":"COM","shares":1465050,"shareType":"SH","putCall":null,"value":122741889},
+    {"cusip":"512816109","name":"LAMAR ADVERTISING CO NEW","titleOfClass":"CL A","shares":723857,"shareType":"SH","putCall":null,"value":88614574},
+    {"cusip":"31946M103","name":"FIRST CTZNS BANCSHARES INC D","titleOfClass":"CL A","shares":47384,"shareType":"SH","putCall":null,"value":84777557}
+  ]
+}

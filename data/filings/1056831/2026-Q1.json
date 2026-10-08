@@ -1,0 +1,20 @@
+{
+  "cik": "1056831",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-003485","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":19210167,"shareType":"SH","putCall":null,"value":1206398488},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5455800,"shareType":"SH","putCall":null,"value":206447472},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":921252,"shareType":"SH","putCall":null,"value":42276263},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":50452,"shareType":"SH","putCall":null,"value":24176598},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":256350,"shareType":"SH","putCall":null,"value":16990878},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":66400,"shareType":"SH","putCall":null,"value":13163136},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":105300,"shareType":"SH","putCall":null,"value":2368197},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":2,"shareType":"SH","putCall":null,"value":1436280},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":609096},
+    {"cusip":"436893200","name":"HOME BANCSHARES INC","titleOfClass":"COM","shares":12100,"shareType":"SH","putCall":null,"value":325853}
+  ]
+}

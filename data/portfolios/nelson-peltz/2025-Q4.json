@@ -1,0 +1,26 @@
+{
+  "investorId": "nelson-peltz",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000015","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 3984029993,
+  "holdings": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1515951246,"ticker":null,"weight":0.380507},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1241596543,"ticker":"GE","weight":0.311643},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":652680308,"ticker":"SOLV","weight":0.163824},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30440318,"shareType":"SH","putCall":null,"value":253567849,"ticker":"WEN","weight":0.063646},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":241855659,"ticker":null,"weight":0.060706},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":2970944,"shareType":"SH","putCall":null,"value":78046699,"ticker":"IVZ","weight":0.01959},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4044,"shareType":"SH","putCall":null,"value":331689,"ticker":"GEHC","weight":0.000083}
+  ],
+  "changes": [
+    {"cusip":"369604301","ticker":"GE","name":"GE Aerospace","putCall":null,"action":"add","shares":4030765,"prevShares":4030213},
+    {"cusip":"95058W100","ticker":"WEN","name":"Wendys Co.","putCall":null,"action":"add","shares":30440318,"prevShares":30437023},
+    {"cusip":"36266G107","ticker":"GEHC","name":"GE HealthCare Technologies Inc.","putCall":null,"action":"add","shares":4044,"prevShares":4029},
+    {"cusip":"83444M101","ticker":"SOLV","name":"Solventum Corporation","putCall":null,"action":"reduce","shares":8236753,"prevShares":8462819},
+    {"cusip":"G491BT108","ticker":"IVZ","name":"Invesco Ltd.","putCall":null,"action":"reduce","shares":2970944,"prevShares":14628455}
+  ]
+}

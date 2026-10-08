@@ -1,0 +1,30 @@
+{
+  "investorId": "glenn-welling",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1559771","accession":"0000921895-25-002274","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 357617911,
+  "holdings": [
+    {"cusip":"98585X104","name":"YETI HLDGS INC","titleOfClass":"COM","shares":2162518,"shareType":"SH","putCall":null,"value":68162567,"ticker":"YETI","weight":0.190602},
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":5854468,"shareType":"SH","putCall":null,"value":65921310,"ticker":"EVH","weight":0.184334},
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5417368,"shareType":"SH","putCall":null,"value":63654074,"ticker":"VFC","weight":0.177995},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":4831911,"shareType":"SH","putCall":null,"value":56388401,"ticker":"PTLO","weight":0.157678},
+    {"cusip":"36262G101","name":"GXO LOGISTICS INCORPORATED","titleOfClass":"COMMON STOCK","shares":897000,"shareType":"SH","putCall":null,"value":43683900,"ticker":"GXO","weight":0.122152},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":619130,"shareType":"SH","putCall":null,"value":42076075,"ticker":"FRPT","weight":0.117657},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13535560,"shareType":"SH","putCall":null,"value":17731584,"ticker":null,"weight":0.049582}
+  ],
+  "changes": [
+    {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"new","shares":619130,"prevShares":0},
+    {"cusip":"98585X104","ticker":"YETI","name":"YETI HLDGS INC","putCall":null,"action":"add","shares":2162518,"prevShares":1543518},
+    {"cusip":"30050B101","ticker":"EVH","name":"EVOLENT HEALTH INC","putCall":null,"action":"add","shares":5854468,"prevShares":5179468},
+    {"cusip":"918204108","ticker":"VFC","name":"V F CORP","putCall":null,"action":"reduce","shares":5417368,"prevShares":5484368},
+    {"cusip":"73642K106","ticker":"PTLO","name":"PORTILLOS INC","putCall":null,"action":"reduce","shares":4831911,"prevShares":5479771},
+    {"cusip":"36262G101","ticker":"GXO","name":"GXO LOGISTICS INCORPORATED","putCall":null,"action":"reduce","shares":897000,"prevShares":912000},
+    {"cusip":"16115Q308","ticker":null,"name":"CHART INDS INC","putCall":null,"action":"exit","shares":0,"prevShares":368996},
+    {"cusip":"63001N106","ticker":"NATL","name":"NCR ATLEOS CORPORATION","putCall":null,"action":"exit","shares":0,"prevShares":774261},
+    {"cusip":"62886E108","ticker":"VYX","name":"NCR VOYIX CORPORATION","putCall":null,"action":"exit","shares":0,"prevShares":431679}
+  ]
+}

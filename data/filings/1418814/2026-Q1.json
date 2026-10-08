@@ -1,0 +1,28 @@
+{
+  "cik": "1418814",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1418814","accession":"0001418814-26-000002","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2316250,"shareType":"SH","putCall":null,"value":700063400},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":2884600,"shareType":"SH","putCall":null,"value":600775642},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2994509,"shareType":"SH","putCall":null,"value":558984995},
+    {"cusip":"09290D101","name":"BLACKROCK INC","titleOfClass":"COM","shares":546100,"shareType":"SH","putCall":null,"value":525189831},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":915674,"shareType":"SH","putCall":null,"value":523884566},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":28214724,"shareType":"SH","putCall":null,"value":402059817},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":12895438,"shareType":"SH","putCall":null,"value":341858061},
+    {"cusip":"530909308","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SHS SER C","shares":3561208,"shareType":"SH","putCall":null,"value":335145285},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":5848621,"shareType":"SH","putCall":null,"value":330798004},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":3279700,"shareType":"SH","putCall":null,"value":303372250},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":1037800,"shareType":"SH","putCall":null,"value":254022306},
+    {"cusip":"829073105","name":"SIMPSON MFG INC","titleOfClass":"COM","shares":1398042,"shareType":"SH","putCall":null,"value":239931968},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":358500,"shareType":"SH","putCall":null,"value":173840235},
+    {"cusip":"530909100","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SER A","shares":1777075,"shareType":"SH","putCall":null,"value":162851153},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":624666,"shareType":"SH","putCall":null,"value":95267812},
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":1099370,"shareType":"SH","putCall":null,"value":94069243},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":400231,"shareType":"SH","putCall":null,"value":38574264},
+    {"cusip":"12504L109","name":"CBRE GROUP INC","titleOfClass":"CL A","shares":234591,"shareType":"SH","putCall":null,"value":31777697}
+  ]
+}

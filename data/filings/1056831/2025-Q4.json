@@ -1,0 +1,25 @@
+{
+  "cik": "1056831",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-001186","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":19422467,"shareType":"SH","putCall":null,"value":1153111866},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5450400,"shareType":"SH","putCall":null,"value":174739824},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":913652,"shareType":"SH","putCall":null,"value":42046274},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":48012,"shareType":"SH","putCall":null,"value":24133232},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":260150,"shareType":"SH","putCall":null,"value":18241718},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":25600,"shareType":"SH","putCall":null,"value":5829632},
+    {"cusip":"125269100","name":"CF INDS HLDGS INC","titleOfClass":"COM","shares":54700,"shareType":"SH","putCall":null,"value":4230498},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":69100,"shareType":"SH","putCall":null,"value":2841392},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":166600,"shareType":"SH","putCall":null,"value":2747234},
+    {"cusip":"87612E106","name":"TARGET CORP","titleOfClass":"COM","shares":23000,"shareType":"SH","putCall":null,"value":2248250},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":12000,"shareType":"SH","putCall":null,"value":1252800},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":754800},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":652464},
+    {"cusip":"25278X109","name":"DIAMONDBACK ENERGY INC","titleOfClass":"COM","shares":4000,"shareType":"SH","putCall":null,"value":601320},
+    {"cusip":"26875P101","name":"EOG RES INC","titleOfClass":"COM","shares":2000,"shareType":"SH","putCall":null,"value":210020}
+  ]
+}

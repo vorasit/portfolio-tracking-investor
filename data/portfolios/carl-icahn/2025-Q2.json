@@ -1,0 +1,32 @@
+{
+  "investorId": "carl-icahn",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-25-002145","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 7886564146,
+  "holdings": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":494783619,"shareType":"SH","putCall":null,"value":3980534216,"ticker":"IEP","weight":0.504723},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":70418471,"shareType":"SH","putCall":null,"value":1890735946,"ticker":"CVI","weight":0.239741},
+    {"cusip":"844895102","name":"Southwest Gas Holdings Inc.","titleOfClass":"COM","shares":7532604,"shareType":"SH","putCall":null,"value":560350412,"ticker":"SWX","weight":0.071051},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4164274,"shareType":"SH","putCall":null,"value":369954102,"ticker":"UAN","weight":0.046909},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":3750000,"shareType":"SH","putCall":null,"value":275812500,"ticker":"IFF","weight":0.034972},
+    {"cusip":"071734107","name":"Bausch Health Companies Inc.","titleOfClass":"COM","shares":34721118,"shareType":"SH","putCall":null,"value":231242646,"ticker":"BHC","weight":0.029321},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":6403877,"shareType":"SH","putCall":null,"value":143703000,"ticker":"CTRI","weight":0.018221},
+    {"cusip":"477143101","name":"JetBlue Airways Corp.","titleOfClass":"COM","shares":33621735,"shareType":"SH","putCall":null,"value":142219939,"ticker":"JBLU","weight":0.018033},
+    {"cusip":"025537101","name":"American Electric Power Company","titleOfClass":"COM","shares":1205300,"shareType":"SH","putCall":null,"value":125061928,"ticker":"AEP","weight":0.015858},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":69274695,"ticker":"CZR","weight":0.008784},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":4818832,"shareType":"SH","putCall":null,"value":52139762,"ticker":"SD","weight":0.006611},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":3500000,"shareType":"SH","putCall":null,"value":45535000,"ticker":"BLCO","weight":0.005774}
+  ],
+  "changes": [
+    {"cusip":"451100101","ticker":"IEP","name":"Icahn Enterprises LP","putCall":null,"action":"add","shares":494783619,"prevShares":450788170},
+    {"cusip":"12662P108","ticker":"CVI","name":"CVR Energy Inc","putCall":null,"action":"add","shares":70418471,"prevShares":68534270},
+    {"cusip":"126633205","ticker":"UAN","name":"CVR Partners, LP","putCall":null,"action":"add","shares":4164274,"prevShares":4099155},
+    {"cusip":"155923105","ticker":"CTRI","name":"Centuri Holdings, Inc.","putCall":null,"action":"add","shares":6403877,"prevShares":2486495},
+    {"cusip":"235825205","ticker":"DAN","name":"Dana Inc.","putCall":null,"action":"exit","shares":0,"prevShares":14286505},
+    {"cusip":"452327109","ticker":"ILMN","name":"Illumina Inc.","putCall":null,"action":"exit","shares":0,"prevShares":220000}
+  ]
+}

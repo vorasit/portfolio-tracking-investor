@@ -1,0 +1,42 @@
+{
+  "cik": "1535472",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1535472","accession":"0001011438-25-000574","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"844895102","name":"SOUTHWEST GAS HLDGS INC","titleOfClass":"COM","shares":5030556,"shareType":"SH","putCall":null,"value":394093757},
+    {"cusip":"452327109","name":"ILLUMINA INC","titleOfClass":"COM","shares":3829608,"shareType":"SH","putCall":null,"value":363697872},
+    {"cusip":"81663L200","name":"GENEDX HOLDINGS CORP","titleOfClass":"COM CL A","shares":3058629,"shareType":"SH","putCall":null,"value":329536688},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":977529,"shareType":"SH","putCall":null,"value":214636043},
+    {"cusip":"552953101","name":"MGM RESORTS INTERNATIONAL","titleOfClass":"COM","shares":5385478,"shareType":"SH","putCall":null,"value":186660667},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":677863,"shareType":"SH","putCall":null,"value":160226477},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":2408743,"shareType":"SH","putCall":null,"value":154496776},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":1308000,"shareType":"SH","putCall":null,"value":149766000},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":500000,"shareType":"SH","putCall":"Call","value":118185000},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":349500,"shareType":"SH","putCall":null,"value":98293380},
+    {"cusip":"44891N208","name":"IAC INC","titleOfClass":"COM NEW","shares":2788379,"shareType":"SH","putCall":null,"value":95000073},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":1005434,"shareType":"SH","putCall":null,"value":94812426},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":173661,"shareType":"SH","putCall":null,"value":89947715},
+    {"cusip":"29430C102","name":"VESTIS CORPORATION","titleOfClass":"COM SHS","shares":18803899,"shareType":"SH","putCall":null,"value":85181662},
+    {"cusip":"151290889","name":"CEMEX SAB DE CV","titleOfClass":"SPON ADR NEW","shares":8600275,"shareType":"SH","putCall":null,"value":77316472},
+    {"cusip":"552690109","name":"MDU RES GROUP INC","titleOfClass":"COM","shares":4183151,"shareType":"SH","putCall":null,"value":74501919},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":250000,"shareType":"SH","putCall":"Call","value":59250000},
+    {"cusip":"256746108","name":"DOLLAR TREE INC","titleOfClass":"COM","shares":541300,"shareType":"SH","putCall":null,"value":51082481},
+    {"cusip":"422819102","name":"HEIDRICK & STRUGGLES INTL IN","titleOfClass":"COM","shares":1002462,"shareType":"SH","putCall":null,"value":49892534},
+    {"cusip":"34965K107","name":"FORTREA HLDGS INC","titleOfClass":"COMMON STOCK","shares":4508531,"shareType":"SH","putCall":null,"value":37961831},
+    {"cusip":"143658300","name":"CARNIVAL CORP","titleOfClass":"UNIT 99/99/9999","shares":1290810,"shareType":"SH","putCall":null,"value":37317317},
+    {"cusip":"015857105","name":"ALGONQUIN PWR UTILS CORP","titleOfClass":"COM","shares":6183855,"shareType":"SH","putCall":null,"value":33207301},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":"Call","value":32935500},
+    {"cusip":"143658300","name":"CARNIVAL CORP","titleOfClass":"UNIT 99/99/9999","shares":450000,"shareType":"SH","putCall":"Call","value":13009500},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":14500,"shareType":"SH","putCall":null,"value":3436500},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":32322,"shareType":"SH","putCall":null,"value":3134264},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":16250,"shareType":"SH","putCall":null,"value":3031925},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2400,"shareType":"SH","putCall":null,"value":1762512},
+    {"cusip":"L02235106","name":"ARDAGH METAL PACKAGING S A","titleOfClass":"SHS","shares":398835,"shareType":"SH","putCall":null,"value":1591352},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":2850,"shareType":"SH","putCall":null,"value":1267452},
+    {"cusip":"343928115","name":"FLYEXCLUSIVE INC","titleOfClass":"*W EXP 99/99/999","shares":200832,"shareType":"SH","putCall":null,"value":63764},
+    {"cusip":"34385P108","name":"STANDARD BIOTOOLS INC","titleOfClass":"COM","shares":44400,"shareType":"SH","putCall":null,"value":57720}
+  ]
+}

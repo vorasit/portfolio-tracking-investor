@@ -1,0 +1,45 @@
+{
+  "investorId": "duan-yongping",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-14",
+  "filings": [
+    {"cik":"1759760","accession":"0001759760-26-000007","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "totalValue": 19100584155,
+  "holdings": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":27098707,"shareType":"SH","putCall":null,"value":7841281858,"ticker":"AAPL","weight":0.410526},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":9229696,"shareType":"SH","putCall":null,"value":4618447581,"ticker":"BRK.B","weight":0.241796},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":25022094,"shareType":"SH","putCall":null,"value":1908685330,"ticker":"PDD","weight":0.099928},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":3380400,"shareType":"SH","putCall":null,"value":1421796240,"ticker":"TSLA","weight":0.074437},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":6280675,"shareType":"SH","putCall":null,"value":1256700261,"ticker":"NVDA","weight":0.065794},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1968600,"shareType":"SH","putCall":null,"value":695565438,"ticker":"GOOG","weight":0.036416},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":10261500,"shareType":"SH","putCall":null,"value":498401055,"ticker":"OXY","weight":0.026093},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":754100,"shareType":"SH","putCall":null,"value":281294382,"ticker":"MSFT","weight":0.014727},
+    {"cusip":"G25457105","name":"CREDO TECHNOLOGY GROUP HOLDI","titleOfClass":"ORDINARY SHARES","shares":701200,"shareType":"SH","putCall":null,"value":190691340,"ticker":"CRDO","weight":0.009984},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":399600,"shareType":"SH","putCall":null,"value":166085748,"ticker":"UNH","weight":0.008695},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":1706600,"shareType":"SH","putCall":null,"value":164260250,"ticker":"DIS","weight":0.0086},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":301400,"shareType":"SH","putCall":null,"value":28928372,"ticker":"BABA","weight":0.001515},
+    {"cusip":"172573107","name":"CIRCLE INTERNET GROUP INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":12526000,"ticker":"CRCL","weight":0.000656},
+    {"cusip":"69608A108","name":"PALANTIR TECHNOLOGIES INC","titleOfClass":"CL A","shares":60000,"shareType":"SH","putCall":null,"value":7000200,"ticker":"PLTR","weight":0.000366},
+    {"cusip":"871607107","name":"SYNOPSYS INC","titleOfClass":"COM","shares":10000,"shareType":"SH","putCall":null,"value":4460700,"ticker":"SNPS","weight":0.000234},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"COM SHS","shares":10000,"shareType":"SH","putCall":null,"value":2545000,"ticker":"SNOW","weight":0.000133},
+    {"cusip":"88023B103","name":"TEMPUS AI INC","titleOfClass":"CL A","shares":20000,"shareType":"SH","putCall":null,"value":1158600,"ticker":"TEM","weight":0.000061},
+    {"cusip":"457642205","name":"INNODATA INC","titleOfClass":"COM NEW","shares":10000,"shareType":"SH","putCall":null,"value":755800,"ticker":"INOD","weight":0.00004}
+  ],
+  "changes": [
+    {"cusip":"01609W102","ticker":"BABA","name":"ALIBABA GROUP HLDG LTD","putCall":null,"action":"new","shares":301400,"prevShares":0},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":9229696,"prevShares":9147796},
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":25022094,"prevShares":19748294},
+    {"cusip":"254687106","ticker":"DIS","name":"DISNEY WALT CO","putCall":null,"action":"add","shares":1706600,"prevShares":1511800},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"reduce","shares":27098707,"prevShares":28945607},
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"reduce","shares":3380400,"prevShares":3408900},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORPORATION","putCall":null,"action":"reduce","shares":6280675,"prevShares":13843775},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":1968600,"prevShares":3706000},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"reduce","shares":754100,"prevShares":1016000},
+    {"cusip":"G25457105","ticker":"CRDO","name":"CREDO TECHNOLOGY GROUP HOLDI","putCall":null,"action":"reduce","shares":701200,"prevShares":751200},
+    {"cusip":"91324P102","ticker":"UNH","name":"UNITEDHEALTH GROUP INC","putCall":null,"action":"reduce","shares":399600,"prevShares":601400},
+    {"cusip":"874039100","ticker":"TSM","name":"TAIWAN SEMICONDUCTOR MANUFAC","putCall":null,"action":"exit","shares":0,"prevShares":151200},
+    {"cusip":"22788C105","ticker":"CRWD","name":"CROWDSTRIKE HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":10000}
+  ]
+}

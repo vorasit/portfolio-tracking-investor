@@ -1,0 +1,30 @@
+{
+  "investorId": "dev-kantesaria",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-25-000001","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 4539792227,
+  "holdings": [
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":784122,"shareType":"SH","putCall":null,"value":1561132013,"ticker":"FICO","weight":0.343877},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1755098,"shareType":"SH","putCall":null,"value":874091457,"ticker":"SPGI","weight":0.19254},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1484772,"shareType":"SH","putCall":null,"value":781836392,"ticker":"MA","weight":0.172219},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1314144,"shareType":"SH","putCall":null,"value":622076345,"ticker":"MCO","weight":0.137027},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":912017,"shareType":"SH","putCall":null,"value":288233853,"ticker":"V","weight":0.063491},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":402281,"shareType":"SH","putCall":null,"value":252833609,"ticker":"INTU","weight":0.055693},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":125627,"shareType":"SH","putCall":null,"value":87069561,"ticker":"ASML","weight":0.019179},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":144000,"shareType":"SH","putCall":null,"value":36698400,"ticker":"EFX","weight":0.008084},
+    {"cusip":"55354G100","name":"MSCI INC","titleOfClass":"COM","shares":59700,"shareType":"SH","putCall":null,"value":35820597,"ticker":"MSCI","weight":0.00789}
+  ],
+  "changes": [
+    {"cusip":"294429105","ticker":"EFX","name":"EQUIFAX INC","putCall":null,"action":"new","shares":144000,"prevShares":0},
+    {"cusip":"55354G100","ticker":"MSCI","name":"MSCI INC","putCall":null,"action":"new","shares":59700,"prevShares":0},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"add","shares":1755098,"prevShares":1705898},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"add","shares":1314144,"prevShares":1288444},
+    {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC CORP","putCall":null,"action":"reduce","shares":784122,"prevShares":808793},
+    {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"reduce","shares":402281,"prevShares":444881},
+    {"cusip":"29109X106","ticker":null,"name":"ASPEN TECHNOLOGY INC","putCall":null,"action":"exit","shares":0,"prevShares":295485}
+  ]
+}

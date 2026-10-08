@@ -1,0 +1,24 @@
+{
+  "cik": "921669",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-25-000660","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":450788170,"shareType":"SH","putCall":null,"value":3908333434},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":66692381,"shareType":"SH","putCall":null,"value":1249815220},
+    {"cusip":"844895102","name":"Southwest Gas Holdings Inc.","titleOfClass":"COM","shares":9632604,"shareType":"SH","putCall":null,"value":681121429},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":3750000,"shareType":"SH","putCall":null,"value":317062500},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4066192,"shareType":"SH","putCall":null,"value":308867944},
+    {"cusip":"071734107","name":"Bausch Health Companies Inc.","titleOfClass":"COM","shares":34721118,"shareType":"SH","putCall":null,"value":279852211},
+    {"cusip":"235825205","name":"Dana Inc.","titleOfClass":"COM","shares":14286505,"shareType":"SH","putCall":null,"value":165151998},
+    {"cusip":"477143101","name":"JetBlue Airways Corp.","titleOfClass":"COM","shares":17727029,"shareType":"SH","putCall":null,"value":139334448},
+    {"cusip":"025537101","name":"American Electric Power Company","titleOfClass":"COM","shares":1205300,"shareType":"SH","putCall":null,"value":111164819},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":81548443},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":3500000,"shareType":"SH","putCall":null,"value":63210000},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":4818832,"shareType":"SH","putCall":null,"value":56428523},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":2486495,"shareType":"SH","putCall":null,"value":48014218},
+    {"cusip":"452327109","name":"Illumina Inc.","titleOfClass":"COM","shares":40000,"shareType":"SH","putCall":null,"value":5345200}
+  ]
+}

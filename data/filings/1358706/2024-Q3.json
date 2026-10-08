@@ -1,0 +1,24 @@
+{
+  "cik": "1358706",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1358706","accession":"0001172661-24-004539","form":"13F-HR","filedAt":"2024-11-08","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"53947R105","name":"LOAR HOLDINGS INC","titleOfClass":"COM SHS","shares":38434378,"shareType":"SH","putCall":null,"value":2866820255},
+    {"cusip":"536797103","name":"LITHIA MTRS INC","titleOfClass":"COM","shares":2391188,"shareType":"SH","putCall":null,"value":759536956},
+    {"cusip":"043436104","name":"ASBURY AUTOMOTIVE GROUP INC","titleOfClass":"COM","shares":2108540,"shareType":"SH","putCall":null,"value":503076559},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":620547,"shareType":"SH","putCall":null,"value":355225925},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2067195,"shareType":"SH","putCall":null,"value":342844291},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":13017964,"shareType":"SH","putCall":null,"value":319591016},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":17834322,"shareType":"SH","putCall":null,"value":286240868},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":3403736,"shareType":"SH","putCall":null,"value":245068992},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":720779,"shareType":"SH","putCall":null,"value":212291039},
+    {"cusip":"88023U101","name":"TEMPUR SEALY INTL INC","titleOfClass":"COM","shares":3600000,"shareType":"SH","putCall":null,"value":196560000},
+    {"cusip":"13462K109","name":"CAMPING WORLD HLDGS INC","titleOfClass":"CL A","shares":3108808,"shareType":"SH","putCall":null,"value":75295330},
+    {"cusip":"138103106","name":"CANTALOUPE INC","titleOfClass":"COM","shares":7180000,"shareType":"SH","putCall":null,"value":53132000},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":3811513,"shareType":"SH","putCall":null,"value":8728365},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":36401,"shareType":"SH","putCall":null,"value":2820349}
+  ]
+}

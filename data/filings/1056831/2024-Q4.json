@@ -1,0 +1,20 @@
+{
+  "cik": "1056831",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-25-001521","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":20617467,"shareType":"SH","putCall":null,"value":926342792},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5448900,"shareType":"SH","putCall":null,"value":170877504},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":643402,"shareType":"SH","putCall":null,"value":28650699},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":48717,"shareType":"SH","putCall":null,"value":22082442},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":852900,"shareType":"SH","putCall":null,"value":16708311},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":261450,"shareType":"SH","putCall":null,"value":15300054},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":680920},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":601008},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":9000,"shareType":"SH","putCall":null,"value":444690},
+    {"cusip":"26875P101","name":"EOG RES INC","titleOfClass":"COM","shares":2000,"shareType":"SH","putCall":null,"value":245160}
+  ]
+}

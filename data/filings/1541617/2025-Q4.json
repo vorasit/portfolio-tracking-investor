@@ -1,0 +1,28 @@
+{
+  "cik": "1541617",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1541617","accession":"0001541617-26-000002","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":8099773,"shareType":"SH","putCall":null,"value":1510607666},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1845368,"shareType":"SH","putCall":null,"value":1218108963},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1277352,"shareType":"SH","putCall":null,"value":617752974},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":2215660,"shareType":"SH","putCall":null,"value":511418641},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":5588792,"shareType":"SH","putCall":null,"value":456660194},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"COM SHS","shares":2027604,"shareType":"SH","putCall":null,"value":444775213},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":1219227,"shareType":"SH","putCall":null,"value":370510893},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":15676794,"shareType":"SH","putCall":null,"value":369815571},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":3213230,"shareType":"SH","putCall":null,"value":230099400},
+    {"cusip":"20717M103","name":"CONFLUENT INC","titleOfClass":"CLASS A COM","shares":6933250,"shareType":"SH","putCall":null,"value":209661480},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":519290,"shareType":"SH","putCall":null,"value":162537770},
+    {"cusip":"98954M200","name":"ZILLOW GROUP INC","titleOfClass":"CL C CAP STK","shares":2187421,"shareType":"SH","putCall":null,"value":149225860},
+    {"cusip":"770700102","name":"ROBINHOOD MKTS INC","titleOfClass":"COM CL A","shares":1293292,"shareType":"SH","putCall":null,"value":146271326},
+    {"cusip":"58733R102","name":"MERCADOLIBRE INC","titleOfClass":"COM","shares":68480,"shareType":"SH","putCall":null,"value":137936524},
+    {"cusip":"82509L107","name":"SHOPIFY INC","titleOfClass":"CL A SUB VTG","shares":570210,"shareType":"SH","putCall":null,"value":91786704},
+    {"cusip":"093712107","name":"BLOOM ENERGY CORP","titleOfClass":"COM CL A","shares":260730,"shareType":"SH","putCall":null,"value":22654831},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":32129,"shareType":"SH","putCall":null,"value":11119847},
+    {"cusip":"G0370L116","name":"GRAB HOLDINGS LIMITED","titleOfClass":"W EXP 12/1/202","shares":3502000,"shareType":"SH","putCall":null,"value":1029588}
+  ]
+}

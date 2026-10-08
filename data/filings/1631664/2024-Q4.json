@@ -1,0 +1,14 @@
+{
+  "cik": "1631664",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1631664","accession":"0001398344-25-002912","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":349,"shareType":"SH","putCall":null,"value":237641080},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58295952},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":130000,"shareType":"SH","putCall":null,"value":12608700},
+    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":648956,"shareType":"SH","putCall":null,"value":6557700}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "1484150",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1484150","accession":"0001172661-24-004289","form":"13F-HR","filedAt":"2024-10-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":10210428,"shareType":"SH","putCall":null,"value":752202231},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":294443,"shareType":"SH","putCall":null,"value":572255859},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":916191,"shareType":"SH","putCall":null,"value":568954611},
+    {"cusip":"87256C101","name":"TKO GROUP HOLDINGS INC","titleOfClass":"CL A","shares":4521555,"shareType":"SH","putCall":null,"value":559361569},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":5451412,"shareType":"SH","putCall":null,"value":524371320},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":2769611,"shareType":"SH","putCall":null,"value":470972351},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":4591779,"shareType":"SH","putCall":null,"value":358296515},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":4108022,"shareType":"SH","putCall":null,"value":267473312},
+    {"cusip":"115637100","name":"BROWN FORMAN CORP","titleOfClass":"CL A","shares":2873915,"shareType":"SH","putCall":null,"value":138177833},
+    {"cusip":"G5784H106","name":"MANCHESTER UTD PLC NEW","titleOfClass":"ORD CL A","shares":6371000,"shareType":"SH","putCall":null,"value":103082780},
+    {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1640005,"shareType":"SH","putCall":null,"value":80688246},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":19200,"shareType":"SH","putCall":null,"value":3271680},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":11600,"shareType":"SH","putCall":null,"value":3145920},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":11200,"shareType":"SH","putCall":null,"value":3079440},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":5900,"shareType":"SH","putCall":null,"value":3048058},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":10300,"shareType":"SH","putCall":null,"value":3026758},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":17750,"shareType":"SH","putCall":null,"value":2943838},
+    {"cusip":"194162103","name":"COLGATE PALMOLIVE CO","titleOfClass":"COM","shares":20100,"shareType":"SH","putCall":null,"value":2086581},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"COM","shares":7300,"shareType":"SH","putCall":null,"value":1956108},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":8600,"shareType":"SH","putCall":null,"value":1897590},
+    {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":3560,"shareType":"SH","putCall":null,"value":1843297},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":20400,"shareType":"SH","putCall":null,"value":1803360},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":21100,"shareType":"SH","putCall":null,"value":1516246},
+    {"cusip":"518439104","name":"LAUDER ESTEE COS INC","titleOfClass":"CL A","shares":14425,"shareType":"SH","putCall":null,"value":1438028},
+    {"cusip":"74144T108","name":"PRICE T ROWE GROUP INC","titleOfClass":"COM","shares":12000,"shareType":"SH","putCall":null,"value":1307160},
+    {"cusip":"478160104","name":"JOHNSON & JOHNSON","titleOfClass":"COM","shares":6065,"shareType":"SH","putCall":null,"value":982894},
+    {"cusip":"427866108","name":"HERSHEY CO","titleOfClass":"COM","shares":5100,"shareType":"SH","putCall":null,"value":978078},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":3300,"shareType":"SH","putCall":null,"value":687258},
+    {"cusip":"49177J102","name":"KENVUE INC","titleOfClass":"COM","shares":14739,"shareType":"SH","putCall":null,"value":340913}
+  ]
+}

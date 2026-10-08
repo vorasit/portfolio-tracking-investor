@@ -1,0 +1,52 @@
+{
+  "investorId": "jeff-smith",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1517137","accession":"0000921895-25-001532","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 5498476636,
+  "holdings": [
+    {"cusip":"74736K101","name":"QORVO INC","titleOfClass":"COM","shares":8270000,"shareType":"SH","putCall":null,"value":598830700,"ticker":null,"weight":0.108908},
+    {"cusip":"49177J102","name":"KENVUE INC","titleOfClass":"COM","shares":22054000,"shareType":"SH","putCall":null,"value":528854920,"ticker":"KVUE","weight":0.096182},
+    {"cusip":"052769106","name":"AUTODESK INC","titleOfClass":"COM","shares":2000000,"shareType":"SH","putCall":null,"value":523600000,"ticker":"ADSK","weight":0.095226},
+    {"cusip":"668771108","name":"GEN DIGITAL INC","titleOfClass":"COM","shares":17516604,"shareType":"SH","putCall":null,"value":464890670,"ticker":"GEN","weight":0.084549},
+    {"cusip":"57667L107","name":"MATCH GROUP INC NEW","titleOfClass":"COM","shares":14085901,"shareType":"SH","putCall":null,"value":439480111,"ticker":"MTCH","weight":0.079928},
+    {"cusip":"075887109","name":"BECTON DICKINSON & CO","titleOfClass":"COM","shares":1749000,"shareType":"SH","putCall":null,"value":400625940,"ticker":"BDX","weight":0.072861},
+    {"cusip":"015857105","name":"ALGONQUIN PWR UTILS CORP","titleOfClass":"COM","shares":66433000,"shareType":"SH","putCall":null,"value":341465620,"ticker":"AQN","weight":0.062102},
+    {"cusip":"42226K105","name":"HEALTHCARE RLTY TR","titleOfClass":"CL A COM","shares":20072000,"shareType":"SH","putCall":null,"value":339216800,"ticker":"HR","weight":0.061693},
+    {"cusip":"01626W101","name":"ALIGHT INC","titleOfClass":"COM CL A","shares":47924000,"shareType":"SH","putCall":null,"value":284189320,"ticker":null,"weight":0.051685},
+    {"cusip":"65249B208","name":"NEWS CORP NEW","titleOfClass":"CL B","shares":7814831,"shareType":"SH","putCall":null,"value":237336417,"ticker":"NWS","weight":0.043164},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":849679,"shareType":"SH","putCall":null,"value":228019856,"ticker":"CRM","weight":0.04147},
+    {"cusip":"464287507","name":"ISHARES TR","titleOfClass":"CORE S&P MCP ETF","shares":3564875,"shareType":"SH","putCall":null,"value":208010456,"ticker":"IJH","weight":0.037831},
+    {"cusip":"65249B109","name":"NEWS CORP NEW","titleOfClass":"CL A","shares":7201393,"shareType":"SH","putCall":null,"value":196021917,"ticker":"NWSA","weight":0.03565},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":7731000,"shareType":"SH","putCall":null,"value":195903540,"ticker":"PFE","weight":0.035629},
+    {"cusip":"003881307","name":"ACACIA RESH CORP","titleOfClass":"ACACIA TCH COM","shares":61123595,"shareType":"SH","putCall":null,"value":195595504,"ticker":"ACTG","weight":0.035573},
+    {"cusip":"767292105","name":"RIOT PLATFORMS INC","titleOfClass":"COM","shares":12700000,"shareType":"SH","putCall":null,"value":90424000,"ticker":"RIOT","weight":0.016445},
+    {"cusip":"094235108","name":"BLOOMIN BRANDS INC","titleOfClass":"COM","shares":8441000,"shareType":"SH","putCall":null,"value":60521970,"ticker":"BLMN","weight":0.011007},
+    {"cusip":"775133101","name":"ROGERS CORP","titleOfClass":"COM","shares":804000,"shareType":"SH","putCall":null,"value":54294120,"ticker":"ROG","weight":0.009874},
+    {"cusip":"34965K107","name":"FORTREA HLDGS INC","titleOfClass":"COMMON STOCK","shares":5268000,"shareType":"SH","putCall":null,"value":39773400,"ticker":"FTRE","weight":0.007234},
+    {"cusip":"39304D102","name":"GREEN DOT CORP","titleOfClass":"CL A","shares":4604381,"shareType":"SH","putCall":null,"value":38860976,"ticker":"GDOT","weight":0.007068},
+    {"cusip":"74935Q107","name":"RB GLOBAL INC","titleOfClass":"COM","shares":251163,"shareType":"SH","putCall":null,"value":25191649,"ticker":"RBA","weight":0.004582},
+    {"cusip":"92940WAD1","name":"WIX COM LTD","titleOfClass":"NOTE 8/1","shares":7500000,"shareType":"PRN","putCall":null,"value":7368750,"ticker":null,"weight":0.00134}
+  ],
+  "changes": [
+    {"cusip":"74736K101","ticker":null,"name":"QORVO INC","putCall":null,"action":"new","shares":8270000,"prevShares":0},
+    {"cusip":"075887109","ticker":"BDX","name":"BECTON DICKINSON & CO","putCall":null,"action":"new","shares":1749000,"prevShares":0},
+    {"cusip":"49177J102","ticker":"KVUE","name":"KENVUE INC","putCall":null,"action":"add","shares":22054000,"prevShares":21914000},
+    {"cusip":"052769106","ticker":"ADSK","name":"AUTODESK INC","putCall":null,"action":"add","shares":2000000,"prevShares":1038000},
+    {"cusip":"015857105","ticker":"AQN","name":"ALGONQUIN PWR UTILS CORP","putCall":null,"action":"add","shares":66433000,"prevShares":65316000},
+    {"cusip":"01626W101","ticker":null,"name":"ALIGHT INC","putCall":null,"action":"add","shares":47924000,"prevShares":47228000},
+    {"cusip":"79466L302","ticker":"CRM","name":"SALESFORCE INC","putCall":null,"action":"add","shares":849679,"prevShares":559264},
+    {"cusip":"57667L107","ticker":"MTCH","name":"MATCH GROUP INC NEW","putCall":null,"action":"reduce","shares":14085901,"prevShares":14656970},
+    {"cusip":"42226K105","ticker":"HR","name":"HEALTHCARE RLTY TR","putCall":null,"action":"reduce","shares":20072000,"prevShares":20183460},
+    {"cusip":"65249B208","ticker":"NWS","name":"NEWS CORP NEW","putCall":null,"action":"reduce","shares":7814831,"prevShares":8482000},
+    {"cusip":"464287507","ticker":"IJH","name":"ISHARES TR","putCall":null,"action":"reduce","shares":3564875,"prevShares":3965268},
+    {"cusip":"717081103","ticker":"PFE","name":"PFIZER INC","putCall":null,"action":"reduce","shares":7731000,"prevShares":15368658},
+    {"cusip":"767292105","ticker":"RIOT","name":"RIOT PLATFORMS INC","putCall":null,"action":"reduce","shares":12700000,"prevShares":12704035},
+    {"cusip":"34965K107","ticker":"FTRE","name":"FORTREA HLDGS INC","putCall":null,"action":"reduce","shares":5268000,"prevShares":7478000},
+    {"cusip":"380237107","ticker":"GDDY","name":"GODADDY INC","putCall":null,"action":"exit","shares":0,"prevShares":2830100},
+    {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"exit","shares":0,"prevShares":840000}
+  ]
+}

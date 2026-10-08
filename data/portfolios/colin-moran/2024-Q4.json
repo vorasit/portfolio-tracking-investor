@@ -1,0 +1,26 @@
+{
+  "investorId": "colin-moran",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000150","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 1622875999,
+  "holdings": [
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":5079371,"shareType":"SH","putCall":null,"value":430273517,"ticker":"BILL","weight":0.26513},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10179538,"shareType":"SH","putCall":null,"value":335721163,"ticker":"APPN","weight":0.206868},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":3915413,"shareType":"SH","putCall":null,"value":213507471,"ticker":"GLBE","weight":0.131561},
+    {"cusip":"443573100","name":"HUBSPOT INC","titleOfClass":"COM","shares":295789,"shareType":"SH","putCall":null,"value":206096902,"ticker":"HUBS","weight":0.126995},
+    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1727731,"shareType":"SH","putCall":null,"value":172254781,"ticker":"FND","weight":0.106142},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3829470,"shareType":"SH","putCall":null,"value":139584182,"ticker":"TOST","weight":0.08601},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":2059737,"shareType":"SH","putCall":null,"value":125437983,"ticker":"AFRM","weight":0.077294}
+  ],
+  "changes": [
+    {"cusip":"03782L101","ticker":"APPN","name":"APPIAN CORP","putCall":null,"action":"add","shares":10179538,"prevShares":10169273},
+    {"cusip":"090043100","ticker":"BILL","name":"BILL HOLDINGS INC","putCall":null,"action":"reduce","shares":5079371,"prevShares":5121139},
+    {"cusip":"M5216V106","ticker":"GLBE","name":"GLOBAL E ONLINE LTD","putCall":null,"action":"reduce","shares":3915413,"prevShares":5927495},
+    {"cusip":"443573100","ticker":"HUBS","name":"HUBSPOT INC","putCall":null,"action":"reduce","shares":295789,"prevShares":505755},
+    {"cusip":"888787108","ticker":"TOST","name":"TOAST INC","putCall":null,"action":"reduce","shares":3829470,"prevShares":8550701}
+  ]
+}

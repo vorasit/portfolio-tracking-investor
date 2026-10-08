@@ -1,0 +1,20 @@
+{
+  "cik": "1671657",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-26-003214","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":192343,"shareType":"SH","putCall":null,"value":205780082},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":827520,"shareType":"SH","putCall":null,"value":189435878},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1215059,"shareType":"SH","putCall":null,"value":174676882},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":160450,"shareType":"SH","putCall":null,"value":105911441},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":16317,"shareType":"SH","putCall":null,"value":87382920},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2259469,"shareType":"SH","putCall":null,"value":87305882},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":602973,"shareType":"SH","putCall":null,"value":85923653},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":25121,"shareType":"SH","putCall":null,"value":85197872},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":216906,"shareType":"SH","putCall":null,"value":68065103},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2279200,"shareType":"SH","putCall":null,"value":60717888}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cik": "1484150",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1484150","accession":"0001172661-26-002623","form":"13F-HR","filedAt":"2026-07-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":1286845,"shareType":"SH","putCall":null,"value":459879798},
+    {"cusip":"87256C101","name":"TKO GROUP HOLDINGS INC","titleOfClass":"CL A","shares":2098862,"shareType":"SH","putCall":null,"value":422521909},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":226186,"shareType":"SH","putCall":null,"value":270242509},
+    {"cusip":"883556102","name":"THERMO FISHER SCIENTIFIC INC","titleOfClass":"COM","shares":514512,"shareType":"SH","putCall":null,"value":257955736},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":2607846,"shareType":"SH","putCall":null,"value":251005178},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":666883,"shareType":"SH","putCall":null,"value":174056463},
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":2565453,"shareType":"SH","putCall":null,"value":148385802},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":1023706,"shareType":"SH","putCall":null,"value":138609792},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":3162672,"shareType":"SH","putCall":null,"value":136564177},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":1116001,"shareType":"SH","putCall":null,"value":124713112},
+    {"cusip":"G5784H106","name":"MANCHESTER UTD PLC NEW","titleOfClass":"ORD CL A","shares":2758446,"shareType":"SH","putCall":null,"value":63251167},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":667780,"shareType":"SH","putCall":null,"value":61288848},
+    {"cusip":"115637100","name":"BROWN FORMAN CORP","titleOfClass":"CL A","shares":2134789,"shareType":"SH","putCall":null,"value":58407827},
+    {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1379324,"shareType":"SH","putCall":null,"value":36758985},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":10500,"shareType":"SH","putCall":null,"value":3602445},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":7400,"shareType":"SH","putCall":null,"value":3013724},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":2599500},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":7600,"shareType":"SH","putCall":null,"value":2570700},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":11800,"shareType":"SH","putCall":null,"value":1872896},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"COM","shares":9500,"shareType":"SH","putCall":null,"value":1705535},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":6900,"shareType":"SH","putCall":null,"value":1523727},
+    {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":7000,"shareType":"SH","putCall":null,"value":1435140},
+    {"cusip":"934550203","name":"WARNER MUSIC GROUP CORP","titleOfClass":"COM CL A","shares":50000,"shareType":"SH","putCall":null,"value":1353500},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":9000,"shareType":"SH","putCall":null,"value":1318950},
+    {"cusip":"518439104","name":"LAUDER ESTEE COS INC","titleOfClass":"CL A","shares":15000,"shareType":"SH","putCall":null,"value":1184250},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":2800,"shareType":"SH","putCall":null,"value":1125152},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":12000,"shareType":"SH","putCall":null,"value":975240},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":21000,"shareType":"SH","putCall":null,"value":862050}
+  ]
+}

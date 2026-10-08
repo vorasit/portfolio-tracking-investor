@@ -1,0 +1,20 @@
+{
+  "cik": "1766908",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-24-004670","form":"13F-HR","filedAt":"2024-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":1319879,"shareType":"SH","putCall":null,"value":116941279},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":350530,"shareType":"SH","putCall":null,"value":97366718},
+    {"cusip":"81141R100","name":"SEA LTD","titleOfClass":"SPONSORD ADS","shares":943179,"shareType":"SH","putCall":null,"value":88922916},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1438082,"shareType":"SH","putCall":null,"value":88758421},
+    {"cusip":"44891N208","name":"IAC INC","titleOfClass":"COM NEW","shares":1579928,"shareType":"SH","putCall":null,"value":85031725},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":2653687,"shareType":"SH","putCall":null,"value":83829972},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":2963346,"shareType":"SH","putCall":null,"value":72750144},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":289420,"shareType":"SH","putCall":null,"value":66711310},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":106952,"shareType":"SH","putCall":null,"value":66417192},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":6629990,"shareType":"SH","putCall":null,"value":24862463}
+  ]
+}

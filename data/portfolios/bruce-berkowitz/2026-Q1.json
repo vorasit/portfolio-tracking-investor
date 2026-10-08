@@ -1,0 +1,40 @@
+{
+  "investorId": "bruce-berkowitz",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-003485","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 1514192261,
+  "holdings": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":19210167,"shareType":"SH","putCall":null,"value":1206398488,"ticker":"JOE","weight":0.796727},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5455800,"shareType":"SH","putCall":null,"value":206447472,"ticker":"EPD","weight":0.136342},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":921252,"shareType":"SH","putCall":null,"value":42276263,"ticker":"OZK","weight":0.02792},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":50452,"shareType":"SH","putCall":null,"value":24176598,"ticker":"BRK.B","weight":0.015967},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":256350,"shareType":"SH","putCall":null,"value":16990878,"ticker":"WRB","weight":0.011221},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":66400,"shareType":"SH","putCall":null,"value":13163136,"ticker":"PGR","weight":0.008693},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":105300,"shareType":"SH","putCall":null,"value":2368197,"ticker":"KHC","weight":0.001564},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":2,"shareType":"SH","putCall":null,"value":1436280,"ticker":"BRK.A","weight":0.000949},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":609096,"ticker":"AAPL","weight":0.000402},
+    {"cusip":"436893200","name":"HOME BANCSHARES INC","titleOfClass":"COM","shares":12100,"shareType":"SH","putCall":null,"value":325853,"ticker":"HOMB","weight":0.000215}
+  ],
+  "changes": [
+    {"cusip":"500754106","ticker":"KHC","name":"KRAFT HEINZ CO","putCall":null,"action":"new","shares":105300,"prevShares":0},
+    {"cusip":"436893200","ticker":"HOMB","name":"HOME BANCSHARES INC","putCall":null,"action":"new","shares":12100,"prevShares":0},
+    {"cusip":"293792107","ticker":"EPD","name":"ENTERPRISE PRODS PARTNERS L","putCall":null,"action":"add","shares":5455800,"prevShares":5450400},
+    {"cusip":"06417N103","ticker":"OZK","name":"BANK OZK","putCall":null,"action":"add","shares":921252,"prevShares":913652},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":50452,"prevShares":48012},
+    {"cusip":"743315103","ticker":"PGR","name":"PROGRESSIVE CORP","putCall":null,"action":"add","shares":66400,"prevShares":25600},
+    {"cusip":"084670108","ticker":"BRK.A","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":2,"prevShares":1},
+    {"cusip":"790148100","ticker":"JOE","name":"ST JOE CO","putCall":null,"action":"reduce","shares":19210167,"prevShares":19422467},
+    {"cusip":"084423102","ticker":"WRB","name":"WR BERKLEY CORP","putCall":null,"action":"reduce","shares":256350,"prevShares":260150},
+    {"cusip":"125269100","ticker":"CF","name":"CF INDS HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":54700},
+    {"cusip":"674599105","ticker":"OXY","name":"OCCIDENTAL PETE CORP","putCall":null,"action":"exit","shares":0,"prevShares":69100},
+    {"cusip":"29273V100","ticker":"ET","name":"ENERGY TRANSFER L P","putCall":null,"action":"exit","shares":0,"prevShares":166600},
+    {"cusip":"87612E106","ticker":"TGT","name":"TARGET CORP","putCall":null,"action":"exit","shares":0,"prevShares":23000},
+    {"cusip":"63900P608","ticker":"NRP","name":"NATURAL RESOURCE PARTNERS L","putCall":null,"action":"exit","shares":0,"prevShares":12000},
+    {"cusip":"25278X109","ticker":"FANG","name":"DIAMONDBACK ENERGY INC","putCall":null,"action":"exit","shares":0,"prevShares":4000},
+    {"cusip":"26875P101","ticker":"EOG","name":"EOG RES INC","putCall":null,"action":"exit","shares":0,"prevShares":2000}
+  ]
+}

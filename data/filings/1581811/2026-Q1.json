@@ -1,0 +1,34 @@
+{
+  "cik": "1581811",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1581811","accession":"0001581811-26-000005","form":"13F-HR","filedAt":"2026-05-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":4110970,"shareType":"SH","putCall":null,"value":1242499573},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3459649,"shareType":"SH","putCall":null,"value":992434912},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1545670,"shareType":"SH","putCall":null,"value":674298538},
+    {"cusip":"G54950103","name":"LINDE PLC","titleOfClass":"SHS","shares":1068371,"shareType":"SH","putCall":null,"value":529655607},
+    {"cusip":"144285103","name":"CARPENTER TECHNOLOGY CORP","titleOfClass":"COM","shares":1330920,"shareType":"SH","putCall":null,"value":524582118},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":2363334,"shareType":"SH","putCall":null,"value":492211572},
+    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":1769216,"shareType":"SH","putCall":null,"value":481757517},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":2675018,"shareType":"SH","putCall":null,"value":466523139},
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":6275179,"shareType":"SH","putCall":null,"value":420876256},
+    {"cusip":"032095101","name":"AMPHENOL CORP","titleOfClass":"CL A","shares":2871353,"shareType":"SH","putCall":null,"value":362795452},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":1182907,"shareType":"SH","putCall":null,"value":349371582},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":4652363,"shareType":"SH","putCall":null,"value":334644471},
+    {"cusip":"25179M103","name":"DEVON ENERGY CORP NEW","titleOfClass":"COM","shares":6525140,"shareType":"SH","putCall":null,"value":328345045},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":2759331,"shareType":"SH","putCall":null,"value":290060875},
+    {"cusip":"136385101","name":"CANADIAN NAT RES LTD MED TER","titleOfClass":"COM","shares":5690211,"shareType":"SH","putCall":null,"value":277056374},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":459652,"shareType":"SH","putCall":null,"value":229669718},
+    {"cusip":"58507V107","name":"MEDLINE INC","titleOfClass":"COM CL A","shares":4365802,"shareType":"SH","putCall":null,"value":194278189},
+    {"cusip":"29082A107","name":"EMBRAER S.A.","titleOfClass":"SPONSORED ADS","shares":2975231,"shareType":"SH","putCall":null,"value":176550208},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":634258,"shareType":"SH","putCall":null,"value":147947021},
+    {"cusip":"512816109","name":"LAMAR ADVERTISING CO","titleOfClass":"CL A","shares":1088744,"shareType":"SH","putCall":null,"value":137900315},
+    {"cusip":"G0450A105","name":"ARCH CAP GROUP LTD","titleOfClass":"ORD","shares":1116922,"shareType":"SH","putCall":null,"value":107213343},
+    {"cusip":"G7496G103","name":"RENAISSANCERE HLDGS LTD","titleOfClass":"COM","shares":317308,"shareType":"SH","putCall":null,"value":94313457},
+    {"cusip":"650111107","name":"NEW YORK TIMES CO MTN BE","titleOfClass":"CL A","shares":971884,"shareType":"SH","putCall":null,"value":81375847},
+    {"cusip":"04247X102","name":"ARMSTRONG WORLD INDS INC NEW","titleOfClass":"COM","shares":448036,"shareType":"SH","putCall":null,"value":73836333}
+  ]
+}

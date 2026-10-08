@@ -1,0 +1,36 @@
+{
+  "investorId": "pat-dorsey",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-015394","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 1115187507,
+  "holdings": [
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":926992,"shareType":"SH","putCall":null,"value":183118000,"ticker":"DHR","weight":0.164204},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":245108,"shareType":"SH","putCall":null,"value":180911764,"ticker":"META","weight":0.162225},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1361118,"shareType":"SH","putCall":null,"value":159250806,"ticker":"AER","weight":0.142802},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":35667,"shareType":"SH","putCall":null,"value":132404107,"ticker":"AZO","weight":0.118728},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":661990,"shareType":"SH","putCall":null,"value":117430406,"ticker":"GOOG","weight":0.105301},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":139989,"shareType":"SH","putCall":null,"value":112185785,"ticker":"ASML","weight":0.100598},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":18290,"shareType":"SH","putCall":null,"value":105885200,"ticker":"BKNG","weight":0.094948},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2553180,"shareType":"SH","putCall":null,"value":80067725,"ticker":"ENOV","weight":0.071798},
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":146777,"shareType":"SH","putCall":null,"value":23258283,"ticker":"WIX","weight":0.020856},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2284578,"shareType":"SH","putCall":null,"value":20675431,"ticker":null,"weight":0.01854}
+  ],
+  "changes": [
+    {"cusip":"194014502","ticker":"ENOV","name":"ENOVIS CORPORATION","putCall":null,"action":"new","shares":2553180,"prevShares":0},
+    {"cusip":"235851102","ticker":"DHR","name":"DANAHER CORPORATION","putCall":null,"action":"add","shares":926992,"prevShares":691304},
+    {"cusip":"N00985106","ticker":"AER","name":"AERCAP HOLDINGS NV","putCall":null,"action":"add","shares":1361118,"prevShares":1138542},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"add","shares":661990,"prevShares":638751},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"add","shares":139989,"prevShares":70571},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS INC","putCall":null,"action":"add","shares":18290,"prevShares":15969},
+    {"cusip":"81686C104","ticker":null,"name":"SEMRUSH HLDGS INC","putCall":null,"action":"add","shares":2284578,"prevShares":2256733},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":245108,"prevShares":247057},
+    {"cusip":"053332102","ticker":"AZO","name":"AUTOZONE INC","putCall":null,"action":"reduce","shares":35667,"prevShares":37543},
+    {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"reduce","shares":146777,"prevShares":319382},
+    {"cusip":"70450Y103","ticker":"PYPL","name":"PAYPAL HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":858231},
+    {"cusip":"85209W109","ticker":"SPT","name":"SPROUT SOCIAL INC","putCall":null,"action":"exit","shares":0,"prevShares":2304414}
+  ]
+}

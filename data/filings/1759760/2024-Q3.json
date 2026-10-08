@@ -1,0 +1,18 @@
+{
+  "cik": "1759760",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1759760","accession":"0001085146-24-005748","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":52769155,"shareType":"SH","putCall":null,"value":12295213115},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3782100,"shareType":"SH","putCall":null,"value":1740749346},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":5066300,"shareType":"SH","putCall":null,"value":847034697},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":5443730,"shareType":"SH","putCall":null,"value":577688628},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":3907600,"shareType":"SH","putCall":null,"value":526783556},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":9223700,"shareType":"SH","putCall":null,"value":475389498},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":748500,"shareType":"SH","putCall":null,"value":71998215},
+    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":97700,"shareType":"SH","putCall":null,"value":6529291}
+  ]
+}

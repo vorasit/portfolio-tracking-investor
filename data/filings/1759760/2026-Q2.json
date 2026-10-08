@@ -1,0 +1,28 @@
+{
+  "cik": "1759760",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1759760","accession":"0001759760-26-000007","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":27098707,"shareType":"SH","putCall":null,"value":7841281858},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":9229696,"shareType":"SH","putCall":null,"value":4618447581},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":25022094,"shareType":"SH","putCall":null,"value":1908685330},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":3380400,"shareType":"SH","putCall":null,"value":1421796240},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":6280675,"shareType":"SH","putCall":null,"value":1256700261},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1968600,"shareType":"SH","putCall":null,"value":695565438},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":10261500,"shareType":"SH","putCall":null,"value":498401055},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":754100,"shareType":"SH","putCall":null,"value":281294382},
+    {"cusip":"G25457105","name":"CREDO TECHNOLOGY GROUP HOLDI","titleOfClass":"ORDINARY SHARES","shares":701200,"shareType":"SH","putCall":null,"value":190691340},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":399600,"shareType":"SH","putCall":null,"value":166085748},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":1706600,"shareType":"SH","putCall":null,"value":164260250},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":301400,"shareType":"SH","putCall":null,"value":28928372},
+    {"cusip":"172573107","name":"CIRCLE INTERNET GROUP INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":12526000},
+    {"cusip":"69608A108","name":"PALANTIR TECHNOLOGIES INC","titleOfClass":"CL A","shares":60000,"shareType":"SH","putCall":null,"value":7000200},
+    {"cusip":"871607107","name":"SYNOPSYS INC","titleOfClass":"COM","shares":10000,"shareType":"SH","putCall":null,"value":4460700},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"COM SHS","shares":10000,"shareType":"SH","putCall":null,"value":2545000},
+    {"cusip":"88023B103","name":"TEMPUS AI INC","titleOfClass":"CL A","shares":20000,"shareType":"SH","putCall":null,"value":1158600},
+    {"cusip":"457642205","name":"INNODATA INC","titleOfClass":"COM NEW","shares":10000,"shareType":"SH","putCall":null,"value":755800}
+  ]
+}

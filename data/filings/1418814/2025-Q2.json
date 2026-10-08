@@ -1,0 +1,28 @@
+{
+  "cik": "1418814",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1418814","accession":"0001418812-25-000025","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3872500,"shareType":"SH","putCall":null,"value":849587775},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2898509,"shareType":"SH","putCall":null,"value":790394419},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":5087631,"shareType":"SH","putCall":null,"value":630917120},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":4732021,"shareType":"SH","putCall":null,"value":497808609},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":623374,"shareType":"SH","putCall":null,"value":460106116},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":1244950,"shareType":"SH","putCall":null,"value":442019498},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":2861739,"shareType":"SH","putCall":null,"value":395163230},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":3991888,"shareType":"SH","putCall":null,"value":323981630},
+    {"cusip":"829073105","name":"SIMPSON MFG INC","titleOfClass":"COM","shares":1406105,"shareType":"SH","putCall":null,"value":218382168},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":15125609,"shareType":"SH","putCall":null,"value":214481136},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":690500,"shareType":"SH","putCall":null,"value":144998095},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":1773148,"shareType":"SH","putCall":null,"value":140929803},
+    {"cusip":"62482R107","name":"MR COOPER GROUP INC","titleOfClass":"COM","shares":904800,"shareType":"SH","putCall":null,"value":135005208},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":885266,"shareType":"SH","putCall":null,"value":133923040},
+    {"cusip":"12504L109","name":"CBRE GROUP INC","titleOfClass":"CL A","shares":589391,"shareType":"SH","putCall":null,"value":82585467},
+    {"cusip":"75737F108","name":"REDFIN CORP","titleOfClass":"COM","shares":5805600,"shareType":"SH","putCall":null,"value":64964664},
+    {"cusip":"30212P303","name":"EXPEDIA GROUP INC","titleOfClass":"COM NEW","shares":278356,"shareType":"SH","putCall":null,"value":46953090},
+    {"cusip":"12510Q100","name":"CCC INTELLIGENT SOLUTIONS HL","titleOfClass":"COM","shares":2881800,"shareType":"SH","putCall":null,"value":27117738}
+  ]
+}

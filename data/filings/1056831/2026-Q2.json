@@ -1,0 +1,23 @@
+{
+  "cik": "1056831",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-005488","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":18182367,"shareType":"SH","putCall":null,"value":1138761645},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5455800,"shareType":"SH","putCall":null,"value":200555208},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":921252,"shareType":"SH","putCall":null,"value":47988026},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":87852,"shareType":"SH","putCall":null,"value":43960262},
+    {"cusip":"084423102","name":"WR Berkley Corp","titleOfClass":"COM","shares":256350,"shareType":"SH","putCall":null,"value":18080365},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":72200,"shareType":"SH","putCall":null,"value":15772090},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":11,"shareType":"SH","putCall":null,"value":8237350},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":231000,"shareType":"SH","putCall":null,"value":5562480},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":202300,"shareType":"SH","putCall":null,"value":4778326},
+    {"cusip":"134429109","name":"THE CAMPBELLS COMPANY","titleOfClass":"COM","shares":116500,"shareType":"SH","putCall":null,"value":2594455},
+    {"cusip":"911312106","name":"UNITED PARCEL SVCS INC","titleOfClass":"CL B","shares":23800,"shareType":"SH","putCall":null,"value":2558500},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":694464},
+    {"cusip":"436893200","name":"HOME BANCSHARES INC","titleOfClass":"COM","shares":12100,"shareType":"SH","putCall":null,"value":345455}
+  ]
+}

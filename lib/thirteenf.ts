@@ -53,7 +53,7 @@ export function parseInfoTable(xml: string, filedAt: string): Position[] {
   const doc = parser.parse(xml);
   const rows: Record<string, unknown>[] = doc?.informationTable?.infoTable ?? [];
 
-  const positions: Position[] = rows.map((row) => {
+  const parsed: Position[] = rows.map((row) => {
     const amount = (row.shrsOrPrnAmt ?? {}) as Record<string, unknown>;
     return {
       cusip: normalizeCusip(String(row.cusip ?? "")),
@@ -65,6 +65,10 @@ export function parseInfoTable(xml: string, filedAt: string): Position[] {
       value: toNumber(row.value, "value"),
     };
   });
+
+  // Filers with nothing to report sometimes submit one placeholder row
+  // (CUSIP 000000000, zero shares, zero value) because the form requires a table.
+  const positions = parsed.filter((p) => p.shares !== 0 || p.value !== 0);
 
   const multiplier = detectValueMultiplier(positions, filedAt);
   if (multiplier !== 1) for (const p of positions) p.value *= multiplier;
@@ -141,11 +145,21 @@ export function applyFilings(parsed: ParsedFiling[]): Position[] {
   let rows: Position[] = [];
   for (const { filing, rows: filingRows } of ordered) {
     if (!filingRows) continue;
-    if (filing.form === "13F-HR/A" && filing.amendmentType === "NEW HOLDINGS") {
-      rows = rows.concat(filingRows);
-    } else {
-      rows = filingRows;
-    }
+    const addsHoldings = filing.form === "13F-HR/A" && filing.amendmentType === "NEW HOLDINGS";
+    rows = addsHoldings && !restatesTable(rows, filingRows) ? rows.concat(filingRows) : filingRows;
   }
   return aggregatePositions(rows);
+}
+
+/**
+ * True when an amendment labelled NEW HOLDINGS actually repeats the whole table.
+ * Genuine NEW HOLDINGS amendments list positions missing from the original, so most of
+ * their securities are new; some filers (First Eagle, Q2/2026) resubmit the full table
+ * under that label, which would double every position if appended.
+ */
+function restatesTable(current: Position[], amendment: Position[]): boolean {
+  if (current.length === 0 || amendment.length === 0) return false;
+  const known = new Set(current.map(positionKey));
+  const repeated = amendment.filter((p) => known.has(positionKey(p))).length;
+  return repeated / amendment.length > 0.5;
 }

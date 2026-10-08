@@ -1,0 +1,18 @@
+{
+  "cik": "1766504",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1766504","accession":"0001420506-25-000474","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":360065,"shareType":"SH","putCall":null,"value":78994660},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":994895,"shareType":"SH","putCall":null,"value":57156718},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":70,"shareType":"SH","putCall":null,"value":47664400},
+    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":933655,"shareType":"SH","putCall":null,"value":45002171},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":21720,"shareType":"SH","putCall":null,"value":37493716},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":83370,"shareType":"SH","putCall":null,"value":33668141},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":107770,"shareType":"SH","putCall":null,"value":20400861},
+    {"cusip":"G17977110","name":"BURFORD CAP LTD","titleOfClass":"ORD SHS","shares":884405,"shareType":"SH","putCall":null,"value":11276164}
+  ]
+}

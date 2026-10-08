@@ -1,0 +1,30 @@
+{
+  "investorId": "josh-tarasoff",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-13",
+  "filings": [
+    {"cik":"1766504","accession":"0001420506-25-001012","form":"13F-HR","filedAt":"2025-05-13","amendmentType":null}
+  ],
+  "totalValue": 289431833,
+  "holdings": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":324640,"shareType":"SH","putCall":null,"value":61766006,"ticker":"AMZN","weight":0.213404},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":67,"shareType":"SH","putCall":null,"value":53495587,"ticker":"BRK.A","weight":0.18483},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":967425,"shareType":"SH","putCall":null,"value":50702744,"ticker":"BN","weight":0.17518},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":22455,"shareType":"SH","putCall":null,"value":41982093,"ticker":"MKL","weight":0.14505},
+    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":907835,"shareType":"SH","putCall":null,"value":33835010,"ticker":"TRUP","weight":0.116901},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":81060,"shareType":"SH","putCall":null,"value":21007510,"ticker":"TSLA","weight":0.072582},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":104770,"shareType":"SH","putCall":null,"value":16201633,"ticker":"GOOGL","weight":0.055977},
+    {"cusip":"G17977110","name":"BURFORD CAP LTD","titleOfClass":"ORD SHS","shares":790405,"shareType":"SH","putCall":null,"value":10441250,"ticker":"BUR","weight":0.036075}
+  ],
+  "changes": [
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"add","shares":22455,"prevShares":21720},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"reduce","shares":324640,"prevShares":360065},
+    {"cusip":"084670108","ticker":"BRK.A","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":67,"prevShares":70},
+    {"cusip":"11271J107","ticker":"BN","name":"BROOKFIELD CORP","putCall":null,"action":"reduce","shares":967425,"prevShares":994895},
+    {"cusip":"898202106","ticker":"TRUP","name":"TRUPANION INC","putCall":null,"action":"reduce","shares":907835,"prevShares":933655},
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"reduce","shares":81060,"prevShares":83370},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":104770,"prevShares":107770},
+    {"cusip":"G17977110","ticker":"BUR","name":"BURFORD CAP LTD","putCall":null,"action":"reduce","shares":790405,"prevShares":884405}
+  ]
+}

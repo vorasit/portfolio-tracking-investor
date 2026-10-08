@@ -1,0 +1,29 @@
+{
+  "cik": "1112520",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1112520","accession":"0001112520-25-000029","form":"13F-HR","filedAt":"2025-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":3155594,"shareType":"SH","putCall":null,"value":1794933423},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":19215941,"shareType":"SH","putCall":null,"value":1317829230},
+    {"cusip":"48251W104","name":"KKR & CO L P DEL","titleOfClass":"COM UNITS","shares":8713264,"shareType":"SH","putCall":null,"value":1132288599},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2973760,"shareType":"SH","putCall":null,"value":1015182189},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":2118949,"shareType":"SH","putCall":null,"value":1009636820},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":8612428,"shareType":"SH","putCall":null,"value":928505863},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":9306485,"shareType":"SH","putCall":null,"value":785188139},
+    {"cusip":"776696106","name":"ROPER TECHNOLOGIES INC","titleOfClass":"COM","shares":1156673,"shareType":"SH","putCall":null,"value":576821258},
+    {"cusip":"009066101","name":"AIRBNB INC","titleOfClass":"COM CL A","shares":3473243,"shareType":"SH","putCall":null,"value":421721165},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":260849,"shareType":"SH","putCall":null,"value":390368354},
+    {"cusip":"217204106","name":"COPART INC","titleOfClass":"COM","shares":4236760,"shareType":"SH","putCall":null,"value":190527097},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":874831,"shareType":"SH","putCall":null,"value":173443994},
+    {"cusip":"12510Q100","name":"CCC INTELLIGENT SOLUTIONS HL","titleOfClass":"COM","shares":16270128,"shareType":"SH","putCall":null,"value":148220866},
+    {"cusip":"03027X100","name":"AMERICAN TOWER CORP NEW","titleOfClass":"COM","shares":442843,"shareType":"SH","putCall":null,"value":85167566},
+    {"cusip":"38267D109","name":"GOOSEHEAD INS INC","titleOfClass":"COM CL A","shares":366125,"shareType":"SH","putCall":null,"value":27247022},
+    {"cusip":"H82027105","name":"SOPHIA GENETICS SA","titleOfClass":"ORDINARY SHARES","shares":3719140,"shareType":"SH","putCall":null,"value":17703106},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":13985,"shareType":"SH","putCall":null,"value":7030819},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":150600,"shareType":"SH","putCall":null,"value":6757422},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"CL A","shares":8279,"shareType":"SH","putCall":null,"value":2082251}
+  ]
+}

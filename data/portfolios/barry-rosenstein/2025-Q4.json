@@ -1,0 +1,37 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-26-001069","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 1921781130,
+  "holdings": [
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":4959481,"shareType":"SH","putCall":null,"value":362091708,"ticker":"MRCY","weight":0.188415},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3519620,"shareType":"SH","putCall":null,"value":288468055,"ticker":"COO","weight":0.150105},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":391337,"shareType":"SH","putCall":null,"value":266860527,"ticker":"SPY","weight":0.138861},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":209811720,"ticker":"LW","weight":0.109176},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":81219,"shareType":"SH","putCall":null,"value":174592423,"ticker":"MKL","weight":0.090849},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":2245520,"shareType":"SH","putCall":null,"value":150831578,"ticker":"FISV","weight":0.078485},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":5821337,"shareType":"SH","putCall":null,"value":137325340,"ticker":null,"weight":0.071457},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":4894665,"shareType":"SH","putCall":null,"value":112919922,"ticker":"ALKT","weight":0.058758},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6743653,"shareType":"SH","putCall":null,"value":102503526,"ticker":"RPD","weight":0.053338},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":63140959,"ticker":"FUN","weight":0.032855},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":557390,"shareType":"SH","putCall":null,"value":33961773,"ticker":"FRPT","weight":0.017672},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2090412,"shareType":"SH","putCall":null,"value":19273599,"ticker":null,"weight":0.010029}
+  ],
+  "changes": [
+    {"cusip":"337738108","ticker":"FISV","name":"FISERV INC","putCall":null,"action":"new","shares":2245520,"prevShares":0},
+    {"cusip":"216648501","ticker":"COO","name":"COOPER COS INC","putCall":null,"action":"add","shares":3519620,"prevShares":2434607},
+    {"cusip":"78462F103","ticker":"SPY","name":"SPDR S&P 500 ETF TR","putCall":null,"action":"add","shares":391337,"prevShares":386637},
+    {"cusip":"01644J108","ticker":"ALKT","name":"ALKAMI TECHNOLOGY INC","putCall":null,"action":"add","shares":4894665,"prevShares":1892413},
+    {"cusip":"753422104","ticker":"RPD","name":"RAPID7 INC","putCall":null,"action":"add","shares":6743653,"prevShares":6502108},
+    {"cusip":"83001C108","ticker":"FUN","name":"SIX FLAGS ENTERTAINMENT CORP","putCall":null,"action":"add","shares":4116099,"prevShares":4049940},
+    {"cusip":"589378108","ticker":"MRCY","name":"MERCURY SYS INC","putCall":null,"action":"reduce","shares":4959481,"prevShares":5959481},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"reduce","shares":81219,"prevShares":147411},
+    {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"reduce","shares":557390,"prevShares":1048136},
+    {"cusip":"29332G102","ticker":null,"name":"ENHABIT INC","putCall":null,"action":"reduce","shares":2090412,"prevShares":2137145},
+    {"cusip":"896239100","ticker":"TRMB","name":"TRIMBLE INC","putCall":null,"action":"exit","shares":0,"prevShares":1881399}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "investorId": "mohnish-pabrai",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-13",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-25-000006","form":"13F-HR","filedAt":"2025-08-13","amendmentType":null}
+  ],
+  "totalValue": 271601546,
+  "holdings": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799745,"shareType":"SH","putCall":null,"value":82482313,"ticker":"HCC","weight":0.303689},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1883777,"shareType":"SH","putCall":null,"value":79325849,"ticker":"VAL","weight":0.292067},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":460327,"shareType":"SH","putCall":null,"value":51777581,"ticker":"AMR","weight":0.190638},
+    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":1728744,"shareType":"SH","putCall":null,"value":45898153,"ticker":"NE","weight":0.168991},
+    {"cusip":"05329W102","name":"AUTONATION INC","titleOfClass":"COM","shares":61000,"shareType":"SH","putCall":null,"value":12117650,"ticker":"AN","weight":0.044616}
+  ],
+  "changes": [
+    {"cusip":"05329W102","ticker":"AN","name":"AUTONATION INC","putCall":null,"action":"new","shares":61000,"prevShares":0},
+    {"cusip":"93627C101","ticker":"HCC","name":"WARRIOR MET COAL INC","putCall":null,"action":"add","shares":1799745,"prevShares":1799580},
+    {"cusip":"G9460G101","ticker":"VAL","name":"VALARIS LTD","putCall":null,"action":"add","shares":1883777,"prevShares":1427564},
+    {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"add","shares":460327,"prevShares":414616}
+  ]
+}

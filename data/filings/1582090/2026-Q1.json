@@ -1,0 +1,29 @@
+{
+  "cik": "1582090",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-26-002506","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"87422Q109","name":"Talen Energy Corp","titleOfClass":"COM","shares":1547500,"shareType":"SH","putCall":null,"value":494008425},
+    {"cusip":"278768106","name":"Echostar Corp","titleOfClass":"CL A","shares":3005000,"shareType":"SH","putCall":null,"value":351795350},
+    {"cusip":"36165L108","name":"GDS Hldgs Ltd","titleOfClass":"Sponsored ADS","shares":8685000,"shareType":"SH","putCall":null,"value":349918650},
+    {"cusip":"741623102","name":"Primo Brands Corporation","titleOfClass":"CLASS A COM SHS","shares":17095000,"shareType":"SH","putCall":null,"value":321898850},
+    {"cusip":"253393102","name":"Dicks Sporting Goods Inc","titleOfClass":"COM","shares":1605000,"shareType":"SH","putCall":null,"value":318255450},
+    {"cusip":"90138F102","name":"Twilio Inc","titleOfClass":"CL A","shares":2295000,"shareType":"SH","putCall":null,"value":288756900},
+    {"cusip":"71377A103","name":"Performance Food Group Co","titleOfClass":"COM","shares":3350000,"shareType":"SH","putCall":null,"value":286961000},
+    {"cusip":"146869102","name":"Carvana Co","titleOfClass":"CL A","shares":790000,"shareType":"SH","putCall":null,"value":248360200},
+    {"cusip":"G48833118","name":"Weatherford Intl PLC","titleOfClass":"ORD SHS","shares":2525000,"shareType":"SH","putCall":null,"value":238814500},
+    {"cusip":"G4705A100","name":"Icon PLC","titleOfClass":"SHS","shares":2105000,"shareType":"SH","putCall":null,"value":232939300},
+    {"cusip":"375916103","name":"Gildan Activewear Inc","titleOfClass":"COM","shares":4140000,"shareType":"SH","putCall":null,"value":230391000},
+    {"cusip":"19247G107","name":"Coherent Corp","titleOfClass":"COM","shares":965000,"shareType":"SH","putCall":null,"value":229872650},
+    {"cusip":"83601L102","name":"Sotera Health Co","titleOfClass":"COM","shares":11645000,"shareType":"SH","putCall":null,"value":166989300},
+    {"cusip":"682189105","name":"On Semiconductor Corp","titleOfClass":"COM","shares":1945000,"shareType":"SH","putCall":null,"value":120434400},
+    {"cusip":"83001C108","name":"Six Flags Entertainment Corp","titleOfClass":"COM","shares":5030000,"shareType":"SH","putCall":null,"value":89282500},
+    {"cusip":"G11448100","name":"Bitdeer Technologies Group","titleOfClass":"CL A ORD SHS","shares":9635000,"shareType":"SH","putCall":null,"value":83342750},
+    {"cusip":"46137V357","name":"Invesco Exchange Traded FD T","titleOfClass":"S&P500 EQL WGT","shares":196500,"shareType":"SH","putCall":null,"value":37712280},
+    {"cusip":"85208T107","name":"Sprinklr Inc","titleOfClass":"CL A","shares":5745000,"shareType":"SH","putCall":null,"value":34470000},
+    {"cusip":"00971T101","name":"Akamai Technologies Inc","titleOfClass":"COM","shares":235000,"shareType":"SH","putCall":null,"value":26989750}
+  ]
+}

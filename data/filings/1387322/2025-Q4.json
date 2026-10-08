@@ -1,0 +1,42 @@
+{
+  "cik": "1387322",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1387322","accession":"0001172661-26-001153","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2100923,"shareType":"SH","putCall":null,"value":657588899},
+    {"cusip":"15101Q207","name":"CELESTICA INC","titleOfClass":"COM","shares":1882391,"shareType":"SH","putCall":null,"value":556453604},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":808356,"shareType":"SH","putCall":null,"value":544686440},
+    {"cusip":"146869102","name":"CARVANA CO","titleOfClass":"CL A","shares":1070802,"shareType":"SH","putCall":null,"value":451899860},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":1857878,"shareType":"SH","putCall":null,"value":428835400},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":1031732,"shareType":"SH","putCall":null,"value":357082445},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":4105113,"shareType":"SH","putCall":null,"value":332637306},
+    {"cusip":"M6191J100","name":"JFROG LTD","titleOfClass":"ORD SHS","shares":5297812,"shareType":"SH","putCall":null,"value":330901338},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":469713,"shareType":"SH","putCall":null,"value":310052854},
+    {"cusip":"87305R109","name":"TTM TECHNOLOGIES INC","titleOfClass":"COM","shares":4276320,"shareType":"SH","putCall":null,"value":295066080},
+    {"cusip":"816850101","name":"SEMTECH CORP","titleOfClass":"COM","shares":3901469,"shareType":"SH","putCall":null,"value":287499251},
+    {"cusip":"G3323L100","name":"FABRINET","titleOfClass":"SHS","shares":616047,"shareType":"SH","putCall":null,"value":280473878},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":599970,"shareType":"SH","putCall":null,"value":251801409},
+    {"cusip":"82982T106","name":"SITIME CORP","titleOfClass":"COM","shares":698539,"shareType":"SH","putCall":null,"value":246716989},
+    {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":1003566,"shareType":"SH","putCall":null,"value":238226497},
+    {"cusip":"219350105","name":"CORNING INC","titleOfClass":"COM","shares":2669780,"shareType":"SH","putCall":null,"value":233765937},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":1201695,"shareType":"SH","putCall":null,"value":224116118},
+    {"cusip":"171779309","name":"CIENA CORP","titleOfClass":"COM NEW","shares":893483,"shareType":"SH","putCall":null,"value":208958869},
+    {"cusip":"19247G107","name":"COHERENT CORP","titleOfClass":"COM","shares":1094757,"shareType":"SH","putCall":null,"value":202059299},
+    {"cusip":"58733R102","name":"MERCADOLIBRE INC","titleOfClass":"COM","shares":98175,"shareType":"SH","putCall":null,"value":197749976},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":592941,"shareType":"SH","putCall":null,"value":180188840},
+    {"cusip":"G6683N103","name":"NU HLDGS LTD","titleOfClass":"ORD SHS CL A","shares":10755918,"shareType":"SH","putCall":null,"value":180054067},
+    {"cusip":"453204109","name":"IMPINJ INC","titleOfClass":"COM","shares":887272,"shareType":"SH","putCall":null,"value":154394201},
+    {"cusip":"26603R106","name":"DUOLINGO INC","titleOfClass":"CL A COM","shares":876646,"shareType":"SH","putCall":null,"value":153851373},
+    {"cusip":"55405Y100","name":"MACOM TECH SOLUTIONS HLDGS I","titleOfClass":"COM","shares":783305,"shareType":"SH","putCall":null,"value":134164480},
+    {"cusip":"093712107","name":"BLOOM ENERGY CORP","titleOfClass":"COM CL A","shares":1339623,"shareType":"SH","putCall":null,"value":116399842},
+    {"cusip":"49845K101","name":"KLAVIYO INC","titleOfClass":"COM SER A","shares":3057889,"shareType":"SH","putCall":null,"value":99289656},
+    {"cusip":"443573100","name":"HUBSPOT INC","titleOfClass":"COM","shares":149246,"shareType":"SH","putCall":null,"value":59892420},
+    {"cusip":"42824C109","name":"HEWLETT PACKARD ENTERPRISE C","titleOfClass":"COM","shares":1908017,"shareType":"SH","putCall":null,"value":45830568},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":434854,"shareType":"SH","putCall":null,"value":37601825},
+    {"cusip":"947002101","name":"WEALTHFRONT CORP","titleOfClass":"COM","shares":1600000,"shareType":"SH","putCall":null,"value":21744000},
+    {"cusip":"16935C109","name":"CHIME FINL INC","titleOfClass":"COM SHS CL A","shares":10572,"shareType":"SH","putCall":null,"value":266097}
+  ]
+}

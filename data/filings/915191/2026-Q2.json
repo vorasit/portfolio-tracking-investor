@@ -1,0 +1,42 @@
+{
+  "cik": "915191",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"915191","accession":"0001104659-26-096276","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"68634K106","name":"ORLA MINING LTD","titleOfClass":"COM","shares":58399504,"shareType":"SH","putCall":null,"value":568456141},
+    {"cusip":"284902509","name":"ELDORADO GOLD CORP","titleOfClass":"COM","shares":13746506,"shareType":"SH","putCall":null,"value":427001600},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":14306500,"shareType":"SH","putCall":null,"value":337633400},
+    {"cusip":"904311107","name":"UNDER ARMOUR INC","titleOfClass":"CL A","shares":45356965,"shareType":"SH","putCall":null,"value":289831006},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":2712000,"shareType":"SH","putCall":null,"value":280502160},
+    {"cusip":"185899101","name":"CLEVELAND-CLIFFS INC","titleOfClass":"COM","shares":14899273,"shareType":"SH","putCall":null,"value":139904173},
+    {"cusip":"904311206","name":"UNDER ARMOUR INC","titleOfClass":"CL C","shares":21999128,"shareType":"SH","putCall":null,"value":136614585},
+    {"cusip":"60871R209","name":"MOLSON COORS BEVERAGE CO","titleOfClass":"CL B","shares":1994500,"shareType":"SH","putCall":null,"value":77665830},
+    {"cusip":"00217Y104","name":"ATS CORP","titleOfClass":"COM","shares":2486400,"shareType":"SH","putCall":null,"value":70487018},
+    {"cusip":"95058W100","name":"WENDYS CO","titleOfClass":"COM","shares":8005627,"shareType":"SH","putCall":null,"value":66286592},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":93700,"shareType":"SH","putCall":null,"value":44684593},
+    {"cusip":"423452101","name":"HELMERICH & PAYNE INC","titleOfClass":"COM","shares":1174105,"shareType":"SH","putCall":null,"value":38451939},
+    {"cusip":"064149107","name":"BANK NOVA SCOTIA","titleOfClass":"COM","shares":359100,"shareType":"SH","putCall":null,"value":31165804},
+    {"cusip":"37045V100","name":"GENERAL MOTORS CO","titleOfClass":"COM","shares":375965,"shareType":"SH","putCall":null,"value":28971863},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":1043900,"shareType":"SH","putCall":null,"value":25116234},
+    {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":172900,"shareType":"SH","putCall":null,"value":22198631},
+    {"cusip":"478160104","name":"JOHNSON & JOHNSON","titleOfClass":"COM","shares":73400,"shareType":"SH","putCall":null,"value":18640664},
+    {"cusip":"48581R205","name":"KASPI KZ JSC","titleOfClass":"SPONSORED ADS","shares":106000,"shareType":"SH","putCall":null,"value":9175360},
+    {"cusip":"775109200","name":"ROGERS COMMUNICATIONS INC","titleOfClass":"CL B","shares":150200,"shareType":"SH","putCall":null,"value":4870979},
+    {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":102783,"shareType":"SH","putCall":null,"value":3722800},
+    {"cusip":"136375102","name":"CANADIAN NATIONAL RAILWAY CO","titleOfClass":"COM","shares":24800,"shareType":"SH","putCall":null,"value":2952402},
+    {"cusip":"194693107","name":"COLLIERS INTL GROUP INC","titleOfClass":"SUB VTG SHS","shares":25000,"shareType":"SH","putCall":null,"value":2325991},
+    {"cusip":"934423104","name":"WARNER BROS DISCOVERY INC","titleOfClass":"COM SER A","shares":81900,"shareType":"SH","putCall":null,"value":2179359},
+    {"cusip":"25754A201","name":"DOMINO'S PIZZA INC","titleOfClass":"COM","shares":7230,"shareType":"SH","putCall":null,"value":2139502},
+    {"cusip":"G1890L107","name":"CAPRI HOLDINGS LTD","titleOfClass":"SHS","shares":78100,"shareType":"SH","putCall":null,"value":1450317},
+    {"cusip":"550021109","name":"LULULEMON ATHLETICA INC","titleOfClass":"COM","shares":12500,"shareType":"SH","putCall":null,"value":1426750},
+    {"cusip":"707569109","name":"PENN ENTERTAINMENT INC","titleOfClass":"COM","shares":54900,"shareType":"SH","putCall":null,"value":1173762},
+    {"cusip":"285512109","name":"ELECTRONIC ARTS INC","titleOfClass":"COM","shares":5100,"shareType":"SH","putCall":null,"value":1045449},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":748836},
+    {"cusip":"G4863A108","name":"BRIGHTSTAR LOTTERY PLC","titleOfClass":"SHS USD","shares":68733,"shareType":"SH","putCall":null,"value":737505},
+    {"cusip":"15126Q208","name":"CEMENTOS PACASMAYO SAA","titleOfClass":"SPONSORED ADR","shares":50000,"shareType":"SH","putCall":null,"value":594500},
+    {"cusip":"55933J203","name":"MAGNACHIP SEMICONDUCTOR CORP","titleOfClass":"COM","shares":62500,"shareType":"SH","putCall":null,"value":296250}
+  ]
+}

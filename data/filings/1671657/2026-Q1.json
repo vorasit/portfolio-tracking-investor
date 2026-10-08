@@ -1,0 +1,21 @@
+{
+  "cik": "1671657",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-26-009218","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":140295,"shareType":"SH","putCall":null,"value":185305845},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1123489,"shareType":"SH","putCall":null,"value":154120221},
+    {"cusip":"866966104","name":"SUNBELT RENTALS HOLDINGS INC","titleOfClass":"SHS","shares":2204996,"shareType":"SH","putCall":null,"value":143523190},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":316952,"shareType":"SH","putCall":null,"value":126146896},
+    {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":580240,"shareType":"SH","putCall":null,"value":110013504},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2276570,"shareType":"SH","putCall":null,"value":109207063},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":222683,"shareType":"SH","putCall":null,"value":94715987},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":607609,"shareType":"SH","putCall":null,"value":92666449},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":161683,"shareType":"SH","putCall":null,"value":92503695},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":1090281,"shareType":"SH","putCall":null,"value":78423912},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":16444,"shareType":"SH","putCall":null,"value":69234502}
+  ]
+}

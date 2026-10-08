@@ -1,0 +1,37 @@
+{
+  "investorId": "pat-dorsey",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-002824","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 970037173,
+  "holdings": [
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":578741,"shareType":"SH","putCall":null,"value":124168882,"ticker":"WIX","weight":0.128004},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":208247,"shareType":"SH","putCall":null,"value":121930701,"ticker":"META","weight":0.125697},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":639218,"shareType":"SH","putCall":null,"value":121732676,"ticker":"GOOG","weight":0.125493},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":37570,"shareType":"SH","putCall":null,"value":120299140,"ticker":"AZO","weight":0.124015},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1301183,"shareType":"SH","putCall":null,"value":111055969,"ticker":"PYPL","weight":0.114486},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":394791,"shareType":"SH","putCall":null,"value":90624274,"ticker":"DHR","weight":0.093424},
+    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1447727,"shareType":"SH","putCall":null,"value":81116144,"ticker":null,"weight":0.083622},
+    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":2306149,"shareType":"SH","putCall":null,"value":70821836,"ticker":"SPT","weight":0.073009},
+    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":272903,"shareType":"SH","putCall":null,"value":51668725,"ticker":"HRI","weight":0.053265},
+    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":3045142,"shareType":"SH","putCall":null,"value":49788072,"ticker":"UPWK","weight":0.051326},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2258481,"shareType":"SH","putCall":null,"value":26830754,"ticker":null,"weight":0.02766}
+  ],
+  "changes": [
+    {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"add","shares":578741,"prevShares":553894},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"add","shares":639218,"prevShares":451618},
+    {"cusip":"053332102","ticker":"AZO","name":"AUTOZONE INC","putCall":null,"action":"add","shares":37570,"prevShares":29458},
+    {"cusip":"70450Y103","ticker":"PYPL","name":"PAYPAL HLDGS INC","putCall":null,"action":"add","shares":1301183,"prevShares":1162523},
+    {"cusip":"235851102","ticker":"DHR","name":"DANAHER CORPORATION","putCall":null,"action":"add","shares":394791,"prevShares":297492},
+    {"cusip":"85209W109","ticker":"SPT","name":"SPROUT SOCIAL INC","putCall":null,"action":"add","shares":2306149,"prevShares":1975994},
+    {"cusip":"91688F104","ticker":"UPWK","name":"UPWORK INC","putCall":null,"action":"add","shares":3045142,"prevShares":2647145},
+    {"cusip":"81686C104","ticker":null,"name":"SEMRUSH HLDGS INC","putCall":null,"action":"add","shares":2258481,"prevShares":2113947},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":208247,"prevShares":232669},
+    {"cusip":"83200N103","ticker":null,"name":"SMARTSHEET INC","putCall":null,"action":"reduce","shares":1447727,"prevShares":1493286},
+    {"cusip":"42704L104","ticker":"HRI","name":"HERC HLDGS INC","putCall":null,"action":"reduce","shares":272903,"prevShares":426060},
+    {"cusip":"03831W108","ticker":"APP","name":"APPLOVIN CORP","putCall":null,"action":"exit","shares":0,"prevShares":698796}
+  ]
+}

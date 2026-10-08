@@ -12,17 +12,17 @@ import { loadInvestors, loadLatestPortfolio } from "@/lib/data";
 import { formatDate, formatPercent, formatQuarter, formatUsd } from "@/lib/format";
 
 export default function Home() {
-  const rows = loadInvestors().map((investor) => ({
-    investor,
-    portfolio: loadLatestPortfolio(investor.id),
-  }));
+  // Largest portfolios first; investors without data yet go last.
+  const rows = loadInvestors()
+    .map((investor) => ({ investor, portfolio: loadLatestPortfolio(investor.id) }))
+    .sort((a, b) => (b.portfolio?.totalValue ?? -1) - (a.portfolio?.totalValue ?? -1));
 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
       <header className="mb-6">
         <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl">พอร์ตนักลงทุนระดับโลก</h1>
         <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-          ข้อมูลจากแบบ 13F ที่ยื่นต่อ SEC สหรัฐฯ · เฟสทดลอง {rows.length} คน
+          ข้อมูลจากแบบ 13F ที่ยื่นต่อ SEC สหรัฐฯ · นักลงทุน {rows.length} คน เรียงตามมูลค่าพอร์ต
         </p>
       </header>
 

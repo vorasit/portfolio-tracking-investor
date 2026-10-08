@@ -1,0 +1,32 @@
+{
+  "investorId": "dev-kantesaria",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-26-000001","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 4411308632,
+  "holdings": [
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":769424,"shareType":"SH","putCall":null,"value":1300803603,"ticker":"FICO","weight":0.294879},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1758179,"shareType":"SH","putCall":null,"value":918806764,"ticker":"SPGI","weight":0.208284},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1487409,"shareType":"SH","putCall":null,"value":849132050,"ticker":"MA","weight":0.19249},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317292,"shareType":"SH","putCall":null,"value":672938618,"ticker":"MCO","weight":0.152549},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":916410,"shareType":"SH","putCall":null,"value":321394151,"ticker":"V","weight":0.072857},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":221236,"shareType":"SH","putCall":null,"value":146551151,"ticker":"INTU","weight":0.033222},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":126242,"shareType":"SH","putCall":null,"value":135061266,"ticker":"ASML","weight":0.030617},
+    {"cusip":"55354G100","name":"MSCI INC","titleOfClass":"COM","shares":60770,"shareType":"SH","putCall":null,"value":34865572,"ticker":"MSCI","weight":0.007904},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":146352,"shareType":"SH","putCall":null,"value":31755457,"ticker":"EFX","weight":0.007199}
+  ],
+  "changes": [
+    {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC CORP","putCall":null,"action":"add","shares":769424,"prevShares":768422},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"add","shares":1758179,"prevShares":1755098},
+    {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INCORPORATED","putCall":null,"action":"add","shares":1487409,"prevShares":1484772},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"add","shares":1317292,"prevShares":1314144},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"add","shares":916410,"prevShares":912017},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"add","shares":126242,"prevShares":125627},
+    {"cusip":"55354G100","ticker":"MSCI","name":"MSCI INC","putCall":null,"action":"add","shares":60770,"prevShares":59700},
+    {"cusip":"294429105","ticker":"EFX","name":"EQUIFAX INC","putCall":null,"action":"add","shares":146352,"prevShares":144000},
+    {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"reduce","shares":221236,"prevShares":261097}
+  ]
+}

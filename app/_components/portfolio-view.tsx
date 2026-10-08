@@ -24,6 +24,12 @@ import {
 import { changeLookup } from "@/lib/portfolio";
 import type { Investor, Portfolio } from "@/lib/types";
 
+// Quant and macro funds report thousands of rows; rendering all of them made
+// pages of several MB. Show the largest positions and say how much they cover.
+const MAX_SHARE_ROWS = 100;
+const MAX_OPTION_ROWS = 50;
+const MAX_EXITS = 60;
+
 interface Props {
   investor: Investor;
   portfolio: Portfolio;
@@ -41,6 +47,8 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
   const options = portfolio.holdings.filter((h) => h.putCall);
   const exits = (portfolio.changes ?? []).filter((c) => c.action === "exit");
   const valueChange = previous && previous.totalValue ? portfolio.totalValue / previous.totalValue - 1 : null;
+  const shownShares = shares.slice(0, MAX_SHARE_ROWS);
+  const shownWeight = shownShares.reduce((sum, h) => sum + (h.weight ?? 0), 0);
 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
@@ -111,7 +119,7 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
               </tr>
             </thead>
             <tbody className={tbodyClass}>
-              {shares.map((h, i) => (
+              {shownShares.map((h, i) => (
                 <tr key={`${h.cusip}|${h.shareType}`}>
                   <td className="px-4 py-2.5 text-zinc-400 tabular-nums">{i + 1}</td>
                   <td className="px-4 py-2.5">
@@ -137,7 +145,13 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
             </tbody>
           </table>
         </div>
-        {shares.some((h) => h.shareType === "PRN") && (
+        {shares.length > shownShares.length && (
+          <p className="mt-2 text-sm text-zinc-500">
+            แสดง {shownShares.length} อันดับแรกจากทั้งหมด {formatShares(shares.length)} ตัว คิดเป็น{" "}
+            {formatPercent(shownWeight)} ของมูลค่าพอร์ต
+          </p>
+        )}
+        {shownShares.some((h) => h.shareType === "PRN") && (
           <p className="mt-2 text-xs text-zinc-500">PRN คือตราสารหนี้ แสดงเป็นมูลค่าเงินต้นแทนจำนวนหุ้น</p>
         )}
       </section>
@@ -160,7 +174,7 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
                 </tr>
               </thead>
               <tbody className={tbodyClass}>
-                {options.map((h) => (
+                {options.slice(0, MAX_OPTION_ROWS).map((h) => (
                   <tr key={`${h.cusip}|${h.putCall}`}>
                     <td className="px-4 py-2.5">{h.putCall}</td>
                     <td className="px-4 py-2.5">
@@ -176,6 +190,11 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
               </tbody>
             </table>
           </div>
+          {options.length > MAX_OPTION_ROWS && (
+            <p className="mt-2 text-sm text-zinc-500">
+              แสดง {MAX_OPTION_ROWS} รายการแรกจากทั้งหมด {formatShares(options.length)} รายการ
+            </p>
+          )}
         </section>
       )}
 
@@ -183,7 +202,7 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
         <section className="mb-10">
           <h2 className="mb-3 text-lg font-semibold">ขายหมดในไตรมาสนี้</h2>
           <ul className="flex flex-wrap gap-2 text-sm">
-            {exits.map((c) => (
+            {exits.slice(0, MAX_EXITS).map((c) => (
               <li
                 key={`${c.cusip}|${c.putCall}`}
                 className="rounded-md border border-zinc-200 px-2.5 py-1 dark:border-zinc-800"
@@ -193,6 +212,9 @@ export function PortfolioView({ investor, portfolio, previous, quarters }: Props
                 <span className="ml-2 text-zinc-500 tabular-nums">{formatShares(c.prevShares)} หุ้น</span>
               </li>
             ))}
+            {exits.length > MAX_EXITS && (
+              <li className="px-2.5 py-1 text-zinc-500">และอีก {formatShares(exits.length - MAX_EXITS)} ตัว</li>
+            )}
           </ul>
         </section>
       )}

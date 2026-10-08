@@ -1,0 +1,22 @@
+{
+  "cik": "921669",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-26-002243","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":618393343,"shareType":"SH","putCall":null,"value":4458616003},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":71201875,"shareType":"SH","putCall":null,"value":1960899637},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4164274,"shareType":"SH","putCall":null,"value":464233266},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":14336044,"shareType":"SH","putCall":null,"value":433521971},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":4275000,"shareType":"SH","putCall":null,"value":338665500},
+    {"cusip":"278768106","name":"EchoStar Corporation","titleOfClass":"CL A","shares":1404542,"shareType":"SH","putCall":null,"value":142561013},
+    {"cusip":"477143101","name":"JetBlue Airways Corp.","titleOfClass":"COM","shares":20658179,"shareType":"SH","putCall":null,"value":118371366},
+    {"cusip":"610236101","name":"Monro, Inc.","titleOfClass":"COM","shares":5078573,"shareType":"SH","putCall":null,"value":86894384},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":73642490},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":5054907,"shareType":"SH","putCall":null,"value":69252220},
+    {"cusip":"025537101","name":"American Electric Power Company","titleOfClass":"COM","shares":434710,"shareType":"SH","putCall":null,"value":59472675},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":3500000,"shareType":"SH","putCall":null,"value":57960000}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cik": "1697868",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-24-000008","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":808793,"shareType":"SH","putCall":null,"value":1571905371},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1705898,"shareType":"SH","putCall":null,"value":881301025},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1484772,"shareType":"SH","putCall":null,"value":733180413},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1288444,"shareType":"SH","putCall":null,"value":611482638},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":444881,"shareType":"SH","putCall":null,"value":276271101},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":912017,"shareType":"SH","putCall":null,"value":250759074},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":125627,"shareType":"SH","putCall":null,"value":104678698},
+    {"cusip":"29109X106","name":"ASPEN TECHNOLOGY INC","titleOfClass":"COM","shares":295485,"shareType":"SH","putCall":null,"value":70567728}
+  ]
+}

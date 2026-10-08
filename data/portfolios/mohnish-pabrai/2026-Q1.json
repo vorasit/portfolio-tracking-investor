@@ -1,0 +1,21 @@
+{
+  "investorId": "mohnish-pabrai",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-14",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-26-000009","form":"13F-HR","filedAt":"2026-05-14","amendmentType":null}
+  ],
+  "totalValue": 422885142,
+  "holdings": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1810831,"shareType":"SH","putCall":null,"value":168678908,"ticker":"HCC","weight":0.398876},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":20392672,"shareType":"SH","putCall":null,"value":135203415,"ticker":"RIG","weight":0.319717},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":579738,"shareType":"SH","putCall":null,"value":119002819,"ticker":"AMR","weight":0.281407}
+  ],
+  "changes": [
+    {"cusip":"93627C101","ticker":"HCC","name":"WARRIOR MET COAL INC","putCall":null,"action":"add","shares":1810831,"prevShares":1799831},
+    {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"add","shares":579738,"prevShares":543000},
+    {"cusip":"H8817H100","ticker":"RIG","name":"TRANSOCEAN LTD","putCall":null,"action":"reduce","shares":20392672,"prevShares":27040133},
+    {"cusip":"G9460G101","ticker":"VAL","name":"VALARIS LTD","putCall":null,"action":"exit","shares":0,"prevShares":459098}
+  ]
+}

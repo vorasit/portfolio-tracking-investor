@@ -1,0 +1,25 @@
+{
+  "investorId": "mohnish-pabrai",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-13",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-25-000012","form":"13F-HR","filedAt":"2025-11-13","amendmentType":null}
+  ],
+  "totalValue": 336857377,
+  "holdings": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799831,"shareType":"SH","putCall":null,"value":114541245,"ticker":"HCC","weight":0.340029},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":532000,"shareType":"SH","putCall":null,"value":87295880,"ticker":"AMR","weight":0.259148},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":24442332,"shareType":"SH","putCall":null,"value":76260076,"ticker":"RIG","weight":0.226387},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1066255,"shareType":"SH","putCall":null,"value":52001256,"ticker":"VAL","weight":0.154372},
+    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":239000,"shareType":"SH","putCall":null,"value":6758920,"ticker":"NE","weight":0.020065}
+  ],
+  "changes": [
+    {"cusip":"H8817H100","ticker":"RIG","name":"TRANSOCEAN LTD","putCall":null,"action":"new","shares":24442332,"prevShares":0},
+    {"cusip":"93627C101","ticker":"HCC","name":"WARRIOR MET COAL INC","putCall":null,"action":"add","shares":1799831,"prevShares":1799745},
+    {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"add","shares":532000,"prevShares":460327},
+    {"cusip":"G9460G101","ticker":"VAL","name":"VALARIS LTD","putCall":null,"action":"reduce","shares":1066255,"prevShares":1883777},
+    {"cusip":"G65431127","ticker":"NE","name":"NOBLE CORP PLC","putCall":null,"action":"reduce","shares":239000,"prevShares":1728744},
+    {"cusip":"05329W102","ticker":"AN","name":"AUTONATION INC","putCall":null,"action":"exit","shares":0,"prevShares":61000}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "cik": "1135778",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1135778","accession":"0001085146-24-005777","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"018581108","name":"BREAD FINANCIAL HOLDINGS INC","titleOfClass":"COM","shares":258530,"shareType":"SH","putCall":null,"value":12300857},
+    {"cusip":"534187109","name":"LINCOLN NATL CORP IND","titleOfClass":"COM","shares":383215,"shareType":"SH","putCall":null,"value":12075105},
+    {"cusip":"46817M107","name":"JACKSON FINANCIAL INC","titleOfClass":"COM CL A","shares":130335,"shareType":"SH","putCall":null,"value":11890462},
+    {"cusip":"00206R102","name":"AT&T INC","titleOfClass":"COM","shares":533000,"shareType":"SH","putCall":null,"value":11726000},
+    {"cusip":"957638109","name":"WESTERN ALLIANCE BANCORP","titleOfClass":"COM","shares":132945,"shareType":"SH","putCall":null,"value":11498413},
+    {"cusip":"G6359F137","name":"NABORS INDUSTRIES LTD","titleOfClass":"SHS","shares":140965,"shareType":"SH","putCall":null,"value":9088014},
+    {"cusip":"747301109","name":"QUAD / GRAPHICS INC","titleOfClass":"COM CL A","shares":1883815,"shareType":"SH","putCall":null,"value":8552520},
+    {"cusip":"594972408","name":"MICROSTRATEGY INC","titleOfClass":"CL A NEW","shares":50250,"shareType":"SH","putCall":null,"value":8472150},
+    {"cusip":"389375106","name":"GRAY TELEVISION INC","titleOfClass":"COM","shares":1458120,"shareType":"SH","putCall":null,"value":7815523},
+    {"cusip":"36472T109","name":"GANNETT CO INC","titleOfClass":"COM","shares":1371435,"shareType":"SH","putCall":null,"value":7707465},
+    {"cusip":"22948Q101","name":"CTO RLTY GROWTH INC NEW","titleOfClass":"COM","shares":383900,"shareType":"SH","putCall":null,"value":7301778},
+    {"cusip":"92556V106","name":"VIATRIS INC","titleOfClass":"COM","shares":619000,"shareType":"SH","putCall":null,"value":7186590},
+    {"cusip":"68268W103","name":"ONEMAIN HLDGS INC","titleOfClass":"COM","shares":149000,"shareType":"SH","putCall":null,"value":7013430},
+    {"cusip":"674215207","name":"CHORD ENERGY CORPORATION","titleOfClass":"COM NEW","shares":52766,"shareType":"SH","putCall":null,"value":6871716},
+    {"cusip":"09739D100","name":"BOISE CASCADE CO DEL","titleOfClass":"COM","shares":40000,"shareType":"SH","putCall":null,"value":5639200},
+    {"cusip":"118440106","name":"BUCKLE INC","titleOfClass":"COM","shares":125000,"shareType":"SH","putCall":null,"value":5496250},
+    {"cusip":"N82405106","name":"STELLANTIS N.V","titleOfClass":"SHS","shares":390000,"shareType":"SH","putCall":null,"value":5479500},
+    {"cusip":"120076104","name":"BUILD-A-BEAR WORKSHOP INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":5155500},
+    {"cusip":"902681105","name":"UGI CORP NEW","titleOfClass":"COM","shares":202000,"shareType":"SH","putCall":null,"value":5054040},
+    {"cusip":"911163103","name":"UNITED NAT FOODS INC","titleOfClass":"COM","shares":271115,"shareType":"SH","putCall":null,"value":4560154},
+    {"cusip":"110122108","name":"BRISTOL-MYERS SQUIBB CO","titleOfClass":"COM","shares":80000,"shareType":"SH","putCall":null,"value":4139200},
+    {"cusip":"206787103","name":"CONDUENT INC","titleOfClass":"COM","shares":900935,"shareType":"SH","putCall":null,"value":3630768},
+    {"cusip":"01877R108","name":"ALLIANCE RESOURCE PARTNERS L","titleOfClass":"UT LTD PART","shares":117000,"shareType":"SH","putCall":null,"value":2925000},
+    {"cusip":"34988V106","name":"FOSSIL GROUP INC","titleOfClass":"COM","shares":1333200,"shareType":"SH","putCall":null,"value":1559844},
+    {"cusip":"901109108","name":"TUTOR PERINI CORP","titleOfClass":"COM","shares":54800,"shareType":"SH","putCall":null,"value":1488368},
+    {"cusip":"024061103","name":"AMERICAN AXLE & MFG HLDGS IN","titleOfClass":"COM","shares":233640,"shareType":"SH","putCall":null,"value":1443895},
+    {"cusip":"89151E109","name":"TOTALENERGIES SE","titleOfClass":"SPONSORED ADS","shares":7650,"shareType":"SH","putCall":null,"value":494343},
+    {"cusip":"G87110105","name":"TECHNIPFMC PLC","titleOfClass":"COM","shares":8185,"shareType":"SH","putCall":null,"value":214693},
+    {"cusip":"881624209","name":"TEVA PHARMACEUTICAL INDS LTD","titleOfClass":"SPONSORED ADS","shares":10950,"shareType":"SH","putCall":null,"value":197319},
+    {"cusip":"724479100","name":"PITNEY BOWES INC","titleOfClass":"COM","shares":24259,"shareType":"SH","putCall":null,"value":172967}
+  ]
+}

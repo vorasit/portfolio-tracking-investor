@@ -1,0 +1,15 @@
+{
+  "cik": "1549575",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-24-000013","form":"13F-HR","filedAt":"2024-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":479698,"shareType":"SH","putCall":null,"value":113295117},
+    {"cusip":"20854L108","name":"CONSOL ENERGY INC NEW","titleOfClass":"COM","shares":770642,"shareType":"SH","putCall":null,"value":80647685},
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":698407,"shareType":"SH","putCall":null,"value":44628207},
+    {"cusip":"03940R107","name":"ARCH RESOURCES INC","titleOfClass":"CL A","shares":31002,"shareType":"SH","putCall":null,"value":4283236},
+    {"cusip":"Y1968P121","name":"DANAOS CORPORATION","titleOfClass":"SHS","shares":46590,"shareType":"SH","putCall":null,"value":4041217}
+  ]
+}

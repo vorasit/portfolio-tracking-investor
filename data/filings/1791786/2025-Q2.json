@@ -1,0 +1,42 @@
+{
+  "cik": "1791786",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1791786","accession":"0001013594-25-001045","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null},
+    {"cik":"1791786","accession":"0001013594-25-001443","form":"13F-HR/A","filedAt":"2025-11-14","amendmentType":"NEW HOLDINGS"}
+  ],
+  "positions": [
+    {"cusip":"89679M104","name":"TRIPLE FLAG PRECIOUS METAL","titleOfClass":"COM","shares":133815727,"shareType":"SH","putCall":null,"value":3170094573},
+    {"cusip":"718546104","name":"PHILLIPS 66","titleOfClass":"COM","shares":19251000,"shareType":"SH","putCall":null,"value":2296644300},
+    {"cusip":"867224107","name":"SUNCOR ENERGY INC NEW","titleOfClass":"COM","shares":52670800,"shareType":"SH","putCall":null,"value":1972521460},
+    {"cusip":"844741108","name":"SOUTHWEST AIRLS CO","titleOfClass":"COM","shares":53978500,"shareType":"SH","putCall":null,"value":1751062540},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":2160000,"shareType":"SH","putCall":"Put","value":1334556000},
+    {"cusip":"46090E103","name":"INVESCO QQQ TR","titleOfClass":"UNIT SER 1","shares":2000000,"shareType":"SH","putCall":"Put","value":1103280000},
+    {"cusip":"72352L106","name":"PINTEREST INC","titleOfClass":"CL A","shares":28000000,"shareType":"SH","putCall":null,"value":1004080000},
+    {"cusip":"464287598","name":"ISHARES TR","titleOfClass":"RUS 1000 VAL ETF","shares":5000000,"shareType":"SH","putCall":"Put","value":971150000},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":4000000,"shareType":"SH","putCall":"Put","value":528160000},
+    {"cusip":"81369Y704","name":"SELECT SECTOR SPDR TR","titleOfClass":"INDL","shares":3500000,"shareType":"SH","putCall":"Put","value":516320000},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":2580000,"shareType":"SH","putCall":"Put","value":407614200},
+    {"cusip":"42824C109","name":"HEWLETT PACKARD ENTERPRISE C","titleOfClass":"COM","shares":18630978,"shareType":"SH","putCall":null,"value":381003500},
+    {"cusip":"464288513","name":"ISHARES TR","titleOfClass":"IBOXX HI YD ETF","shares":3800000,"shareType":"SH","putCall":null,"value":306470000},
+    {"cusip":"92189F676","name":"VANECK ETF TRUST","titleOfClass":"SEMICONDUCTR ETF","shares":1000000,"shareType":"SH","putCall":"Put","value":278880000},
+    {"cusip":"29786A106","name":"ETSY INC","titleOfClass":"COM","shares":5000000,"shareType":"SH","putCall":null,"value":250800000},
+    {"cusip":"530307305","name":"LIBERTY BROADBAND CORP","titleOfClass":"COM SER C","shares":2384481,"shareType":"SH","putCall":null,"value":234585241},
+    {"cusip":"464287655","name":"ISHARES TR","titleOfClass":"RUSSELL 2000 ETF","shares":1000000,"shareType":"SH","putCall":"Put","value":215790000},
+    {"cusip":"92189F106","name":"VANECK ETF TRUST","titleOfClass":"GOLD MINERS ETF","shares":4000000,"shareType":"SH","putCall":"Put","value":208240000},
+    {"cusip":"78464A755","name":"SPDR SERIES TRUST","titleOfClass":"S&P METALS MNG","shares":2850000,"shareType":"SH","putCall":"Put","value":191577000},
+    {"cusip":"958102105","name":"WESTERN DIGITAL CORP","titleOfClass":"COM","shares":2250000,"shareType":"SH","putCall":null,"value":143977500},
+    {"cusip":"253868103","name":"DIGITAL RLTY TR INC","titleOfClass":"COM","shares":750000,"shareType":"SH","putCall":"Put","value":130747500},
+    {"cusip":"22822V101","name":"CROWN CASTLE INC","titleOfClass":"COM","shares":1225000,"shareType":"SH","putCall":null,"value":125844250},
+    {"cusip":"29444U700","name":"EQUINIX INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":119320500},
+    {"cusip":"G8060N102","name":"SENSATA TECHNOLOGIES HLDG PL","titleOfClass":"SHS","shares":3250000,"shareType":"SH","putCall":null,"value":97857500},
+    {"cusip":"G7997W102","name":"SEADRILL LTD","titleOfClass":"COM","shares":3703746,"shareType":"SH","putCall":null,"value":97223333},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":320000,"shareType":"SH","putCall":"Put","value":85228800},
+    {"cusip":"68390D106","name":"OR ROYALTIES INC.","titleOfClass":"COM SHS","shares":2180151,"shareType":"SH","putCall":null,"value":56051682},
+    {"cusip":"594972AJ0","name":"MICROSTRATEGY INC","titleOfClass":"NOTE 0.625% 3/1","shares":16000000,"shareType":"PRN","putCall":null,"value":44495840},
+    {"cusip":"91325V108","name":"UNITI GROUP INC","titleOfClass":"COM","shares":10120963,"shareType":"SH","putCall":null,"value":43722560},
+    {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":749997,"shareType":"SH","putCall":null,"value":34012364},
+    {"cusip":"94419LAR2","name":"WAYFAIR INC","titleOfClass":"NOTE 3.500%11/1","shares":15000000,"shareType":"PRN","putCall":null,"value":20269159}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "investorId": "dennis-hong",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-14",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-26-003620","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "totalValue": 232082002,
+  "holdings": [
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":409153,"shareType":"SH","putCall":null,"value":39270505,"ticker":"BABA","weight":0.16921},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":157020,"shareType":"SH","putCall":null,"value":37424147,"ticker":"AMZN","weight":0.161254},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":234744,"shareType":"SH","putCall":null,"value":32030819,"ticker":"OKTA","weight":0.138015},
+    {"cusip":"98980G102","name":"ZSCALER INC","titleOfClass":"COM","shares":167305,"shareType":"SH","putCall":null,"value":23615101,"ticker":"ZS","weight":0.101753},
+    {"cusip":"224408104","name":"CRANE COMPANY","titleOfClass":"COMMON STOCK","shares":81370,"shareType":"SH","putCall":null,"value":18151206,"ticker":"CR","weight":0.07821},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":45495,"shareType":"SH","putCall":null,"value":16970545,"ticker":"MSFT","weight":0.073123},
+    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY ONE S C","shares":170806,"shareType":"SH","putCall":null,"value":16250483,"ticker":"FWONK","weight":0.07002},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":920068,"shareType":"SH","putCall":null,"value":15981581,"ticker":"CPNG","weight":0.068862},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":641194,"shareType":"SH","putCall":null,"value":13907498,"ticker":"BRZE","weight":0.059925},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":380078,"shareType":"SH","putCall":null,"value":11413742,"ticker":"GDS","weight":0.04918},
+    {"cusip":"21037T109","name":"CONSTELLATION ENERGY CORP","titleOfClass":"COM","shares":28451,"shareType":"SH","putCall":null,"value":7066375,"ticker":"CEG","weight":0.030448}
+  ],
+  "changes": [
+    {"cusip":"224408104","ticker":"CR","name":"CRANE COMPANY","putCall":null,"action":"new","shares":81370,"prevShares":0},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"new","shares":45495,"prevShares":0},
+    {"cusip":"01609W102","ticker":"BABA","name":"ALIBABA GROUP HLDG LTD","putCall":null,"action":"add","shares":409153,"prevShares":290261},
+    {"cusip":"22266T109","ticker":"CPNG","name":"COUPANG INC","putCall":null,"action":"add","shares":920068,"prevShares":906291},
+    {"cusip":"36165L108","ticker":"GDS","name":"GDS HLDGS LTD","putCall":null,"action":"add","shares":380078,"prevShares":221782},
+    {"cusip":"21037T109","ticker":"CEG","name":"CONSTELLATION ENERGY CORP","putCall":null,"action":"add","shares":28451,"prevShares":23167},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"reduce","shares":157020,"prevShares":186499},
+    {"cusip":"679295105","ticker":"OKTA","name":"OKTA INC","putCall":null,"action":"reduce","shares":234744,"prevShares":565036},
+    {"cusip":"98980G102","ticker":"ZS","name":"ZSCALER INC","putCall":null,"action":"reduce","shares":167305,"prevShares":200416},
+    {"cusip":"531229755","ticker":"FWONK","name":"LIBERTY MEDIA CORP DEL","putCall":null,"action":"reduce","shares":170806,"prevShares":202928},
+    {"cusip":"10576N102","ticker":"BRZE","name":"BRAZE INC","putCall":null,"action":"reduce","shares":641194,"prevShares":1112099},
+    {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"exit","shares":0,"prevShares":40939},
+    {"cusip":"22160N109","ticker":"CSGP","name":"COSTAR GROUP INC","putCall":null,"action":"exit","shares":0,"prevShares":339081},
+    {"cusip":"74275K108","ticker":"PCOR","name":"PROCORE TECHNOLOGIES INC","putCall":null,"action":"exit","shares":0,"prevShares":216756}
+  ]
+}

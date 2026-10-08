@@ -1,0 +1,22 @@
+{
+  "cik": "921669",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-25-002145","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":494783619,"shareType":"SH","putCall":null,"value":3980534216},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":70418471,"shareType":"SH","putCall":null,"value":1890735946},
+    {"cusip":"844895102","name":"Southwest Gas Holdings Inc.","titleOfClass":"COM","shares":7532604,"shareType":"SH","putCall":null,"value":560350412},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4164274,"shareType":"SH","putCall":null,"value":369954102},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":3750000,"shareType":"SH","putCall":null,"value":275812500},
+    {"cusip":"071734107","name":"Bausch Health Companies Inc.","titleOfClass":"COM","shares":34721118,"shareType":"SH","putCall":null,"value":231242646},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":6403877,"shareType":"SH","putCall":null,"value":143703000},
+    {"cusip":"477143101","name":"JetBlue Airways Corp.","titleOfClass":"COM","shares":33621735,"shareType":"SH","putCall":null,"value":142219939},
+    {"cusip":"025537101","name":"American Electric Power Company","titleOfClass":"COM","shares":1205300,"shareType":"SH","putCall":null,"value":125061928},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":69274695},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":4818832,"shareType":"SH","putCall":null,"value":52139762},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":3500000,"shareType":"SH","putCall":null,"value":45535000}
+  ]
+}

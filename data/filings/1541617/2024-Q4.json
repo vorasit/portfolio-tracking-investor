@@ -1,0 +1,34 @@
+{
+  "cik": "1541617",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1541617","accession":"0001541617-25-000002","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1842186,"shareType":"SH","putCall":null,"value":1078618325},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":7845769,"shareType":"SH","putCall":null,"value":1053608319},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"CL A","shares":4978310,"shareType":"SH","putCall":null,"value":768700848},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":993480,"shareType":"SH","putCall":null,"value":418751820},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":5588792,"shareType":"SH","putCall":null,"value":337115933},
+    {"cusip":"20717M103","name":"CONFLUENT INC","titleOfClass":"CLASS A COM","shares":11746370,"shareType":"SH","putCall":null,"value":328428505},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":871225,"shareType":"SH","putCall":null,"value":191138053},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":867305,"shareType":"SH","putCall":null,"value":164180837},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":355130,"shareType":"SH","putCall":null,"value":143415700},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":5985890,"shareType":"SH","putCall":null,"value":131569862},
+    {"cusip":"781154109","name":"RUBRIK INC.","titleOfClass":"CL A","shares":1642098,"shareType":"SH","putCall":null,"value":107327525},
+    {"cusip":"565394103","name":"MAPLEBEAR INC","titleOfClass":"COM","shares":2537618,"shareType":"SH","putCall":null,"value":105108138},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":504380,"shareType":"SH","putCall":null,"value":99610006},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":380315,"shareType":"SH","putCall":null,"value":98292412},
+    {"cusip":"98954M200","name":"ZILLOW GROUP INC","titleOfClass":"CL C CAP STK","shares":1300738,"shareType":"SH","putCall":null,"value":96319648},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":271725,"shareType":"SH","putCall":null,"value":90845819},
+    {"cusip":"04626A103","name":"ASTERA LABS INC","titleOfClass":"COM","shares":584430,"shareType":"SH","putCall":null,"value":77407754},
+    {"cusip":"79589L106","name":"SAMSARA INC","titleOfClass":"COM CL A","shares":1458148,"shareType":"SH","putCall":null,"value":63706486},
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":582915,"shareType":"SH","putCall":null,"value":63001453},
+    {"cusip":"58733R102","name":"MERCADOLIBRE INC","titleOfClass":"COM","shares":36255,"shareType":"SH","putCall":null,"value":61649452},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":614595,"shareType":"SH","putCall":null,"value":51724315},
+    {"cusip":"26603R106","name":"DUOLINGO INC","titleOfClass":"CL A COM","shares":30375,"shareType":"SH","putCall":null,"value":9848486},
+    {"cusip":"81764X103","name":"SERVICETITAN INC","titleOfClass":"SHS CL A","shares":40000,"shareType":"SH","putCall":null,"value":4114800},
+    {"cusip":"G0370L116","name":"GRAB HOLDINGS LIMITED","titleOfClass":"W EXP 12/1/202","shares":3502000,"shareType":"SH","putCall":null,"value":1427065}
+  ]
+}

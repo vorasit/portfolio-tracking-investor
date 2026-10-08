@@ -1,0 +1,28 @@
+{
+  "investorId": "colin-moran",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000278","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 970126504,
+  "holdings": [
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10179538,"shareType":"SH","putCall":null,"value":293272490,"ticker":"APPN","weight":0.302303},
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":477021,"shareType":"SH","putCall":null,"value":164834607,"ticker":"HCA","weight":0.16991},
+    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1632481,"shareType":"SH","putCall":null,"value":131365746,"ticker":"FND","weight":0.135411},
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":2797625,"shareType":"SH","putCall":null,"value":128383011,"ticker":"BILL","weight":0.132336},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3604479,"shareType":"SH","putCall":null,"value":119560568,"ticker":"TOST","weight":0.123242},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":2311201,"shareType":"SH","putCall":null,"value":82394316,"ticker":"GLBE","weight":0.084932},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":1113427,"shareType":"SH","putCall":null,"value":50315766,"ticker":"AFRM","weight":0.051865}
+  ],
+  "changes": [
+    {"cusip":"40412C101","ticker":"HCA","name":"HCA HEALTHCARE INC","putCall":null,"action":"new","shares":477021,"prevShares":0},
+    {"cusip":"339750101","ticker":"FND","name":"FLOOR & DECOR HOLDINGS INC","putCall":null,"action":"reduce","shares":1632481,"prevShares":1727731},
+    {"cusip":"090043100","ticker":"BILL","name":"BILL HOLDINGS INC","putCall":null,"action":"reduce","shares":2797625,"prevShares":5079371},
+    {"cusip":"888787108","ticker":"TOST","name":"TOAST INC","putCall":null,"action":"reduce","shares":3604479,"prevShares":3829470},
+    {"cusip":"M5216V106","ticker":"GLBE","name":"GLOBAL E ONLINE LTD","putCall":null,"action":"reduce","shares":2311201,"prevShares":3915413},
+    {"cusip":"00827B106","ticker":"AFRM","name":"AFFIRM HLDGS INC","putCall":null,"action":"reduce","shares":1113427,"prevShares":2059737},
+    {"cusip":"443573100","ticker":"HUBS","name":"HUBSPOT INC","putCall":null,"action":"exit","shares":0,"prevShares":295789}
+  ]
+}

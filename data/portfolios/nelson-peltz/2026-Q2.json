@@ -1,0 +1,26 @@
+{
+  "investorId": "nelson-peltz",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-12",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000035","form":"13F-HR","filedAt":"2026-08-12","amendmentType":null}
+  ],
+  "totalValue": 4230905202,
+  "holdings": [
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1506417803,"ticker":"GE","weight":0.356051},
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":25654382,"shareType":"SH","putCall":null,"value":1334027864,"ticker":null,"weight":0.315306},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":635465494,"ticker":"SOLV","weight":0.150196},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":257825107,"ticker":null,"weight":0.060939},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30468434,"shareType":"SH","putCall":null,"value":252583318,"ticker":"WEN","weight":0.0597},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":3085344,"shareType":"SH","putCall":null,"value":197492869,"ticker":"GEHC","weight":0.046679},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":1625472,"shareType":"SH","putCall":null,"value":42896206,"ticker":"IVZ","weight":0.010139},
+    {"cusip":"N5505D105","name":"Magnum Ice Cream Co NV","titleOfClass":"ORD SHS","shares":241042,"shareType":"SH","putCall":null,"value":4196541,"ticker":"MICC","weight":0.000992}
+  ],
+  "changes": [
+    {"cusip":"95058W100","ticker":"WEN","name":"Wendys Co.","putCall":null,"action":"add","shares":30468434,"prevShares":30446022},
+    {"cusip":"36266G107","ticker":"GEHC","name":"GE HealthCare Technologies Inc.","putCall":null,"action":"add","shares":3085344,"prevShares":4044},
+    {"cusip":"G4474Y214","ticker":null,"name":"Janus Henderson Group plc","putCall":null,"action":"reduce","shares":25654382,"prevShares":31867800},
+    {"cusip":"G491BT108","ticker":"IVZ","name":"Invesco Ltd.","putCall":null,"action":"reduce","shares":1625472,"prevShares":2970944}
+  ]
+}

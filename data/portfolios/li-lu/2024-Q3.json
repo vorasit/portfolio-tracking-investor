@@ -1,0 +1,21 @@
+{
+  "investorId": "li-lu",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1709323","accession":"0001709323-24-000009","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 2472447859,
+  "holdings": [
+    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":18081133,"shareType":"SH","putCall":null,"value":717459357,"ticker":"BAC","weight":0.290182},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3044000,"shareType":"SH","putCall":null,"value":508926360,"ticker":"GOOG","weight":0.205839},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":421806305,"ticker":"GOOGL","weight":0.170603},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":413197955,"ticker":"BRK.B","weight":0.167121},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":229715282,"ticker":"EWBC","weight":0.09291},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":75583410,"ticker":"OXY","weight":0.03057},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":317700,"shareType":"SH","putCall":null,"value":74024100,"ticker":"AAPL","weight":0.02994},
+    {"cusip":"78574H104","name":"SABLE OFFSHORE CORP","titleOfClass":"COM","shares":1343000,"shareType":"SH","putCall":null,"value":31735090,"ticker":"SOC","weight":0.012835}
+  ],
+  "changes": null
+}

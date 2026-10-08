@@ -1,0 +1,15 @@
+{
+  "cik": "1562087",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000404","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":68435,"shareType":"SH","putCall":null,"value":45347084},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":358055,"shareType":"SH","putCall":null,"value":38806001},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":78720,"shareType":"SH","putCall":null,"value":29550701},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":24515248},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":57180,"shareType":"SH","putCall":null,"value":14818769}
+  ]
+}

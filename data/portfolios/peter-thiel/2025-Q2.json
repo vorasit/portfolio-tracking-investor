@@ -1,0 +1,21 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000630","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 212013361,
+  "holdings": [
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":272613,"shareType":"SH","putCall":null,"value":86598246,"ticker":"TSLA","weight":0.408457},
+    {"cusip":"67066G104","name":"NVIDIA CORP","titleOfClass":"COM","shares":537742,"shareType":"SH","putCall":null,"value":84957859,"ticker":"NVDA","weight":0.400719},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":40457256,"ticker":"VST","weight":0.190824}
+  ],
+  "changes": [
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"add","shares":272613,"prevShares":57180},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORP","putCall":null,"action":"add","shares":537742,"prevShares":358055},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"exit","shares":0,"prevShares":68435},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"exit","shares":0,"prevShares":78720}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "investorId": "nelson-peltz",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-25-000018","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 3735730306,
+  "holdings": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1152020970,"ticker":null,"weight":0.308379},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030213,"shareType":"SH","putCall":null,"value":806647132,"ticker":"GE","weight":0.215928},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8462819,"shareType":"SH","putCall":null,"value":643512757,"ticker":"SOLV","weight":0.172259},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30423683,"shareType":"SH","putCall":null,"value":445098483,"ticker":"WEN","weight":0.119146},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":23173442,"shareType":"SH","putCall":null,"value":351541115,"ticker":"IVZ","weight":0.094102},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1008765,"shareType":"SH","putCall":null,"value":161634416,"ticker":null,"weight":0.043267},
+    {"cusip":"023586506","name":"U-Haul Holding Company - B","titleOfClass":"COM SER N","shares":1124700,"shareType":"SH","putCall":null,"value":66559746,"ticker":"UHAL.B","weight":0.017817},
+    {"cusip":"200021014","name":"The Allstate Corporation","titleOfClass":"COM","shares":317650,"shareType":"SH","putCall":null,"value":65775786,"ticker":null,"weight":0.017607},
+    {"cusip":"023586100","name":"U-Haul Holding Company","titleOfClass":"COM","shares":652000,"shareType":"SH","putCall":null,"value":42614720,"ticker":"UHAL","weight":0.011407},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4029,"shareType":"SH","putCall":null,"value":325181,"ticker":"GEHC","weight":0.000087}
+  ],
+  "changes": [
+    {"cusip":"200021014","ticker":null,"name":"The Allstate Corporation","putCall":null,"action":"add","shares":317650,"prevShares":306722},
+    {"cusip":"95058W100","ticker":"WEN","name":"Wendys Co.","putCall":null,"action":"reduce","shares":30423683,"prevShares":30525029},
+    {"cusip":"G3421J106","ticker":null,"name":"Ferguson Plc New","putCall":null,"action":"reduce","shares":1008765,"prevShares":1237274}
+  ]
+}

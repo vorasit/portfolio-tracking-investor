@@ -1,11 +1,47 @@
 [
   {
-    "id": "warren-buffett",
-    "name": "Warren Buffett",
-    "fund": "Berkshire Hathaway",
-    "ciks": ["1067983"],
+    "id": "alex-sacerdote",
+    "name": "Alex Sacerdote",
+    "fund": "Whale Rock Capital",
+    "ciks": ["1387322"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "andreas-halvorsen",
+    "name": "Andreas Halvorsen",
+    "fund": "Viking Global Investors",
+    "ciks": ["1103804"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "andrew-wellington",
+    "name": "Andrew Wellington",
+    "fund": "Lyrical Asset Management",
+    "ciks": ["1542302"],
+    "styles": ["value"]
+  },
+  {
+    "id": "arnold-van-den-berg",
+    "name": "Arnold Van Den Berg",
+    "fund": "Century Management",
+    "ciks": ["1142062"],
     "styles": ["value"],
-    "notes": "พอร์ตหุ้นของ Berkshire Hathaway ทั้งกลุ่ม รวมบริษัทประกันในเครือ ตั้งแต่ปี 2026 Greg Abel เป็น CEO แทน"
+    "notes": "Century Management ยื่น 13F ในนาม Van Den Berg Management"
+  },
+  {
+    "id": "baillie-gifford",
+    "name": "Baillie Gifford",
+    "fund": "Baillie Gifford & Co",
+    "ciks": ["1088875"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "barry-rosenstein",
+    "name": "Barry Rosenstein",
+    "fund": "JANA Partners",
+    "ciks": ["1998597"],
+    "styles": ["activist"],
+    "notes": "ตั้งแต่ปลายปี 2023 ยื่น 13F ในนาม JANA Partners Management (CIK ใหม่)"
   },
   {
     "id": "bill-ackman",
@@ -14,6 +50,575 @@
     "ciks": ["1336528", "2026053"],
     "styles": ["activist"],
     "notes": "ตั้งแต่ Q2/2026 Pershing Square Capital Management ยื่น 13F-NT และให้ Pershing Square Inc. (บริษัทแม่) รายงานพอร์ตแทน จึงรวมสอง CIK"
+  },
+  {
+    "id": "bill-gates",
+    "name": "Bill Gates",
+    "fund": "Gates Foundation Trust",
+    "ciks": ["1166559"],
+    "styles": ["value"],
+    "notes": "พอร์ตของ Bill & Melinda Gates Foundation Trust"
+  },
+  {
+    "id": "bill-miller",
+    "name": "Bill Miller",
+    "fund": "Miller Value Partners",
+    "ciks": ["1135778"],
+    "styles": ["value"]
+  },
+  {
+    "id": "bill-nygren",
+    "name": "Bill Nygren",
+    "fund": "Harris Associates (Oakmark)",
+    "ciks": ["813917"],
+    "styles": ["value"]
+  },
+  {
+    "id": "bill-smead",
+    "name": "Bill Smead",
+    "fund": "Smead Capital Management",
+    "ciks": ["1427008"],
+    "styles": ["value"]
+  },
+  {
+    "id": "boykin-curry",
+    "name": "Boykin Curry",
+    "fund": "Eagle Capital Management",
+    "ciks": ["945631"],
+    "styles": ["value"]
+  },
+  {
+    "id": "brad-gerstner",
+    "name": "Brad Gerstner",
+    "fund": "Altimeter Capital",
+    "ciks": ["1541617"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "bruce-berkowitz",
+    "name": "Bruce Berkowitz",
+    "fund": "Fairholme Capital",
+    "ciks": ["1056831"],
+    "styles": ["value"]
+  },
+  {
+    "id": "bryan-lawrence",
+    "name": "Bryan Lawrence",
+    "fund": "Oakcliff Capital",
+    "ciks": ["1657335"],
+    "styles": ["value"]
+  },
+  {
+    "id": "carl-icahn",
+    "name": "Carl Icahn",
+    "fund": "Icahn Enterprises",
+    "ciks": ["921669"],
+    "styles": ["activist"],
+    "notes": "ยื่น 13F ในนามตัวเอง ครอบคลุมพอร์ตของ Icahn Enterprises"
+  },
+  {
+    "id": "cathie-wood",
+    "name": "Cathie Wood",
+    "fund": "ARK Investment Management",
+    "ciks": ["1697748"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "chase-coleman",
+    "name": "Chase Coleman",
+    "fund": "Tiger Global Management",
+    "ciks": ["1167483"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "chris-bloomstran",
+    "name": "Chris Bloomstran",
+    "fund": "Semper Augustus",
+    "ciks": ["1115373"],
+    "styles": ["value"]
+  },
+  {
+    "id": "chris-davis",
+    "name": "Chris Davis",
+    "fund": "Davis Selected Advisers",
+    "ciks": ["1036325"],
+    "styles": ["value"]
+  },
+  {
+    "id": "chris-hohn",
+    "name": "Chris Hohn",
+    "fund": "TCI Fund Management",
+    "ciks": ["1647251"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "chuck-akre",
+    "name": "Chuck Akre",
+    "fund": "Akre Capital Management",
+    "ciks": ["1112520"],
+    "styles": ["value"]
+  },
+  {
+    "id": "chuck-royce",
+    "name": "Chuck Royce",
+    "fund": "Royce & Associates",
+    "ciks": ["906304"],
+    "styles": ["value"]
+  },
+  {
+    "id": "colin-moran",
+    "name": "Colin Moran",
+    "fund": "Abdiel Capital",
+    "ciks": ["1578684"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "dan-davidowitz",
+    "name": "Dan Davidowitz",
+    "fund": "Polen Capital",
+    "ciks": ["1034524"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "dan-loeb",
+    "name": "Dan Loeb",
+    "fund": "Third Point",
+    "ciks": ["1040273"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "dan-sundheim",
+    "name": "Dan Sundheim",
+    "fund": "D1 Capital Partners",
+    "ciks": ["1747057"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "david-abrams",
+    "name": "David Abrams",
+    "fund": "Abrams Capital Management",
+    "ciks": ["1358706"],
+    "styles": ["value"]
+  },
+  {
+    "id": "david-einhorn",
+    "name": "David Einhorn",
+    "fund": "Greenlight Capital",
+    "ciks": ["1489933"],
+    "styles": ["value"],
+    "notes": "พอร์ตของ Greenlight Capital ยื่น 13F ในนาม DME Capital Management"
+  },
+  {
+    "id": "david-rolfe",
+    "name": "David Rolfe",
+    "fund": "Wedgewood Partners",
+    "ciks": ["859804"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "david-tepper",
+    "name": "David Tepper",
+    "fund": "Appaloosa",
+    "ciks": ["1656456"],
+    "styles": ["distressed"],
+    "notes": "มีสถานะ put option ซึ่ง 13F รายงานเป็นมูลค่าหุ้นอ้างอิง ไม่นับรวมในมูลค่าพอร์ต"
+  },
+  {
+    "id": "dennis-hong",
+    "name": "Dennis Hong",
+    "fund": "ShawSpring Partners",
+    "ciks": ["1766908"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "dev-kantesaria",
+    "name": "Dev Kantesaria",
+    "fund": "Valley Forge Capital",
+    "ciks": ["1697868"],
+    "styles": ["value"]
+  },
+  {
+    "id": "dodge-cox",
+    "name": "Dodge & Cox",
+    "fund": "Dodge & Cox",
+    "ciks": ["200217"],
+    "styles": ["value"]
+  },
+  {
+    "id": "duan-yongping",
+    "name": "Duan Yongping",
+    "fund": "H&H International Investment",
+    "ciks": ["1759760"],
+    "styles": ["value"],
+    "notes": "ยื่น 13F ในนาม H&H International Investment"
+  },
+  {
+    "id": "edgar-wachenheim",
+    "name": "Edgar Wachenheim",
+    "fund": "Greenhaven Associates",
+    "ciks": ["846222"],
+    "styles": ["value"]
+  },
+  {
+    "id": "francois-rochon",
+    "name": "François Rochon",
+    "fund": "Giverny Capital",
+    "ciks": ["1641864"],
+    "styles": ["value"]
+  },
+  {
+    "id": "frank-sands",
+    "name": "Frank Sands",
+    "fund": "Sands Capital Management",
+    "ciks": ["1020066"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "gavin-baker",
+    "name": "Gavin Baker",
+    "fund": "Atreides Management",
+    "ciks": ["1777813"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "george-soros",
+    "name": "George Soros",
+    "fund": "Soros Fund Management",
+    "ciks": ["1029160"],
+    "styles": ["macro"]
+  },
+  {
+    "id": "glenn-greenberg",
+    "name": "Glenn Greenberg",
+    "fund": "Brave Warrior Advisors",
+    "ciks": ["1553733"],
+    "styles": ["value"]
+  },
+  {
+    "id": "glenn-welling",
+    "name": "Glenn Welling",
+    "fund": "Engaged Capital",
+    "ciks": ["1559771"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "guy-spier",
+    "name": "Guy Spier",
+    "fund": "Aquamarine Capital",
+    "ciks": ["1953324"],
+    "styles": ["value"],
+    "notes": "ยื่น 13F ในนาม Aquamarine Zurich AG"
+  },
+  {
+    "id": "harry-burn",
+    "name": "Harry Burn",
+    "fund": "Sound Shore Management",
+    "ciks": ["820124"],
+    "styles": ["value"]
+  },
+  {
+    "id": "henry-ellenbogen",
+    "name": "Henry Ellenbogen",
+    "fund": "Durable Capital Partners",
+    "ciks": ["1798849"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "howard-marks",
+    "name": "Howard Marks",
+    "fund": "Oaktree Capital Management",
+    "ciks": ["949509"],
+    "styles": ["distressed"]
+  },
+  {
+    "id": "jeff-smith",
+    "name": "Jeff Smith",
+    "fund": "Starboard Value",
+    "ciks": ["1517137"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "jensen",
+    "name": "Jensen Investment",
+    "fund": "Jensen Investment Management",
+    "ciks": ["1106129"],
+    "styles": ["value"]
+  },
+  {
+    "id": "jeremy-grantham",
+    "name": "Jeremy Grantham",
+    "fund": "GMO",
+    "ciks": ["1352662"],
+    "styles": ["value"]
+  },
+  {
+    "id": "jim-simons",
+    "name": "Jim Simons",
+    "fund": "Renaissance Technologies",
+    "ciks": ["1037389"],
+    "styles": ["quant"],
+    "notes": "Jim Simons เสียชีวิตปี 2024 พอร์ตเป็นของ Renaissance Technologies ซึ่งใช้กลยุทธ์เชิงปริมาณและถือหุ้นหลายพันตัว"
+  },
+  {
+    "id": "joel-greenblatt",
+    "name": "Joel Greenblatt",
+    "fund": "Gotham Asset Management",
+    "ciks": ["1510387"],
+    "styles": ["value", "quant"],
+    "notes": "Gotham ใช้กลยุทธ์เชิงปริมาณตามแนว Magic Formula จึงถือหุ้นนับพันตัว"
+  },
+  {
+    "id": "john-armitage",
+    "name": "John Armitage",
+    "fund": "Egerton Capital",
+    "ciks": ["1581811"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "john-paulson",
+    "name": "John Paulson",
+    "fund": "Paulson & Co.",
+    "ciks": ["1035674"],
+    "styles": ["distressed"],
+    "notes": "Paulson & Co. เปลี่ยนเป็น family office ตั้งแต่ปี 2020"
+  },
+  {
+    "id": "john-rogers",
+    "name": "John Rogers",
+    "fund": "Ariel Investments",
+    "ciks": ["936753"],
+    "styles": ["value"]
+  },
+  {
+    "id": "josh-tarasoff",
+    "name": "Josh Tarasoff",
+    "fund": "Greenlea Lane Capital",
+    "ciks": ["1766504"],
+    "styles": ["value"]
+  },
+  {
+    "id": "kahn-brothers",
+    "name": "Thomas Kahn",
+    "fund": "Kahn Brothers",
+    "ciks": ["1039565"],
+    "styles": ["value"]
+  },
+  {
+    "id": "karthik-sarma",
+    "name": "Karthik Sarma",
+    "fund": "SRS Investment Management",
+    "ciks": ["1503174"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "keith-meister",
+    "name": "Keith Meister",
+    "fund": "Corvex Management",
+    "ciks": ["1535472"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "larry-robbins",
+    "name": "Larry Robbins",
+    "fund": "Glenview Capital",
+    "ciks": ["1138995"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "lee-ainslie",
+    "name": "Lee Ainslie",
+    "fund": "Maverick Capital",
+    "ciks": ["934639"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "leon-cooperman",
+    "name": "Leon Cooperman",
+    "fund": "Omega Advisors",
+    "ciks": ["898382"],
+    "styles": ["value"],
+    "notes": "ปิด Omega Advisors แล้ว ปัจจุบันยื่น 13F ในนามตัวเอง (family office)"
+  },
+  {
+    "id": "li-lu",
+    "name": "Li Lu",
+    "fund": "Himalaya Capital",
+    "ciks": ["1709323"],
+    "styles": ["value"]
+  },
+  {
+    "id": "lindsell-train",
+    "name": "Nick Train",
+    "fund": "Lindsell Train",
+    "ciks": ["1484150"],
+    "styles": ["value"]
+  },
+  {
+    "id": "louis-bacon",
+    "name": "Louis Bacon",
+    "fund": "Moore Capital Management",
+    "ciks": ["1448574"],
+    "styles": ["macro"]
+  },
+  {
+    "id": "mario-gabelli",
+    "name": "Mario Gabelli",
+    "fund": "GAMCO Investors",
+    "ciks": ["807249"],
+    "styles": ["value"]
+  },
+  {
+    "id": "mark-massey",
+    "name": "Mark Massey",
+    "fund": "AltaRock Partners",
+    "ciks": ["1631014"],
+    "styles": ["value"]
+  },
+  {
+    "id": "mason-hawkins",
+    "name": "Mason Hawkins",
+    "fund": "Southeastern Asset Management",
+    "ciks": ["807985"],
+    "styles": ["value"]
+  },
+  {
+    "id": "mason-morfit",
+    "name": "Mason Morfit",
+    "fund": "ValueAct Capital",
+    "ciks": ["1418814"],
+    "styles": ["activist"],
+    "notes": "ValueAct ก่อตั้งโดย Jeff Ubben ปัจจุบัน Mason Morfit เป็น CEO"
+  },
+  {
+    "id": "matthew-mclennan",
+    "name": "Matthew McLennan",
+    "fund": "First Eagle Investment Management",
+    "ciks": ["1325447"],
+    "styles": ["value"]
+  },
+  {
+    "id": "mohnish-pabrai",
+    "name": "Mohnish Pabrai",
+    "fund": "Pabrai Investment Funds",
+    "ciks": ["1549575"],
+    "styles": ["value"],
+    "notes": "ยื่น 13F ในนาม Dalal Street, LLC"
+  },
+  {
+    "id": "murray-stahl",
+    "name": "Murray Stahl",
+    "fund": "Horizon Kinetics",
+    "ciks": ["1056823"],
+    "styles": ["value"]
+  },
+  {
+    "id": "nancy-zevenbergen",
+    "name": "Nancy Zevenbergen",
+    "fund": "Zevenbergen Capital",
+    "ciks": ["1276918"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "nelson-peltz",
+    "name": "Nelson Peltz",
+    "fund": "Trian Fund Management",
+    "ciks": ["1345471"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "norbert-lou",
+    "name": "Norbert Lou",
+    "fund": "Punch Card Management",
+    "ciks": ["1631664"],
+    "styles": ["value"]
+  },
+  {
+    "id": "pat-dorsey",
+    "name": "Pat Dorsey",
+    "fund": "Dorsey Asset Management",
+    "ciks": ["1671657"],
+    "styles": ["value"]
+  },
+  {
+    "id": "paul-singer",
+    "name": "Paul Singer",
+    "fund": "Elliott Investment Management",
+    "ciks": ["1791786"],
+    "styles": ["activist"]
+  },
+  {
+    "id": "paul-tudor-jones",
+    "name": "Paul Tudor Jones",
+    "fund": "Tudor Investment Corp",
+    "ciks": ["923093"],
+    "styles": ["macro"],
+    "notes": "พอร์ตมีหลายพันรายการ ส่วนใหญ่เป็น ETF และออปชันเพื่อเทรดภาพรวมตลาด"
+  },
+  {
+    "id": "peter-thiel",
+    "name": "Peter Thiel",
+    "fund": "Thiel Macro",
+    "ciks": ["1562087"],
+    "styles": ["macro"]
+  },
+  {
+    "id": "philippe-laffont",
+    "name": "Philippe Laffont",
+    "fund": "Coatue Management",
+    "ciks": ["1135730"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "prem-watsa",
+    "name": "Prem Watsa",
+    "fund": "Fairfax Financial",
+    "ciks": ["915191"],
+    "styles": ["value"],
+    "notes": "พอร์ตหุ้นของ Fairfax Financial ทั้งกลุ่ม"
+  },
+  {
+    "id": "ray-dalio",
+    "name": "Ray Dalio",
+    "fund": "Bridgewater Associates",
+    "ciks": ["1350694"],
+    "styles": ["macro"],
+    "notes": "Ray Dalio วางมือจาก Bridgewater แล้ว พอร์ตบริหารโดยทีมของ Bridgewater"
+  },
+  {
+    "id": "richard-pzena",
+    "name": "Richard Pzena",
+    "fund": "Pzena Investment Management",
+    "ciks": ["1027796"],
+    "styles": ["value"]
+  },
+  {
+    "id": "robert-robotti",
+    "name": "Robert Robotti",
+    "fund": "Robotti & Company",
+    "ciks": ["1105838"],
+    "styles": ["value"]
+  },
+  {
+    "id": "ron-baron",
+    "name": "Ron Baron",
+    "fund": "Baron Capital",
+    "ciks": ["1017918"],
+    "styles": ["growth"],
+    "notes": "ยื่น 13F ในนาม BAMCO Inc. ซึ่งเป็นบริษัทในเครือ Baron Capital"
+  },
+  {
+    "id": "ruane-cunniff",
+    "name": "Ruane, Cunniff & Goldfarb",
+    "fund": "Sequoia Fund",
+    "ciks": ["1720792"],
+    "styles": ["value"]
+  },
+  {
+    "id": "scott-ferguson",
+    "name": "Scott Ferguson",
+    "fund": "Sachem Head Capital",
+    "ciks": ["1582090"],
+    "styles": ["activist"]
   },
   {
     "id": "seth-klarman",
@@ -30,11 +635,90 @@
     "styles": ["macro"]
   },
   {
-    "id": "david-tepper",
-    "name": "David Tepper",
-    "fund": "Appaloosa",
-    "ciks": ["1656456"],
-    "styles": ["distressed"],
-    "notes": "มีสถานะ put option ซึ่ง 13F รายงานเป็นมูลค่าหุ้นอ้างอิง ไม่นับรวมในมูลค่าพอร์ต"
+    "id": "stephen-mandel",
+    "name": "Stephen Mandel",
+    "fund": "Lone Pine Capital",
+    "ciks": ["1061165"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "steven-romick",
+    "name": "Steven Romick",
+    "fund": "First Pacific Advisors (FPA)",
+    "ciks": ["1377581"],
+    "styles": ["value"]
+  },
+  {
+    "id": "terry-smith",
+    "name": "Terry Smith",
+    "fund": "Fundsmith",
+    "ciks": ["1569205"],
+    "styles": ["value"]
+  },
+  {
+    "id": "third-avenue",
+    "name": "Third Avenue",
+    "fund": "Third Avenue Management",
+    "ciks": ["1099281"],
+    "styles": ["value"]
+  },
+  {
+    "id": "tom-gayner",
+    "name": "Tom Gayner",
+    "fund": "Markel Group",
+    "ciks": ["1096343"],
+    "styles": ["value"],
+    "notes": "พอร์ตหุ้นของ Markel Group ทั้งกลุ่ม"
+  },
+  {
+    "id": "tom-russo",
+    "name": "Tom Russo",
+    "fund": "Gardner Russo & Quinn",
+    "ciks": ["860643"],
+    "styles": ["value"]
+  },
+  {
+    "id": "tweedy-browne",
+    "name": "Tweedy, Browne",
+    "fund": "Tweedy, Browne Company",
+    "ciks": ["732905"],
+    "styles": ["value"]
+  },
+  {
+    "id": "wally-weitz",
+    "name": "Wally Weitz",
+    "fund": "Weitz Investment Management",
+    "ciks": ["883965"],
+    "styles": ["value"]
+  },
+  {
+    "id": "warren-buffett",
+    "name": "Warren Buffett",
+    "fund": "Berkshire Hathaway",
+    "ciks": ["1067983"],
+    "styles": ["value"],
+    "notes": "พอร์ตหุ้นของ Berkshire Hathaway ทั้งกลุ่ม รวมบริษัทประกันในเครือ ตั้งแต่ปี 2026 Greg Abel เป็น CEO แทน"
+  },
+  {
+    "id": "william-von-mueffling",
+    "name": "William von Mueffling",
+    "fund": "Cantillon Capital",
+    "ciks": ["1279936"],
+    "styles": ["growth"]
+  },
+  {
+    "id": "yacktman",
+    "name": "Stephen Yacktman",
+    "fund": "Yacktman Asset Management",
+    "ciks": ["905567"],
+    "styles": ["value"]
+  },
+  {
+    "id": "zhang-lei",
+    "name": "Zhang Lei",
+    "fund": "Hillhouse Investment",
+    "ciks": ["1762304"],
+    "styles": ["growth"],
+    "notes": "ยื่น 13F ในนาม HHLR Advisors ของกลุ่ม Hillhouse"
   }
 ]

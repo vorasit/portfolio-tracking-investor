@@ -1,0 +1,40 @@
+{
+  "cik": "1061165",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1061165","accession":"0000902664-25-001072","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2036930,"shareType":"SH","putCall":null,"value":1192642884},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3789034,"shareType":"SH","putCall":null,"value":831276169},
+    {"cusip":"718172109","name":"PHILIP MORRIS INTL INC","titleOfClass":"COM","shares":6468372,"shareType":"SH","putCall":null,"value":778468570},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":3760444,"shareType":"SH","putCall":null,"value":742650086},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":5352965,"shareType":"SH","putCall":null,"value":738013285},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":1156762,"shareType":"SH","putCall":null,"value":727024917},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1639697,"shareType":"SH","putCall":null,"value":691132286},
+    {"cusip":"50212V100","name":"LPL FINL HLDGS INC","titleOfClass":"COM","shares":1922748,"shareType":"SH","putCall":null,"value":627796449},
+    {"cusip":"532457108","name":"ELI LILLY & CO","titleOfClass":"COM","shares":782860,"shareType":"SH","putCall":null,"value":604367920},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":4048143,"shareType":"SH","putCall":null,"value":598760831},
+    {"cusip":"855244109","name":"STARBUCKS CORP","titleOfClass":"COM","shares":6475057,"shareType":"SH","putCall":null,"value":590848951},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":3235823,"shareType":"SH","putCall":null,"value":577011957},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":1565193,"shareType":"SH","putCall":null,"value":523290976},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":1912519,"shareType":"SH","putCall":null,"value":494290536},
+    {"cusip":"69370C100","name":"PTC INC","titleOfClass":"COM","shares":2326231,"shareType":"SH","putCall":null,"value":427724094},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":913564,"shareType":"SH","putCall":null,"value":408710262},
+    {"cusip":"98138H101","name":"WORKDAY INC","titleOfClass":"CL A","shares":1543464,"shareType":"SH","putCall":null,"value":398260016},
+    {"cusip":"21037T109","name":"CONSTELLATION ENERGY CORP","titleOfClass":"COM","shares":1737526,"shareType":"SH","putCall":null,"value":388701941},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":1085113,"shareType":"SH","putCall":null,"value":351392143},
+    {"cusip":"443201108","name":"HOWMET AEROSPACE INC","titleOfClass":"COM","shares":3061707,"shareType":"SH","putCall":null,"value":334858895},
+    {"cusip":"852234103","name":"BLOCK INC","titleOfClass":"CL A","shares":3765793,"shareType":"SH","putCall":null,"value":320054747},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":441766,"shareType":"SH","putCall":null,"value":306179179},
+    {"cusip":"03990B101","name":"ARES MANAGEMENT CORPORATION","titleOfClass":"CL A COM STK","shares":1677043,"shareType":"SH","putCall":null,"value":296886922},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":1717903,"shareType":"SH","putCall":null,"value":234270432},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":1089380,"shareType":"SH","putCall":null,"value":219477389},
+    {"cusip":"G11448100","name":"BITDEER TECHNOLOGIES GROUP","titleOfClass":"CL A ORD SHS","shares":986717,"shareType":"SH","putCall":null,"value":21382157},
+    {"cusip":"44812J104","name":"HUT 8 CORP","titleOfClass":"COM","shares":692839,"shareType":"SH","putCall":null,"value":14196271},
+    {"cusip":"17253J106","name":"CIPHER MINING INC","titleOfClass":"COM","shares":2344380,"shareType":"SH","putCall":null,"value":10877923},
+    {"cusip":"88080T104","name":"TERAWULF INC","titleOfClass":"COM","shares":1480928,"shareType":"SH","putCall":null,"value":8382052},
+    {"cusip":"Q4982L109","name":"IREN LIMITED","titleOfClass":"ORDINARY SHARES","shares":711839,"shareType":"SH","putCall":null,"value":6990259}
+  ]
+}

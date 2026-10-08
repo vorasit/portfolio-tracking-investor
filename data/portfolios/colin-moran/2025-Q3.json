@@ -1,0 +1,29 @@
+{
+  "investorId": "colin-moran",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000605","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 330505418,
+  "holdings": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":346322,"shareType":"SH","putCall":null,"value":147602436,"ticker":"HCA","weight":0.446596},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":1987385,"shareType":"SH","putCall":null,"value":71068888,"ticker":"GLBE","weight":0.215031},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":959582,"shareType":"SH","putCall":null,"value":70126253,"ticker":"AFRM","weight":0.212179},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":1324188,"shareType":"SH","putCall":null,"value":40480427,"ticker":"APPN","weight":0.12248},
+    {"cusip":"G0896C103","name":"BBB FOODS INC","titleOfClass":"CL A COM","shares":40420,"shareType":"SH","putCall":null,"value":1089723,"ticker":"TBBB","weight":0.003297},
+    {"cusip":"37890B100","name":"GLOBAL BUSINESS TRAVEL GROUP","titleOfClass":"COM CL A","shares":17041,"shareType":"SH","putCall":null,"value":137691,"ticker":null,"weight":0.000417}
+  ],
+  "changes": [
+    {"cusip":"G0896C103","ticker":"TBBB","name":"BBB FOODS INC","putCall":null,"action":"new","shares":40420,"prevShares":0},
+    {"cusip":"37890B100","ticker":null,"name":"GLOBAL BUSINESS TRAVEL GROUP","putCall":null,"action":"new","shares":17041,"prevShares":0},
+    {"cusip":"40412C101","ticker":"HCA","name":"HCA HEALTHCARE INC","putCall":null,"action":"reduce","shares":346322,"prevShares":646222},
+    {"cusip":"M5216V106","ticker":"GLBE","name":"GLOBAL E ONLINE LTD","putCall":null,"action":"reduce","shares":1987385,"prevShares":1991885},
+    {"cusip":"03782L101","ticker":"APPN","name":"APPIAN CORP","putCall":null,"action":"reduce","shares":1324188,"prevShares":7715335},
+    {"cusip":"888787108","ticker":"TOST","name":"TOAST INC","putCall":null,"action":"exit","shares":0,"prevShares":3101915},
+    {"cusip":"090043100","ticker":"BILL","name":"BILL HOLDINGS INC","putCall":null,"action":"exit","shares":0,"prevShares":2579611},
+    {"cusip":"339750101","ticker":"FND","name":"FLOOR & DECOR HOLDINGS INC","putCall":null,"action":"exit","shares":0,"prevShares":1482936},
+    {"cusip":"91324P102","ticker":"UNH","name":"UNITEDHEALTH GROUP INC.","putCall":null,"action":"exit","shares":0,"prevShares":286929}
+  ]
+}

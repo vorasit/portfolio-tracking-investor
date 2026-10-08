@@ -1,0 +1,37 @@
+{
+  "cik": "1279936",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1279936","accession":"0001279936-26-000005","form":"13F-HR","filedAt":"2026-07-29","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":186760,"shareType":"SH","putCall":null,"value":70548590},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":171066,"shareType":"SH","putCall":null,"value":61133856},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":114820,"shareType":"SH","putCall":null,"value":54834587},
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":517833,"shareType":"SH","putCall":null,"value":45072184},
+    {"cusip":"038222105","name":"APPLIED MATLS INC","titleOfClass":"COM","shares":50176,"shareType":"SH","putCall":null,"value":36277248},
+    {"cusip":"032654105","name":"ANALOG DEVICES INC","titleOfClass":"COM","shares":88014,"shareType":"SH","putCall":null,"value":34956520},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":71249,"shareType":"SH","putCall":null,"value":29016868},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":83643,"shareType":"SH","putCall":null,"value":28697077},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":68901,"shareType":"SH","putCall":null,"value":25701451},
+    {"cusip":"12504L109","name":"CBRE GROUP INC","titleOfClass":"CL A","shares":181083,"shareType":"SH","putCall":null,"value":24390069},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":113503,"shareType":"SH","putCall":null,"value":20783534},
+    {"cusip":"09290D101","name":"BLACKROCK INC","titleOfClass":"COM","shares":20873,"shareType":"SH","putCall":null,"value":20070642},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":80548,"shareType":"SH","putCall":null,"value":19116457},
+    {"cusip":"311900104","name":"FASTENAL CO","titleOfClass":"COM","shares":376044,"shareType":"SH","putCall":null,"value":18061393},
+    {"cusip":"29362U104","name":"ENTEGRIS INC","titleOfClass":"COM","shares":99756,"shareType":"SH","putCall":null,"value":17942114},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":199860,"shareType":"SH","putCall":null,"value":17317869},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":238965,"shareType":"SH","putCall":null,"value":17243714},
+    {"cusip":"00846U101","name":"AGILENT TECHNOLOGIES INC","titleOfClass":"COM","shares":126437,"shareType":"SH","putCall":null,"value":16794627},
+    {"cusip":"45866F104","name":"INTERCONTINENTAL EXCHANGE IN","titleOfClass":"COM","shares":135468,"shareType":"SH","putCall":null,"value":16677465},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":105457,"shareType":"SH","putCall":null,"value":15454723},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":63835,"shareType":"SH","putCall":null,"value":14096683},
+    {"cusip":"988498101","name":"YUM BRANDS INC","titleOfClass":"COM","shares":83427,"shareType":"SH","putCall":null,"value":13336640},
+    {"cusip":"892672106","name":"TRADEWEB MKTS INC","titleOfClass":"CL A","shares":108989,"shareType":"SH","putCall":null,"value":10861844},
+    {"cusip":"78467J100","name":"SS&C TECH HLDGS","titleOfClass":"COM","shares":172816,"shareType":"SH","putCall":null,"value":10723233},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":20216,"shareType":"SH","putCall":null,"value":9281772},
+    {"cusip":"89677Q107","name":"TRIP COM GROUP LTD","titleOfClass":"ADS","shares":214242,"shareType":"SH","putCall":null,"value":8535401},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":18075,"shareType":"SH","putCall":null,"value":8186529}
+  ]
+}

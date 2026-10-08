@@ -1,0 +1,39 @@
+{
+  "investorId": "pat-dorsey",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-009457","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 943610993,
+  "holdings": [
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":37543,"shareType":"SH","putCall":null,"value":143143200,"ticker":"AZO","weight":0.151697},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":247057,"shareType":"SH","putCall":null,"value":142393773,"ticker":"META","weight":0.150903},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":691304,"shareType":"SH","putCall":null,"value":141717320,"ticker":"DHR","weight":0.150186},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1138542,"shareType":"SH","putCall":null,"value":116324836,"ticker":"AER","weight":0.123276},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":638751,"shareType":"SH","putCall":null,"value":99792069,"ticker":"GOOG","weight":0.105756},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":15969,"shareType":"SH","putCall":null,"value":73567746,"ticker":"BKNG","weight":0.077964},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":858231,"shareType":"SH","putCall":null,"value":55999573,"ticker":"PYPL","weight":0.059346},
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":319382,"shareType":"SH","putCall":null,"value":52180631,"ticker":"WIX","weight":0.055299},
+    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":2304414,"shareType":"SH","putCall":null,"value":50674064,"ticker":"SPT","weight":0.053702},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":70571,"shareType":"SH","putCall":null,"value":46762462,"ticker":"ASML","weight":0.049557},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2256733,"shareType":"SH","putCall":null,"value":21055319,"ticker":null,"weight":0.022314}
+  ],
+  "changes": [
+    {"cusip":"N00985106","ticker":"AER","name":"AERCAP HOLDINGS NV","putCall":null,"action":"new","shares":1138542,"prevShares":0},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS INC","putCall":null,"action":"new","shares":15969,"prevShares":0},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"new","shares":70571,"prevShares":0},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"add","shares":247057,"prevShares":208247},
+    {"cusip":"235851102","ticker":"DHR","name":"DANAHER CORPORATION","putCall":null,"action":"add","shares":691304,"prevShares":394791},
+    {"cusip":"053332102","ticker":"AZO","name":"AUTOZONE INC","putCall":null,"action":"reduce","shares":37543,"prevShares":37570},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":638751,"prevShares":639218},
+    {"cusip":"70450Y103","ticker":"PYPL","name":"PAYPAL HLDGS INC","putCall":null,"action":"reduce","shares":858231,"prevShares":1301183},
+    {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"reduce","shares":319382,"prevShares":578741},
+    {"cusip":"85209W109","ticker":"SPT","name":"SPROUT SOCIAL INC","putCall":null,"action":"reduce","shares":2304414,"prevShares":2306149},
+    {"cusip":"81686C104","ticker":null,"name":"SEMRUSH HLDGS INC","putCall":null,"action":"reduce","shares":2256733,"prevShares":2258481},
+    {"cusip":"83200N103","ticker":null,"name":"SMARTSHEET INC","putCall":null,"action":"exit","shares":0,"prevShares":1447727},
+    {"cusip":"42704L104","ticker":"HRI","name":"HERC HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":272903},
+    {"cusip":"91688F104","ticker":"UPWK","name":"UPWORK INC","putCall":null,"action":"exit","shares":0,"prevShares":3045142}
+  ]
+}

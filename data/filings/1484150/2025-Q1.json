@@ -1,0 +1,39 @@
+{
+  "cik": "1484150",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1484150","accession":"0001172661-25-001932","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"87256C101","name":"TKO GROUP HOLDINGS INC","titleOfClass":"CL A","shares":3394377,"shareType":"SH","putCall":null,"value":518694749},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":741017,"shareType":"SH","putCall":null,"value":454977028},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":240300,"shareType":"SH","putCall":null,"value":443151648},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":4280841,"shareType":"SH","putCall":null,"value":422519007},
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":6018722,"shareType":"SH","putCall":null,"value":408370288},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":2454237,"shareType":"SH","putCall":null,"value":367988296},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":4171092,"shareType":"SH","putCall":null,"value":272163753},
+    {"cusip":"883556102","name":"THERMO FISHER SCIENTIFIC INC","titleOfClass":"COM","shares":508790,"shareType":"SH","putCall":null,"value":253173904},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":3370021,"shareType":"SH","putCall":null,"value":228251522},
+    {"cusip":"115637100","name":"BROWN FORMAN CORP","titleOfClass":"CL A","shares":2752327,"shareType":"SH","putCall":null,"value":92120385},
+    {"cusip":"G5784H106","name":"MANCHESTER UTD PLC NEW","titleOfClass":"ORD CL A","shares":5053000,"shareType":"SH","putCall":null,"value":66143770},
+    {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1575426,"shareType":"SH","putCall":null,"value":53469958},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":11200,"shareType":"SH","putCall":null,"value":3925152},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":11600,"shareType":"SH","putCall":null,"value":3120980},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":5900,"shareType":"SH","putCall":null,"value":2997790},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":18225,"shareType":"SH","putCall":null,"value":2818314},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":19200,"shareType":"SH","putCall":null,"value":2684352},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":10300,"shareType":"SH","putCall":null,"value":2508668},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":8600,"shareType":"SH","putCall":null,"value":2281494},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"COM","shares":7300,"shareType":"SH","putCall":null,"value":2172626},
+    {"cusip":"194162103","name":"COLGATE PALMOLIVE CO","titleOfClass":"COM","shares":20100,"shareType":"SH","putCall":null,"value":1883370},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":21100,"shareType":"SH","putCall":null,"value":1511182},
+    {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":3560,"shareType":"SH","putCall":null,"value":1365367},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":20400,"shareType":"SH","putCall":null,"value":1294992},
+    {"cusip":"74144T108","name":"PRICE T ROWE GROUP INC","titleOfClass":"COM","shares":12000,"shareType":"SH","putCall":null,"value":1102440},
+    {"cusip":"518439104","name":"LAUDER ESTEE COS INC","titleOfClass":"CL A","shares":14425,"shareType":"SH","putCall":null,"value":952050},
+    {"cusip":"427866108","name":"HERSHEY CO","titleOfClass":"COM","shares":5100,"shareType":"SH","putCall":null,"value":872253},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":12150,"shareType":"SH","putCall":null,"value":853052},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":3300,"shareType":"SH","putCall":null,"value":642576}
+  ]
+}

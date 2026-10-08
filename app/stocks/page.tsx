@@ -2,12 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ActionBadge, tableClass, tableWrapClass, tbodyClass, theadClass } from "@/app/_components/ui";
 import { loadStockIndex } from "@/lib/data";
-import { formatUsd } from "@/lib/format";
+import { formatShares, formatUsd } from "@/lib/format";
 
 export const metadata: Metadata = { title: "หุ้นที่ superinvestor ถือ" };
 
+// The full index has thousands of tickers (mostly single positions of quant funds);
+// every stock still has its own page, linked from the investors holding it.
+const MAX_ROWS = 300;
+
 export default function StocksPage() {
-  const stocks = loadStockIndex();
+  const all = loadStockIndex();
+  const stocks = all.slice(0, MAX_ROWS);
 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
@@ -56,7 +61,8 @@ export default function StocksPage() {
         </table>
       </div>
       <p className="mt-2 text-xs text-zinc-500">
-        ไม่รวมหลักทรัพย์ที่ยังหา ticker ไม่ได้ ส่วนผู้ถือออปชันแสดงอยู่ในหน้าของแต่ละหุ้น
+        แสดง {stocks.length} อันดับแรกจาก {formatShares(all.length)} ตัว ไม่รวมหลักทรัพย์ที่ยังหา ticker ไม่ได้
+        ส่วนผู้ถือออปชันแสดงอยู่ในหน้าของแต่ละหุ้น
       </p>
     </main>
   );

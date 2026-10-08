@@ -1,0 +1,18 @@
+{
+  "cik": "1562087",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-26-000593","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":495000,"shareType":"SH","putCall":null,"value":117978300},
+    {"cusip":"92837L109","name":"VISTA ENERGY S.A.B. DE C.V.","titleOfClass":"SPONSORED ADS","shares":1189792,"shareType":"SH","putCall":null,"value":75908730},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":372755,"shareType":"SH","putCall":null,"value":59130126},
+    {"cusip":"025537101","name":"AMERICAN ELEC PWR CO INC","titleOfClass":"COM","shares":308617,"shareType":"SH","putCall":null,"value":42221892},
+    {"cusip":"233331107","name":"DTE ENERGY CO","titleOfClass":"COM","shares":264450,"shareType":"SH","putCall":null,"value":40294247},
+    {"cusip":"337932107","name":"FIRSTENERGY CORP","titleOfClass":"COM","shares":839319,"shareType":"SH","putCall":null,"value":39901225},
+    {"cusip":"125896100","name":"CMS ENERGY CORP","titleOfClass":"COM","shares":517124,"shareType":"SH","putCall":null,"value":39559986},
+    {"cusip":"98386P102","name":"X-ENERGY INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":3672000}
+  ]
+}

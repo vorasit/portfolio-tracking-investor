@@ -1,0 +1,37 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-005066","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 2065490788,
+  "holdings": [
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":5959481,"shareType":"SH","putCall":null,"value":461263829,"ticker":"MRCY","weight":0.223319},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":290901521,"ticker":"LW","weight":0.140839},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":147411,"shareType":"SH","putCall":null,"value":281755489,"ticker":"MKL","weight":0.136411},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":386637,"shareType":"SH","putCall":null,"value":257569837,"ticker":"SPY","weight":0.124702},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":2434607,"shareType":"SH","putCall":null,"value":166916656,"ticker":"COO","weight":0.080812},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":1881399,"shareType":"SH","putCall":null,"value":153616228,"ticker":"TRMB","weight":0.074373},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6502108,"shareType":"SH","putCall":null,"value":121914525,"ticker":"RPD","weight":0.059024},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":5821337,"shareType":"SH","putCall":null,"value":117649221,"ticker":null,"weight":0.056959},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4049940,"shareType":"SH","putCall":null,"value":92014637,"ticker":"FUN","weight":0.044549},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":1048136,"shareType":"SH","putCall":null,"value":57762775,"ticker":"FRPT","weight":0.027966},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":1892413,"shareType":"SH","putCall":null,"value":47007539,"ticker":"ALKT","weight":0.022759},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":17118531,"ticker":null,"weight":0.008288}
+  ],
+  "changes": [
+    {"cusip":"216648501","ticker":"COO","name":"COOPER COS INC","putCall":null,"action":"new","shares":2434607,"prevShares":0},
+    {"cusip":"83001C108","ticker":"FUN","name":"SIX FLAGS ENTERTAINMENT CORP","putCall":null,"action":"new","shares":4049940,"prevShares":0},
+    {"cusip":"01644J108","ticker":"ALKT","name":"ALKAMI TECHNOLOGY INC","putCall":null,"action":"new","shares":1892413,"prevShares":0},
+    {"cusip":"753422104","ticker":"RPD","name":"RAPID7 INC","putCall":null,"action":"add","shares":6502108,"prevShares":5729914},
+    {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"add","shares":1048136,"prevShares":1006763},
+    {"cusip":"589378108","ticker":"MRCY","name":"MERCURY SYS INC","putCall":null,"action":"reduce","shares":5959481,"prevShares":6753413},
+    {"cusip":"513272104","ticker":"LW","name":"LAMB WESTON HLDGS INC","putCall":null,"action":"reduce","shares":5008635,"prevShares":7232219},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"reduce","shares":147411,"prevShares":151432},
+    {"cusip":"78462F103","ticker":"SPY","name":"SPDR S&P 500 ETF TR","putCall":null,"action":"reduce","shares":386637,"prevShares":513053},
+    {"cusip":"896239100","ticker":"TRMB","name":"TRIMBLE INC","putCall":null,"action":"reduce","shares":1881399,"prevShares":3608897},
+    {"cusip":"96208T104","ticker":"WEX","name":"WEX INC","putCall":null,"action":"exit","shares":0,"prevShares":164029}
+  ]
+}

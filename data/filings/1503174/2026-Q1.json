@@ -1,0 +1,39 @@
+{
+  "cik": "1503174",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1503174","accession":"0001172661-26-002108","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"053774105","name":"AVIS BUDGET GROUP INC","titleOfClass":"COM","shares":17430882,"shareType":"SH","putCall":null,"value":2542294140},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":15184530,"shareType":"SH","putCall":null,"value":1459992560},
+    {"cusip":"876030107","name":"TAPESTRY INC","titleOfClass":"COM","shares":5051844,"shareType":"SH","putCall":null,"value":712865707},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":2500525,"shareType":"SH","putCall":null,"value":436091560},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":719729,"shareType":"SH","putCall":null,"value":411778553},
+    {"cusip":"122017106","name":"BURLINGTON STORES INC","titleOfClass":"COM","shares":1156869,"shareType":"SH","putCall":null,"value":376422035},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":6601674,"shareType":"SH","putCall":null,"value":373390681},
+    {"cusip":"72703H101","name":"PLANET FITNESS MASTER ISSUER","titleOfClass":"CL A","shares":4886522,"shareType":"SH","putCall":null,"value":363459506},
+    {"cusip":"007903107","name":"ADVANCED MICRO DEVICES INC","titleOfClass":"COM","shares":1442552,"shareType":"SH","putCall":null,"value":293458353},
+    {"cusip":"15101Q207","name":"CELESTICA INC","titleOfClass":"COM","shares":1016740,"shareType":"SH","putCall":null,"value":286395323},
+    {"cusip":"910047109","name":"UNITED AIRLS HLDGS INC","titleOfClass":"COM","shares":2912484,"shareType":"SH","putCall":null,"value":268152402},
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":2064408,"shareType":"SH","putCall":null,"value":259743815},
+    {"cusip":"G25457105","name":"CREDO TECHNOLOGY GROUP HOLDI","titleOfClass":"ORDINARY SHARES","shares":2505841,"shareType":"SH","putCall":null,"value":235223295},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":5651674,"shareType":"SH","putCall":null,"value":234996605},
+    {"cusip":"009066101","name":"AIRBNB INC","titleOfClass":"COM CL A","shares":1776551,"shareType":"SH","putCall":null,"value":224342860},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":510073,"shareType":"SH","putCall":null,"value":172379170},
+    {"cusip":"33829M101","name":"FIVE BELOW INC","titleOfClass":"COM","shares":722826,"shareType":"SH","putCall":null,"value":165151284},
+    {"cusip":"44812J104","name":"HUT 8 CORP","titleOfClass":"COM","shares":3084905,"shareType":"SH","putCall":null,"value":144712894},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":526942,"shareType":"SH","putCall":null,"value":128979593},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":244547,"shareType":"SH","putCall":null,"value":118583286},
+    {"cusip":"247361702","name":"DELTA AIR LINES INC","titleOfClass":"COM NEW","shares":780437,"shareType":"SH","putCall":null,"value":51883452},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":1236946,"shareType":"SH","putCall":null,"value":38159784},
+    {"cusip":"89677Q107","name":"TRIP COM GROUP LTD","titleOfClass":"ADS","shares":757817,"shareType":"SH","putCall":null,"value":37731708},
+    {"cusip":"93403J106","name":"WARBY PARKER INC","titleOfClass":"CL A COM","shares":1439398,"shareType":"SH","putCall":null,"value":30328116},
+    {"cusip":"20030N101","name":"COMCAST CORP NEW","titleOfClass":"CL A","shares":972985,"shareType":"SH","putCall":null,"value":27934399},
+    {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":35095,"shareType":"SH","putCall":null,"value":22297257},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":1116899,"shareType":"SH","putCall":null,"value":21087053},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":59568,"shareType":"SH","putCall":null,"value":17438532},
+    {"cusip":"428050108","name":"HESAI GROUP","titleOfClass":"SPONSORED ADS","shares":559706,"shareType":"SH","putCall":null,"value":10701579}
+  ]
+}

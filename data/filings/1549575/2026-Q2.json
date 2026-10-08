@@ -1,0 +1,14 @@
+{
+  "cik": "1549575",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-26-000015","form":"13F-HR","filedAt":"2026-08-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1744050,"shareType":"SH","putCall":null,"value":141547098},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":20398659,"shareType":"SH","putCall":null,"value":99749443},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":517194,"shareType":"SH","putCall":null,"value":85305978},
+    {"cusip":"48581R205","name":"KASPI KZ JSC","titleOfClass":"SPONSORED ADS","shares":1702,"shareType":"SH","putCall":null,"value":147461}
+  ]
+}

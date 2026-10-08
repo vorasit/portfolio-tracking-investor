@@ -78,6 +78,13 @@ describe("parseInfoTable", () => {
     assert.deepEqual(rows.map((r) => r.value), [114_730_000, 50_000_000]);
   });
 
+  it("drops the placeholder row of an empty report", () => {
+    const xml = `<informationTable><infoTable><nameOfIssuer>0</nameOfIssuer><titleOfClass>0</titleOfClass>
+      <cusip>000000000</cusip><value>0</value><shrsOrPrnAmt><sshPrnamt>0</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt>
+      </infoTable></informationTable>`;
+    assert.deepEqual(parseInfoTable(xml, "2026-08-14"), []);
+  });
+
   it("keeps dollar values from before 2023 when the implied price says dollars", () => {
     const [row] = parseInfoTable(PREFIXED_INFO_TABLE, "2022-11-14");
     assert.equal(row.value, 1000);
@@ -138,6 +145,14 @@ describe("applyFilings", () => {
       { filing: filing("a", "2025-05-15", "13F-HR"), rows: [pos("A", 10)] },
     ]);
     assert.deepEqual(result.map((p) => p.cusip), ["A", "C"]);
+  });
+
+  it("treats a NEW HOLDINGS amendment that repeats the original as a restatement", () => {
+    const result = applyFilings([
+      { filing: filing("a", "2026-08-05", "13F-HR"), rows: [pos("A", 10), pos("B", 5), pos("C", 1)] },
+      { filing: filing("b", "2026-08-24", "13F-HR/A", "NEW HOLDINGS"), rows: [pos("A", 10), pos("B", 5), pos("C", 1), pos("D", 2)] },
+    ]);
+    assert.deepEqual(result.map((p) => [p.cusip, p.shares]), [["A", 10], ["B", 5], ["D", 2], ["C", 1]]);
   });
 
   it("replaces everything with a RESTATEMENT, ignoring amendments without a table", () => {
