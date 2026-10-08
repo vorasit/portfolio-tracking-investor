@@ -1,0 +1,18 @@
+{
+  "cik": "1345471",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000026","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1637048886},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1143810184},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":537859971},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":253403634},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30446022,"shareType":"SH","putCall":null,"value":211599853},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":2970944,"shareType":"SH","putCall":null,"value":72164230},
+    {"cusip":"N5505D105","name":"Magnum Ice Cream Co NV","titleOfClass":"ORD SHS","shares":241042,"shareType":"SH","putCall":null,"value":3603578},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4044,"shareType":"SH","putCall":null,"value":287852}
+  ]
+}

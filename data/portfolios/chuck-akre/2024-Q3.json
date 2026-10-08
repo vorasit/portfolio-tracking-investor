@@ -1,0 +1,31 @@
+{
+  "investorId": "chuck-akre",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-13",
+  "filings": [
+    {"cik":"1112520","accession":"0001112520-24-000025","form":"13F-HR","filedAt":"2024-11-13","amendmentType":null}
+  ],
+  "totalValue": 12017990024,
+  "holdings": [
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":3920592,"shareType":"SH","putCall":null,"value":1935988330,"ticker":"MA","weight":0.161091},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":3362880,"shareType":"SH","putCall":null,"value":1595989219,"ticker":"MCO","weight":0.1328},
+    {"cusip":"48251W104","name":"KKR & CO L P DEL","titleOfClass":"COM UNITS","shares":11393836,"shareType":"SH","putCall":null,"value":1487807047,"ticker":"KKR","weight":0.123798},
+    {"cusip":"03027X100","name":"AMERICAN TOWER CORP NEW","titleOfClass":"COM","shares":6052532,"shareType":"SH","putCall":null,"value":1407576842,"ticker":"AMT","weight":0.117122},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":919065,"shareType":"SH","putCall":null,"value":1058395254,"ticker":"ORLY","weight":0.088068},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":18938431,"shareType":"SH","putCall":null,"value":1006577612,"ticker":"BN","weight":0.083756},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":3271740,"shareType":"SH","putCall":null,"value":899564913,"ticker":"V","weight":0.074852},
+    {"cusip":"776696106","name":"ROPER TECHNOLOGIES INC","titleOfClass":"COM","shares":1499429,"shareType":"SH","putCall":null,"value":834342273,"ticker":"ROP","weight":0.069424},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":8934093,"shareType":"SH","putCall":null,"value":673987976,"ticker":"CSGP","weight":0.056082},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":1775400,"shareType":"SH","putCall":null,"value":493596708,"ticker":"DHR","weight":0.041071},
+    {"cusip":"009066101","name":"AIRBNB INC","titleOfClass":"COM CL A","shares":2649398,"shareType":"SH","putCall":null,"value":335970160,"ticker":"ABNB","weight":0.027956},
+    {"cusip":"12510Q100","name":"CCC INTELLIGENT SOLUTIONS HL","titleOfClass":"COM","shares":10681398,"shareType":"SH","putCall":null,"value":118029448,"ticker":"CCC","weight":0.009821},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":1297151,"shareType":"SH","putCall":null,"value":100373544,"ticker":"KMX","weight":0.008352},
+    {"cusip":"38267D109","name":"GOOSEHEAD INS INC","titleOfClass":"COM CL A","shares":366125,"shareType":"SH","putCall":null,"value":32694962,"ticker":"GSHD","weight":0.002721},
+    {"cusip":"25401T603","name":"DIGITALBRIDGE GROUP INC","titleOfClass":"CL A COM","shares":1315076,"shareType":"SH","putCall":null,"value":18582026,"ticker":null,"weight":0.001546},
+    {"cusip":"H82027105","name":"SOPHIA GENETICS SA","titleOfClass":"ORDINARY SHARES","shares":2237504,"shareType":"SH","putCall":null,"value":8166890,"ticker":"SOPH","weight":0.00068},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":15274,"shareType":"SH","putCall":null,"value":7030011,"ticker":"BRK.B","weight":0.000585},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"CL A","shares":12378,"shareType":"SH","putCall":null,"value":3316809,"ticker":"VRSK","weight":0.000276}
+  ],
+  "changes": null
+}

@@ -1,0 +1,36 @@
+{
+  "investorId": "pat-dorsey",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-14",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-26-014470","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "totalValue": 1561408466,
+  "holdings": [
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":130364,"shareType":"SH","putCall":null,"value":259351356,"ticker":"ASML","weight":0.166101},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":439313,"shareType":"SH","putCall":null,"value":226347237,"ticker":"APP","weight":0.144964},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2456528,"shareType":"SH","putCall":null,"value":137737525,"ticker":"RPRX","weight":0.088214},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":741500,"shareType":"SH","putCall":null,"value":132164960,"ticker":"BKNG","weight":0.084645},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":316413,"shareType":"SH","putCall":null,"value":128862358,"ticker":"SPGI","weight":0.08253},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":1761941,"shareType":"SH","putCall":null,"value":127141663,"ticker":"UBER","weight":0.081428},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":655658,"shareType":"SH","putCall":null,"value":120057536,"ticker":"LYV","weight":0.076891},
+    {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":626211,"shareType":"SH","putCall":null,"value":119280671,"ticker":"DHR","weight":0.076393},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":199901,"shareType":"SH","putCall":null,"value":112602234,"ticker":"META","weight":0.072116},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":766828,"shareType":"SH","putCall":null,"value":111788186,"ticker":"AER","weight":0.071594},
+    {"cusip":"866966104","name":"SUNBELT RENTALS HOLDINGS INC","titleOfClass":"SHS","shares":1150578,"shareType":"SH","putCall":null,"value":86074740,"ticker":"SUNB","weight":0.055126}
+  ],
+  "changes": [
+    {"cusip":"03831W108","ticker":"APP","name":"APPLOVIN CORP","putCall":null,"action":"add","shares":439313,"prevShares":316952},
+    {"cusip":"G7709Q104","ticker":"RPRX","name":"ROYALTY PHARMA PLC","putCall":null,"action":"add","shares":2456528,"prevShares":2276570},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS INC","putCall":null,"action":"add","shares":741500,"prevShares":16444},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"add","shares":316413,"prevShares":222683},
+    {"cusip":"90353T100","ticker":"UBER","name":"UBER TECHNOLOGIES INC","putCall":null,"action":"add","shares":1761941,"prevShares":1090281},
+    {"cusip":"538034109","ticker":"LYV","name":"LIVE NATION ENTERTAINMENT IN","putCall":null,"action":"add","shares":655658,"prevShares":607609},
+    {"cusip":"235851102","ticker":"DHR","name":"DANAHER CORP DEL","putCall":null,"action":"add","shares":626211,"prevShares":580240},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"add","shares":199901,"prevShares":161683},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HLDG NV","putCall":null,"action":"reduce","shares":130364,"prevShares":140295},
+    {"cusip":"N00985106","ticker":"AER","name":"AERCAP HOLDINGS NV","putCall":null,"action":"reduce","shares":766828,"prevShares":1123489},
+    {"cusip":"866966104","ticker":"SUNB","name":"SUNBELT RENTALS HOLDINGS INC","putCall":null,"action":"reduce","shares":1150578,"prevShares":2204996}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cik": "1549575",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-25-000004","form":"13F-HR","filedAt":"2025-05-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799580,"shareType":"SH","putCall":null,"value":85875958},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":1427564,"shareType":"SH","putCall":null,"value":56046163},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":414616,"shareType":"SH","putCall":null,"value":51930654},
+    {"cusip":"G65431127","name":"NOBLE CORP PLC","titleOfClass":"ORD SHS A","shares":1728744,"shareType":"SH","putCall":null,"value":40971233}
+  ]
+}

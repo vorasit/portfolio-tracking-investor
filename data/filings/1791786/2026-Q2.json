@@ -1,0 +1,39 @@
+{
+  "cik": "1791786",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1791786","accession":"0001013594-26-000915","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"89679M104","name":"TRIPLE FLAG PRECIOUS METAL","titleOfClass":"COM","shares":133241535,"shareType":"SH","putCall":null,"value":3993248804},
+    {"cusip":"718546104","name":"PHILLIPS 66","titleOfClass":"COM","shares":19251000,"shareType":"SH","putCall":null,"value":3254381550},
+    {"cusip":"46090E103","name":"INVESCO QQQ TR","titleOfClass":"UNIT SER 1","shares":3480000,"shareType":"SH","putCall":"Put","value":2562672000},
+    {"cusip":"867224107","name":"SUNCOR ENERGY INC NEW","titleOfClass":"COM","shares":29454000,"shareType":"SH","putCall":null,"value":1581090720},
+    {"cusip":"42824C109","name":"HEWLETT PACKARD ENTERPRISE C","titleOfClass":"COM","shares":32271985,"shareType":"SH","putCall":null,"value":1455789243},
+    {"cusip":"464287515","name":"ISHARES TR","titleOfClass":"EXPANDED TECH","shares":15750000,"shareType":"SH","putCall":"Put","value":1426950000},
+    {"cusip":"844741108","name":"SOUTHWEST AIRLS CO","titleOfClass":"COM","shares":24308000,"shareType":"SH","putCall":null,"value":1249917360},
+    {"cusip":"81369Y704","name":"SELECT SECTOR SPDR TR","titleOfClass":"ST STR INDL ETF","shares":5175000,"shareType":"SH","putCall":"Put","value":958565250},
+    {"cusip":"81369Y407","name":"SELECT SECTOR SPDR TR","titleOfClass":"ST STR DISCR ETF","shares":7100000,"shareType":"SH","putCall":"Put","value":832688000},
+    {"cusip":"81369Y308","name":"SELECT SECTOR SPDR TR","titleOfClass":"ST STR STAPL ETF","shares":9625000,"shareType":"SH","putCall":"Put","value":799548750},
+    {"cusip":"92189F106","name":"VANECK ETF TRUST","titleOfClass":"GOLD MINERS ETF","shares":9150000,"shareType":"SH","putCall":"Put","value":690367500},
+    {"cusip":"912932100","name":"UNITI GROUP LLC","titleOfClass":"COM SHS","shares":59012219,"shareType":"SH","putCall":null,"value":676870152},
+    {"cusip":"464288810","name":"ISHARES TR","titleOfClass":"U.S. MED DVC ETF","shares":12500000,"shareType":"SH","putCall":"Put","value":617625000},
+    {"cusip":"72352L106","name":"PINTEREST INC","titleOfClass":"CL A","shares":28000000,"shareType":"SH","putCall":null,"value":588840000},
+    {"cusip":"29786A106","name":"ETSY INC","titleOfClass":"COM","shares":5000000,"shareType":"SH","putCall":null,"value":376650000},
+    {"cusip":"G66721104","name":"NORWEGIAN CRUISE LINE HLDGS","titleOfClass":"SHS","shares":14686000,"shareType":"SH","putCall":null,"value":310021460},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":1275000,"shareType":"SH","putCall":null,"value":172635000},
+    {"cusip":"G7997W102","name":"SEADRILL LTD","titleOfClass":"COM","shares":4439681,"shareType":"SH","putCall":null,"value":167908735},
+    {"cusip":"92189F676","name":"VANECK ETF TRUST","titleOfClass":"SEMICONDUCTR ETF","shares":250000,"shareType":"SH","putCall":"Put","value":163972500},
+    {"cusip":"29444U700","name":"EQUINIX INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":156358500},
+    {"cusip":"871607107","name":"SYNOPSYS INC","titleOfClass":"COM","shares":227500,"shareType":"SH","putCall":null,"value":101480925},
+    {"cusip":"68390D106","name":"OR ROYALTIES INC.","titleOfClass":"COM SHS","shares":3111000,"shareType":"SH","putCall":null,"value":98400930},
+    {"cusip":"78464A755","name":"SPDR SERIES TRUST","titleOfClass":"ST STR SP METAL","shares":900000,"shareType":"SH","putCall":"Put","value":96237000},
+    {"cusip":"46137V357","name":"INVESCO EXCHANGE TRADED FD T","titleOfClass":"S&P500 EQL WGT","shares":395000,"shareType":"SH","putCall":"Put","value":84044150},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":15626834,"shareType":"SH","putCall":null,"value":76415218},
+    {"cusip":"464287655","name":"ISHARES TR","titleOfClass":"RUSSELL 2000 ETF","shares":250000,"shareType":"SH","putCall":"Put","value":75112500},
+    {"cusip":"464288810","name":"ISHARES TR","titleOfClass":"U.S. MED DVC ETF","shares":1400000,"shareType":"SH","putCall":"Call","value":69174000},
+    {"cusip":"40415F101","name":"HDFC BANK LTD","titleOfClass":"SPONSORED ADS","shares":797085,"shareType":"SH","putCall":null,"value":20588706},
+    {"cusip":"74768A104","name":"QUANTINUUM INC","titleOfClass":"CL A COM","shares":150000,"shareType":"SH","putCall":null,"value":12261000}
+  ]
+}

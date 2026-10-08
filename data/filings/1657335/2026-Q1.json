@@ -1,0 +1,18 @@
+{
+  "cik": "1657335",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1657335","accession":"0001172661-26-002106","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":69131732},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":37935993},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":33895664},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":28012063},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":144183,"shareType":"SH","putCall":null,"value":21564009},
+    {"cusip":"85512C105","name":"STAR GROUP LP","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":13498655},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS LP","titleOfClass":"COM UNIT LTD PAR","shares":102057,"shareType":"SH","putCall":null,"value":12348897},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":10247120}
+  ]
+}

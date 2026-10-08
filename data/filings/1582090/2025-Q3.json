@@ -1,0 +1,29 @@
+{
+  "cik": "1582090",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-25-005023","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"49177J102","name":"Kenvue Inc","titleOfClass":"COM","shares":30530000,"shareType":"SH","putCall":null,"value":495501900},
+    {"cusip":"71377A103","name":"Performance Food Group Co","titleOfClass":"COM","shares":3350000,"shareType":"SH","putCall":null,"value":348534000},
+    {"cusip":"90138F102","name":"Twilio Inc","titleOfClass":"CL A","shares":3295000,"shareType":"SH","putCall":null,"value":329796550},
+    {"cusip":"36165L108","name":"GDS Hldgs Ltd","titleOfClass":"Sponsored ADS","shares":6415000,"shareType":"SH","putCall":null,"value":248260500},
+    {"cusip":"87422Q109","name":"Talen Energy Corp","titleOfClass":"COM","shares":580000,"shareType":"SH","putCall":null,"value":246720400},
+    {"cusip":"126650100","name":"CVS Health Corp","titleOfClass":"COM","shares":3150000,"shareType":"SH","putCall":null,"value":237478500},
+    {"cusip":"253393102","name":"Dicks Sporting Goods Inc","titleOfClass":"COM","shares":1008600,"shareType":"SH","putCall":null,"value":224131092},
+    {"cusip":"19247G107","name":"Coherent Corp","titleOfClass":"COM","shares":2035000,"shareType":"SH","putCall":null,"value":219210200},
+    {"cusip":"88023U101","name":"Somnigroup International Inc","titleOfClass":"COM","shares":2565000,"shareType":"SH","putCall":null,"value":216306450},
+    {"cusip":"98980F104","name":"ZoomInfo Technologies Inc","titleOfClass":"COMMON STOCK","shares":15395000,"shareType":"SH","putCall":null,"value":167959450},
+    {"cusip":"87165B103","name":"Synchrony Financial","titleOfClass":"COM","shares":2195000,"shareType":"SH","putCall":null,"value":155954750},
+    {"cusip":"000899104","name":"ADMA Biologics Inc","titleOfClass":"COM","shares":8960000,"shareType":"SH","putCall":null,"value":131353600},
+    {"cusip":"83601L102","name":"Sotera Health Co","titleOfClass":"COM","shares":7910000,"shareType":"SH","putCall":null,"value":124424300},
+    {"cusip":"83001C108","name":"Six Flags Entertainment Corp","titleOfClass":"COM","shares":5030000,"shareType":"SH","putCall":null,"value":114281600},
+    {"cusip":"00404A109","name":"Acadia Healthcare Company IN","titleOfClass":"COM","shares":4215000,"shareType":"SH","putCall":null,"value":104363400},
+    {"cusip":"934423104","name":"Warner Bros Discovery Inc","titleOfClass":"COM SER A","shares":3860000,"shareType":"SH","putCall":null,"value":75385800},
+    {"cusip":"85208T107","name":"Sprinklr Inc","titleOfClass":"CL A","shares":5745000,"shareType":"SH","putCall":null,"value":44351400},
+    {"cusip":"349381103","name":"Figure Technology Solutio","titleOfClass":"COM CL A","shares":910000,"shareType":"SH","putCall":null,"value":33096700},
+    {"cusip":"20717M103","name":"Confluent Inc","titleOfClass":"CLASS A COM","shares":1155000,"shareType":"SH","putCall":null,"value":22869000}
+  ]
+}

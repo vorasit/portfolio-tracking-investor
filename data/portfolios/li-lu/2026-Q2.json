@@ -1,0 +1,30 @@
+{
+  "investorId": "li-lu",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filedAt": "2026-08-14",
+  "filings": [
+    {"cik":"1709323","accession":"0002043585-26-000022","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "totalValue": 3702921099,
+  "holdings": [
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":908899121,"ticker":"GOOGL","weight":0.245455},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":866117829,"ticker":"GOOG","weight":0.233901},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPON ADS","shares":10761119,"shareType":"SH","putCall":null,"value":820858157,"ticker":"PDD","weight":0.221679},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":1108318,"shareType":"SH","putCall":null,"value":554591244,"ticker":"BRK.B","weight":0.149771},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":358399151,"ticker":"EWBC","weight":0.096788},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":887093,"shareType":"SH","putCall":null,"value":107018900,"ticker":"CROX","weight":0.028901},
+    {"cusip":"88034P109","name":"TENCENT MUSIC ENTERTAINM","titleOfClass":"SPON ADS","shares":6590836,"shareType":"SH","putCall":null,"value":55033481,"ticker":"TME","weight":0.014862},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":32003216,"ticker":"AAPL","weight":0.008643}
+  ],
+  "changes": [
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":10761119,"prevShares":4608000},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":1108318,"prevShares":897749},
+    {"cusip":"060505104","ticker":"BAC","name":"BK OF AMERICA CORP","putCall":null,"action":"exit","shares":0,"prevShares":2997987},
+    {"cusip":"674599105","ticker":"OXY","name":"OCCIDENTAL PETE CORP","putCall":null,"action":"exit","shares":0,"prevShares":1466500},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"exit","shares":0,"prevShares":121463},
+    {"cusip":"093671105","ticker":"HRB","name":"BLOCK H & R INC","putCall":null,"action":"exit","shares":0,"prevShares":1626906},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"exit","shares":0,"prevShares":117784},
+    {"cusip":"55354G100","ticker":"MSCI","name":"MSCI INC","putCall":null,"action":"exit","shares":0,"prevShares":18939}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "cik": "1427008",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1427008","accession":"0001172661-24-004504","form":"13F-HR","filedAt":"2024-11-07","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":2666905,"shareType":"SH","putCall":null,"value":499991373},
+    {"cusip":"23331A109","name":"D R HORTON INC","titleOfClass":"COM","shares":2516673,"shareType":"SH","putCall":null,"value":480105789},
+    {"cusip":"828806109","name":"SIMON PPTY GROUP INC NEW","titleOfClass":"COM","shares":2620355,"shareType":"SH","putCall":null,"value":442892386},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":1629480,"shareType":"SH","putCall":null,"value":441914917},
+    {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":3380469,"shareType":"SH","putCall":null,"value":383886064},
+    {"cusip":"031162100","name":"AMGEN INC","titleOfClass":"COM","shares":1172866,"shareType":"SH","putCall":null,"value":377909107},
+    {"cusip":"554382101","name":"MACERICH CO","titleOfClass":"COM","shares":20433449,"shareType":"SH","putCall":null,"value":372706115},
+    {"cusip":"62944T105","name":"NVR INC","titleOfClass":"COM","shares":36218,"shareType":"SH","putCall":null,"value":355365253},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":6700697,"shareType":"SH","putCall":null,"value":345353937},
+    {"cusip":"060505104","name":"BANK AMERICA CORP","titleOfClass":"COM","shares":7935264,"shareType":"SH","putCall":null,"value":314871265},
+    {"cusip":"46625H100","name":"JPMORGAN CHASE & CO.","titleOfClass":"COM","shares":1409521,"shareType":"SH","putCall":null,"value":297211561},
+    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":15416146,"shareType":"SH","putCall":null,"value":257830882},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":3725760,"shareType":"SH","putCall":null,"value":242584205},
+    {"cusip":"69047Q102","name":"OVINTIV INC","titleOfClass":"COM","shares":6303203,"shareType":"SH","putCall":null,"value":241475716},
+    {"cusip":"03743Q108","name":"APA CORPORATION","titleOfClass":"COM","shares":9667452,"shareType":"SH","putCall":null,"value":236465877},
+    {"cusip":"20825C104","name":"CONOCOPHILLIPS","titleOfClass":"COM","shares":2196884,"shareType":"SH","putCall":null,"value":231287973},
+    {"cusip":"25179M103","name":"DEVON ENERGY CORP NEW","titleOfClass":"COM","shares":5879516,"shareType":"SH","putCall":null,"value":230006657},
+    {"cusip":"437076102","name":"HOME DEPOT INC","titleOfClass":"COM","shares":516204,"shareType":"SH","putCall":null,"value":209165891},
+    {"cusip":"87612E106","name":"TARGET CORP","titleOfClass":"COM","shares":1243928,"shareType":"SH","putCall":null,"value":193878637},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":2431771,"shareType":"SH","putCall":null,"value":175087503},
+    {"cusip":"747525103","name":"QUALCOMM INC","titleOfClass":"COM","shares":687507,"shareType":"SH","putCall":null,"value":116910544},
+    {"cusip":"957638109","name":"WESTERN ALLIANCE BANCORP","titleOfClass":"COM","shares":1350195,"shareType":"SH","putCall":null,"value":116778331},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":211972,"shareType":"SH","putCall":null,"value":97562173},
+    {"cusip":"316773100","name":"FIFTH THIRD BANCORP","titleOfClass":"COM","shares":2224047,"shareType":"SH","putCall":null,"value":95278187},
+    {"cusip":"225310101","name":"CREDIT ACCEP CORP MICH","titleOfClass":"COM","shares":207828,"shareType":"SH","putCall":null,"value":92155026},
+    {"cusip":"55261F104","name":"M & T BK CORP","titleOfClass":"COM","shares":493817,"shareType":"SH","putCall":null,"value":87958693},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":543233,"shareType":"SH","putCall":null,"value":42089727},
+    {"cusip":"M46528101","name":"FRONTLINE PLC","titleOfClass":"COM","shares":670581,"shareType":"SH","putCall":null,"value":15187740},
+    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":118108,"shareType":"SH","putCall":null,"value":11506907},
+    {"cusip":"674599162","name":"OCCIDENTAL PETE CORP","titleOfClass":"*W EXP 08/03/202","shares":150860,"shareType":"SH","putCall":null,"value":4483559}
+  ]
+}

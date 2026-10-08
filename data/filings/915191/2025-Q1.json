@@ -1,0 +1,39 @@
+{
+  "cik": "915191",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"915191","accession":"0001104659-25-048781","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"68634K106","name":"ORLA MINING LTD","titleOfClass":"COM","shares":56817229,"shareType":"SH","putCall":null,"value":527017549},
+    {"cusip":"674599105","name":"OCCIDENTAL PETROLEUM CORP","titleOfClass":"COM","shares":6020418,"shareType":"SH","putCall":null,"value":297408649},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":2712000,"shareType":"SH","putCall":null,"value":183765120},
+    {"cusip":"09228F103","name":"BLACKBERRY LTD","titleOfClass":"COM","shares":46724700,"shareType":"SH","putCall":null,"value":175684872},
+    {"cusip":"185899101","name":"CLEVELAND-CLIFFS INC","titleOfClass":"COM","shares":14899273,"shareType":"SH","putCall":null,"value":122472024},
+    {"cusip":"489398107","name":"KENNEDY-WILSON HOLDINGS INC","titleOfClass":"COM","shares":13322009,"shareType":"SH","putCall":null,"value":115501818},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":3359000,"shareType":"SH","putCall":null,"value":102180780},
+    {"cusip":"60871R209","name":"MOLSON COORS BEVERAGE CO","titleOfClass":"CL B","shares":1206500,"shareType":"SH","putCall":null,"value":73463785},
+    {"cusip":"00217Y104","name":"ATS CORP","titleOfClass":"COM","shares":2486400,"shareType":"SH","putCall":null,"value":60773850},
+    {"cusip":"904311107","name":"UNDER ARMOUR INC","titleOfClass":"CL A","shares":6311800,"shareType":"SH","putCall":null,"value":39385632},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":141700,"shareType":"SH","putCall":null,"value":23513698},
+    {"cusip":"423452101","name":"HELMERICH & PAYNE INC","titleOfClass":"COM","shares":774105,"shareType":"SH","putCall":null,"value":20211882},
+    {"cusip":"37045V100","name":"GENERAL MOTORS CO","titleOfClass":"COM","shares":375965,"shareType":"SH","putCall":null,"value":17674115},
+    {"cusip":"064149107","name":"BANK OF NOVA SCOTIA","titleOfClass":"COM","shares":359100,"shareType":"SH","putCall":null,"value":17025732},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":650900,"shareType":"SH","putCall":null,"value":16487297},
+    {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":172900,"shareType":"SH","putCall":null,"value":15507401},
+    {"cusip":"478160104","name":"JOHNSON & JOHNSON","titleOfClass":"COM","shares":73400,"shareType":"SH","putCall":null,"value":12175592},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":80000,"shareType":"SH","putCall":null,"value":6950400},
+    {"cusip":"351858105","name":"FRANCO-NEVADA CORP","titleOfClass":"COM","shares":16800,"shareType":"SH","putCall":null,"value":2637457},
+    {"cusip":"194693107","name":"COLLIERS INTL GROUP INC","titleOfClass":"SUB VTG SHS","shares":22000,"shareType":"SH","putCall":null,"value":2590933},
+    {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":304360,"shareType":"SH","putCall":null,"value":2547493},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":20000,"shareType":"SH","putCall":null,"value":2312200},
+    {"cusip":"371901109","name":"GENTEX CORP","titleOfClass":"COM","shares":85000,"shareType":"SH","putCall":null,"value":1979650},
+    {"cusip":"G1890L107","name":"CAPRI HOLDINGS LTD","titleOfClass":"SHS","shares":78100,"shareType":"SH","putCall":null,"value":1540913},
+    {"cusip":"05278C107","name":"AUTOHOME INC","titleOfClass":"SP ADS RP CL A","shares":54000,"shareType":"SH","putCall":null,"value":1495260},
+    {"cusip":"552953101","name":"MGM RESORTS INTERNATIONAL","titleOfClass":"COM","shares":29500,"shareType":"SH","putCall":null,"value":874675},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":798442},
+    {"cusip":"55933J203","name":"MAGNACHIP SEMICONDUCTOR CORP","titleOfClass":"COM","shares":125000,"shareType":"SH","putCall":null,"value":428750},
+    {"cusip":"531914109","name":"LIFEWAY FOODS INC","titleOfClass":"COM","shares":17367,"shareType":"SH","putCall":null,"value":424623}
+  ]
+}

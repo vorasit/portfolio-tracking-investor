@@ -1,0 +1,22 @@
+{
+  "investorId": "bryan-lawrence",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1657335","accession":"0001172661-24-004818","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 198858265,
+  "holdings": [
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":302647,"shareType":"SH","putCall":null,"value":42176886,"ticker":"IBKR","weight":0.212095},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":21424,"shareType":"SH","putCall":null,"value":30574833,"ticker":"TDG","weight":0.153752},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":615399,"shareType":"SH","putCall":null,"value":28991447,"ticker":"GIL","weight":0.145789},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":124435,"shareType":"SH","putCall":null,"value":22764139,"ticker":"GWRE","weight":0.114474},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118880,"shareType":"SH","putCall":null,"value":19875547,"ticker":"GOOG","weight":0.099948},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS L","titleOfClass":"COM UNIT LTD PAR","shares":154866,"shareType":"SH","putCall":null,"value":15145895,"ticker":"NRP","weight":0.076164},
+    {"cusip":"50187T106","name":"LGI HOMES INC","titleOfClass":"COM","shares":117088,"shareType":"SH","putCall":null,"value":13877269,"ticker":"LGIH","weight":0.069785},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1105928,"shareType":"SH","putCall":null,"value":12983595,"ticker":"SGU","weight":0.065291},
+    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC N","titleOfClass":"CL A","shares":38474,"shareType":"SH","putCall":null,"value":12468654,"ticker":"CHTR","weight":0.062701}
+  ],
+  "changes": null
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "1345471",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-25-000009","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1355337534},
+    {"cusip":"369604301","name":"General Electric Co.","titleOfClass":"COM NEW","shares":4030213,"shareType":"SH","putCall":null,"value":672199226},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8462819,"shareType":"SH","putCall":null,"value":559053823},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30525029,"shareType":"SH","putCall":null,"value":497557973},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":23173442,"shareType":"SH","putCall":null,"value":405071766},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1237274,"shareType":"SH","putCall":null,"value":214753648},
+    {"cusip":"023586506","name":"U-Haul Holding Company - B","titleOfClass":"COM SER N","shares":1124700,"shareType":"SH","putCall":null,"value":72037035},
+    {"cusip":"200021014","name":"The Allstate Corporation","titleOfClass":"COM","shares":306722,"shareType":"SH","putCall":null,"value":59132934},
+    {"cusip":"023586100","name":"U-Haul Holding Company","titleOfClass":"COM","shares":652000,"shareType":"SH","putCall":null,"value":45046680},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4029,"shareType":"SH","putCall":null,"value":314987}
+  ]
+}

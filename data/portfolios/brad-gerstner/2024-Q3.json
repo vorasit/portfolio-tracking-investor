@@ -1,0 +1,36 @@
+{
+  "investorId": "brad-gerstner",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1541617","accession":"0001541617-24-000009","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 6753620788,
+  "holdings": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2264001,"shareType":"SH","putCall":null,"value":1296004732,"ticker":"META","weight":0.191898},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":13336600,"shareType":"SH","putCall":null,"value":1002378856,"ticker":"UBER","weight":0.148421},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"CL A","shares":8647959,"shareType":"SH","putCall":null,"value":993304571,"ticker":"SNOW","weight":0.147077},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":7796589,"shareType":"SH","putCall":null,"value":946817768,"ticker":"NVDA","weight":0.140194},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1585900,"shareType":"SH","putCall":null,"value":682412771,"ticker":"MSFT","weight":0.101044},
+    {"cusip":"20717M103","name":"CONFLUENT INC","titleOfClass":"CLASS A COM","shares":13626464,"shareType":"SH","putCall":null,"value":277707336,"ticker":null,"weight":0.04112},
+    {"cusip":"500767306","name":"KRANESHARES TRUST","titleOfClass":"CSI CHI INTERNET","shares":5671010,"shareType":"SH","putCall":null,"value":192927761,"ticker":"KWEB","weight":0.028567},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":662400,"shareType":"SH","putCall":null,"value":173303712,"ticker":"TSLA","weight":0.025661},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":902290,"shareType":"SH","putCall":null,"value":168123696,"ticker":"AMZN","weight":0.024894},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":6559675,"shareType":"SH","putCall":null,"value":161040022,"ticker":"CPNG","weight":0.023845},
+    {"cusip":"58733R102","name":"MERCADOLIBRE INC","titleOfClass":"COM","shares":61460,"shareType":"SH","putCall":null,"value":126113462,"ticker":"MELI","weight":0.018673},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":457735,"shareType":"SH","putCall":null,"value":125286647,"ticker":"CRM","weight":0.018551},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":661645,"shareType":"SH","putCall":null,"value":109733823,"ticker":"GOOGL","weight":0.016248},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":519290,"shareType":"SH","putCall":null,"value":90185094,"ticker":"TSM","weight":0.013354},
+    {"cusip":"79589L106","name":"SAMSARA INC","titleOfClass":"COM CL A","shares":1452933,"shareType":"SH","putCall":null,"value":69915136,"ticker":"IOT","weight":0.010352},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":396895,"shareType":"SH","putCall":null,"value":68464388,"ticker":"AVGO","weight":0.010137},
+    {"cusip":"36118L106","name":"FUTU HLDGS LTD","titleOfClass":"SPON ADS CL A","shares":575750,"shareType":"SH","putCall":null,"value":55070488,"ticker":"FUTU","weight":0.008154},
+    {"cusip":"98954M200","name":"ZILLOW GROUP INC","titleOfClass":"CL C CAP STK","shares":855580,"shareType":"SH","putCall":null,"value":54628783,"ticker":"Z","weight":0.008089},
+    {"cusip":"26603R106","name":"DUOLINGO INC","titleOfClass":"CL A COM","shares":191625,"shareType":"SH","putCall":null,"value":54042082,"ticker":"DUOL","weight":0.008002},
+    {"cusip":"781154109","name":"RUBRIK INC.","titleOfClass":"CL A","shares":1648598,"shareType":"SH","putCall":null,"value":53002425,"ticker":"RBRK","weight":0.007848},
+    {"cusip":"53566V106","name":"LINEAGE CELL THERAPUTICS IN","titleOfClass":"COM","shares":400000,"shareType":"SH","putCall":null,"value":31352000,"ticker":"LINE","weight":0.004642},
+    {"cusip":"04626A103","name":"ASTERA LABS INC","titleOfClass":"COM","shares":400000,"shareType":"SH","putCall":null,"value":20956000,"ticker":"ALAB","weight":0.003103},
+    {"cusip":"G0370L116","name":"GRAB HOLDINGS LIMITED","titleOfClass":"W EXP 12/1/202","shares":3502000,"shareType":"SH","putCall":null,"value":849235,"ticker":null,"weight":0.000126}
+  ],
+  "changes": null
+}

@@ -1,0 +1,29 @@
+{
+  "investorId": "chris-hohn",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-25-000003","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 42413899286,
+  "holdings": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":45999876,"shareType":"SH","putCall":null,"value":7672319318,"ticker":"GE","weight":0.180892},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13246769,"shareType":"SH","putCall":null,"value":6270623042,"ticker":"MCO","weight":0.147844},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":13993637,"shareType":"SH","putCall":null,"value":5898317996,"ticker":"MSFT","weight":0.139066},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":16797187,"shareType":"SH","putCall":null,"value":5308582979,"ticker":"V","weight":0.125161},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":10400077,"shareType":"SH","putCall":null,"value":5179550348,"ticker":"SPGI","weight":0.122119},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":54913285,"shareType":"SH","putCall":null,"value":3973526128,"ticker":"CP","weight":0.093685},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":16507056,"shareType":"SH","putCall":null,"value":3143603745,"ticker":"GOOG","weight":0.074117},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":29693764,"shareType":"SH","putCall":null,"value":3013663064,"ticker":"CNI","weight":0.071054},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":6027410,"shareType":"SH","putCall":null,"value":1140988713,"ticker":"GOOGL","weight":0.026901},
+    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":19333428,"shareType":"SH","putCall":null,"value":812723953,"ticker":"FER","weight":0.019162}
+  ],
+  "changes": [
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"add","shares":13993637,"prevShares":11990590},
+    {"cusip":"N3168P101","ticker":"FER","name":"FERROVIAL SE","putCall":null,"action":"add","shares":19333428,"prevShares":19095244},
+    {"cusip":"369604301","ticker":"GE","name":"GE AEROSPACE","putCall":null,"action":"reduce","shares":45999876,"prevShares":48180376},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":16507056,"prevShares":16927056},
+    {"cusip":"136375102","ticker":"CNI","name":"CANADIAN NATL RY CO","putCall":null,"action":"reduce","shares":29693764,"prevShares":35437277}
+  ]
+}

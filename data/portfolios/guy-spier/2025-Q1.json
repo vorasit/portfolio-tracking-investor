@@ -1,0 +1,31 @@
+{
+  "investorId": "guy-spier",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-07-18",
+  "filings": [
+    {"cik":"1953324","accession":"0001953324-25-000003","form":"13F-HR","filedAt":"2025-04-11","amendmentType":null},
+    {"cik":"1953324","accession":"0001953324-25-000005","form":"13F-HR/A","filedAt":"2025-07-18","amendmentType":"RESTATEMENT"}
+  ],
+  "totalValue": 293674000,
+  "holdings": [
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":140600,"shareType":"SH","putCall":null,"value":74881000,"ticker":"BRK.B","weight":0.25498},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":210000,"shareType":"SH","putCall":null,"value":56501000,"ticker":"AXP","weight":0.192394},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":65750,"shareType":"SH","putCall":null,"value":36039000,"ticker":"MA","weight":0.122718},
+    {"cusip":"060505104","name":"BANK AMERICA CORP","titleOfClass":"COM","shares":767845,"shareType":"SH","putCall":null,"value":32042000,"ticker":"BAC","weight":0.109107},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":30,"shareType":"SH","putCall":null,"value":23953000,"ticker":"BRK.A","weight":0.081563},
+    {"cusip":"N3167Y103","name":"FERRARI N V","titleOfClass":"COM","shares":60000,"shareType":"SH","putCall":null,"value":23532000,"ticker":"RACE","weight":0.08013},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":17378000,"ticker":"MU","weight":0.059174},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":27000,"shareType":"SH","putCall":null,"value":12574000,"ticker":"MCO","weight":0.042816},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":47500,"shareType":"SH","putCall":null,"value":6281000,"ticker":"BABA","weight":0.021388},
+    {"cusip":"233912104","name":"DAILY JOURNAL CORP","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":4574000,"ticker":"DJCO","weight":0.015575},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":16000,"shareType":"SH","putCall":null,"value":2474000,"ticker":"GOOGL","weight":0.008424},
+    {"cusip":"81752R100","name":"SERITAGE GROWTH PPTYS","titleOfClass":"CL A","shares":500000,"shareType":"SH","putCall":null,"value":1615000,"ticker":"SRG","weight":0.005499},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":8000,"shareType":"SH","putCall":null,"value":1002000,"ticker":"AMR","weight":0.003412},
+    {"cusip":"218937100","name":"CORE NATURAL RESOURCES INC","titleOfClass":"COM SHS","shares":10740,"shareType":"SH","putCall":null,"value":828000,"ticker":"CNR","weight":0.002819}
+  ],
+  "changes": [
+    {"cusip":"218937100","ticker":"CNR","name":"CORE NATURAL RESOURCES INC","putCall":null,"action":"new","shares":10740,"prevShares":0},
+    {"cusip":"03940R107","ticker":null,"name":"ARCH RESOURCES INC","putCall":null,"action":"exit","shares":0,"prevShares":8100}
+  ]
+}

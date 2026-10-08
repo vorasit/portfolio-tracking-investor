@@ -1,0 +1,43 @@
+{
+  "investorId": "bill-miller",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1135778","accession":"0001085146-24-005777","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 177151064,
+  "holdings": [
+    {"cusip":"018581108","name":"BREAD FINANCIAL HOLDINGS INC","titleOfClass":"COM","shares":258530,"shareType":"SH","putCall":null,"value":12300857,"ticker":"BFH","weight":0.069437},
+    {"cusip":"534187109","name":"LINCOLN NATL CORP IND","titleOfClass":"COM","shares":383215,"shareType":"SH","putCall":null,"value":12075105,"ticker":"LNC","weight":0.068163},
+    {"cusip":"46817M107","name":"JACKSON FINANCIAL INC","titleOfClass":"COM CL A","shares":130335,"shareType":"SH","putCall":null,"value":11890462,"ticker":"JXN","weight":0.06712},
+    {"cusip":"00206R102","name":"AT&T INC","titleOfClass":"COM","shares":533000,"shareType":"SH","putCall":null,"value":11726000,"ticker":"T","weight":0.066192},
+    {"cusip":"957638109","name":"WESTERN ALLIANCE BANCORP","titleOfClass":"COM","shares":132945,"shareType":"SH","putCall":null,"value":11498413,"ticker":"WAL","weight":0.064907},
+    {"cusip":"G6359F137","name":"NABORS INDUSTRIES LTD","titleOfClass":"SHS","shares":140965,"shareType":"SH","putCall":null,"value":9088014,"ticker":"NBR","weight":0.051301},
+    {"cusip":"747301109","name":"QUAD / GRAPHICS INC","titleOfClass":"COM CL A","shares":1883815,"shareType":"SH","putCall":null,"value":8552520,"ticker":"QUAD","weight":0.048278},
+    {"cusip":"594972408","name":"MICROSTRATEGY INC","titleOfClass":"CL A NEW","shares":50250,"shareType":"SH","putCall":null,"value":8472150,"ticker":"MSTR","weight":0.047824},
+    {"cusip":"389375106","name":"GRAY TELEVISION INC","titleOfClass":"COM","shares":1458120,"shareType":"SH","putCall":null,"value":7815523,"ticker":"GTN","weight":0.044118},
+    {"cusip":"36472T109","name":"GANNETT CO INC","titleOfClass":"COM","shares":1371435,"shareType":"SH","putCall":null,"value":7707465,"ticker":"TDAY","weight":0.043508},
+    {"cusip":"22948Q101","name":"CTO RLTY GROWTH INC NEW","titleOfClass":"COM","shares":383900,"shareType":"SH","putCall":null,"value":7301778,"ticker":"CTO","weight":0.041218},
+    {"cusip":"92556V106","name":"VIATRIS INC","titleOfClass":"COM","shares":619000,"shareType":"SH","putCall":null,"value":7186590,"ticker":"VTRS","weight":0.040568},
+    {"cusip":"68268W103","name":"ONEMAIN HLDGS INC","titleOfClass":"COM","shares":149000,"shareType":"SH","putCall":null,"value":7013430,"ticker":"OMF","weight":0.03959},
+    {"cusip":"674215207","name":"CHORD ENERGY CORPORATION","titleOfClass":"COM NEW","shares":52766,"shareType":"SH","putCall":null,"value":6871716,"ticker":"CHRD","weight":0.03879},
+    {"cusip":"09739D100","name":"BOISE CASCADE CO DEL","titleOfClass":"COM","shares":40000,"shareType":"SH","putCall":null,"value":5639200,"ticker":"BCC","weight":0.031833},
+    {"cusip":"118440106","name":"BUCKLE INC","titleOfClass":"COM","shares":125000,"shareType":"SH","putCall":null,"value":5496250,"ticker":"BKE","weight":0.031026},
+    {"cusip":"N82405106","name":"STELLANTIS N.V","titleOfClass":"SHS","shares":390000,"shareType":"SH","putCall":null,"value":5479500,"ticker":"STLA","weight":0.030931},
+    {"cusip":"120076104","name":"BUILD-A-BEAR WORKSHOP INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":5155500,"ticker":"BBW","weight":0.029102},
+    {"cusip":"902681105","name":"UGI CORP NEW","titleOfClass":"COM","shares":202000,"shareType":"SH","putCall":null,"value":5054040,"ticker":"UGI","weight":0.02853},
+    {"cusip":"911163103","name":"UNITED NAT FOODS INC","titleOfClass":"COM","shares":271115,"shareType":"SH","putCall":null,"value":4560154,"ticker":"UNFI","weight":0.025742},
+    {"cusip":"110122108","name":"BRISTOL-MYERS SQUIBB CO","titleOfClass":"COM","shares":80000,"shareType":"SH","putCall":null,"value":4139200,"ticker":"BMY","weight":0.023365},
+    {"cusip":"206787103","name":"CONDUENT INC","titleOfClass":"COM","shares":900935,"shareType":"SH","putCall":null,"value":3630768,"ticker":"CNDT","weight":0.020495},
+    {"cusip":"01877R108","name":"ALLIANCE RESOURCE PARTNERS L","titleOfClass":"UT LTD PART","shares":117000,"shareType":"SH","putCall":null,"value":2925000,"ticker":"ARLP","weight":0.016511},
+    {"cusip":"34988V106","name":"FOSSIL GROUP INC","titleOfClass":"COM","shares":1333200,"shareType":"SH","putCall":null,"value":1559844,"ticker":"FOSL","weight":0.008805},
+    {"cusip":"901109108","name":"TUTOR PERINI CORP","titleOfClass":"COM","shares":54800,"shareType":"SH","putCall":null,"value":1488368,"ticker":"TPC","weight":0.008402},
+    {"cusip":"024061103","name":"AMERICAN AXLE & MFG HLDGS IN","titleOfClass":"COM","shares":233640,"shareType":"SH","putCall":null,"value":1443895,"ticker":"DCH","weight":0.008151},
+    {"cusip":"89151E109","name":"TOTALENERGIES SE","titleOfClass":"SPONSORED ADS","shares":7650,"shareType":"SH","putCall":null,"value":494343,"ticker":null,"weight":0.002791},
+    {"cusip":"G87110105","name":"TECHNIPFMC PLC","titleOfClass":"COM","shares":8185,"shareType":"SH","putCall":null,"value":214693,"ticker":"FTI","weight":0.001212},
+    {"cusip":"881624209","name":"TEVA PHARMACEUTICAL INDS LTD","titleOfClass":"SPONSORED ADS","shares":10950,"shareType":"SH","putCall":null,"value":197319,"ticker":"TEVA","weight":0.001114},
+    {"cusip":"724479100","name":"PITNEY BOWES INC","titleOfClass":"COM","shares":24259,"shareType":"SH","putCall":null,"value":172967,"ticker":"PBI","weight":0.000976}
+  ],
+  "changes": null
+}

@@ -1,0 +1,19 @@
+{
+  "cik": "1709323",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1709323","accession":"0002043585-25-000015","form":"13F-HR","filedAt":"2025-11-12","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":618276230},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":609039360},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":597014115},
+    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":10431387,"shareType":"SH","putCall":null,"value":538155255},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":451334332},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":295542564},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":69292125},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":28162078},
+    {"cusip":"78574H104","name":"SABLE OFFSHORE CORP","titleOfClass":"COM","shares":1343000,"shareType":"SH","putCall":null,"value":23448780}
+  ]
+}

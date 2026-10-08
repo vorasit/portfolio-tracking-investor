@@ -1,0 +1,25 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-24-006510","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 1777385083,
+  "holdings": [
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":4880944,"shareType":"SH","putCall":null,"value":303057813,"ticker":"TRMB","weight":0.170508},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":478963,"shareType":"SH","putCall":null,"value":274809811,"ticker":"SPY","weight":0.154615},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":256837905,"ticker":"MRCY","weight":0.144503},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":3526754,"shareType":"SH","putCall":null,"value":228322054,"ticker":"LW","weight":0.12846},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":206161681,"ticker":null,"weight":0.115992},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":2302000,"shareType":"SH","putCall":"Call","value":149031480,"ticker":"LW","weight":null},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":3655540,"shareType":"SH","putCall":null,"value":145819491,"ticker":"RPD","weight":0.082042},
+    {"cusip":"35909D109","name":"FRONTIER COMMUNICATIONS PARE","titleOfClass":"COM","shares":3910213,"shareType":"SH","putCall":null,"value":138929868,"ticker":null,"weight":0.078165},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":1586929,"shareType":"SH","putCall":null,"value":132905304,"ticker":"FIS","weight":0.074776},
+    {"cusip":"977852102","name":"WOLFSPEED INC","titleOfClass":"COM","shares":6165933,"shareType":"SH","putCall":null,"value":59809550,"ticker":null,"weight":0.03365},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":16883446,"ticker":null,"weight":0.009499},
+    {"cusip":"34965K107","name":"FORTREA HLDGS INC","titleOfClass":"COMMON STOCK","shares":692408,"shareType":"SH","putCall":null,"value":13848160,"ticker":"FTRE","weight":0.007791}
+  ],
+  "changes": null
+}

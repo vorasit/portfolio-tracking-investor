@@ -1,0 +1,32 @@
+{
+  "investorId": "john-paulson",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-25-001436","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 2969350241,
+  "holdings": [
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1907523,"shareType":"SH","putCall":null,"value":874904499,"ticker":"MDGL","weight":0.294645},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":654385859,"ticker":"PPTA","weight":0.22038},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":70755869,"shareType":"SH","putCall":null,"value":456375355,"ticker":"BHC","weight":0.153695},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":372916461,"ticker":"AAMI","weight":0.125589},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":239694937,"ticker":"NG","weight":0.080723},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":132077042,"ticker":"AEM","weight":0.04448},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":115192596,"ticker":"THM","weight":0.038794},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4280000,"shareType":"SH","putCall":null,"value":51616800,"ticker":"THRY","weight":0.017383},
+    {"cusip":"438516106","name":"HONEYWELL INTL INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":42100000,"ticker":null,"weight":0.014178},
+    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":30086692,"ticker":"TMQ","weight":0.010132}
+  ],
+  "changes": [
+    {"cusip":"071734107","ticker":"BHC","name":"BAUSCH HEALTH COS INC","putCall":null,"action":"add","shares":70755869,"prevShares":32791702},
+    {"cusip":"558868105","ticker":"MDGL","name":"MADRIGAL PHARMACEUTICALS INC","putCall":null,"action":"reduce","shares":1907523,"prevShares":2089523},
+    {"cusip":"10948W103","ticker":"AAMI","name":"ACADIAN ASSET MANAGEMENT INC","putCall":null,"action":"reduce","shares":7743282,"prevShares":8950121},
+    {"cusip":"811916105","ticker":null,"name":"SEABRIDGE GOLD INC","putCall":null,"action":"exit","shares":0,"prevShares":2070000},
+    {"cusip":"29446Y502","ticker":"EQX","name":"EQUINOX GOLD CORP","putCall":null,"action":"exit","shares":0,"prevShares":2500000},
+    {"cusip":"450913108","ticker":"IAG","name":"IAMGOLD CORP","putCall":null,"action":"exit","shares":0,"prevShares":1850000},
+    {"cusip":"48203R104","ticker":null,"name":"JUNIPER NETWORKS INC","putCall":null,"action":"exit","shares":0,"prevShares":250000},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"exit","shares":0,"prevShares":9000}
+  ]
+}

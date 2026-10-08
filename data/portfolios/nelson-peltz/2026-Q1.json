@@ -1,0 +1,24 @@
+{
+  "investorId": "nelson-peltz",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000026","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 3859778188,
+  "holdings": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1637048886,"ticker":null,"weight":0.42413},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1143810184,"ticker":"GE","weight":0.296341},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":537859971,"ticker":"SOLV","weight":0.13935},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":253403634,"ticker":null,"weight":0.065652},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30446022,"shareType":"SH","putCall":null,"value":211599853,"ticker":"WEN","weight":0.054822},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":2970944,"shareType":"SH","putCall":null,"value":72164230,"ticker":"IVZ","weight":0.018696},
+    {"cusip":"N5505D105","name":"Magnum Ice Cream Co NV","titleOfClass":"ORD SHS","shares":241042,"shareType":"SH","putCall":null,"value":3603578,"ticker":"MICC","weight":0.000934},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4044,"shareType":"SH","putCall":null,"value":287852,"ticker":"GEHC","weight":0.000075}
+  ],
+  "changes": [
+    {"cusip":"N5505D105","ticker":"MICC","name":"Magnum Ice Cream Co NV","putCall":null,"action":"new","shares":241042,"prevShares":0},
+    {"cusip":"95058W100","ticker":"WEN","name":"Wendys Co.","putCall":null,"action":"add","shares":30446022,"prevShares":30440318}
+  ]
+}

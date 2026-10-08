@@ -1,0 +1,22 @@
+{
+  "cik": "1998597",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-26-002515","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null},
+    {"cik":"1998597","accession":"0000902664-26-002957","form":"13F-HR/A","filedAt":"2026-06-30","amendmentType":"NEW HOLDINGS"}
+  ],
+  "positions": [
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":4107424,"shareType":"SH","putCall":null,"value":299472284},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3565158,"shareType":"SH","putCall":null,"value":254908797},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":4435605,"shareType":"SH","putCall":null,"value":247506759},
+    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":343665,"shareType":"SH","putCall":null,"value":223499096},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":211664915},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":75307,"shareType":"SH","putCall":null,"value":144142869},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":5431388,"shareType":"SH","putCall":null,"value":85109850},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4116099,"shareType":"SH","putCall":null,"value":73060757},
+    {"cusip":"74624M102","name":"EVERPURE INC","titleOfClass":"CL A","shares":1042296,"shareType":"SH","putCall":null,"value":61537156},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6743653,"shareType":"SH","putCall":null,"value":37157528},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2090412,"shareType":"SH","putCall":null,"value":29453905}
+  ]
+}

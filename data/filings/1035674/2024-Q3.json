@@ -1,0 +1,25 @@
+{
+  "cik": "1035674",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-24-000980","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":2042000,"shareType":"SH","putCall":null,"value":392607000},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":24771542,"shareType":"SH","putCall":null,"value":231613918},
+    {"cusip":"10948W103","name":"BRIGHTSPHERE INVT GROUP INC","titleOfClass":"COM","shares":8950121,"shareType":"SH","putCall":null,"value":227333073},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":26439035,"shareType":"SH","putCall":null,"value":215742526},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":111676050},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":63123674},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":64198980,"shareType":"SH","putCall":null,"value":35977108},
+    {"cusip":"811916105","name":"SEABRIDGE GOLD INC","titleOfClass":"COM","shares":2070000,"shareType":"SH","putCall":null,"value":34755300},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":2000000,"shareType":"SH","putCall":null,"value":34460000},
+    {"cusip":"87968A104","name":"TELLURIAN INC NEW","titleOfClass":"COM","shares":30000000,"shareType":"SH","putCall":null,"value":29040000},
+    {"cusip":"845467109","name":"SOUTHWESTERN ENERGY CO","titleOfClass":"COM","shares":2200000,"shareType":"SH","putCall":null,"value":15642000},
+    {"cusip":"29446Y502","name":"EQUINOX GOLD CORP","titleOfClass":"COM","shares":2500000,"shareType":"SH","putCall":null,"value":15225000},
+    {"cusip":"450913108","name":"IAMGOLD CORP","titleOfClass":"COM","shares":1850000,"shareType":"SH","putCall":null,"value":9675500},
+    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":6934266},
+    {"cusip":"02156K103","name":"ALTICE USA INC","titleOfClass":"CL A","shares":573952,"shareType":"SH","putCall":null,"value":1411922}
+  ]
+}

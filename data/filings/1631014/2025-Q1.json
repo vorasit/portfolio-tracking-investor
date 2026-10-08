@@ -1,0 +1,19 @@
+{
+  "cik": "1631014",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1631014","accession":"0001104659-25-048610","form":"13F-HR","filedAt":"2025-05-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":979950,"shareType":"SH","putCall":null,"value":1355555036},
+    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":5202415,"shareType":"SH","putCall":null,"value":989811478},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":2578649,"shareType":"SH","putCall":null,"value":967999048},
+    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":3454367,"shareType":"SH","putCall":null,"value":534183313},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":950905,"shareType":"SH","putCall":null,"value":442826949},
+    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":586254,"shareType":"SH","putCall":null,"value":321337542},
+    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":850412,"shareType":"SH","putCall":null,"value":298035390},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE","titleOfClass":"COMM","shares":273957,"shareType":"SH","putCall":null,"value":62338915},
+    {"cusip":"303250104","name":"FAIR ISAAC INC","titleOfClass":"COMM","shares":670,"shareType":"SH","putCall":null,"value":1235587}
+  ]
+}

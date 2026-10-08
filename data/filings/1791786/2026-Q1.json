@@ -1,0 +1,43 @@
+{
+  "cik": "1791786",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1791786","accession":"0001013594-26-000613","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"89679M104","name":"TRIPLE FLAG PRECIOUS METAL","titleOfClass":"COM","shares":133248215,"shareType":"SH","putCall":null,"value":4625045543},
+    {"cusip":"718546104","name":"PHILLIPS 66","titleOfClass":"COM","shares":19251000,"shareType":"SH","putCall":null,"value":3507147180},
+    {"cusip":"867224107","name":"SUNCOR ENERGY INC NEW","titleOfClass":"COM","shares":52670800,"shareType":"SH","putCall":null,"value":3482066588},
+    {"cusip":"81369Y704","name":"SELECT SECTOR SPDR TR","titleOfClass":"STATE STREET IND","shares":7500000,"shareType":"SH","putCall":"Put","value":1212975000},
+    {"cusip":"844741108","name":"SOUTHWEST AIRLS CO","titleOfClass":"COM","shares":30346000,"shareType":"SH","putCall":null,"value":1140099220},
+    {"cusip":"81369Y308","name":"SELECT SECTOR SPDR TR","titleOfClass":"STATE STREET CON","shares":9140000,"shareType":"SH","putCall":"Put","value":749297200},
+    {"cusip":"42824C109","name":"HEWLETT PACKARD ENTERPRISE C","titleOfClass":"COM","shares":27421735,"shareType":"SH","putCall":null,"value":652911510},
+    {"cusip":"912932100","name":"UNITI GROUP LLC","titleOfClass":"COM SHS","shares":59012219,"shareType":"SH","putCall":null,"value":553534614},
+    {"cusip":"72352L106","name":"PINTEREST INC","titleOfClass":"CL A","shares":28000000,"shareType":"SH","putCall":null,"value":513520000},
+    {"cusip":"81369Y407","name":"SELECT SECTOR SPDR TR","titleOfClass":"STATE STREET CON","shares":4300000,"shareType":"SH","putCall":"Put","value":468614000},
+    {"cusip":"464288513","name":"ISHARES TR","titleOfClass":"IBOXX HI YD ETF","shares":5000000,"shareType":"SH","putCall":"Put","value":397800000},
+    {"cusip":"253868103","name":"DIGITAL RLTY TR INC","titleOfClass":"COM","shares":1500000,"shareType":"SH","putCall":"Put","value":270315000},
+    {"cusip":"29786A106","name":"ETSY INC","titleOfClass":"COM","shares":5000000,"shareType":"SH","putCall":null,"value":249900000},
+    {"cusip":"G66721104","name":"NORWEGIAN CRUISE LINE HLDGS","titleOfClass":"SHS","shares":13186000,"shareType":"SH","putCall":null,"value":246578200},
+    {"cusip":"46090E103","name":"INVESCO QQQ TR","titleOfClass":"UNIT SER 1","shares":400000,"shareType":"SH","putCall":"Put","value":230872000},
+    {"cusip":"G7997W102","name":"SEADRILL LTD","titleOfClass":"COM","shares":4719085,"shareType":"SH","putCall":null,"value":214718368},
+    {"cusip":"464287598","name":"ISHARES TR","titleOfClass":"RUS 1000 VAL ETF","shares":1000000,"shareType":"SH","putCall":"Put","value":213670000},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":1275000,"shareType":"SH","putCall":null,"value":197994750},
+    {"cusip":"92189F106","name":"VANECK ETF TRUST","titleOfClass":"GOLD MINERS ETF","shares":2000000,"shareType":"SH","putCall":"Call","value":183540000},
+    {"cusip":"92189F106","name":"VANECK ETF TRUST","titleOfClass":"GOLD MINERS ETF","shares":1650000,"shareType":"SH","putCall":"Put","value":151420500},
+    {"cusip":"29444U700","name":"EQUINIX INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":147036000},
+    {"cusip":"464287655","name":"ISHARES TR","titleOfClass":"RUSSELL 2000 ETF","shares":500000,"shareType":"SH","putCall":"Put","value":124000000},
+    {"cusip":"68390D106","name":"OR ROYALTIES INC.","titleOfClass":"COM SHS","shares":3111000,"shareType":"SH","putCall":null,"value":118280220},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":15626834,"shareType":"SH","putCall":null,"value":103605909},
+    {"cusip":"22822V101","name":"CROWN CASTLE INC","titleOfClass":"COM","shares":1225000,"shareType":"SH","putCall":null,"value":99604750},
+    {"cusip":"78464A755","name":"SPDR SERIES TRUST","titleOfClass":"STATE STREET SPD","shares":900000,"shareType":"SH","putCall":"Put","value":97209000},
+    {"cusip":"34959J108","name":"FORTIVE CORP","titleOfClass":"COM","shares":750000,"shareType":"SH","putCall":"Put","value":41460000},
+    {"cusip":"94419LAR2","name":"WAYFAIR INC","titleOfClass":"NOTE 3.500%11/1","shares":15000000,"shareType":"PRN","putCall":null,"value":26246100},
+    {"cusip":"291011104","name":"EMERSON ELEC CO","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":"Put","value":26204000},
+    {"cusip":"36164V800","name":"GCI LIBERTY INC","titleOfClass":"COM SER C","shares":659928,"shareType":"SH","putCall":null,"value":24555921},
+    {"cusip":"40415F101","name":"HDFC BANK LTD","titleOfClass":"SPONSORED ADS","shares":797085,"shareType":"SH","putCall":null,"value":19831475},
+    {"cusip":"962879102","name":"WHEATON PRECIOUS METALS CORP","titleOfClass":"COM","shares":100000,"shareType":"SH","putCall":"Call","value":13101000},
+    {"cusip":"594972AJ0","name":"STRATEGY INC","titleOfClass":"NOTE 0.625% 3/1","shares":10000000,"shareType":"PRN","putCall":null,"value":11539000}
+  ]
+}

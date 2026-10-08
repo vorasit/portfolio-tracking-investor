@@ -1,0 +1,36 @@
+{
+  "investorId": "dennis-hong",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-25-002068","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 727737175,
+  "holdings": [
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":166936,"shareType":"SH","putCall":null,"value":102497035,"ticker":"INTU","weight":0.140843},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":3651918,"shareType":"SH","putCall":null,"value":100318187,"ticker":"NCNO","weight":0.137849},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1437331,"shareType":"SH","putCall":null,"value":94892593,"ticker":"PCOR","weight":0.130394},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":378711,"shareType":"SH","putCall":null,"value":92087367,"ticker":"MNDY","weight":0.126539},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":1148302,"shareType":"SH","putCall":null,"value":90979967,"ticker":"CSGP","weight":0.125018},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":2373386,"shareType":"SH","putCall":null,"value":85631767,"ticker":"BRZE","weight":0.117669},
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":898874,"shareType":"SH","putCall":null,"value":73446995,"ticker":"FOUR","weight":0.100925},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":179612,"shareType":"SH","putCall":null,"value":40870711,"ticker":"HLT","weight":0.056161},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":8911039,"shareType":"SH","putCall":null,"value":29851981,"ticker":"BLND","weight":0.04102},
+    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":490162,"shareType":"SH","putCall":null,"value":17160572,"ticker":"VERX","weight":0.023581}
+  ],
+  "changes": [
+    {"cusip":"92538J106","ticker":"VERX","name":"VERTEX INC","putCall":null,"action":"new","shares":490162,"prevShares":0},
+    {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"add","shares":166936,"prevShares":85728},
+    {"cusip":"63947X101","ticker":"NCNO","name":"NCINO INC","putCall":null,"action":"add","shares":3651918,"prevShares":2628856},
+    {"cusip":"74275K108","ticker":"PCOR","name":"PROCORE TECHNOLOGIES INC","putCall":null,"action":"add","shares":1437331,"prevShares":1197199},
+    {"cusip":"22160N109","ticker":"CSGP","name":"COSTAR GROUP INC","putCall":null,"action":"add","shares":1148302,"prevShares":909803},
+    {"cusip":"10576N102","ticker":"BRZE","name":"BRAZE INC","putCall":null,"action":"add","shares":2373386,"prevShares":1500413},
+    {"cusip":"09352U108","ticker":"BLND","name":"BLEND LABS INC","putCall":null,"action":"add","shares":8911039,"prevShares":7079165},
+    {"cusip":"M7S64H106","ticker":"MNDY","name":"MONDAY COM LTD","putCall":null,"action":"reduce","shares":378711,"prevShares":378712},
+    {"cusip":"82452J109","ticker":"FOUR","name":"SHIFT4 PMTS INC","putCall":null,"action":"reduce","shares":898874,"prevShares":969748},
+    {"cusip":"43300A203","ticker":"HLT","name":"HILTON WORLDWIDE HLDGS INC","putCall":null,"action":"reduce","shares":179612,"prevShares":314437},
+    {"cusip":"44891N208","ticker":"PPLI","name":"IAC INC","putCall":null,"action":"exit","shares":0,"prevShares":1490081},
+    {"cusip":"81141R100","ticker":"SE","name":"SEA LTD","putCall":null,"action":"exit","shares":0,"prevShares":315538}
+  ]
+}

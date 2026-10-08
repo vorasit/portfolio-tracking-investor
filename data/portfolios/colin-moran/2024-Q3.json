@@ -1,0 +1,20 @@
+{
+  "investorId": "colin-moran",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-24-000615","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 1654763707,
+  "holdings": [
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10169273,"shareType":"SH","putCall":null,"value":347178980,"ticker":"APPN","weight":0.209806},
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":5121139,"shareType":"SH","putCall":null,"value":270191294,"ticker":"BILL","weight":0.163281},
+    {"cusip":"443573100","name":"HUBSPOT INC","titleOfClass":"COM","shares":505755,"shareType":"SH","putCall":null,"value":268859358,"ticker":"HUBS","weight":0.162476},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":8550701,"shareType":"SH","putCall":null,"value":242070345,"ticker":"TOST","weight":0.146287},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":5927495,"shareType":"SH","putCall":null,"value":227852908,"ticker":"GLBE","weight":0.137695},
+    {"cusip":"339750101","name":"FLOOR & DECOR HLDGS INC","titleOfClass":"CL A","shares":1727731,"shareType":"SH","putCall":null,"value":214532358,"ticker":"FND","weight":0.129645},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":2059737,"shareType":"SH","putCall":null,"value":84078464,"ticker":"AFRM","weight":0.05081}
+  ],
+  "changes": null
+}

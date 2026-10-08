@@ -1,0 +1,25 @@
+{
+  "cik": "1035674",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-25-001044","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":2089523,"shareType":"SH","putCall":null,"value":632373241},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":392696210},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":8950121,"shareType":"SH","putCall":null,"value":315402264},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":32791702,"shareType":"SH","putCall":null,"value":218392735},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":111403669},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":93188910},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":60089796},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4280000,"shareType":"SH","putCall":null,"value":52044800},
+    {"cusip":"438516106","name":"HONEYWELL INTL INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":46576000},
+    {"cusip":"811916105","name":"SEABRIDGE GOLD INC","titleOfClass":"COM","shares":2070000,"shareType":"SH","putCall":null,"value":30056400},
+    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":19341445},
+    {"cusip":"29446Y502","name":"EQUINOX GOLD CORP","titleOfClass":"COM","shares":2500000,"shareType":"SH","putCall":null,"value":14375000},
+    {"cusip":"450913108","name":"IAMGOLD CORP","titleOfClass":"COM","shares":1850000,"shareType":"SH","putCall":null,"value":13597500},
+    {"cusip":"48203R104","name":"JUNIPER NETWORKS INC","titleOfClass":"COM","shares":250000,"shareType":"SH","putCall":null,"value":9982500},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":9000,"shareType":"SH","putCall":null,"value":1596510}
+  ]
+}

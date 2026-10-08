@@ -1,0 +1,25 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000404","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 153037803,
+  "holdings": [
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":68435,"shareType":"SH","putCall":null,"value":45347084,"ticker":"ASML","weight":0.296313},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":358055,"shareType":"SH","putCall":null,"value":38806001,"ticker":"NVDA","weight":0.253571},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":78720,"shareType":"SH","putCall":null,"value":29550701,"ticker":"MSFT","weight":0.193094},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":24515248,"ticker":"VST","weight":0.160191},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":57180,"shareType":"SH","putCall":null,"value":14818769,"ticker":"TSLA","weight":0.096831}
+  ],
+  "changes": [
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"new","shares":68435,"prevShares":0},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"new","shares":78720,"prevShares":0},
+    {"cusip":"92840M102","ticker":"VST","name":"VISTRA CORP","putCall":null,"action":"new","shares":208747,"prevShares":0},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORPORATION","putCall":null,"action":"add","shares":358055,"prevShares":246893},
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"reduce","shares":57180,"prevShares":105460},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"exit","shares":0,"prevShares":192611}
+  ]
+}

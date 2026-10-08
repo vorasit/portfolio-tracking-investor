@@ -1,0 +1,21 @@
+{
+  "cik": "1759760",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1759760","accession":"0001085146-25-003301","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":34224181,"shareType":"SH","putCall":null,"value":7602217326},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3381300,"shareType":"SH","putCall":null,"value":1800812754},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":7753900,"shareType":"SH","putCall":null,"value":917674065},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13826100,"shareType":"SH","putCall":null,"value":682456296},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":3982130,"shareType":"SH","putCall":null,"value":526557050},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1110600,"shareType":"SH","putCall":null,"value":173509038},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":299200,"shareType":"SH","putCall":null,"value":112316688},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":723000,"shareType":"SH","putCall":null,"value":71360100},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":645100,"shareType":"SH","putCall":null,"value":69915938},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":271792,"shareType":"SH","putCall":null,"value":45117472},
+    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":83000,"shareType":"SH","putCall":null,"value":2353050}
+  ]
+}

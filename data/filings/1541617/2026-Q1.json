@@ -1,0 +1,23 @@
+{
+  "cik": "1541617",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1541617","accession":"0001541617-26-000006","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":9336039,"shareType":"SH","putCall":null,"value":1628205202},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1953373,"shareType":"SH","putCall":null,"value":1117583294},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":7971772,"shareType":"SH","putCall":null,"value":573409561},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":1365675,"shareType":"SH","putCall":null,"value":461529866},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1183632,"shareType":"SH","putCall":null,"value":438145057},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":2089558,"shareType":"SH","putCall":null,"value":435192245},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":4499075,"shareType":"SH","putCall":null,"value":348543341},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"COM SHS","shares":1926250,"shareType":"SH","putCall":null,"value":290517025},
+    {"cusip":"042068205","name":"ARM HOLDINGS PLC","titleOfClass":"SPONSORED ADS","shares":1715440,"shareType":"SH","putCall":null,"value":259511763},
+    {"cusip":"05464C101","name":"AXON ENTERPRISE INC","titleOfClass":"COM","shares":148986,"shareType":"SH","putCall":null,"value":63272864},
+    {"cusip":"770700102","name":"ROBINHOOD MKTS INC","titleOfClass":"COM CL A","shares":899691,"shareType":"SH","putCall":null,"value":62348586},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":67094,"shareType":"SH","putCall":null,"value":20766265},
+    {"cusip":"G0370L116","name":"GRAB HOLDINGS LIMITED","titleOfClass":"W EXP 12/1/202","shares":3502000,"shareType":"SH","putCall":null,"value":262650}
+  ]
+}

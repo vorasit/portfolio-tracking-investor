@@ -1,0 +1,19 @@
+{
+  "cik": "1035674",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-26-000611","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":909606048},
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1392188,"shareType":"SH","putCall":null,"value":728768652},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":421389406},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":395581693},
+    {"cusip":"66987E206","name":"NOVAGOLD RESOURCES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":244597788},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":99573038,"shareType":"SH","putCall":null,"value":229017987},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":159047212},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":8443835,"shareType":"SH","putCall":null,"value":23136108},
+    {"cusip":"03152W109","name":"AMICUS THERAPEUTIC","titleOfClass":"COM","shares":32400,"shareType":"SH","putCall":null,"value":468504}
+  ]
+}

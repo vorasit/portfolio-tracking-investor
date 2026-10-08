@@ -1,0 +1,21 @@
+{
+  "cik": "1766908",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-26-003620","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":409153,"shareType":"SH","putCall":null,"value":39270505},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":157020,"shareType":"SH","putCall":null,"value":37424147},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":234744,"shareType":"SH","putCall":null,"value":32030819},
+    {"cusip":"98980G102","name":"ZSCALER INC","titleOfClass":"COM","shares":167305,"shareType":"SH","putCall":null,"value":23615101},
+    {"cusip":"224408104","name":"CRANE COMPANY","titleOfClass":"COMMON STOCK","shares":81370,"shareType":"SH","putCall":null,"value":18151206},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":45495,"shareType":"SH","putCall":null,"value":16970545},
+    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY ONE S C","shares":170806,"shareType":"SH","putCall":null,"value":16250483},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":920068,"shareType":"SH","putCall":null,"value":15981581},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":641194,"shareType":"SH","putCall":null,"value":13907498},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":380078,"shareType":"SH","putCall":null,"value":11413742},
+    {"cusip":"21037T109","name":"CONSTELLATION ENERGY CORP","titleOfClass":"COM","shares":28451,"shareType":"SH","putCall":null,"value":7066375}
+  ]
+}

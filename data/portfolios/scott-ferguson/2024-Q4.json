@@ -1,0 +1,44 @@
+{
+  "investorId": "scott-ferguson",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-25-001012","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 1815019547,
+  "holdings": [
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":3295000,"shareType":"SH","putCall":null,"value":356123600,"ticker":"TWLO","weight":0.196209},
+    {"cusip":"912008109","name":"US FOODS HLDG CORP","titleOfClass":"COM","shares":3620000,"shareType":"SH","putCall":null,"value":244205200,"ticker":"USFD","weight":0.134547},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":910000,"shareType":"SH","putCall":null,"value":183337700,"ticker":"TLN","weight":0.101011},
+    {"cusip":"958102105","name":"WESTERN DIGITAL CORP","titleOfClass":"COM","shares":2967900,"shareType":"SH","putCall":null,"value":176975877,"ticker":"WDC","weight":0.097506},
+    {"cusip":"87165B103","name":"SYNCHRONY FINANCIAL","titleOfClass":"COM","shares":2197500,"shareType":"SH","putCall":null,"value":142837500,"ticker":"SYF","weight":0.078697},
+    {"cusip":"65290E101","name":"NEXTRACKER INC","titleOfClass":"CLASS A COM","shares":2977500,"shareType":"SH","putCall":null,"value":108768075,"ticker":"NXT","weight":0.059927},
+    {"cusip":"83601L102","name":"SOTERA HEALTH CO","titleOfClass":"COM","shares":7910000,"shareType":"SH","putCall":null,"value":108208800,"ticker":"SHC","weight":0.059619},
+    {"cusip":"19247G107","name":"COHERENT CORP","titleOfClass":"COM","shares":1131500,"shareType":"SH","putCall":null,"value":107186995,"ticker":"COHR","weight":0.059056},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":1340000,"shareType":"SH","putCall":null,"value":105592000,"ticker":"OKTA","weight":0.058177},
+    {"cusip":"98980F104","name":"ZOOMINFO TECHNOLOGIES INC","titleOfClass":"COMMON STOCK","shares":8335000,"shareType":"SH","putCall":null,"value":87600850,"ticker":"GTM","weight":0.048264},
+    {"cusip":"934423104","name":"WARNER BROS DISCOVERY INC","titleOfClass":"COM SER A","shares":6135000,"shareType":"SH","putCall":null,"value":64846950,"ticker":null,"weight":0.035728},
+    {"cusip":"00404A109","name":"ACADIA HEALTHCARE COMPANY IN","titleOfClass":"COM","shares":1330000,"shareType":"SH","putCall":null,"value":52734500,"ticker":"ACHC","weight":0.029055},
+    {"cusip":"85208T107","name":"SPRINKLR INC","titleOfClass":"CL A","shares":5745000,"shareType":"SH","putCall":null,"value":48545250,"ticker":"CXM","weight":0.026746},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":625000,"shareType":"SH","putCall":null,"value":28056250,"ticker":"CVS","weight":0.015458}
+  ],
+  "changes": [
+    {"cusip":"87165B103","ticker":"SYF","name":"SYNCHRONY FINANCIAL","putCall":null,"action":"new","shares":2197500,"prevShares":0},
+    {"cusip":"679295105","ticker":"OKTA","name":"OKTA INC","putCall":null,"action":"new","shares":1340000,"prevShares":0},
+    {"cusip":"934423104","ticker":null,"name":"WARNER BROS DISCOVERY INC","putCall":null,"action":"new","shares":6135000,"prevShares":0},
+    {"cusip":"00404A109","ticker":"ACHC","name":"ACADIA HEALTHCARE COMPANY IN","putCall":null,"action":"new","shares":1330000,"prevShares":0},
+    {"cusip":"958102105","ticker":"WDC","name":"WESTERN DIGITAL CORP","putCall":null,"action":"add","shares":2967900,"prevShares":2030000},
+    {"cusip":"65290E101","ticker":"NXT","name":"NEXTRACKER INC","putCall":null,"action":"add","shares":2977500,"prevShares":2855000},
+    {"cusip":"19247G107","ticker":"COHR","name":"COHERENT CORP","putCall":null,"action":"add","shares":1131500,"prevShares":823500},
+    {"cusip":"912008109","ticker":"USFD","name":"US FOODS HLDG CORP","putCall":null,"action":"reduce","shares":3620000,"prevShares":4825000},
+    {"cusip":"87422Q109","ticker":"TLN","name":"TALEN ENERGY CORP","putCall":null,"action":"reduce","shares":910000,"prevShares":941000},
+    {"cusip":"98980F104","ticker":"GTM","name":"ZOOMINFO TECHNOLOGIES INC","putCall":null,"action":"reduce","shares":8335000,"prevShares":16030000},
+    {"cusip":"85208T107","ticker":"CXM","name":"SPRINKLR INC","putCall":null,"action":"reduce","shares":5745000,"prevShares":6695000},
+    {"cusip":"126650100","ticker":"CVS","name":"CVS HEALTH CORP","putCall":null,"action":"reduce","shares":625000,"prevShares":3520000},
+    {"cusip":"009158106","ticker":"APD","name":"AIR PRODS & CHEMS INC","putCall":null,"action":"exit","shares":0,"prevShares":547500},
+    {"cusip":"615394202","ticker":"MOG.A","name":"MOOG INC","putCall":null,"action":"exit","shares":0,"prevShares":359000},
+    {"cusip":"36165L108","ticker":"GDS","name":"GDS HLDGS LTD","putCall":null,"action":"exit","shares":0,"prevShares":2825000},
+    {"cusip":"457985208","ticker":"IART","name":"INTEGRA LIFESCIENCES HLDGS C","putCall":null,"action":"exit","shares":0,"prevShares":2430000}
+  ]
+}

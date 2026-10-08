@@ -1,0 +1,22 @@
+{
+  "investorId": "mohnish-pabrai",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-13",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-26-000002","form":"13F-HR","filedAt":"2026-02-13","amendmentType":null}
+  ],
+  "totalValue": 402040227,
+  "holdings": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1799831,"shareType":"SH","putCall":null,"value":158691099,"ticker":"HCC","weight":0.394714},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":27040133,"shareType":"SH","putCall":null,"value":111675749,"ticker":"RIG","weight":0.277773},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":543000,"shareType":"SH","putCall":null,"value":108534840,"ticker":"AMR","weight":0.26996},
+    {"cusip":"G9460G101","name":"VALARIS LTD","titleOfClass":"CL A","shares":459098,"shareType":"SH","putCall":null,"value":23138539,"ticker":"VAL","weight":0.057553}
+  ],
+  "changes": [
+    {"cusip":"H8817H100","ticker":"RIG","name":"TRANSOCEAN LTD","putCall":null,"action":"add","shares":27040133,"prevShares":24442332},
+    {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"add","shares":543000,"prevShares":532000},
+    {"cusip":"G9460G101","ticker":"VAL","name":"VALARIS LTD","putCall":null,"action":"reduce","shares":459098,"prevShares":1066255},
+    {"cusip":"G65431127","ticker":"NE","name":"NOBLE CORP PLC","putCall":null,"action":"exit","shares":0,"prevShares":239000}
+  ]
+}

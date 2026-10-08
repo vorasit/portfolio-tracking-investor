@@ -1,0 +1,13 @@
+{
+  "cik": "1562087",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000183","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":105460,"shareType":"SH","putCall":null,"value":42588966},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":192611,"shareType":"SH","putCall":null,"value":42256927},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":246893,"shareType":"SH","putCall":null,"value":33155261}
+  ]
+}

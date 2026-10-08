@@ -1,0 +1,20 @@
+{
+  "cik": "1998597",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-002348","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7985426,"shareType":"SH","putCall":null,"value":425623206},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":540353,"shareType":"SH","putCall":null,"value":302268065},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":299112036},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":156022,"shareType":"SH","putCall":null,"value":291700291},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":3945227,"shareType":"SH","putCall":null,"value":259004153},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":133037636},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":4106056,"shareType":"SH","putCall":null,"value":108851545},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":734763,"shareType":"SH","putCall":null,"value":61110239},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":37108119},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":18785505}
+  ]
+}

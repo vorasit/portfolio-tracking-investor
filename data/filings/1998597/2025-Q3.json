@@ -1,0 +1,22 @@
+{
+  "cik": "1998597",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-005066","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":5959481,"shareType":"SH","putCall":null,"value":461263829},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5008635,"shareType":"SH","putCall":null,"value":290901521},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":147411,"shareType":"SH","putCall":null,"value":281755489},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":386637,"shareType":"SH","putCall":null,"value":257569837},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":2434607,"shareType":"SH","putCall":null,"value":166916656},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":1881399,"shareType":"SH","putCall":null,"value":153616228},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6502108,"shareType":"SH","putCall":null,"value":121914525},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":5821337,"shareType":"SH","putCall":null,"value":117649221},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4049940,"shareType":"SH","putCall":null,"value":92014637},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":1048136,"shareType":"SH","putCall":null,"value":57762775},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":1892413,"shareType":"SH","putCall":null,"value":47007539},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":17118531}
+  ]
+}

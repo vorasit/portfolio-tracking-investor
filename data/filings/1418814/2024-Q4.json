@@ -1,0 +1,22 @@
+{
+  "cik": "1418814",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1418814","accession":"0001418812-25-000004","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2898509,"shareType":"SH","putCall":null,"value":969058514},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":6566031,"shareType":"SH","putCall":null,"value":731127552},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":4061739,"shareType":"SH","putCall":null,"value":617790502},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":10135921,"shareType":"SH","putCall":null,"value":586464389},
+    {"cusip":"30212P303","name":"EXPEDIA GROUP INC","titleOfClass":"COM NEW","shares":2017406,"shareType":"SH","putCall":null,"value":375903260},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":8548600,"shareType":"SH","putCall":null,"value":311596470},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":3168788,"shareType":"SH","putCall":null,"value":215667711},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT INC","titleOfClass":"COM","shares":1061466,"shareType":"SH","putCall":null,"value":137459847},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":211500,"shareType":"SH","putCall":null,"value":123835365},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":373600,"shareType":"SH","putCall":null,"value":118072544},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":536900,"shareType":"SH","putCall":null,"value":117790491},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":1268448,"shareType":"SH","putCall":null,"value":84427899}
+  ]
+}

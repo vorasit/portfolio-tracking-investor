@@ -1,0 +1,37 @@
+{
+  "cik": "1484150",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1484150","accession":"0001172661-26-001535","form":"13F-HR","filedAt":"2026-04-24","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"87256C101","name":"TKO GROUP HOLDINGS INC","titleOfClass":"CL A","shares":2449468,"shareType":"SH","putCall":null,"value":493935222},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":1704639,"shareType":"SH","putCall":null,"value":490185991},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":733699,"shareType":"SH","putCall":null,"value":317236774},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":3206407,"shareType":"SH","putCall":null,"value":309033507},
+    {"cusip":"883556102","name":"THERMO FISHER SCIENTIFIC INC","titleOfClass":"COM","shares":617211,"shareType":"SH","putCall":null,"value":303377723},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":249422,"shareType":"SH","putCall":null,"value":266267962},
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":3561964,"shareType":"SH","putCall":null,"value":205311605},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":1277185,"shareType":"SH","putCall":null,"value":198334059},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":4179623,"shareType":"SH","putCall":null,"value":189044348},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":1927485,"shareType":"SH","putCall":null,"value":175439685},
+    {"cusip":"115637100","name":"BROWN FORMAN CORP","titleOfClass":"CL A","shares":2585222,"shareType":"SH","putCall":null,"value":69258097},
+    {"cusip":"G5784H106","name":"MANCHESTER UTD PLC NEW","titleOfClass":"ORD CL A","shares":3142000,"shareType":"SH","putCall":null,"value":52848440},
+    {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1576049,"shareType":"SH","putCall":null,"value":41670736},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":10300,"shareType":"SH","putCall":null,"value":3113072},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":7300,"shareType":"SH","putCall":null,"value":3104982},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":9000,"shareType":"SH","putCall":null,"value":2722320},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":2359800},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":2070805},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":6900,"shareType":"SH","putCall":null,"value":2037915},
+    {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":7000,"shareType":"SH","putCall":null,"value":1701560},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"COM","shares":8400,"shareType":"SH","putCall":null,"value":1593900},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":9000,"shareType":"SH","putCall":null,"value":1323990},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":20800,"shareType":"SH","putCall":null,"value":1098656},
+    {"cusip":"518439104","name":"LAUDER ESTEE COS INC","titleOfClass":"CL A","shares":15000,"shareType":"SH","putCall":null,"value":1076550},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":12000,"shareType":"SH","putCall":null,"value":912600},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":2800,"shareType":"SH","putCall":null,"value":899920},
+    {"cusip":"194162103","name":"COLGATE PALMOLIVE CO","titleOfClass":"COM","shares":10000,"shareType":"SH","putCall":null,"value":852300}
+  ]
+}

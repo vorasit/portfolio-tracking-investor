@@ -1,0 +1,28 @@
+{
+  "cik": "1541617",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1541617","accession":"0001541617-25-000009","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1877301,"shareType":"SH","putCall":null,"value":1385617094},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":8252160,"shareType":"SH","putCall":null,"value":1303758759},
+    {"cusip":"833445109","name":"SNOWFLAKE INC","titleOfClass":"CL A","shares":2825630,"shareType":"SH","putCall":null,"value":632291226},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":5953104,"shareType":"SH","putCall":null,"value":555424604},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1058121,"shareType":"SH","putCall":null,"value":526319967},
+    {"cusip":"20717M103","name":"CONFLUENT INC","titleOfClass":"CLASS A COM","shares":15552976,"shareType":"SH","putCall":null,"value":387735692},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":11432698,"shareType":"SH","putCall":null,"value":342523632},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":1464863,"shareType":"SH","putCall":null,"value":321376293},
+    {"cusip":"770700102","name":"ROBINHOOD MKTS INC","titleOfClass":"CL A","shares":3245457,"shareType":"SH","putCall":null,"value":303872139},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":867209,"shareType":"SH","putCall":null,"value":196414167},
+    {"cusip":"565394103","name":"MAPLEBEAR INC","titleOfClass":"COM","shares":4216768,"shareType":"SH","putCall":null,"value":190766584},
+    {"cusip":"98954M200","name":"ZILLOW GROUP INC","titleOfClass":"CL C CAP STK","shares":2387772,"shareType":"SH","putCall":null,"value":167263428},
+    {"cusip":"042068205","name":"ARM HOLDINGS PLC","titleOfClass":"SPONSORED ADS","shares":933208,"shareType":"SH","putCall":null,"value":150937062},
+    {"cusip":"58733R102","name":"MERCADOLIBRE INC","titleOfClass":"COM","shares":46539,"shareType":"SH","putCall":null,"value":121635727},
+    {"cusip":"79589L106","name":"SAMSARA INC","titleOfClass":"COM CL A","shares":2990578,"shareType":"SH","putCall":null,"value":118965194},
+    {"cusip":"23804L103","name":"DATADOG INC","titleOfClass":"CL A COM","shares":881730,"shareType":"SH","putCall":null,"value":118442790},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":649536,"shareType":"SH","putCall":null,"value":105913340},
+    {"cusip":"G0370L116","name":"GRAB HOLDINGS LIMITED","titleOfClass":"W EXP 12/1/202","shares":3502000,"shareType":"SH","putCall":null,"value":1369282}
+  ]
+}

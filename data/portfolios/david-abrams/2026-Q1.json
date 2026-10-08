@@ -1,0 +1,29 @@
+{
+  "investorId": "david-abrams",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-14",
+  "filings": [
+    {"cik":"1358706","accession":"0001172661-26-001966","form":"13F-HR","filedAt":"2026-05-14","amendmentType":null}
+  ],
+  "totalValue": 4638238227,
+  "holdings": [
+    {"cusip":"53947R105","name":"LOAR HOLDINGS INC","titleOfClass":"COM SHS","shares":32050240,"shareType":"SH","putCall":null,"value":1836158250,"ticker":"LOAR","weight":0.395874},
+    {"cusip":"536797103","name":"LITHIA MTRS INC","titleOfClass":"COM","shares":2490534,"shareType":"SH","putCall":null,"value":621936150,"ticker":"LAD","weight":0.134089},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":1865768,"shareType":"SH","putCall":null,"value":536520246,"ticker":"GOOGL","weight":0.115673},
+    {"cusip":"88023U101","name":"SOMNIGROUP INTERNATIONAL INC","titleOfClass":"COM","shares":5798776,"shareType":"SH","putCall":null,"value":428645522,"ticker":"SGI","weight":0.092416},
+    {"cusip":"043436104","name":"ASBURY AUTOMOTIVE GROUP INC","titleOfClass":"COM","shares":2155492,"shareType":"SH","putCall":null,"value":421204692,"ticker":"ABG","weight":0.090811},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":13017964,"shareType":"SH","putCall":null,"value":245779160,"ticker":"CPNG","weight":0.05299},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":720779,"shareType":"SH","putCall":null,"value":209530455,"ticker":"WTW","weight":0.045175},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":325155,"shareType":"SH","putCall":null,"value":186030930,"ticker":"META","weight":0.040108},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":3251469,"shareType":"SH","putCall":null,"value":145243120,"ticker":"UHAL.B","weight":0.031314},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":1270504,"shareType":"SH","putCall":null,"value":5450462,"ticker":"NUVB","weight":0.001175},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":36401,"shareType":"SH","putCall":null,"value":1739240,"ticker":"UHAL","weight":0.000375}
+  ],
+  "changes": [
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":1865768,"prevShares":1916630},
+    {"cusip":"88023U101","ticker":"SGI","name":"SOMNIGROUP INTERNATIONAL INC","putCall":null,"action":"reduce","shares":5798776,"prevShares":5804136},
+    {"cusip":"67080N101","ticker":"NUVB","name":"NUVATION BIO INC","putCall":null,"action":"reduce","shares":1270504,"prevShares":3811513},
+    {"cusip":"29273V100","ticker":"ET","name":"ENERGY TRANSFER L P","putCall":null,"action":"exit","shares":0,"prevShares":6115417}
+  ]
+}

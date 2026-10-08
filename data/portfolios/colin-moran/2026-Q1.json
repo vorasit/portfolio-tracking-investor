@@ -1,0 +1,27 @@
+{
+  "investorId": "colin-moran",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1578684","accession":"0001578684-26-000001","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 52045158,
+  "holdings": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":75137,"shareType":"SH","putCall":null,"value":35557834,"ticker":"HCA","weight":0.683211},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":314615,"shareType":"SH","putCall":null,"value":9705873,"ticker":"GLBE","weight":0.186489},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":134741,"shareType":"SH","putCall":null,"value":6173833,"ticker":"AFRM","weight":0.118625},
+    {"cusip":"639193101","name":"NAVAN INC","titleOfClass":"CL A","shares":37000,"shareType":"SH","putCall":null,"value":489880,"ticker":"NAVN","weight":0.009413},
+    {"cusip":"37890B100","name":"GLOBAL BUSINESS TRAVEL GROUP","titleOfClass":"COM CL A","shares":21100,"shareType":"SH","putCall":null,"value":117738,"ticker":null,"weight":0.002262}
+  ],
+  "changes": [
+    {"cusip":"639193101","ticker":"NAVN","name":"NAVAN INC","putCall":null,"action":"new","shares":37000,"prevShares":0},
+    {"cusip":"40412C101","ticker":"HCA","name":"HCA HEALTHCARE INC","putCall":null,"action":"add","shares":75137,"prevShares":67238},
+    {"cusip":"37890B100","ticker":null,"name":"GLOBAL BUSINESS TRAVEL GROUP","putCall":null,"action":"add","shares":21100,"prevShares":17856},
+    {"cusip":"M5216V106","ticker":"GLBE","name":"GLOBAL E ONLINE LTD","putCall":null,"action":"reduce","shares":314615,"prevShares":356830},
+    {"cusip":"00827B106","ticker":"AFRM","name":"AFFIRM HLDGS INC","putCall":null,"action":"reduce","shares":134741,"prevShares":144046},
+    {"cusip":"03782L101","ticker":"APPN","name":"APPIAN CORP","putCall":null,"action":"exit","shares":0,"prevShares":248450},
+    {"cusip":"22266T109","ticker":"CPNG","name":"COUPANG INC","putCall":null,"action":"exit","shares":0,"prevShares":180974},
+    {"cusip":"G0896C103","ticker":"TBBB","name":"BBB FOODS INC","putCall":null,"action":"exit","shares":0,"prevShares":48420}
+  ]
+}

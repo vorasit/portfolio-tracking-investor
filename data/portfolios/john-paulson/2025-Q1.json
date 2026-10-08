@@ -1,0 +1,33 @@
+{
+  "investorId": "john-paulson",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-25-000679","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 1746755075,
+  "holdings": [
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":2099523,"shareType":"SH","putCall":null,"value":695425003,"ticker":"MDGL","weight":0.398124},
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":24771542,"shareType":"SH","putCall":null,"value":264807784,"ticker":"PPTA","weight":0.1516},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":8950121,"shareType":"SH","putCall":null,"value":231450129,"ticker":"AAMI","weight":0.132503},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":26439035,"shareType":"SH","putCall":null,"value":171060556,"ticker":"BHC","weight":0.09793},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":84945848,"ticker":"AEM","weight":0.048631},
+    {"cusip":"66987E206","name":"NOVAGOLD RES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":79535138,"ticker":"NG","weight":0.045533},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":4280000,"shareType":"SH","putCall":null,"value":54826800,"ticker":"THRY","weight":0.031388},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":70239388,"shareType":"SH","putCall":null,"value":44391293,"ticker":"THM","weight":0.025414},
+    {"cusip":"438516106","name":"HONEYWELL INTL INC","titleOfClass":"COM","shares":200000,"shareType":"SH","putCall":null,"value":42350000,"ticker":null,"weight":0.024245},
+    {"cusip":"811916105","name":"SEABRIDGE GOLD INC","titleOfClass":"COM","shares":2070000,"shareType":"SH","putCall":null,"value":24156900,"ticker":null,"weight":0.01383},
+    {"cusip":"89621C105","name":"TRILOGY METALS INC NEW","titleOfClass":"COM","shares":14326996,"shareType":"SH","putCall":null,"value":22206844,"ticker":"TMQ","weight":0.012713},
+    {"cusip":"29446Y502","name":"EQUINOX GOLD CORP","titleOfClass":"COM","shares":2500000,"shareType":"SH","putCall":null,"value":17200000,"ticker":"EQX","weight":0.009847},
+    {"cusip":"450913108","name":"IAMGOLD CORP","titleOfClass":"COM","shares":1850000,"shareType":"SH","putCall":null,"value":11562500,"ticker":"IAG","weight":0.006619},
+    {"cusip":"46116X101","name":"INTRA-CELLULAR THERAPIES INC","titleOfClass":"COM","shares":21500,"shareType":"SH","putCall":null,"value":2836280,"ticker":null,"weight":0.001624}
+  ],
+  "changes": [
+    {"cusip":"438516106","ticker":null,"name":"HONEYWELL INTL INC","putCall":null,"action":"new","shares":200000,"prevShares":0},
+    {"cusip":"46116X101","ticker":null,"name":"INTRA-CELLULAR THERAPIES INC","putCall":null,"action":"new","shares":21500,"prevShares":0},
+    {"cusip":"558868105","ticker":"MDGL","name":"MADRIGAL PHARMACEUTICALS INC","putCall":null,"action":"add","shares":2099523,"prevShares":2042000},
+    {"cusip":"46050R102","ticker":"THM","name":"INTERNATIONAL TOWER HILL MIN","putCall":null,"action":"add","shares":70239388,"prevShares":64198980},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"exit","shares":0,"prevShares":10000}
+  ]
+}

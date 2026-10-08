@@ -1,0 +1,40 @@
+{
+  "cik": "1581811",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1581811","accession":"0001581811-24-000009","form":"13F-HR","filedAt":"2024-11-05","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1720051,"shareType":"SH","putCall":null,"value":740137945},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":2823894,"shareType":"SH","putCall":null,"value":716591341},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":7855661,"shareType":"SH","putCall":null,"value":671973242},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1028489,"shareType":"SH","putCall":null,"value":588748243},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3068090,"shareType":"SH","putCall":null,"value":571677210},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3264022,"shareType":"SH","putCall":null,"value":545711838},
+    {"cusip":"36266G107","name":"GE HEALTHCARE TECHNOLOGIES I","titleOfClass":"COMMON STOCK","shares":5680021,"shareType":"SH","putCall":null,"value":533069971},
+    {"cusip":"G7496G103","name":"RENAISSANCERE HLDGS LTD","titleOfClass":"COM","shares":1894412,"shareType":"SH","putCall":null,"value":516037829},
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":3382513,"shareType":"SH","putCall":null,"value":471387012},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":2578485,"shareType":"SH","putCall":null,"value":463224830},
+    {"cusip":"31946M103","name":"FIRST CTZNS BANCSHARES INC N","titleOfClass":"CL A","shares":248807,"shareType":"SH","putCall":null,"value":458041247},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":1815550,"shareType":"SH","putCall":null,"value":430793704},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":4415658,"shareType":"SH","putCall":null,"value":409508123},
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":1956819,"shareType":"SH","putCall":null,"value":369016927},
+    {"cusip":"G0450A105","name":"ARCH CAP GROUP LTD","titleOfClass":"ORD","shares":3171222,"shareType":"SH","putCall":null,"value":354796317},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":1180075,"shareType":"SH","putCall":null,"value":324461621},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":634704,"shareType":"SH","putCall":null,"value":313416835},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":64312,"shareType":"SH","putCall":null,"value":270889861},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":3380958,"shareType":"SH","putCall":null,"value":254112803},
+    {"cusip":"36828A101","name":"GE VERNOVA INC","titleOfClass":"COM","shares":597858,"shareType":"SH","putCall":null,"value":152441833},
+    {"cusip":"29082A107","name":"EMBRAER S.A.","titleOfClass":"SPONSORED ADS","shares":3707524,"shareType":"SH","putCall":null,"value":131135124},
+    {"cusip":"45104G104","name":"ICICI BANK LIMITED","titleOfClass":"ADR","shares":3963625,"shareType":"SH","putCall":null,"value":118314206},
+    {"cusip":"573284106","name":"MARTIN MARIETTA MATLS INC","titleOfClass":"COM","shares":204674,"shareType":"SH","putCall":null,"value":110165781},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":405318,"shareType":"SH","putCall":null,"value":93425799},
+    {"cusip":"336433107","name":"FIRST SOLAR INC","titleOfClass":"COM","shares":348161,"shareType":"SH","putCall":null,"value":86845280},
+    {"cusip":"92532F100","name":"VERTEX PHARMACEUTICALS INC","titleOfClass":"COM","shares":124045,"shareType":"SH","putCall":null,"value":57690849},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":201738,"shareType":"SH","putCall":null,"value":47004954},
+    {"cusip":"03852U106","name":"ARAMARK","titleOfClass":"COM","shares":1182142,"shareType":"SH","putCall":null,"value":45784360},
+    {"cusip":"H1467J104","name":"CHUBB LIMITED","titleOfClass":"COM","shares":148764,"shareType":"SH","putCall":null,"value":42902050},
+    {"cusip":"G8068L108","name":"SHARKNINJA INC","titleOfClass":"COM SHS","shares":177193,"shareType":"SH","putCall":null,"value":19262651}
+  ]
+}

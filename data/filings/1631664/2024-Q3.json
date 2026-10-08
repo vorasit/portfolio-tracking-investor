@@ -1,0 +1,14 @@
+{
+  "cik": "1631664",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1631664","accession":"0001398344-24-020870","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":349,"shareType":"SH","putCall":null,"value":241221820},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58528392},
+    {"cusip":"974637100","name":"WINNEBAGO INDS INC","titleOfClass":"COM","shares":411480,"shareType":"SH","putCall":null,"value":23911103},
+    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":840038,"shareType":"SH","putCall":null,"value":10903693}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "investorId": "john-paulson",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1035674","accession":"0001013594-26-000611","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 3111613398,
+  "holdings": [
+    {"cusip":"714266103","name":"PERPETUA RESOURCES CORP","titleOfClass":"COM","shares":32347299,"shareType":"SH","putCall":null,"value":909606048,"ticker":"PPTA","weight":0.292326},
+    {"cusip":"558868105","name":"MADRIGAL PHARMACEUTICALS INC","titleOfClass":"COM","shares":1392188,"shareType":"SH","putCall":null,"value":728768652,"ticker":"MDGL","weight":0.234209},
+    {"cusip":"10948W103","name":"ACADIAN ASSET MANAGEMENT INC","titleOfClass":"COM","shares":7743282,"shareType":"SH","putCall":null,"value":421389406,"ticker":"AAMI","weight":0.135425},
+    {"cusip":"071734107","name":"BAUSCH HEALTH COS INC","titleOfClass":"COM","shares":73255869,"shareType":"SH","putCall":null,"value":395581693,"ticker":"BHC","weight":0.127131},
+    {"cusip":"66987E206","name":"NOVAGOLD RESOURCES INC","titleOfClass":"COM NEW","shares":27238061,"shareType":"SH","putCall":null,"value":244597788,"ticker":"NG","weight":0.078608},
+    {"cusip":"46050R102","name":"INTERNATIONAL TOWER HILL MIN","titleOfClass":"COM","shares":99573038,"shareType":"SH","putCall":null,"value":229017987,"ticker":"THM","weight":0.073601},
+    {"cusip":"008474108","name":"AGNICO EAGLE MINES LTD","titleOfClass":"COM","shares":783561,"shareType":"SH","putCall":null,"value":159047212,"ticker":"AEM","weight":0.051114},
+    {"cusip":"886029206","name":"THRYV HLDGS INC","titleOfClass":"COM NEW","shares":8443835,"shareType":"SH","putCall":null,"value":23136108,"ticker":"THRY","weight":0.007435},
+    {"cusip":"03152W109","name":"AMICUS THERAPEUTIC","titleOfClass":"COM","shares":32400,"shareType":"SH","putCall":null,"value":468504,"ticker":null,"weight":0.000151}
+  ],
+  "changes": [
+    {"cusip":"03152W109","ticker":null,"name":"AMICUS THERAPEUTIC","putCall":null,"action":"new","shares":32400,"prevShares":0},
+    {"cusip":"46050R102","ticker":"THM","name":"INTERNATIONAL TOWER HILL MIN","putCall":null,"action":"add","shares":99573038,"prevShares":70239388},
+    {"cusip":"886029206","ticker":"THRY","name":"THRYV HLDGS INC","putCall":null,"action":"add","shares":8443835,"prevShares":4347070},
+    {"cusip":"558868105","ticker":"MDGL","name":"MADRIGAL PHARMACEUTICALS INC","putCall":null,"action":"reduce","shares":1392188,"prevShares":1707522},
+    {"cusip":"83443Q103","ticker":"SOLS","name":"SOLSTICE ADVANCED MATLS INC","putCall":null,"action":"exit","shares":0,"prevShares":1395787}
+  ]
+}

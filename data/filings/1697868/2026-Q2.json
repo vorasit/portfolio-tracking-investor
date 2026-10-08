@@ -1,0 +1,17 @@
+{
+  "cik": "1697868",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-26-000005","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":672186,"shareType":"SH","putCall":null,"value":803114389},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1524036,"shareType":"SH","putCall":null,"value":620678901},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317188,"shareType":"SH","putCall":null,"value":596580789},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1065934,"shareType":"SH","putCall":null,"value":547463702},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":171083,"shareType":"SH","putCall":null,"value":340359364},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":462978,"shareType":"SH","putCall":null,"value":158843122},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":189072,"shareType":"SH","putCall":null,"value":49347792}
+  ]
+}

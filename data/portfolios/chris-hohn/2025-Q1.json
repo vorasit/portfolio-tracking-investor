@@ -1,0 +1,32 @@
+{
+  "investorId": "chris-hohn",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-25-000005","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 43372530344,
+  "holdings": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47570947,"shareType":"SH","putCall":null,"value":9521325042,"ticker":"GE","weight":0.219524},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":17299881,"shareType":"SH","putCall":null,"value":6494202329,"ticker":"MSFT","weight":0.149731},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13163107,"shareType":"SH","putCall":null,"value":6129927299,"ticker":"MCO","weight":0.141332},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":16637562,"shareType":"SH","putCall":null,"value":5830799979,"ticker":"V","weight":0.134435},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":10361269,"shareType":"SH","putCall":null,"value":5264560779,"ticker":"SPGI","weight":0.12138},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":54913285,"shareType":"SH","putCall":null,"value":3854575745,"ticker":"CP","weight":0.088871},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":26899078,"shareType":"SH","putCall":null,"value":2619619831,"ticker":"CNI","weight":0.060398},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":13855735,"shareType":"SH","putCall":null,"value":2164681479,"ticker":"GOOG","weight":0.049909},
+    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":19333428,"shareType":"SH","putCall":null,"value":861116451,"ticker":"FER","weight":0.019854},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":4085110,"shareType":"SH","putCall":null,"value":631721410,"ticker":"GOOGL","weight":0.014565}
+  ],
+  "changes": [
+    {"cusip":"369604301","ticker":"GE","name":"GE AEROSPACE","putCall":null,"action":"add","shares":47570947,"prevShares":45999876},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"add","shares":17299881,"prevShares":13993637},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"reduce","shares":13163107,"prevShares":13246769},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":16637562,"prevShares":16797187},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"reduce","shares":10361269,"prevShares":10400077},
+    {"cusip":"136375102","ticker":"CNI","name":"CANADIAN NATL RY CO","putCall":null,"action":"reduce","shares":26899078,"prevShares":29693764},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":13855735,"prevShares":16507056},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":4085110,"prevShares":6027410}
+  ]
+}

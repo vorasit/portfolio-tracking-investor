@@ -1,0 +1,16 @@
+{
+  "cik": "1578684",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000605","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":346322,"shareType":"SH","putCall":null,"value":147602436},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":1987385,"shareType":"SH","putCall":null,"value":71068888},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":959582,"shareType":"SH","putCall":null,"value":70126253},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":1324188,"shareType":"SH","putCall":null,"value":40480427},
+    {"cusip":"G0896C103","name":"BBB FOODS INC","titleOfClass":"CL A COM","shares":40420,"shareType":"SH","putCall":null,"value":1089723},
+    {"cusip":"37890B100","name":"GLOBAL BUSINESS TRAVEL GROUP","titleOfClass":"COM CL A","shares":17041,"shareType":"SH","putCall":null,"value":137691}
+  ]
+}

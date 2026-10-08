@@ -1,0 +1,13 @@
+{
+  "cik": "1562087",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000630","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":272613,"shareType":"SH","putCall":null,"value":86598246},
+    {"cusip":"67066G104","name":"NVIDIA CORP","titleOfClass":"COM","shares":537742,"shareType":"SH","putCall":null,"value":84957859},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":40457256}
+  ]
+}

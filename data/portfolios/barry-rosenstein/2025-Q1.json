@@ -1,0 +1,32 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-002348","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 1936600795,
+  "holdings": [
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7985426,"shareType":"SH","putCall":null,"value":425623206,"ticker":"LW","weight":0.219778},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":540353,"shareType":"SH","putCall":null,"value":302268065,"ticker":"SPY","weight":0.156082},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":299112036,"ticker":"MRCY","weight":0.154452},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":156022,"shareType":"SH","putCall":null,"value":291700291,"ticker":"MKL","weight":0.150625},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":3945227,"shareType":"SH","putCall":null,"value":259004153,"ticker":"TRMB","weight":0.133742},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":133037636,"ticker":null,"weight":0.068696},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":4106056,"shareType":"SH","putCall":null,"value":108851545,"ticker":"RPD","weight":0.056208},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":734763,"shareType":"SH","putCall":null,"value":61110239,"ticker":"FRPT","weight":0.031555},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":37108119,"ticker":"FIS","weight":0.019161},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":18785505,"ticker":null,"weight":0.0097}
+  ],
+  "changes": [
+    {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"new","shares":734763,"prevShares":0},
+    {"cusip":"513272104","ticker":"LW","name":"LAMB WESTON HLDGS INC","putCall":null,"action":"add","shares":7985426,"prevShares":7131339},
+    {"cusip":"78462F103","ticker":"SPY","name":"SPDR S&P 500 ETF TR","putCall":null,"action":"add","shares":540353,"prevShares":429263},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"add","shares":156022,"prevShares":108926},
+    {"cusip":"753422104","ticker":"RPD","name":"RAPID7 INC","putCall":null,"action":"add","shares":4106056,"prevShares":3690129},
+    {"cusip":"896239100","ticker":"TRMB","name":"TRIMBLE INC","putCall":null,"action":"reduce","shares":3945227,"prevShares":4178088},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":"Call","action":"exit","shares":0,"prevShares":69000},
+    {"cusip":"977852102","ticker":null,"name":"WOLFSPEED INC","putCall":null,"action":"exit","shares":0,"prevShares":4988216}
+  ]
+}

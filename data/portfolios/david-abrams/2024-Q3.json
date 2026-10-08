@@ -1,0 +1,27 @@
+{
+  "investorId": "david-abrams",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-08",
+  "filings": [
+    {"cik":"1358706","accession":"0001172661-24-004539","form":"13F-HR","filedAt":"2024-11-08","amendmentType":null}
+  ],
+  "totalValue": 6227231945,
+  "holdings": [
+    {"cusip":"53947R105","name":"LOAR HOLDINGS INC","titleOfClass":"COM SHS","shares":38434378,"shareType":"SH","putCall":null,"value":2866820255,"ticker":"LOAR","weight":0.460368},
+    {"cusip":"536797103","name":"LITHIA MTRS INC","titleOfClass":"COM","shares":2391188,"shareType":"SH","putCall":null,"value":759536956,"ticker":"LAD","weight":0.12197},
+    {"cusip":"043436104","name":"ASBURY AUTOMOTIVE GROUP INC","titleOfClass":"COM","shares":2108540,"shareType":"SH","putCall":null,"value":503076559,"ticker":"ABG","weight":0.080787},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":620547,"shareType":"SH","putCall":null,"value":355225925,"ticker":"META","weight":0.057044},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2067195,"shareType":"SH","putCall":null,"value":342844291,"ticker":"GOOGL","weight":0.055056},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":13017964,"shareType":"SH","putCall":null,"value":319591016,"ticker":"CPNG","weight":0.051322},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":17834322,"shareType":"SH","putCall":null,"value":286240868,"ticker":"ET","weight":0.045966},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":3403736,"shareType":"SH","putCall":null,"value":245068992,"ticker":"UHAL.B","weight":0.039354},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":720779,"shareType":"SH","putCall":null,"value":212291039,"ticker":"WTW","weight":0.034091},
+    {"cusip":"88023U101","name":"TEMPUR SEALY INTL INC","titleOfClass":"COM","shares":3600000,"shareType":"SH","putCall":null,"value":196560000,"ticker":"SGI","weight":0.031565},
+    {"cusip":"13462K109","name":"CAMPING WORLD HLDGS INC","titleOfClass":"CL A","shares":3108808,"shareType":"SH","putCall":null,"value":75295330,"ticker":"CWH","weight":0.012091},
+    {"cusip":"138103106","name":"CANTALOUPE INC","titleOfClass":"COM","shares":7180000,"shareType":"SH","putCall":null,"value":53132000,"ticker":null,"weight":0.008532},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":3811513,"shareType":"SH","putCall":null,"value":8728365,"ticker":"NUVB","weight":0.001402},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":36401,"shareType":"SH","putCall":null,"value":2820349,"ticker":"UHAL","weight":0.000453}
+  ],
+  "changes": null
+}

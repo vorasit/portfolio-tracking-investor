@@ -1,0 +1,31 @@
+{
+  "investorId": "glenn-welling",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1559771","accession":"0000921895-26-000438","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 392022027,
+  "holdings": [
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5306548,"shareType":"SH","putCall":null,"value":95942388,"ticker":"VFC","weight":0.244737},
+    {"cusip":"98585X104","name":"YETI HLDGS INC","titleOfClass":"COM","shares":2032695,"shareType":"SH","putCall":null,"value":89784138,"ticker":"YETI","weight":0.229028},
+    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":1083619,"shareType":"SH","putCall":null,"value":59913295,"ticker":"BL","weight":0.152831},
+    {"cusip":"36262G101","name":"GXO LOGISTICS INCORPORATED","titleOfClass":"COMMON STOCK","shares":829769,"shareType":"SH","putCall":null,"value":43679040,"ticker":"GXO","weight":0.11142},
+    {"cusip":"192422103","name":"COGNEX CORP","titleOfClass":"COM","shares":933000,"shareType":"SH","putCall":null,"value":33569340,"ticker":"CGNX","weight":0.085631},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":401130,"shareType":"SH","putCall":null,"value":24440851,"ticker":"FRPT","weight":0.062346},
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":5563912,"shareType":"SH","putCall":null,"value":22255648,"ticker":"EVH","weight":0.056771},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13935560,"shareType":"SH","putCall":null,"value":15468472,"ticker":null,"weight":0.039458},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":1534990,"shareType":"SH","putCall":null,"value":6968855,"ticker":"PTLO","weight":0.017777}
+  ],
+  "changes": [
+    {"cusip":"09239B109","ticker":"BL","name":"BLACKLINE INC","putCall":null,"action":"add","shares":1083619,"prevShares":453794},
+    {"cusip":"192422103","ticker":"CGNX","name":"COGNEX CORP","putCall":null,"action":"add","shares":933000,"prevShares":855000},
+    {"cusip":"918204108","ticker":"VFC","name":"V F CORP","putCall":null,"action":"reduce","shares":5306548,"prevShares":5862368},
+    {"cusip":"98585X104","ticker":"YETI","name":"YETI HLDGS INC","putCall":null,"action":"reduce","shares":2032695,"prevShares":2169551},
+    {"cusip":"36262G101","ticker":"GXO","name":"GXO LOGISTICS INCORPORATED","putCall":null,"action":"reduce","shares":829769,"prevShares":978477},
+    {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"reduce","shares":401130,"prevShares":619130},
+    {"cusip":"30050B101","ticker":"EVH","name":"EVOLENT HEALTH INC","putCall":null,"action":"reduce","shares":5563912,"prevShares":5663912},
+    {"cusip":"73642K106","ticker":"PTLO","name":"PORTILLOS INC","putCall":null,"action":"reduce","shares":1534990,"prevShares":5069301}
+  ]
+}

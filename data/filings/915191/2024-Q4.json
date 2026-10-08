@@ -1,0 +1,41 @@
+{
+  "cik": "915191",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"915191","accession":"0001104659-25-013269","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"68634K106","name":"ORLA MINING LTD","titleOfClass":"COM","shares":56817229,"shareType":"SH","putCall":null,"value":310910577},
+    {"cusip":"674599105","name":"OCCIDENTAL PETROLEUM CORP","titleOfClass":"COM","shares":6020418,"shareType":"SH","putCall":null,"value":297468853},
+    {"cusip":"09228F103","name":"BLACKBERRY LTD","titleOfClass":"COM","shares":46724700,"shareType":"SH","putCall":null,"value":176619366},
+    {"cusip":"489398107","name":"KENNEDY-WILSON HOLDINGS INC","titleOfClass":"COM","shares":13322009,"shareType":"SH","putCall":null,"value":133220090},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":2712000,"shareType":"SH","putCall":null,"value":121741680},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":3314000,"shareType":"SH","putCall":null,"value":101772940},
+    {"cusip":"00217Y104","name":"ATS CORP","titleOfClass":"COM","shares":2486400,"shareType":"SH","putCall":null,"value":73870688},
+    {"cusip":"60871R209","name":"MOLSON COORS BEVERAGE CO","titleOfClass":"CL B","shares":1186500,"shareType":"SH","putCall":null,"value":68010180},
+    {"cusip":"185899101","name":"CLEVELAND-CLIFFS INC","titleOfClass":"COM","shares":5899273,"shareType":"SH","putCall":null,"value":55453166},
+    {"cusip":"904311107","name":"UNDER ARMOUR INC","titleOfClass":"CL A","shares":6311800,"shareType":"SH","putCall":null,"value":52261704},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":141700,"shareType":"SH","putCall":null,"value":27997086},
+    {"cusip":"423452101","name":"HELMERICH & PAYNE INC","titleOfClass":"COM","shares":774105,"shareType":"SH","putCall":null,"value":24786842},
+    {"cusip":"37045V100","name":"GENERAL MTRS CO","titleOfClass":"COM","shares":375965,"shareType":"SH","putCall":null,"value":20027656},
+    {"cusip":"064149107","name":"BANK OF NOVA SCOTIA","titleOfClass":"COM","shares":359100,"shareType":"SH","putCall":null,"value":19271765},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":650900,"shareType":"SH","putCall":null,"value":17274886},
+    {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":172900,"shareType":"SH","putCall":null,"value":17201821},
+    {"cusip":"478160104","name":"JOHNSON & JOHNSON","titleOfClass":"COM","shares":73400,"shareType":"SH","putCall":null,"value":10615842},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":80000,"shareType":"SH","putCall":null,"value":6732800},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":23500,"shareType":"SH","putCall":null,"value":3479175},
+    {"cusip":"194693107","name":"COLLIERS INTL GROUP INC","titleOfClass":"SUB VTG SHS","shares":25000,"shareType":"SH","putCall":null,"value":3299263},
+    {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":304360,"shareType":"SH","putCall":null,"value":2745327},
+    {"cusip":"371901109","name":"GENTEX CORP","titleOfClass":"COM","shares":85000,"shareType":"SH","putCall":null,"value":2442050},
+    {"cusip":"351858105","name":"FRANCO-NEVADA CORP","titleOfClass":"COM","shares":16800,"shareType":"SH","putCall":null,"value":1950772},
+    {"cusip":"87241L109","name":"TFI INTL INC","titleOfClass":"COM","shares":13300,"shareType":"SH","putCall":null,"value":1787575},
+    {"cusip":"G1890L107","name":"CAPRI HOLDINGS LTD","titleOfClass":"SHS","shares":78100,"shareType":"SH","putCall":null,"value":1644005},
+    {"cusip":"05278C107","name":"AUTOHOME INC","titleOfClass":"SP ADS RP CL A","shares":54000,"shareType":"SH","putCall":null,"value":1399140},
+    {"cusip":"552953101","name":"MGM RESORTS INTERNATIONAL","titleOfClass":"COM","shares":29500,"shareType":"SH","putCall":null,"value":1021880},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":679871},
+    {"cusip":"55933J203","name":"MAGNACHIP SEMICONDUCTOR CORP","titleOfClass":"COM","shares":125000,"shareType":"SH","putCall":null,"value":501250},
+    {"cusip":"98422E103","name":"XERIS BIOPHARMA HOLDINGS INC","titleOfClass":"COM","shares":139687,"shareType":"SH","putCall":null,"value":472142},
+    {"cusip":"761330109","name":"REVANCE THERAPEUTICS INC","titleOfClass":"COM","shares":21158,"shareType":"SH","putCall":null,"value":64109}
+  ]
+}

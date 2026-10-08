@@ -1,0 +1,34 @@
+{
+  "cik": "1061165",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1061165","accession":"0000902664-25-002417","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1758062,"shareType":"SH","putCall":null,"value":1013276614},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":1403802,"shareType":"SH","putCall":null,"value":861920390},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":4352740,"shareType":"SH","putCall":null,"value":828152312},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1960328,"shareType":"SH","putCall":null,"value":735887528},
+    {"cusip":"855244109","name":"STARBUCKS CORP","titleOfClass":"COM","shares":6607888,"shareType":"SH","putCall":null,"value":648167734},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":3865381,"shareType":"SH","putCall":null,"value":641653246},
+    {"cusip":"50212V100","name":"LPL FINL HLDGS INC","titleOfClass":"COM","shares":1764015,"shareType":"SH","putCall":null,"value":577079867},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":3176143,"shareType":"SH","putCall":null,"value":569482440},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":4763771,"shareType":"SH","putCall":null,"value":550739565},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":4604788,"shareType":"SH","putCall":null,"value":540786303},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":2219896,"shareType":"SH","putCall":null,"value":491817959},
+    {"cusip":"146869102","name":"CARVANA CO","titleOfClass":"CL A","shares":2314168,"shareType":"SH","putCall":null,"value":483846245},
+    {"cusip":"718172109","name":"PHILIP MORRIS INTL INC","titleOfClass":"COM","shares":3008542,"shareType":"SH","putCall":null,"value":477545872},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":1731680,"shareType":"SH","putCall":null,"value":464713645},
+    {"cusip":"532457108","name":"ELI LILLY & CO","titleOfClass":"COM","shares":551827,"shareType":"SH","putCall":null,"value":455759438},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":1593928,"shareType":"SH","putCall":null,"value":422343102},
+    {"cusip":"889478103","name":"TOLL BROTHERS INC","titleOfClass":"COM","shares":3800580,"shareType":"SH","putCall":null,"value":401303242},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":582427,"shareType":"SH","putCall":null,"value":385933603},
+    {"cusip":"127387108","name":"CADENCE DESIGN SYSTEM INC","titleOfClass":"COM","shares":1218389,"shareType":"SH","putCall":null,"value":309872874},
+    {"cusip":"03990B101","name":"ARES MANAGEMENT CORPORATION","titleOfClass":"CL A COM STK","shares":1604441,"shareType":"SH","putCall":null,"value":235227095},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":1089380,"shareType":"SH","putCall":null,"value":217516505},
+    {"cusip":"974155103","name":"WINGSTOP INC","titleOfClass":"COM","shares":449056,"shareType":"SH","putCall":null,"value":101298052},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":315600,"shareType":"SH","putCall":"Call","value":83624532},
+    {"cusip":"146869102","name":"CARVANA CO","titleOfClass":"CL A","shares":383500,"shareType":"SH","putCall":"Call","value":80182180}
+  ]
+}

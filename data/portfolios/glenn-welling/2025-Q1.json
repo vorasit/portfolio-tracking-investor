@@ -1,0 +1,32 @@
+{
+  "investorId": "glenn-welling",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-15",
+  "filings": [
+    {"cik":"1559771","accession":"0000921895-25-001519","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "totalValue": 392244294,
+  "holdings": [
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5484368,"shareType":"SH","putCall":null,"value":85117391,"ticker":"VFC","weight":0.217001},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":5479771,"shareType":"SH","putCall":null,"value":65154477,"ticker":"PTLO","weight":0.166107},
+    {"cusip":"16115Q308","name":"CHART INDS INC","titleOfClass":"COM","shares":368996,"shareType":"SH","putCall":null,"value":53268263,"ticker":null,"weight":0.135804},
+    {"cusip":"98585X104","name":"YETI HLDGS INC","titleOfClass":"COM","shares":1543518,"shareType":"SH","putCall":null,"value":51090446,"ticker":"YETI","weight":0.130252},
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":5179468,"shareType":"SH","putCall":null,"value":49049562,"ticker":"EVH","weight":0.125049},
+    {"cusip":"36262G101","name":"GXO LOGISTICS INCORPORATED","titleOfClass":"COMMON STOCK","shares":912000,"shareType":"SH","putCall":null,"value":35640960,"ticker":"GXO","weight":0.090864},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13535560,"shareType":"SH","putCall":null,"value":28289320,"ticker":null,"weight":0.072122},
+    {"cusip":"63001N106","name":"NCR ATLEOS CORPORATION","titleOfClass":"COM SHS","shares":774261,"shareType":"SH","putCall":null,"value":20425005,"ticker":"NATL","weight":0.052072},
+    {"cusip":"62886E108","name":"NCR VOYIX CORPORATION","titleOfClass":"COM","shares":431679,"shareType":"SH","putCall":null,"value":4208870,"ticker":"VYX","weight":0.01073}
+  ],
+  "changes": [
+    {"cusip":"98585X104","ticker":"YETI","name":"YETI HLDGS INC","putCall":null,"action":"new","shares":1543518,"prevShares":0},
+    {"cusip":"36262G101","ticker":"GXO","name":"GXO LOGISTICS INCORPORATED","putCall":null,"action":"new","shares":912000,"prevShares":0},
+    {"cusip":"918204108","ticker":"VFC","name":"V F CORP","putCall":null,"action":"add","shares":5484368,"prevShares":5341368},
+    {"cusip":"16115Q308","ticker":null,"name":"CHART INDS INC","putCall":null,"action":"add","shares":368996,"prevShares":224796},
+    {"cusip":"73642K106","ticker":"PTLO","name":"PORTILLOS INC","putCall":null,"action":"reduce","shares":5479771,"prevShares":6114956},
+    {"cusip":"30050B101","ticker":"EVH","name":"EVOLENT HEALTH INC","putCall":null,"action":"reduce","shares":5179468,"prevShares":5404768},
+    {"cusip":"63001N106","ticker":"NATL","name":"NCR ATLEOS CORPORATION","putCall":null,"action":"reduce","shares":774261,"prevShares":2206041},
+    {"cusip":"62886E108","ticker":"VYX","name":"NCR VOYIX CORPORATION","putCall":null,"action":"reduce","shares":431679,"prevShares":5771033},
+    {"cusip":"69354N106","ticker":"PRAA","name":"PRA GROUP INC","putCall":null,"action":"exit","shares":0,"prevShares":619945}
+  ]
+}

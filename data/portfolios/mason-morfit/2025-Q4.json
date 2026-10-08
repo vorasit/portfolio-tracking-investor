@@ -1,0 +1,48 @@
+{
+  "investorId": "mason-morfit",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1418814","accession":"0001418814-26-000001","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 7025028860,
+  "holdings": [
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2994509,"shareType":"SH","putCall":null,"value":793275379,"ticker":"CRM","weight":0.112921},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3394300,"shareType":"SH","putCall":null,"value":783472326,"ticker":"AMZN","weight":0.111526},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":39380652,"shareType":"SH","putCall":null,"value":762409423,"ticker":"RKT","weight":0.108528},
+    {"cusip":"09290D101","name":"BLACKROCK INC","titleOfClass":"COM","shares":695000,"shareType":"SH","putCall":null,"value":743886300,"ticker":"BLK","weight":0.105891},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1047974,"shareType":"SH","putCall":null,"value":691757158,"ticker":"META","weight":0.09847},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":1718250,"shareType":"SH","putCall":null,"value":602607458,"ticker":"V","weight":0.08578},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":1406800,"shareType":"SH","putCall":null,"value":590419892,"ticker":"MDB","weight":0.084045},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":5975821,"shareType":"SH","putCall":null,"value":484220776,"ticker":"RBLX","weight":0.068928},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":3077931,"shareType":"SH","putCall":null,"value":350176210,"ticker":"DIS","weight":0.049847},
+    {"cusip":"530909308","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SHS SER C","shares":3603988,"shareType":"SH","putCall":null,"value":299707642,"ticker":"LLYVK","weight":0.042663},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":8015277,"shareType":"SH","putCall":null,"value":284622486,"ticker":"TOST","weight":0.040515},
+    {"cusip":"829073105","name":"SIMPSON MFG INC","titleOfClass":"COM","shares":1472142,"shareType":"SH","putCall":null,"value":237706769,"ticker":"SSD","weight":0.033837},
+    {"cusip":"530909100","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SER A","shares":1799319,"shareType":"SH","putCall":null,"value":146644499,"ticker":"LLYVA","weight":0.020875},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":823066,"shareType":"SH","putCall":null,"value":117286905,"ticker":"LYV","weight":0.016696},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":1216592,"shareType":"SH","putCall":null,"value":99115750,"ticker":"NSIT","weight":0.014109},
+    {"cusip":"12504L109","name":"CBRE GROUP INC","titleOfClass":"CL A","shares":234591,"shareType":"SH","putCall":null,"value":37719887,"ticker":"CBRE","weight":0.005369}
+  ],
+  "changes": [
+    {"cusip":"09290D101","ticker":"BLK","name":"BLACKROCK INC","putCall":null,"action":"new","shares":695000,"prevShares":0},
+    {"cusip":"530909308","ticker":"LLYVK","name":"LIBERTY LIVE HOLDINGS INC","putCall":null,"action":"new","shares":3603988,"prevShares":0},
+    {"cusip":"530909100","ticker":"LLYVA","name":"LIBERTY LIVE HOLDINGS INC","putCall":null,"action":"new","shares":1799319,"prevShares":0},
+    {"cusip":"79466L302","ticker":"CRM","name":"SALESFORCE INC","putCall":null,"action":"add","shares":2994509,"prevShares":2898509},
+    {"cusip":"77311W101","ticker":"RKT","name":"ROCKET COS INC","putCall":null,"action":"add","shares":39380652,"prevShares":25395627},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"add","shares":1047974,"prevShares":768674},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"add","shares":1718250,"prevShares":1565850},
+    {"cusip":"771049103","ticker":"RBLX","name":"ROBLOX CORP","putCall":null,"action":"add","shares":5975821,"prevShares":4283221},
+    {"cusip":"888787108","ticker":"TOST","name":"TOAST INC","putCall":null,"action":"add","shares":8015277,"prevShares":3397200},
+    {"cusip":"829073105","ticker":"SSD","name":"SIMPSON MFG INC","putCall":null,"action":"add","shares":1472142,"prevShares":1207942},
+    {"cusip":"538034109","ticker":"LYV","name":"LIVE NATION ENTERTAINMENT IN","putCall":null,"action":"add","shares":823066,"prevShares":640866},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"reduce","shares":3394300,"prevShares":3500500},
+    {"cusip":"60937P106","ticker":"MDB","name":"MONGODB INC","putCall":null,"action":"reduce","shares":1406800,"prevShares":2118200},
+    {"cusip":"254687106","ticker":"DIS","name":"DISNEY WALT CO","putCall":null,"action":"reduce","shares":3077931,"prevShares":4391931},
+    {"cusip":"45765U103","ticker":"NSIT","name":"INSIGHT ENTERPRISES INC","putCall":null,"action":"reduce","shares":1216592,"prevShares":2271739},
+    {"cusip":"531229722","ticker":null,"name":"LIBERTY MEDIA CORP DEL","putCall":null,"action":"exit","shares":0,"prevShares":3515888},
+    {"cusip":"62482R107","ticker":null,"name":"MR COOPER GROUP INC","putCall":null,"action":"exit","shares":0,"prevShares":904800},
+    {"cusip":"531229748","ticker":null,"name":"LIBERTY MEDIA CORP DEL","putCall":null,"action":"exit","shares":0,"prevShares":1719548}
+  ]
+}

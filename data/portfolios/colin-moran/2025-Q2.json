@@ -1,0 +1,30 @@
+{
+  "investorId": "colin-moran",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000430","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 1069974552,
+  "holdings": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":646222,"shareType":"SH","putCall":null,"value":247567648,"ticker":"HCA","weight":0.231377},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":7715335,"shareType":"SH","putCall":null,"value":230379903,"ticker":"APPN","weight":0.215313},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3101915,"shareType":"SH","putCall":null,"value":137383815,"ticker":"TOST","weight":0.128399},
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":2579611,"shareType":"SH","putCall":null,"value":119332805,"ticker":"BILL","weight":0.111529},
+    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1482936,"shareType":"SH","putCall":null,"value":112643819,"ticker":"FND","weight":0.105277},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC.","titleOfClass":"COM","shares":286929,"shareType":"SH","putCall":null,"value":89513240,"ticker":"UNH","weight":0.083659},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":1991885,"shareType":"SH","putCall":null,"value":66807823,"ticker":"GLBE","weight":0.062439},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":959582,"shareType":"SH","putCall":null,"value":66345499,"ticker":"AFRM","weight":0.062007}
+  ],
+  "changes": [
+    {"cusip":"91324P102","ticker":"UNH","name":"UNITEDHEALTH GROUP INC.","putCall":null,"action":"new","shares":286929,"prevShares":0},
+    {"cusip":"40412C101","ticker":"HCA","name":"HCA HEALTHCARE INC","putCall":null,"action":"add","shares":646222,"prevShares":477021},
+    {"cusip":"03782L101","ticker":"APPN","name":"APPIAN CORP","putCall":null,"action":"reduce","shares":7715335,"prevShares":10179538},
+    {"cusip":"888787108","ticker":"TOST","name":"TOAST INC","putCall":null,"action":"reduce","shares":3101915,"prevShares":3604479},
+    {"cusip":"090043100","ticker":"BILL","name":"BILL HOLDINGS INC","putCall":null,"action":"reduce","shares":2579611,"prevShares":2797625},
+    {"cusip":"339750101","ticker":"FND","name":"FLOOR & DECOR HOLDINGS INC","putCall":null,"action":"reduce","shares":1482936,"prevShares":1632481},
+    {"cusip":"M5216V106","ticker":"GLBE","name":"GLOBAL E ONLINE LTD","putCall":null,"action":"reduce","shares":1991885,"prevShares":2311201},
+    {"cusip":"00827B106","ticker":"AFRM","name":"AFFIRM HLDGS INC","putCall":null,"action":"reduce","shares":959582,"prevShares":1113427}
+  ]
+}

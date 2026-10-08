@@ -1,0 +1,42 @@
+{
+  "investorId": "stephen-mandel",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1061165","accession":"0000902664-24-006633","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 13405659056,
+  "holdings": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1891337,"shareType":"SH","putCall":null,"value":1082676952,"ticker":"META","weight":0.080763},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":5482267,"shareType":"SH","putCall":null,"value":1021510810,"ticker":"AMZN","weight":0.0762},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":6806291,"shareType":"SH","putCall":null,"value":806817735,"ticker":"VST","weight":0.060185},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":4212861,"shareType":"SH","putCall":null,"value":731647570,"ticker":"TSM","weight":0.054578},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1655779,"shareType":"SH","putCall":null,"value":712481704,"ticker":"MSFT","weight":0.053148},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2337830,"shareType":"SH","putCall":null,"value":639887449,"ticker":"CRM","weight":0.047733},
+    {"cusip":"21037T109","name":"CONSTELLATION ENERGY CORP","titleOfClass":"COM","shares":2394231,"shareType":"SH","putCall":null,"value":622547945,"ticker":"CEG","weight":0.046439},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":4522730,"shareType":"SH","putCall":null,"value":590578083,"ticker":"KKR","weight":0.044054},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":921361,"shareType":"SH","putCall":null,"value":572165181,"ticker":"INTU","weight":0.042681},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":1552529,"shareType":"SH","putCall":null,"value":572153512,"ticker":"SPOT","weight":0.04268},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":2927654,"shareType":"SH","putCall":null,"value":548876572,"ticker":"LEN","weight":0.040944},
+    {"cusip":"718172109","name":"PHILIP MORRIS INTL INC","titleOfClass":"COM","shares":4480656,"shareType":"SH","putCall":null,"value":543951638,"ticker":"PM","weight":0.040576},
+    {"cusip":"852234103","name":"BLOCK INC","titleOfClass":"CL A","shares":7670523,"shareType":"SH","putCall":null,"value":514922209,"ticker":"XYZ","weight":0.038411},
+    {"cusip":"50212V100","name":"LPL FINL HLDGS INC","titleOfClass":"COM","shares":2180137,"shareType":"SH","putCall":null,"value":507165270,"ticker":"LPLA","weight":0.037832},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":821880,"shareType":"SH","putCall":null,"value":480536798,"ticker":"UNH","weight":0.035846},
+    {"cusip":"69370C100","name":"PTC INC","titleOfClass":"COM","shares":2548199,"shareType":"SH","putCall":null,"value":460357631,"ticker":"PTC","weight":0.034341},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":551313,"shareType":"SH","putCall":null,"value":459381557,"ticker":"ASML","weight":0.034268},
+    {"cusip":"855244109","name":"STARBUCKS CORP","titleOfClass":"COM","shares":4050850,"shareType":"SH","putCall":null,"value":394917367,"ticker":"SBUX","weight":0.029459},
+    {"cusip":"98138H101","name":"WORKDAY INC","titleOfClass":"CL A","shares":1604385,"shareType":"SH","putCall":null,"value":392127738,"ticker":"WDAY","weight":0.029251},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":76414,"shareType":"SH","putCall":null,"value":321864938,"ticker":"BKNG","weight":0.02401},
+    {"cusip":"03990B101","name":"ARES MANAGEMENT CORPORATION","titleOfClass":"CL A COM STK","shares":2051816,"shareType":"SH","putCall":null,"value":319755005,"ticker":"ARES","weight":0.023852},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":2369866,"shareType":"SH","putCall":null,"value":309386006,"ticker":"APP","weight":0.023079},
+    {"cusip":"443201108","name":"HOWMET AEROSPACE INC","titleOfClass":"COM","shares":3061707,"shareType":"SH","putCall":null,"value":306936127,"ticker":"HWM","weight":0.022896},
+    {"cusip":"36828A101","name":"GE VERNOVA INC","titleOfClass":"COM","shares":1156011,"shareType":"SH","putCall":null,"value":294759685,"ticker":"GEV","weight":0.021988},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":856215,"shareType":"SH","putCall":null,"value":152611762,"ticker":"TLN","weight":0.011384},
+    {"cusip":"44812J104","name":"HUT 8 CORP","titleOfClass":"COM","shares":1232752,"shareType":"SH","putCall":null,"value":15113540,"ticker":"HUT","weight":0.001127},
+    {"cusip":"88080T104","name":"TERAWULF INC","titleOfClass":"COM","shares":3067796,"shareType":"SH","putCall":null,"value":14357285,"ticker":"WULF","weight":0.001071},
+    {"cusip":"G11448100","name":"BITDEER TECHNOLOGIES GROUP","titleOfClass":"CL A ORD SHS","shares":1297965,"shareType":"SH","putCall":null,"value":10163066,"ticker":"BTDR","weight":0.000758},
+    {"cusip":"Q4982L109","name":"IRIS ENERGY LTD","titleOfClass":"ORDINARY SHARES","shares":711839,"shareType":"SH","putCall":null,"value":6007921,"ticker":"IREN","weight":0.000448}
+  ],
+  "changes": null
+}

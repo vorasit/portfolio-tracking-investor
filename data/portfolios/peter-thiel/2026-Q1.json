@@ -1,0 +1,12 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-15",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-26-000423","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "totalValue": 0,
+  "holdings": [],
+  "changes": []
+}

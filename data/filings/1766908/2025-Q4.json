@@ -1,0 +1,21 @@
+{
+  "cik": "1766908",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-26-000731","form":"13F-HR","filedAt":"2026-02-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":883441,"shareType":"SH","putCall":null,"value":76391143},
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":1148861,"shareType":"SH","putCall":null,"value":72343777},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":957557,"shareType":"SH","putCall":null,"value":64386133},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":378155,"shareType":"SH","putCall":null,"value":55429960},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":1473005,"shareType":"SH","putCall":null,"value":50509341},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":681536,"shareType":"SH","putCall":null,"value":49574929},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":253959,"shareType":"SH","putCall":null,"value":37474190},
+    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY ONE S C","shares":371829,"shareType":"SH","putCall":null,"value":36628875},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":50721,"shareType":"SH","putCall":null,"value":33598605},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":9024099,"shareType":"SH","putCall":null,"value":27433261},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":118438,"shareType":"SH","putCall":null,"value":27337859}
+  ]
+}

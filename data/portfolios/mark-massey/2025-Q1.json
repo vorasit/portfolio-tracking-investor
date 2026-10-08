@@ -1,0 +1,30 @@
+{
+  "investorId": "mark-massey",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filedAt": "2025-05-14",
+  "filings": [
+    {"cik":"1631014","accession":"0001104659-25-048610","form":"13F-HR","filedAt":"2025-05-14","amendmentType":null}
+  ],
+  "totalValue": 4973323258,
+  "holdings": [
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":979950,"shareType":"SH","putCall":null,"value":1355555036,"ticker":"TDG","weight":0.272565},
+    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":5202415,"shareType":"SH","putCall":null,"value":989811478,"ticker":"AMZN","weight":0.199024},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":2578649,"shareType":"SH","putCall":null,"value":967999048,"ticker":"MSFT","weight":0.194638},
+    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":3454367,"shareType":"SH","putCall":null,"value":534183313,"ticker":"GOOGL","weight":0.10741},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":950905,"shareType":"SH","putCall":null,"value":442826949,"ticker":"MCO","weight":0.08904},
+    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":586254,"shareType":"SH","putCall":null,"value":321337542,"ticker":"MA","weight":0.064612},
+    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":850412,"shareType":"SH","putCall":null,"value":298035390,"ticker":"V","weight":0.059927},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE","titleOfClass":"COMM","shares":273957,"shareType":"SH","putCall":null,"value":62338915,"ticker":"HLT","weight":0.012535},
+    {"cusip":"303250104","name":"FAIR ISAAC INC","titleOfClass":"COMM","shares":670,"shareType":"SH","putCall":null,"value":1235587,"ticker":"FICO","weight":0.000248}
+  ],
+  "changes": [
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"add","shares":2578649,"prevShares":1891641},
+    {"cusip":"43300A203","ticker":"HLT","name":"HILTON WORLDWIDE","putCall":null,"action":"add","shares":273957,"prevShares":91328},
+    {"cusip":"893641100","ticker":"TDG","name":"TRANSDIGM GROUP INC","putCall":null,"action":"reduce","shares":979950,"prevShares":1000604},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON.COM INC","putCall":null,"action":"reduce","shares":5202415,"prevShares":5278320},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC-CL A","putCall":null,"action":"reduce","shares":3454367,"prevShares":3480801},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC-CLASS A SHRS","putCall":null,"action":"reduce","shares":850412,"prevShares":874912},
+    {"cusip":"16119P108","ticker":"CHTR","name":"CHARTER COMMUNICATIONS INC-A","putCall":null,"action":"exit","shares":0,"prevShares":6025}
+  ]
+}

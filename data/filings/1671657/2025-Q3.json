@@ -1,0 +1,19 @@
+{
+  "cik": "1671657",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-020887","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"235851102","name":"DANAHER CORP","titleOfClass":"COM","shares":860850,"shareType":"SH","putCall":null,"value":170672121},
+    {"cusip":"N07059210","name":"ASML HOLDING N.V.","titleOfClass":"N Y REGISTRY SHS","shares":173226,"shareType":"SH","putCall":null,"value":167698358},
+    {"cusip":"N00985106","name":"AERCAP","titleOfClass":"SHS","shares":1263998,"shareType":"SH","putCall":null,"value":152943758},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":192224,"shareType":"SH","putCall":null,"value":141165461},
+    {"cusip":"053332102","name":"AUTOZONE","titleOfClass":"COM","shares":29878,"shareType":"SH","putCall":null,"value":128183791},
+    {"cusip":"02079K107","name":"ALPHABET INC CLASS C","titleOfClass":"CAP STK CL C","shares":429318,"shareType":"SH","putCall":null,"value":104560399},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS","titleOfClass":"COM","shares":16975,"shareType":"SH","putCall":null,"value":91652608},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2350449,"shareType":"SH","putCall":null,"value":82923841},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2399322,"shareType":"SH","putCall":null,"value":72795429}
+  ]
+}

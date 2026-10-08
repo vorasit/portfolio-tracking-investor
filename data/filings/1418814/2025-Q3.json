@@ -1,0 +1,26 @@
+{
+  "cik": "1418814",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1418814","accession":"0001418814-25-000003","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3500500,"shareType":"SH","putCall":null,"value":768604785},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2898509,"shareType":"SH","putCall":null,"value":686946633},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":4283221,"shareType":"SH","putCall":null,"value":593311773},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":768674,"shareType":"SH","putCall":null,"value":564498812},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":1565850,"shareType":"SH","putCall":null,"value":534549873},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":4391931,"shareType":"SH","putCall":null,"value":502876100},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":25395627,"shareType":"SH","putCall":null,"value":492167251},
+    {"cusip":"60937P106","name":"MONGODB INC","titleOfClass":"CL A","shares":2118200,"shareType":"SH","putCall":null,"value":367192777},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":3515888,"shareType":"SH","putCall":null,"value":340935659},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":2271739,"shareType":"SH","putCall":null,"value":257637920},
+    {"cusip":"829073105","name":"SIMPSON MFG INC","titleOfClass":"COM","shares":1207942,"shareType":"SH","putCall":null,"value":202281967},
+    {"cusip":"62482R107","name":"MR COOPER GROUP INC","titleOfClass":"COM","shares":904800,"shareType":"SH","putCall":null,"value":190722792},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":1719548,"shareType":"SH","putCall":null,"value":162153376},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3397200,"shareType":"SH","putCall":null,"value":124031772},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":640866,"shareType":"SH","putCall":null,"value":104717504},
+    {"cusip":"12504L109","name":"CBRE GROUP INC","titleOfClass":"CL A","shares":234591,"shareType":"SH","putCall":null,"value":36962158}
+  ]
+}

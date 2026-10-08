@@ -1,0 +1,22 @@
+{
+  "investorId": "mark-massey",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-13",
+  "filings": [
+    {"cik":"1631014","accession":"0001104659-24-117526","form":"13F-HR","filedAt":"2024-11-13","amendmentType":null}
+  ],
+  "totalValue": 5077280606,
+  "holdings": [
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":1048264,"shareType":"SH","putCall":null,"value":1496009002,"ticker":"TDG","weight":0.294648},
+    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":5402320,"shareType":"SH","putCall":null,"value":1006614286,"ticker":"AMZN","weight":0.198259},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":1934816,"shareType":"SH","putCall":null,"value":832551325,"ticker":"MSFT","weight":0.163976},
+    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":3333905,"shareType":"SH","putCall":null,"value":552928144,"ticker":"GOOGL","weight":0.108902},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":1066619,"shareType":"SH","putCall":null,"value":506206711,"ticker":"MCO","weight":0.0997},
+    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":1118383,"shareType":"SH","putCall":null,"value":307499406,"ticker":"V","weight":0.060564},
+    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":620033,"shareType":"SH","putCall":null,"value":306172295,"ticker":"MA","weight":0.060302},
+    {"cusip":"303250104","name":"FAIR ISAAC INC","titleOfClass":"COMM","shares":34652,"shareType":"SH","putCall":null,"value":67346855,"ticker":"FICO","weight":0.013264},
+    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC-A","titleOfClass":"COMM","shares":6025,"shareType":"SH","putCall":null,"value":1952582,"ticker":"CHTR","weight":0.000385}
+  ],
+  "changes": null
+}

@@ -1,0 +1,24 @@
+{
+  "cik": "1709323",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1709323","accession":"0002043585-26-000013","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":731351348},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":703179918},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":470845440},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":430201321},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":296403233},
+    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":2997987,"shareType":"SH","putCall":null,"value":146151866},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":95322500},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":887093,"shareType":"SH","putCall":null,"value":73646461},
+    {"cusip":"88034P109","name":"TENCENT MUSIC ENTMT GROUP","titleOfClass":"SPON ADS","shares":6590836,"shareType":"SH","putCall":null,"value":61162958},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":121463,"shareType":"SH","putCall":null,"value":51663072},
+    {"cusip":"093671105","name":"BLOCK H & R INC","titleOfClass":"COM","shares":1626906,"shareType":"SH","putCall":null,"value":51637996},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":117784,"shareType":"SH","putCall":null,"value":51383270},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":28069174},
+    {"cusip":"55354G100","name":"MSCI INC","titleOfClass":"COM","shares":18939,"shareType":"SH","putCall":null,"value":10208310}
+  ]
+}

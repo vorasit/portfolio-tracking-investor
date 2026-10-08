@@ -1,0 +1,21 @@
+{
+  "cik": "1358706",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1358706","accession":"0001172661-26-003402","form":"13F-HR","filedAt":"2026-08-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"53947R105","name":"LOAR HOLDINGS INC","titleOfClass":"COM SHS","shares":32050240,"shareType":"SH","putCall":null,"value":2583569846},
+    {"cusip":"536797103","name":"LITHIA MTRS INC","titleOfClass":"COM","shares":2490534,"shareType":"SH","putCall":null,"value":723475222},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":1370495,"shareType":"SH","putCall":null,"value":489773798},
+    {"cusip":"88023U101","name":"SOMNIGROUP INTERNATIONAL INC","titleOfClass":"COM","shares":5798776,"shareType":"SH","putCall":null,"value":454624038},
+    {"cusip":"043436104","name":"ASBURY AUTOMOTIVE GROUP INC","titleOfClass":"COM","shares":2155492,"shareType":"SH","putCall":null,"value":433426331},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":13017964,"shareType":"SH","putCall":null,"value":226122035},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":720779,"shareType":"SH","putCall":null,"value":188390007},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":3251469,"shareType":"SH","putCall":null,"value":187609761},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":325155,"shareType":"SH","putCall":null,"value":183156560},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":1270504,"shareType":"SH","putCall":null,"value":7216463},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":36401,"shareType":"SH","putCall":null,"value":2382081}
+  ]
+}

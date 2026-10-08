@@ -1,0 +1,42 @@
+{
+  "investorId": "lindsell-train",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-10-17",
+  "filings": [
+    {"cik":"1484150","accession":"0001172661-24-004289","form":"13F-HR","filedAt":"2024-10-17","amendmentType":null}
+  ],
+  "totalValue": 4431189834,
+  "holdings": [
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":10210428,"shareType":"SH","putCall":null,"value":752202231,"ticker":"MDLZ","weight":0.169752},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":294443,"shareType":"SH","putCall":null,"value":572255859,"ticker":"FICO","weight":0.129143},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":916191,"shareType":"SH","putCall":null,"value":568954611,"ticker":"INTU","weight":0.128398},
+    {"cusip":"87256C101","name":"TKO GROUP HOLDINGS INC","titleOfClass":"CL A","shares":4521555,"shareType":"SH","putCall":null,"value":559361569,"ticker":"TKO","weight":0.126233},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":5451412,"shareType":"SH","putCall":null,"value":524371320,"ticker":"DIS","weight":0.118336},
+    {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":2769611,"shareType":"SH","putCall":null,"value":470972351,"ticker":"PEP","weight":0.106286},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":4591779,"shareType":"SH","putCall":null,"value":358296515,"ticker":"PYPL","weight":0.080858},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":4108022,"shareType":"SH","putCall":null,"value":267473312,"ticker":"EBAY","weight":0.060362},
+    {"cusip":"115637100","name":"BROWN FORMAN CORP","titleOfClass":"CL A","shares":2873915,"shareType":"SH","putCall":null,"value":138177833,"ticker":"BF.A","weight":0.031183},
+    {"cusip":"G5784H106","name":"MANCHESTER UTD PLC NEW","titleOfClass":"ORD CL A","shares":6371000,"shareType":"SH","putCall":null,"value":103082780,"ticker":"MANU","weight":0.023263},
+    {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1640005,"shareType":"SH","putCall":null,"value":80688246,"ticker":"BF.B","weight":0.018209},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":19200,"shareType":"SH","putCall":null,"value":3271680,"ticker":"ORCL","weight":0.000738},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":11600,"shareType":"SH","putCall":null,"value":3145920,"ticker":"AXP","weight":0.00071},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":11200,"shareType":"SH","putCall":null,"value":3079440,"ticker":"V","weight":0.000695},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":5900,"shareType":"SH","putCall":null,"value":3048058,"ticker":"SPGI","weight":0.000688},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":10300,"shareType":"SH","putCall":null,"value":3026758,"ticker":"EFX","weight":0.000683},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":17750,"shareType":"SH","putCall":null,"value":2943838,"ticker":"GOOG","weight":0.000664},
+    {"cusip":"194162103","name":"COLGATE PALMOLIVE CO","titleOfClass":"COM","shares":20100,"shareType":"SH","putCall":null,"value":2086581,"ticker":"CL","weight":0.000471},
+    {"cusip":"92345Y106","name":"VERISK ANALYTICS INC","titleOfClass":"COM","shares":7300,"shareType":"SH","putCall":null,"value":1956108,"ticker":"VRSK","weight":0.000441},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":8600,"shareType":"SH","putCall":null,"value":1897590,"ticker":"CME","weight":0.000428},
+    {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":3560,"shareType":"SH","putCall":null,"value":1843297,"ticker":"ADBE","weight":0.000416},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":20400,"shareType":"SH","putCall":null,"value":1803360,"ticker":"NKE","weight":0.000407},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":21100,"shareType":"SH","putCall":null,"value":1516246,"ticker":"KO","weight":0.000342},
+    {"cusip":"518439104","name":"LAUDER ESTEE COS INC","titleOfClass":"CL A","shares":14425,"shareType":"SH","putCall":null,"value":1438028,"ticker":"EL","weight":0.000325},
+    {"cusip":"74144T108","name":"PRICE T ROWE GROUP INC","titleOfClass":"COM","shares":12000,"shareType":"SH","putCall":null,"value":1307160,"ticker":"TROW","weight":0.000295},
+    {"cusip":"478160104","name":"JOHNSON & JOHNSON","titleOfClass":"COM","shares":6065,"shareType":"SH","putCall":null,"value":982894,"ticker":"JNJ","weight":0.000222},
+    {"cusip":"427866108","name":"HERSHEY CO","titleOfClass":"COM","shares":5100,"shareType":"SH","putCall":null,"value":978078,"ticker":"HSY","weight":0.000221},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":3300,"shareType":"SH","putCall":null,"value":687258,"ticker":"MSGS","weight":0.000155},
+    {"cusip":"49177J102","name":"KENVUE INC","titleOfClass":"COM","shares":14739,"shareType":"SH","putCall":null,"value":340913,"ticker":"KVUE","weight":0.000077}
+  ],
+  "changes": null
+}

@@ -1,0 +1,24 @@
+{
+  "cik": "1759760",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1759760","accession":"0001759760-26-000001","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":32358507,"shareType":"SH","putCall":null,"value":8796983713},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":7176196,"shareType":"SH","putCall":null,"value":3607114919},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":7237100,"shareType":"SH","putCall":null,"value":1349719150},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":11536694,"shareType":"SH","putCall":null,"value":1308145733},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1855400,"shareType":"SH","putCall":null,"value":582224520},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13172600,"shareType":"SH","putCall":null,"value":541657312},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":859000,"shareType":"SH","putCall":null,"value":415429580},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":2560500,"shareType":"SH","putCall":null,"value":375318090},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":1224384,"shareType":"SH","putCall":null,"value":372078054},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":712000,"shareType":"SH","putCall":null,"value":81004240},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":299900,"shareType":"SH","putCall":null,"value":21475839},
+    {"cusip":"G25457105","name":"CREDO TECHNOLOGY GROUP HOLDI","titleOfClass":"ORDINARY SHARES","shares":141300,"shareType":"SH","putCall":null,"value":20331657},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":9900,"shareType":"SH","putCall":null,"value":10591614},
+    {"cusip":"88023B103","name":"TEMPUS AI INC","titleOfClass":"CL A","shares":110000,"shareType":"SH","putCall":null,"value":6495500}
+  ]
+}

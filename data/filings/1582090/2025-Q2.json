@@ -1,0 +1,29 @@
+{
+  "cik": "1582090",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-25-003631","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"90138F102","name":"TWILIO INC","titleOfClass":"CL A","shares":3295000,"shareType":"SH","putCall":null,"value":409766200},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":1354600,"shareType":"SH","putCall":null,"value":393877042},
+    {"cusip":"G7997R103","name":"SEAGATE TECHNOLOGY HLDNGS PL","titleOfClass":"ORD SHS","shares":1522500,"shareType":"SH","putCall":null,"value":219742425},
+    {"cusip":"49177J102","name":"KENVUE INC","titleOfClass":"COM","shares":10160000,"shareType":"SH","putCall":null,"value":212648800},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":6879485,"shareType":"SH","putCall":null,"value":210305856},
+    {"cusip":"126650100","name":"CVS HEALTH CORP","titleOfClass":"COM","shares":3020000,"shareType":"SH","putCall":null,"value":208319600},
+    {"cusip":"19247G107","name":"COHERENT CORP","titleOfClass":"COM","shares":2272500,"shareType":"SH","putCall":null,"value":202729725},
+    {"cusip":"98980F104","name":"ZOOMINFO TECHNOLOGIES INC","titleOfClass":"COMMON STOCK","shares":15100000,"shareType":"SH","putCall":null,"value":152812000},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4880000,"shareType":"SH","putCall":null,"value":148498400},
+    {"cusip":"87165B103","name":"SYNCHRONY FINANCIAL","titleOfClass":"COM","shares":2197500,"shareType":"SH","putCall":null,"value":146661150},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":695200,"shareType":"SH","putCall":null,"value":134736712},
+    {"cusip":"253393102","name":"DICKS SPORTING GOODS INC","titleOfClass":"COM","shares":652600,"shareType":"SH","putCall":null,"value":129090806},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":4492600,"shareType":"SH","putCall":null,"value":125658022},
+    {"cusip":"806407102","name":"HENRY SCHEIN INC","titleOfClass":"COM","shares":1653600,"shareType":"SH","putCall":null,"value":120795480},
+    {"cusip":"912008109","name":"US FOODS HLDG CORP","titleOfClass":"COM","shares":1490000,"shareType":"SH","putCall":null,"value":114744900},
+    {"cusip":"00404A109","name":"ACADIA HEALTHCARE COMPANY IN","titleOfClass":"COM","shares":4215000,"shareType":"SH","putCall":null,"value":95638350},
+    {"cusip":"83601L102","name":"SOTERA HEALTH CO","titleOfClass":"COM","shares":7910000,"shareType":"SH","putCall":null,"value":87959200},
+    {"cusip":"85208T107","name":"SPRINKLR INC","titleOfClass":"CL A","shares":5745000,"shareType":"SH","putCall":null,"value":48602700},
+    {"cusip":"65290E101","name":"NEXTRACKER INC","titleOfClass":"CLASS A COM","shares":750000,"shareType":"SH","putCall":null,"value":40777500}
+  ]
+}

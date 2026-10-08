@@ -1,0 +1,17 @@
+{
+  "cik": "1345471",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000015","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1515951246},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1241596543},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":652680308},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30440318,"shareType":"SH","putCall":null,"value":253567849},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":241855659},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":2970944,"shareType":"SH","putCall":null,"value":78046699},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4044,"shareType":"SH","putCall":null,"value":331689}
+  ]
+}

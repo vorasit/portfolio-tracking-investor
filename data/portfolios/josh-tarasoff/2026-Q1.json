@@ -1,0 +1,32 @@
+{
+  "investorId": "josh-tarasoff",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filedAt": "2026-05-11",
+  "filings": [
+    {"cik":"1766504","accession":"0001420506-26-000887","form":"13F-HR","filedAt":"2026-05-11","amendmentType":null}
+  ],
+  "totalValue": 344294052,
+  "holdings": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":312530,"shareType":"SH","putCall":null,"value":65090623,"ticker":"AMZN","weight":0.189055},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":1392742,"shareType":"SH","putCall":null,"value":56364269,"ticker":"BN","weight":0.16371},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":63,"shareType":"SH","putCall":null,"value":45242820,"ticker":"BRK.A","weight":0.131407},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":22555,"shareType":"SH","putCall":null,"value":43171849,"ticker":"MKL","weight":0.125392},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":383000,"shareType":"SH","putCall":null,"value":38552780,"ticker":"SGOV","weight":0.111976},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":100035,"shareType":"SH","putCall":null,"value":28766064,"ticker":"GOOGL","weight":0.083551},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":279480,"shareType":"SH","putCall":null,"value":26872002,"ticker":"NFLX","weight":0.07805},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":54735,"shareType":"SH","putCall":null,"value":20347736,"ticker":"TSLA","weight":0.0591},
+    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":776490,"shareType":"SH","putCall":null,"value":19885909,"ticker":"TRUP","weight":0.057759}
+  ],
+  "changes": [
+    {"cusip":"46436E718","ticker":"SGOV","name":"ISHARES TR","putCall":null,"action":"new","shares":383000,"prevShares":0},
+    {"cusip":"64110L106","ticker":"NFLX","name":"NETFLIX INC.","putCall":null,"action":"new","shares":279480,"prevShares":0},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"reduce","shares":312530,"prevShares":316285},
+    {"cusip":"11271J107","ticker":"BN","name":"BROOKFIELD CORP","putCall":null,"action":"reduce","shares":1392742,"prevShares":1413462},
+    {"cusip":"084670108","ticker":"BRK.A","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":63,"prevShares":67},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"reduce","shares":22555,"prevShares":22905},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":100035,"prevShares":101155},
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"reduce","shares":54735,"prevShares":62100},
+    {"cusip":"G17977110","ticker":"BUR","name":"BURFORD CAP LTD","putCall":null,"action":"exit","shares":0,"prevShares":1835072}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "cik": "1040273",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1040273","accession":"0001040273-26-000002","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":1940000,"shareType":"SH","putCall":null,"value":404043800},
+    {"cusip":"879433829","name":"TELEPHONE & DATA SYS INC","titleOfClass":"COM NEW","shares":6600000,"shareType":"SH","putCall":null,"value":277860000},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":1900000,"shareType":"SH","putCall":null,"value":199728000},
+    {"cusip":"88023U101","name":"SOMNIGROUP INTERNATIONAL INC","titleOfClass":"COM","shares":2270769,"shareType":"SH","putCall":null,"value":167855244},
+    {"cusip":"144285103","name":"CARPENTER TECHNOLOGY CORP","titleOfClass":"COM","shares":310000,"shareType":"SH","putCall":null,"value":122186500},
+    {"cusip":"576323109","name":"MASTEC INC","titleOfClass":"COM","shares":320000,"shareType":"SH","putCall":null,"value":102956800},
+    {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":525000,"shareType":"SH","putCall":null,"value":99540000},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":275000,"shareType":"SH","putCall":null,"value":92936250},
+    {"cusip":"00187Y100","name":"API GROUP CORP","titleOfClass":"COM STK","shares":2030000,"shareType":"SH","putCall":null,"value":82255600},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":465000,"shareType":"SH","putCall":null,"value":70917150},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":90000,"shareType":"SH","putCall":null,"value":51491700},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":175000,"shareType":"SH","putCall":null,"value":50323000},
+    {"cusip":"78463V107","name":"SPDR GOLD TR","titleOfClass":"GOLD SHS","shares":95000,"shareType":"SH","putCall":null,"value":40877550},
+    {"cusip":"44812J104","name":"HUT 8 CORP","titleOfClass":"COM","shares":869563,"shareType":"SH","putCall":null,"value":40791200},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":190000,"shareType":"SH","putCall":null,"value":33136000},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":25000,"shareType":"SH","putCall":null,"value":28974000},
+    {"cusip":"655844108","name":"NORFOLK SOUTHN CORP","titleOfClass":"COM","shares":100000,"shareType":"SH","putCall":null,"value":28700000},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":140000,"shareType":"SH","putCall":null,"value":25540200},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":100000,"shareType":"SH","putCall":null,"value":24262000},
+    {"cusip":"092667104","name":"STRATA CRITICAL MEDICAL INC","titleOfClass":"CL A COM","shares":5000000,"shareType":"SH","putCall":null,"value":20900000},
+    {"cusip":"482480100","name":"KLA CORP","titleOfClass":"COM NEW","shares":11000,"shareType":"SH","putCall":null,"value":16196510},
+    {"cusip":"512807306","name":"LAM RESEARCH CORP","titleOfClass":"COM NEW","shares":75000,"shareType":"SH","putCall":null,"value":16024500},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":12000,"shareType":"SH","putCall":null,"value":15849960},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":50000,"shareType":"SH","putCall":null,"value":15475500},
+    {"cusip":"92189F676","name":"VANECK ETF TRUST","titleOfClass":"SEMICONDUCTR ETF","shares":40000,"shareType":"SH","putCall":null,"value":15336000},
+    {"cusip":"G8068L108","name":"SHARKNINJA INC","titleOfClass":"COM SHS","shares":130509,"shareType":"SH","putCall":null,"value":13820903},
+    {"cusip":"42806J148","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"*W EXP 06/30/205","shares":3970000,"shareType":"SH","putCall":null,"value":9051600},
+    {"cusip":"82835W108","name":"ARS PHARMACEUTICALS INC","titleOfClass":"COM","shares":1000000,"shareType":"SH","putCall":null,"value":8030000},
+    {"cusip":"051774107","name":"AURORA INNOVATION INC","titleOfClass":"CLASS A COM","shares":1032463,"shareType":"SH","putCall":null,"value":4253748},
+    {"cusip":"343928107","name":"FLYEXCLUSIVE INC","titleOfClass":"COM CL A","shares":1022000,"shareType":"SH","putCall":null,"value":2309720},
+    {"cusip":"62548M209","name":"CLARITEV CORPORATION","titleOfClass":"CL A NEW","shares":44000,"shareType":"SH","putCall":null,"value":718960},
+    {"cusip":"051774115","name":"AURORA INNOVATION INC","titleOfClass":"*W EXP 11/03/202","shares":1835000,"shareType":"SH","putCall":null,"value":365165},
+    {"cusip":"343928115","name":"FLYEXCLUSIVE INC","titleOfClass":"*W EXP 99/99/999","shares":367499,"shareType":"SH","putCall":null,"value":88200}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "1166559",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1166559","accession":"0001104659-26-062592","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":17048304,"shareType":"SH","putCall":null,"value":8169547277},
+    {"cusip":"94106L109","name":"WASTE MGMT INC DEL","titleOfClass":"COM","shares":27642344,"shareType":"SH","putCall":null,"value":6351934228},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":51826786,"shareType":"SH","putCall":null,"value":5326238797},
+    {"cusip":"149123101","name":"CATERPILLAR INC","titleOfClass":"COM","shares":6353614,"shareType":"SH","putCall":null,"value":4501281374},
+    {"cusip":"244199105","name":"DEERE & CO","titleOfClass":"COM","shares":3557378,"shareType":"SH","putCall":null,"value":2003871027},
+    {"cusip":"278865100","name":"ECOLAB INC","titleOfClass":"COM","shares":5218044,"shareType":"SH","putCall":null,"value":1388104065},
+    {"cusip":"931142103","name":"WALMART INC","titleOfClass":"COM","shares":8390477,"shareType":"SH","putCall":null,"value":1042768482},
+    {"cusip":"31428X106","name":"FEDEX CORP","titleOfClass":"COM","shares":2384362,"shareType":"SH","putCall":null,"value":849262057},
+    {"cusip":"191241108","name":"COCA-COLA FEMSA SAB DE CV","titleOfClass":"SPONS ADS REP","shares":6214719,"shareType":"SH","putCall":null,"value":606245838},
+    {"cusip":"94106B101","name":"WASTE CONNECTIONS INC","titleOfClass":"COM","shares":2039175,"shareType":"SH","putCall":null,"value":331243587},
+    {"cusip":"55825T103","name":"MADISON SQUARE GRDN SPRT COR","titleOfClass":"CL A","shares":592406,"shareType":"SH","putCall":null,"value":190399288},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":9248045,"shareType":"SH","putCall":null,"value":174603090},
+    {"cusip":"03524A108","name":"ANHEUSER BUSCH INBEV SA NV","titleOfClass":"SPONSORED ADR","shares":1703000,"shareType":"SH","putCall":null,"value":118137110},
+    {"cusip":"693718108","name":"PACCAR INC","titleOfClass":"COM","shares":1000000,"shareType":"SH","putCall":null,"value":115500000},
+    {"cusip":"955306105","name":"WEST PHARMACEUTICAL SVSC INC","titleOfClass":"COM","shares":444500,"shareType":"SH","putCall":null,"value":111409480},
+    {"cusip":"580135101","name":"MCDONALDS CORP","titleOfClass":"COM","shares":334900,"shareType":"SH","putCall":null,"value":104083571},
+    {"cusip":"80810D103","name":"SCHRODINGER INC","titleOfClass":"COM","shares":6981664,"shareType":"SH","putCall":null,"value":79311703},
+    {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":373000,"shareType":"SH","putCall":null,"value":70720800},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":2472600,"shareType":"SH","putCall":null,"value":55608774},
+    {"cusip":"440452100","name":"HORMEL FOODS CORP","titleOfClass":"COM","shares":2085290,"shareType":"SH","putCall":null,"value":47231819},
+    {"cusip":"H5919C104","name":"ON HLDG AG","titleOfClass":"NAMEN AKT A","shares":500000,"shareType":"SH","putCall":null,"value":17010000},
+    {"cusip":"92338C103","name":"VERALTO CORP","titleOfClass":"COM SHS","shares":124333,"shareType":"SH","putCall":null,"value":10993524}
+  ]
+}

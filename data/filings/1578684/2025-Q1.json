@@ -1,0 +1,17 @@
+{
+  "cik": "1578684",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1578684","accession":"0000904454-25-000278","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CL A","shares":10179538,"shareType":"SH","putCall":null,"value":293272490},
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":477021,"shareType":"SH","putCall":null,"value":164834607},
+    {"cusip":"339750101","name":"FLOOR & DECOR HOLDINGS INC","titleOfClass":"CL A","shares":1632481,"shareType":"SH","putCall":null,"value":131365746},
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":2797625,"shareType":"SH","putCall":null,"value":128383011},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":3604479,"shareType":"SH","putCall":null,"value":119560568},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":2311201,"shareType":"SH","putCall":null,"value":82394316},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CL A","shares":1113427,"shareType":"SH","putCall":null,"value":50315766}
+  ]
+}

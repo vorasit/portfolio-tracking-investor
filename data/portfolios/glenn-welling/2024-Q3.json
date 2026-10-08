@@ -1,0 +1,22 @@
+{
+  "investorId": "glenn-welling",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1559771","accession":"0000921895-24-002693","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 616544212,
+  "holdings": [
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":3989468,"shareType":"SH","putCall":null,"value":112822155,"ticker":"EVH","weight":0.182991},
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":5341368,"shareType":"SH","putCall":null,"value":106560292,"ticker":"VFC","weight":0.172835},
+    {"cusip":"62886E108","name":"NCR VOYIX CORPORATION","titleOfClass":"COM","shares":7171029,"shareType":"SH","putCall":null,"value":97310864,"ticker":"VYX","weight":0.157833},
+    {"cusip":"63001N106","name":"NCR ATLEOS CORPORATION","titleOfClass":"COM SHS","shares":3008223,"shareType":"SH","putCall":null,"value":85824602,"ticker":"NATL","weight":0.139203},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":6114956,"shareType":"SH","putCall":null,"value":82368457,"ticker":"PTLO","weight":0.133597},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13535560,"shareType":"SH","putCall":null,"value":46291615,"ticker":null,"weight":0.075082},
+    {"cusip":"69354N106","name":"PRA GROUP INC","titleOfClass":"COM","shares":1703512,"shareType":"SH","putCall":null,"value":38090528,"ticker":"PRAA","weight":0.061781},
+    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":609713,"shareType":"SH","putCall":null,"value":33619575,"ticker":"BL","weight":0.054529},
+    {"cusip":"64157F103","name":"NEVRO CORP","titleOfClass":"COM","shares":2442956,"shareType":"SH","putCall":null,"value":13656124,"ticker":null,"weight":0.022149}
+  ],
+  "changes": null
+}

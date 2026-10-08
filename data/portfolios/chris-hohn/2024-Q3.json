@@ -1,0 +1,23 @@
+{
+  "investorId": "chris-hohn",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filedAt": "2024-11-14",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-24-000011","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "totalValue": 44020529632,
+  "holdings": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":48180376,"shareType":"SH","putCall":null,"value":9085855306,"ticker":"GE","weight":0.2064},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13246769,"shareType":"SH","putCall":null,"value":6286784100,"ticker":"MCO","weight":0.142815},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":10400077,"shareType":"SH","putCall":null,"value":5372887780,"ticker":"SPGI","weight":0.122054},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":11990590,"shareType":"SH","putCall":null,"value":5159550877,"ticker":"MSFT","weight":0.117208},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":54913285,"shareType":"SH","putCall":null,"value":4696733365,"ticker":"CP","weight":0.106694},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":16797187,"shareType":"SH","putCall":null,"value":4618386566,"ticker":"V","weight":0.104914},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":35437277,"shareType":"SH","putCall":null,"value":4150341855,"ticker":"CNI","weight":0.094282},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":16927056,"shareType":"SH","putCall":null,"value":2830034493,"ticker":"GOOG","weight":0.064289},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":6027410,"shareType":"SH","putCall":null,"value":999645949,"ticker":"GOOGL","weight":0.022709},
+    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":19095244,"shareType":"SH","putCall":null,"value":820309341,"ticker":"FER","weight":0.018635}
+  ],
+  "changes": null
+}

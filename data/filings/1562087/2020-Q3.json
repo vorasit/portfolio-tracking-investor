@@ -1,0 +1,9 @@
+{
+  "cik": "1562087",
+  "period": "2020-09-30",
+  "quarter": "2020-Q3",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-20-000924","form":"13F-HR","filedAt":"2020-11-13","amendmentType":null}
+  ],
+  "positions": []
+}

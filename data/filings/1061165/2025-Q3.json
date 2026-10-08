@@ -1,0 +1,35 @@
+{
+  "cik": "1061165",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1061165","accession":"0000902664-25-004988","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1322260,"shareType":"SH","putCall":null,"value":971041299},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":4699241,"shareType":"SH","putCall":null,"value":920675297},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":3052400,"shareType":"SH","putCall":null,"value":852504796},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":1109138,"shareType":"SH","putCall":null,"value":796960019},
+    {"cusip":"50212V100","name":"LPL FINL HLDGS INC","titleOfClass":"COM","shares":2255714,"shareType":"SH","putCall":null,"value":750453491},
+    {"cusip":"718172109","name":"PHILIP MORRIS INTL INC","titleOfClass":"COM","shares":4614443,"shareType":"SH","putCall":null,"value":748462655},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":10181348,"shareType":"SH","putCall":null,"value":698236846},
+    {"cusip":"146869102","name":"CARVANA CO","titleOfClass":"CL A","shares":1765291,"shareType":"SH","putCall":null,"value":665938377},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1208605,"shareType":"SH","putCall":null,"value":625996960},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":2811928,"shareType":"SH","putCall":null,"value":617415031},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":2569491,"shareType":"SH","putCall":null,"value":546222397},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":4080561,"shareType":"SH","putCall":null,"value":530268902},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":1549412,"shareType":"SH","putCall":null,"value":511166513},
+    {"cusip":"87422Q109","name":"TALEN ENERGY CORP","titleOfClass":"COM","shares":1192516,"shareType":"SH","putCall":null,"value":507272456},
+    {"cusip":"855244109","name":"STARBUCKS CORP","titleOfClass":"COM","shares":5561954,"shareType":"SH","putCall":null,"value":470541308},
+    {"cusip":"26884L109","name":"EQT CORP","titleOfClass":"COM","shares":8361889,"shareType":"SH","putCall":null,"value":455137618},
+    {"cusip":"G3643J108","name":"FLUTTER ENTMT PLC","titleOfClass":"SHS","shares":1733336,"shareType":"SH","putCall":null,"value":440267344},
+    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":1384624,"shareType":"SH","putCall":null,"value":425938035},
+    {"cusip":"G6683N103","name":"NU HLDGS LTD","titleOfClass":"ORD SHS CL A","shares":25406449,"shareType":"SH","putCall":null,"value":406757248},
+    {"cusip":"974155103","name":"WINGSTOP INC","titleOfClass":"COM","shares":1491245,"shareType":"SH","putCall":null,"value":375316542},
+    {"cusip":"032095101","name":"AMPHENOL CORP NEW","titleOfClass":"CL A","shares":3023231,"shareType":"SH","putCall":null,"value":374124836},
+    {"cusip":"81141R100","name":"SEA LTD","titleOfClass":"SPONSORD ADS","shares":1869501,"shareType":"SH","putCall":null,"value":334135914},
+    {"cusip":"171779309","name":"CIENA CORP","titleOfClass":"COM NEW","shares":2006662,"shareType":"SH","putCall":null,"value":292310454},
+    {"cusip":"29786A106","name":"ETSY INC","titleOfClass":"COM","shares":3880316,"shareType":"SH","putCall":null,"value":257614179},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":31151,"shareType":"SH","putCall":null,"value":168192660}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "investorId": "mark-massey",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filedAt": "2025-02-14",
+  "filings": [
+    {"cik":"1631014","accession":"0001104659-25-014306","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "totalValue": 4943610970,
+  "holdings": [
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":1000604,"shareType":"SH","putCall":null,"value":1268045437,"ticker":"TDG","weight":0.256502},
+    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":5278320,"shareType":"SH","putCall":null,"value":1158010625,"ticker":"AMZN","weight":0.234244},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":1891641,"shareType":"SH","putCall":null,"value":797326682,"ticker":"MSFT","weight":0.161284},
+    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":3480801,"shareType":"SH","putCall":null,"value":658915629,"ticker":"GOOGL","weight":0.133286},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":950905,"shareType":"SH","putCall":null,"value":450129900,"ticker":"MCO","weight":0.091053},
+    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":586254,"shareType":"SH","putCall":null,"value":308703769,"ticker":"MA","weight":0.062445},
+    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":874912,"shareType":"SH","putCall":null,"value":276507188,"ticker":"V","weight":0.055932},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE","titleOfClass":"COMM","shares":91328,"shareType":"SH","putCall":null,"value":22572628,"ticker":"HLT","weight":0.004566},
+    {"cusip":"16119P108","name":"CHARTER COMMUNICATIONS INC-A","titleOfClass":"COMM","shares":6025,"shareType":"SH","putCall":null,"value":2065189,"ticker":"CHTR","weight":0.000418},
+    {"cusip":"303250104","name":"FAIR ISAAC INC","titleOfClass":"COMM","shares":670,"shareType":"SH","putCall":null,"value":1333923,"ticker":"FICO","weight":0.00027}
+  ],
+  "changes": [
+    {"cusip":"43300A203","ticker":"HLT","name":"HILTON WORLDWIDE","putCall":null,"action":"new","shares":91328,"prevShares":0},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC-CL A","putCall":null,"action":"add","shares":3480801,"prevShares":3333905},
+    {"cusip":"893641100","ticker":"TDG","name":"TRANSDIGM GROUP INC","putCall":null,"action":"reduce","shares":1000604,"prevShares":1048264},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON.COM INC","putCall":null,"action":"reduce","shares":5278320,"prevShares":5402320},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"reduce","shares":1891641,"prevShares":1934816},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"reduce","shares":950905,"prevShares":1066619},
+    {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INC-CLASS A","putCall":null,"action":"reduce","shares":586254,"prevShares":620033},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC-CLASS A SHRS","putCall":null,"action":"reduce","shares":874912,"prevShares":1118383},
+    {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC INC","putCall":null,"action":"reduce","shares":670,"prevShares":34652}
+  ]
+}

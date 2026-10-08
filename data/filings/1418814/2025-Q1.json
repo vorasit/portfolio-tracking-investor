@@ -1,0 +1,24 @@
+{
+  "cik": "1418814",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1418814","accession":"0001418812-25-000015","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2898509,"shareType":"SH","putCall":null,"value":777843875},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":6566031,"shareType":"SH","putCall":null,"value":648067260},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":4061739,"shareType":"SH","putCall":null,"value":609220233},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":1014874,"shareType":"SH","putCall":null,"value":584932779},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":8764921,"shareType":"SH","putCall":null,"value":510907245},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":1312950,"shareType":"SH","putCall":null,"value":460136457},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":3903888,"shareType":"SH","putCall":null,"value":266010928},
+    {"cusip":"30212P303","name":"EXPEDIA GROUP INC","titleOfClass":"COM NEW","shares":1117156,"shareType":"SH","putCall":null,"value":187793924},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":885266,"shareType":"SH","putCall":null,"value":115598034},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":1658648,"shareType":"SH","putCall":null,"value":111527492},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":563100,"shareType":"SH","putCall":null,"value":107135406},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":2597200,"shareType":"SH","putCall":null,"value":86149124},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":6728509,"shareType":"SH","putCall":null,"value":81213104},
+    {"cusip":"G6683N103","name":"NU HLDGS LTD","titleOfClass":"ORD SHS CL A","shares":3416200,"shareType":"SH","putCall":null,"value":34981888}
+  ]
+}

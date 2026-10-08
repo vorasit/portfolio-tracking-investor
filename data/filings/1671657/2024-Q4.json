@@ -1,0 +1,21 @@
+{
+  "cik": "1671657",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-25-002824","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":578741,"shareType":"SH","putCall":null,"value":124168882},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":208247,"shareType":"SH","putCall":null,"value":121930701},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":639218,"shareType":"SH","putCall":null,"value":121732676},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":37570,"shareType":"SH","putCall":null,"value":120299140},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1301183,"shareType":"SH","putCall":null,"value":111055969},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":394791,"shareType":"SH","putCall":null,"value":90624274},
+    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1447727,"shareType":"SH","putCall":null,"value":81116144},
+    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":2306149,"shareType":"SH","putCall":null,"value":70821836},
+    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":272903,"shareType":"SH","putCall":null,"value":51668725},
+    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":3045142,"shareType":"SH","putCall":null,"value":49788072},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2258481,"shareType":"SH","putCall":null,"value":26830754}
+  ]
+}

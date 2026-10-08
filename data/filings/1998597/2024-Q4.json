@@ -1,0 +1,21 @@
+{
+  "cik": "1998597",
+  "period": "2024-12-31",
+  "quarter": "2024-Q4",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-25-001058","form":"13F-HR","filedAt":"2025-02-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":7131339,"shareType":"SH","putCall":null,"value":476587385},
+    {"cusip":"896239100","name":"TRIMBLE INC","titleOfClass":"COM","shares":4178088,"shareType":"SH","putCall":null,"value":295223698},
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":6941565,"shareType":"SH","putCall":null,"value":291545730},
+    {"cusip":"78462F103","name":"SPDR S&P 500 ETF TR","titleOfClass":"TR UNIT","shares":429263,"shareType":"SH","putCall":null,"value":251582459},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":108926,"shareType":"SH","putCall":null,"value":188031329},
+    {"cusip":"89469A104","name":"TREEHOUSE FOODS INC","titleOfClass":"COM","shares":4910950,"shareType":"SH","putCall":null,"value":172521674},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":3690129,"shareType":"SH","putCall":null,"value":148453890},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":69000,"shareType":"SH","putCall":"Call","value":119109870},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":496895,"shareType":"SH","putCall":null,"value":40134209},
+    {"cusip":"977852102","name":"WOLFSPEED INC","titleOfClass":"COM","shares":4988216,"shareType":"SH","putCall":null,"value":33221519},
+    {"cusip":"29332G102","name":"ENHABIT INC","titleOfClass":"COM","shares":2137145,"shareType":"SH","putCall":null,"value":16691102}
+  ]
+}

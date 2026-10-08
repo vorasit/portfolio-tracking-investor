@@ -1,0 +1,43 @@
+{
+  "cik": "1553733",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"1553733","accession":"0001172661-26-001068","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"68268W103","name":"ONEMAIN HLDGS INC","titleOfClass":"COM","shares":7739293,"shareType":"SH","putCall":null,"value":522789242},
+    {"cusip":"87162W100","name":"TD SYNNEX CORPORATION","titleOfClass":"COM","shares":3163239,"shareType":"SH","putCall":null,"value":475213395},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1251803,"shareType":"SH","putCall":null,"value":438819542},
+    {"cusip":"78442P106","name":"SLM CORP","titleOfClass":"COM","shares":12831965,"shareType":"SH","putCall":null,"value":347232973},
+    {"cusip":"05329W102","name":"AUTONATION INC","titleOfClass":"COM","shares":1552741,"shareType":"SH","putCall":null,"value":320609962},
+    {"cusip":"601137102","name":"MILLROSE PPTYS INC","titleOfClass":"COM CL A","shares":8600224,"shareType":"SH","putCall":null,"value":256888691},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":2411414,"shareType":"SH","putCall":null,"value":247893359},
+    {"cusip":"12008R107","name":"BUILDERS FIRSTSOURCE INC","titleOfClass":"COM","shares":2379145,"shareType":"SH","putCall":null,"value":244790229},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":1008862,"shareType":"SH","putCall":null,"value":244507794},
+    {"cusip":"55336V100","name":"MPLX LP","titleOfClass":"COM UNIT REP LTD","shares":4474115,"shareType":"SH","putCall":null,"value":238783518},
+    {"cusip":"783513203","name":"RYANAIR HOLDINGS PLC","titleOfClass":"SPONSORED ADR","shares":3056698,"shareType":"SH","putCall":null,"value":220663029},
+    {"cusip":"74164M108","name":"PRIMERICA INC","titleOfClass":"COM","shares":780125,"shareType":"SH","putCall":null,"value":201553095},
+    {"cusip":"31620R303","name":"FIDELITY NATIONAL FINANCIAL","titleOfClass":"COM SHS","shares":3519089,"shareType":"SH","putCall":null,"value":192107069},
+    {"cusip":"30190A104","name":"F&G ANNUITIES & LIFE INC","titleOfClass":"COMMON STOCK","shares":5377029,"shareType":"SH","putCall":null,"value":165881338},
+    {"cusip":"23331A109","name":"D R HORTON INC","titleOfClass":"COM","shares":701822,"shareType":"SH","putCall":null,"value":101083423},
+    {"cusip":"03676B102","name":"ANTERO MIDSTREAM CORP","titleOfClass":"COM","shares":1847972,"shareType":"SH","putCall":null,"value":32875422},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":20258,"shareType":"SH","putCall":null,"value":6340754},
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":3923,"shareType":"SH","putCall":null,"value":1831492},
+    {"cusip":"46625H100","name":"JPMORGAN CHASE & CO.","titleOfClass":"COM","shares":5643,"shareType":"SH","putCall":null,"value":1818287},
+    {"cusip":"060505104","name":"BANK AMERICA CORP","titleOfClass":"COM","shares":26532,"shareType":"SH","putCall":null,"value":1459260},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3790,"shareType":"SH","putCall":null,"value":1189302},
+    {"cusip":"20030N101","name":"COMCAST CORP NEW","titleOfClass":"CL A","shares":31094,"shareType":"SH","putCall":null,"value":929400},
+    {"cusip":"902973304","name":"US BANCORP DEL","titleOfClass":"COM NEW","shares":15000,"shareType":"SH","putCall":null,"value":800400},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":1746,"shareType":"SH","putCall":null,"value":397599},
+    {"cusip":"571903202","name":"MARRIOTT INTL INC NEW","titleOfClass":"CL A","shares":1194,"shareType":"SH","putCall":null,"value":370427},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":1400,"shareType":"SH","putCall":null,"value":323148},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":525,"shareType":"SH","putCall":null,"value":253900},
+    {"cusip":"038222105","name":"APPLIED MATLS INC","titleOfClass":"COM","shares":961,"shareType":"SH","putCall":null,"value":246967},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":422,"shareType":"SH","putCall":null,"value":240911},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":471,"shareType":"SH","putCall":null,"value":240610},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":338,"shareType":"SH","putCall":null,"value":223110},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":618,"shareType":"SH","putCall":null,"value":216739},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":401,"shareType":"SH","putCall":null,"value":209559}
+  ]
+}

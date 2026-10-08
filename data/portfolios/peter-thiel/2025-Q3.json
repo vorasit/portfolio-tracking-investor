@@ -1,0 +1,22 @@
+{
+  "investorId": "peter-thiel",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filedAt": "2025-11-14",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-25-000812","form":"13F-HR","filedAt":"2025-11-14","amendmentType":null}
+  ],
+  "totalValue": 74448208,
+  "holdings": [
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":65000,"shareType":"SH","putCall":null,"value":28906800,"ticker":"TSLA","weight":0.388281},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":49000,"shareType":"SH","putCall":null,"value":25379550,"ticker":"MSFT","weight":0.340902},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":79181,"shareType":"SH","putCall":null,"value":20161858,"ticker":"AAPL","weight":0.270817}
+  ],
+  "changes": [
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"new","shares":49000,"prevShares":0},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"new","shares":79181,"prevShares":0},
+    {"cusip":"88160R101","ticker":"TSLA","name":"TESLA INC","putCall":null,"action":"reduce","shares":65000,"prevShares":272613},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORP","putCall":null,"action":"exit","shares":0,"prevShares":537742},
+    {"cusip":"92840M102","ticker":"VST","name":"VISTRA CORP","putCall":null,"action":"exit","shares":0,"prevShares":208747}
+  ]
+}

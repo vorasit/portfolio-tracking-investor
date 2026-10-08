@@ -1,0 +1,30 @@
+{
+  "investorId": "bruce-berkowitz",
+  "period": "2025-06-30",
+  "quarter": "2025-Q2",
+  "filedAt": "2025-08-14",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-25-004911","form":"13F-HR","filedAt":"2025-08-14","amendmentType":null}
+  ],
+  "totalValue": 1226998597,
+  "holdings": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":20204167,"shareType":"SH","putCall":null,"value":963738766,"ticker":"JOE","weight":0.785444},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5450400,"shareType":"SH","putCall":null,"value":169016904,"ticker":"EPD","weight":0.137748},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":916752,"shareType":"SH","putCall":null,"value":43142358,"ticker":"OZK","weight":0.035161},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":48597,"shareType":"SH","putCall":null,"value":23606965,"ticker":"BRK.B","weight":0.01924},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":261450,"shareType":"SH","putCall":null,"value":19208731,"ticker":"WRB","weight":0.015655},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":166600,"shareType":"SH","putCall":null,"value":3020458,"ticker":"ET","weight":0.002462},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":69100,"shareType":"SH","putCall":null,"value":2902891,"ticker":"OXY","weight":0.002366},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":1,"shareType":"SH","putCall":null,"value":728800,"ticker":"BRK.A","weight":0.000594},
+    {"cusip":"25278X109","name":"DIAMONDBACK ENERGY INC","titleOfClass":"COM","shares":4000,"shareType":"SH","putCall":null,"value":549600,"ticker":"FANG","weight":0.000448},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":495204,"ticker":"AAPL","weight":0.000404},
+    {"cusip":"218937100","name":"CORE NATURAL RESOURCES INC","titleOfClass":"COM SHS","shares":5000,"shareType":"SH","putCall":null,"value":348700,"ticker":"CNR","weight":0.000284},
+    {"cusip":"26875P101","name":"EOG RES INC","titleOfClass":"COM","shares":2000,"shareType":"SH","putCall":null,"value":239220,"ticker":"EOG","weight":0.000195}
+  ],
+  "changes": [
+    {"cusip":"06417N103","ticker":"OZK","name":"BANK OZK","putCall":null,"action":"add","shares":916752,"prevShares":631602},
+    {"cusip":"674599105","ticker":"OXY","name":"OCCIDENTAL PETE CORP","putCall":null,"action":"add","shares":69100,"prevShares":54300},
+    {"cusip":"790148100","ticker":"JOE","name":"ST JOE CO","putCall":null,"action":"reduce","shares":20204167,"prevShares":20206867},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":48597,"prevShares":48717}
+  ]
+}
