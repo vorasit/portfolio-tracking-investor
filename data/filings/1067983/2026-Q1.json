@@ -1,0 +1,39 @@
+{
+  "cik": "1067983",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1067983","accession":"0001193125-26-226661","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":227917808,"shareType":"SH","putCall":null,"value":57843260493},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":151610700,"shareType":"SH","putCall":null,"value":45859204536},
+    {"cusip":"191216100","name":"COCA COLA CO","titleOfClass":"COM","shares":400000000,"shareType":"SH","putCall":null,"value":30420000000},
+    {"cusip":"060505104","name":"BANK AMERICA CORP","titleOfClass":"COM","shares":513624165,"shareType":"SH","putCall":null,"value":25039178044},
+    {"cusip":"166764100","name":"CHEVRON CORPORATION","titleOfClass":"COM","shares":84375856,"shareType":"SH","putCall":null,"value":17457364606},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":264941431,"shareType":"SH","putCall":null,"value":17221193015},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":54249798,"shareType":"SH","putCall":null,"value":15600071913},
+    {"cusip":"H1467J104","name":"CHUBB LTD SWITZ","titleOfClass":"COM","shares":34249183,"shareType":"SH","putCall":null,"value":11162836215},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":24669778,"shareType":"SH","putCall":null,"value":10762190653},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":325634818,"shareType":"SH","putCall":null,"value":7323527057},
+    {"cusip":"23918K108","name":"DAVITA INC","titleOfClass":"COM","shares":30100585,"shareType":"SH","putCall":null,"value":4626158909},
+    {"cusip":"501044101","name":"KROGER CO","titleOfClass":"COM","shares":50000000,"shareType":"SH","putCall":null,"value":3618000000},
+    {"cusip":"829933100","name":"SIRIUSXM HOLDINGS INC","titleOfClass":"COMMON STOCK","shares":124807117,"shareType":"SH","putCall":null,"value":2880548260},
+    {"cusip":"247361702","name":"DELTA AIR LINES INC","titleOfClass":"COM NEW","shares":39809456,"shareType":"SH","putCall":null,"value":2646532635},
+    {"cusip":"92343E102","name":"VERISIGN INC","titleOfClass":"COM","shares":8989880,"shareType":"SH","putCall":null,"value":2232726597},
+    {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":7150000,"shareType":"SH","putCall":null,"value":1304374500},
+    {"cusip":"650111107","name":"NEW YORK TIMES CO MTN BE","titleOfClass":"CL A","shares":15146535,"shareType":"SH","putCall":null,"value":1268219376},
+    {"cusip":"02005N100","name":"ALLY FINL INC","titleOfClass":"COM","shares":29000000,"shareType":"SH","putCall":null,"value":1137670000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3585215,"shareType":"SH","putCall":null,"value":1028454775},
+    {"cusip":"530909308","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SHS SER C","shares":10587143,"shareType":"SH","putCall":null,"value":996356028},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":10099642,"shareType":"SH","putCall":null,"value":877052911},
+    {"cusip":"670346105","name":"NUCOR CORP","titleOfClass":"COM","shares":3907075,"shareType":"SH","putCall":null,"value":660686383},
+    {"cusip":"530909100","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SER A","shares":4986588,"shareType":"SH","putCall":null,"value":456970925},
+    {"cusip":"546347105","name":"LOUISIANA PAC CORP","titleOfClass":"COM","shares":5664793,"shareType":"SH","putCall":null,"value":412113691},
+    {"cusip":"21036P108","name":"CONSTELLATION BRANDS INC","titleOfClass":"CL A","shares":632890,"shareType":"SH","putCall":null,"value":94933500},
+    {"cusip":"62944T105","name":"NVR INC","titleOfClass":"COM","shares":11112,"shareType":"SH","putCall":null,"value":73226191},
+    {"cusip":"55616P104","name":"MACYS INC","titleOfClass":"COM","shares":3038355,"shareType":"SH","putCall":null,"value":54963842},
+    {"cusip":"526057302","name":"LENNAR CORP","titleOfClass":"CL B","shares":237703,"shareType":"SH","putCall":null,"value":19995576},
+    {"cusip":"47233W109","name":"JEFFERIES FINANCIAL GROUP IN","titleOfClass":"COM","shares":433558,"shareType":"SH","putCall":null,"value":17892939}
+  ]
+}

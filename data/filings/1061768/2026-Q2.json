@@ -1,0 +1,33 @@
+{
+  "cik": "1061768",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-26-000010","form":"13F-HR","filedAt":"2026-08-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3743854,"shareType":"SH","putCall":null,"value":892310000},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1275154,"shareType":"SH","putCall":null,"value":493140000},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":6753112,"shareType":"SH","putCall":null,"value":489612000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1371931,"shareType":"SH","putCall":null,"value":484744000},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1450594,"shareType":"SH","putCall":null,"value":344269000},
+    {"cusip":"372460105","name":"GENUINE PARTS CO","titleOfClass":"COM","shares":2816178,"shareType":"SH","putCall":null,"value":332253000},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":1185395,"shareType":"SH","putCall":null,"value":322427000},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":701355,"shareType":"SH","putCall":null,"value":240628000},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":662881,"shareType":"SH","putCall":null,"value":228979000},
+    {"cusip":"G0403H108","name":"AON PLC","titleOfClass":"SHS CL A","shares":687000,"shareType":"SH","putCall":null,"value":227871000},
+    {"cusip":"879369106","name":"TELEFLEX INCORPORATED","titleOfClass":"COM","shares":1409000,"shareType":"SH","putCall":null,"value":178605000},
+    {"cusip":"G66721104","name":"NORWEGIAN CRUISE LINE HLDGS","titleOfClass":"SHS","shares":7730000,"shareType":"SH","putCall":null,"value":163180000},
+    {"cusip":"60855R100","name":"MOLINA HEALTHCARE INC","titleOfClass":"COM","shares":633609,"shareType":"SH","putCall":null,"value":144906000},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":619000,"shareType":"SH","putCall":null,"value":136694000},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":9259844,"shareType":"SH","putCall":null,"value":121767000},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":530763,"shareType":"SH","putCall":null,"value":119422000},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":3769818,"shareType":"SH","putCall":null,"value":113208000},
+    {"cusip":"03064D108","name":"AMERICOLD REALTY TRUST INC","titleOfClass":"COM","shares":6830230,"shareType":"SH","putCall":null,"value":107371000},
+    {"cusip":"G61188127","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL C","shares":8543161,"shareType":"SH","putCall":null,"value":93975000},
+    {"cusip":"40054J109","name":"GRUPO AEROMEXICO SAB DE CV","titleOfClass":"SPONSORED ADS","shares":4880188,"shareType":"SH","putCall":null,"value":87843000},
+    {"cusip":"G0750C108","name":"AXALTA COATING SYS LTD","titleOfClass":"COM","shares":1274356,"shareType":"SH","putCall":null,"value":43608000},
+    {"cusip":"67011P100","name":"DNOW INC","titleOfClass":"COM","shares":2788000,"shareType":"SH","putCall":null,"value":36160000},
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COMMON STOCK","shares":392000,"shareType":"SH","putCall":null,"value":12881000}
+  ]
+}

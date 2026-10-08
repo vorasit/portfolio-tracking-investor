@@ -1,0 +1,32 @@
+{
+  "cik": "1061768",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-26-000007","form":"13F-HR","filedAt":"2026-05-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3118754,"shareType":"SH","putCall":null,"value":649543000},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":8080112,"shareType":"SH","putCall":null,"value":597208000},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":1436881,"shareType":"SH","putCall":null,"value":393159000},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":1540995,"shareType":"SH","putCall":null,"value":373876000},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1275154,"shareType":"SH","putCall":null,"value":373301000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1181131,"shareType":"SH","putCall":null,"value":338819000},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1442411,"shareType":"SH","putCall":null,"value":336457000},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":893126,"shareType":"SH","putCall":null,"value":259632000},
+    {"cusip":"G0403H108","name":"AON PLC","titleOfClass":"SHS CL A","shares":769000,"shareType":"SH","putCall":null,"value":248218000},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":701355,"shareType":"SH","putCall":null,"value":211978000},
+    {"cusip":"879369106","name":"TELEFLEX INCORPORATED","titleOfClass":"COM","shares":1595000,"shareType":"SH","putCall":null,"value":190778000},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":892763,"shareType":"SH","putCall":null,"value":169134000},
+    {"cusip":"372460105","name":"GENUINE PARTS CO","titleOfClass":"COM","shares":1490348,"shareType":"SH","putCall":null,"value":157604000},
+    {"cusip":"G61188127","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL C","shares":13397247,"shareType":"SH","putCall":null,"value":157150000},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":9259844,"shareType":"SH","putCall":null,"value":136305000},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":3044818,"shareType":"SH","putCall":null,"value":122676000},
+    {"cusip":"03064D108","name":"AMERICOLD REALTY TRUST INC","titleOfClass":"COM","shares":7780800,"shareType":"SH","putCall":null,"value":89168000},
+    {"cusip":"60855R100","name":"MOLINA HEALTHCARE INC","titleOfClass":"COM","shares":633609,"shareType":"SH","putCall":null,"value":84460000},
+    {"cusip":"40054J109","name":"GRUPO AEROMEXICO SAB DE CV","titleOfClass":"SPONSORED ADS","shares":4880188,"shareType":"SH","putCall":null,"value":68371000},
+    {"cusip":"G66721104","name":"NORWEGIAN CRUISE LINE HLDGS","titleOfClass":"SHS","shares":3630000,"shareType":"SH","putCall":null,"value":67881000},
+    {"cusip":"92243G108","name":"VAXCYTE INC","titleOfClass":"COM","shares":800000,"shareType":"SH","putCall":null,"value":46488000},
+    {"cusip":"67011P100","name":"DNOW INC","titleOfClass":"COM","shares":3625000,"shareType":"SH","putCall":null,"value":43174000}
+  ]
+}

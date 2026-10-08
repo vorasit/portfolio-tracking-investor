@@ -1,0 +1,11 @@
+{
+  "cik": "2026053",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filings": [
+    {"cik":"2026053","accession":"0001172661-26-001095","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":9000000,"shareType":"SH","putCall":null,"value":717930000}
+  ]
+}

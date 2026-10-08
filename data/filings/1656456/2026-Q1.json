@@ -1,0 +1,41 @@
+{
+  "cik": "1656456",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1656456","accession":"0001656456-26-000002","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":4320000,"shareType":"SH","putCall":null,"value":899726400},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":1665000,"shareType":"SH","putCall":null,"value":562503600},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1732700,"shareType":"SH","putCall":null,"value":497042322},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":6332720,"shareType":"SH","putCall":null,"value":455512550},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":1327500,"shareType":"SH","putCall":null,"value":448628625},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":3465000,"shareType":"SH","putCall":null,"value":434718900},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":2022332,"shareType":"SH","putCall":null,"value":304017170},
+    {"cusip":"464286772","name":"ISHARES INC","titleOfClass":"MSCI STH KOR ETF","shares":2400000,"shareType":"SH","putCall":null,"value":295224000},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":1471500,"shareType":"SH","putCall":null,"value":256629600},
+    {"cusip":"629377508","name":"NRG ENERGY INC","titleOfClass":"COM NEW","shares":1734442,"shareType":"SH","putCall":null,"value":253471354},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":436500,"shareType":"SH","putCall":null,"value":249734745},
+    {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":281250,"shareType":"SH","putCall":null,"value":178689375},
+    {"cusip":"219350105","name":"CORNING INC","titleOfClass":"COM","shares":1129500,"shareType":"SH","putCall":null,"value":153578115},
+    {"cusip":"963320106","name":"WHIRLPOOL CORP","titleOfClass":"COM","shares":1950000,"shareType":"SH","putCall":null,"value":105144000},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":900000,"shareType":"SH","putCall":null,"value":91962000},
+    {"cusip":"512807306","name":"LAM RESEARCH CORP","titleOfClass":"COM NEW","shares":382500,"shareType":"SH","putCall":null,"value":81724950},
+    {"cusip":"056752108","name":"BAIDU INC","titleOfClass":"SPON ADR REP A","shares":692100,"shareType":"SH","putCall":null,"value":77113782},
+    {"cusip":"502431109","name":"L3HARRIS TECHNOLOGIES INC","titleOfClass":"COM","shares":198000,"shareType":"SH","putCall":null,"value":68339700},
+    {"cusip":"75513E101","name":"RTX CORPORATION","titleOfClass":"COM","shares":342000,"shareType":"SH","putCall":null,"value":65971800},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":49500,"shareType":"SH","putCall":null,"value":65381085},
+    {"cusip":"747525103","name":"QUALCOMM INC","titleOfClass":"COM","shares":498613,"shareType":"SH","putCall":null,"value":64211382},
+    {"cusip":"058498106","name":"BALL CORP","titleOfClass":"COM","shares":837000,"shareType":"SH","putCall":null,"value":49475070},
+    {"cusip":"007903107","name":"ADVANCED MICRO DEVICES INC","titleOfClass":"COM","shares":221400,"shareType":"SH","putCall":null,"value":45039402},
+    {"cusip":"47215P106","name":"JD.COM INC","titleOfClass":"SPON ADS CL A","shares":1305000,"shareType":"SH","putCall":null,"value":38588850},
+    {"cusip":"55087P104","name":"LYFT INC","titleOfClass":"CL A COM","shares":2700000,"shareType":"SH","putCall":null,"value":35910000},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":90000,"shareType":"SH","putCall":null,"value":33315300},
+    {"cusip":"500767306","name":"KRANESHARES TRUST","titleOfClass":"CSI CHI INTERNET","shares":1080000,"shareType":"SH","putCall":null,"value":30704400},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":1576125,"shareType":"SH","putCall":null,"value":30419213},
+    {"cusip":"55336V100","name":"MPLX LP","titleOfClass":"COM UNIT REP LTD","shares":502460,"shareType":"SH","putCall":null,"value":28675392},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":90000,"shareType":"SH","putCall":null,"value":24353100},
+    {"cusip":"D18190898","name":"DEUTSCHE BK AG","titleOfClass":"NAMEN AKT","shares":257616,"shareType":"SH","putCall":null,"value":7671804}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "cik": "2026053",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"2026053","accession":"0001172661-26-003790","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":34326200,"shareType":"SH","putCall":null,"value":2476978592},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":57481047,"shareType":"SH","putCall":null,"value":2448117792},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":6206730,"shareType":"SH","putCall":null,"value":2315234425},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":8563857,"shareType":"SH","putCall":null,"value":2041109677},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":1991144055},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":25821284,"shareType":"SH","putCall":null,"value":1872301303},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":3196062,"shareType":"SH","putCall":null,"value":1800309764},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":3270470,"shareType":"SH","putCall":null,"value":1122065552},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":2124646,"shareType":"SH","putCall":null,"value":1091218186},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":2593155,"shareType":"SH","putCall":null,"value":1056088305},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":13081465,"shareType":"SH","putCall":null,"value":934016601},
+    {"cusip":"71531T105","name":"PERSHING SQUARE USA LTD","titleOfClass":"COM SHS","shares":4000000,"shareType":"SH","putCall":null,"value":149520000},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":133632548},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":14991599,"shareType":"SH","putCall":null,"value":33955972}
+  ]
+}

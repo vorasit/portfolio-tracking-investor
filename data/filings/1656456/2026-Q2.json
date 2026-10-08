@@ -1,0 +1,37 @@
+{
+  "cik": "1656456",
+  "period": "2026-06-30",
+  "quarter": "2026-Q2",
+  "filings": [
+    {"cik":"1656456","accession":"0001656456-26-000003","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":5000000,"shareType":"SH","putCall":null,"value":1191700000},
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":975000,"shareType":"SH","putCall":null,"value":1125432750},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":1650000,"shareType":"SH","putCall":null,"value":787990500},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1850000,"shareType":"SH","putCall":null,"value":653660500},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":7694071,"shareType":"SH","putCall":null,"value":555204163},
+    {"cusip":"464286772","name":"ISHARES INC","titleOfClass":"MSCI STH KOR ETF","shares":2425000,"shareType":"SH","putCall":null,"value":489607500},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":675000,"shareType":"SH","putCall":null,"value":380220750},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":2215272,"shareType":"SH","putCall":null,"value":351408597},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":1525000,"shareType":"SH","putCall":null,"value":305137250},
+    {"cusip":"629377508","name":"NRG ENERGY INC","titleOfClass":"COM NEW","shares":1760000,"shareType":"SH","putCall":null,"value":257065600},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":835000,"shareType":"SH","putCall":"Put","value":241615600},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":2000000,"shareType":"SH","putCall":null,"value":191960000},
+    {"cusip":"097023105","name":"BOEING CO","titleOfClass":"COM","shares":800000,"shareType":"SH","putCall":null,"value":173176000},
+    {"cusip":"512807306","name":"LAM RESEARCH CORP","titleOfClass":"COM NEW","shares":382500,"shareType":"SH","putCall":null,"value":165748725},
+    {"cusip":"056752108","name":"BAIDU INC","titleOfClass":"SPON ADR REP A","shares":1295000,"shareType":"SH","putCall":null,"value":148005550},
+    {"cusip":"02376R102","name":"AMERICAN AIRLINES GROUP INC","titleOfClass":"COM","shares":7500000,"shareType":"SH","putCall":null,"value":135525000},
+    {"cusip":"007903107","name":"ADVANCED MICRO DEVICES INC","titleOfClass":"COM","shares":197500,"shareType":"SH","putCall":null,"value":114729725},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":1078248,"shareType":"SH","putCall":null,"value":107328806},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":50000,"shareType":"SH","putCall":null,"value":99472000},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":150000,"shareType":"SH","putCall":null,"value":56662500},
+    {"cusip":"747525103","name":"QUALCOMM INC","titleOfClass":"COM","shares":250000,"shareType":"SH","putCall":null,"value":46197500},
+    {"cusip":"84615Q103","name":"SPACE EXPLORATION TECHN CORP","titleOfClass":"CLASS A COM STK","shares":225000,"shareType":"SH","putCall":null,"value":38443500},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":1576125,"shareType":"SH","putCall":null,"value":30135510},
+    {"cusip":"55336V100","name":"MPLX LP","titleOfClass":"COM UNIT REP LTD","shares":502460,"shareType":"SH","putCall":null,"value":28303572},
+    {"cusip":"963320106","name":"WHIRLPOOL CORP","titleOfClass":"COM","shares":715000,"shareType":"SH","putCall":null,"value":28185300},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":25000,"shareType":"SH","putCall":"Put","value":12509750},
+    {"cusip":"382550101","name":"GOODYEAR TIRE & RUBR CO","titleOfClass":"COM","shares":1508591,"shareType":"SH","putCall":null,"value":9956701}
+  ]
+}

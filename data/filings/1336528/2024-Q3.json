@@ -1,0 +1,21 @@
+{
+  "cik": "1336528",
+  "period": "2024-09-30",
+  "quarter": "2024-Q3",
+  "filings": [
+    {"cik":"1336528","accession":"0001172661-24-005218","form":"13F-HR","filedAt":"2024-11-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":32735883,"shareType":"SH","putCall":null,"value":1739912181},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":7370168,"shareType":"SH","putCall":null,"value":1698823724},
+    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":28815165,"shareType":"SH","putCall":null,"value":1660329807},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1658825918},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1459715316},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":16280338,"shareType":"SH","putCall":null,"value":1439181879},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14877651,"shareType":"SH","putCall":null,"value":1272634267},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7547582,"shareType":"SH","putCall":null,"value":1261880235},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":3986488,"shareType":"SH","putCall":null,"value":661159035},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":2094673,"shareType":"SH","putCall":null,"value":57435934},
+    {"cusip":"812215101","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"RIGHT 10/10/2024","shares":2094673,"shareType":"SH","putCall":null,"value":6179285}
+  ]
+}
