@@ -1,0 +1,40 @@
+[
+  {
+    "id": "warren-buffett",
+    "name": "Warren Buffett",
+    "fund": "Berkshire Hathaway",
+    "ciks": ["1067983"],
+    "styles": ["value"],
+    "notes": "พอร์ตหุ้นของ Berkshire Hathaway ทั้งกลุ่ม รวมบริษัทประกันในเครือ ตั้งแต่ปี 2026 Greg Abel เป็น CEO แทน"
+  },
+  {
+    "id": "bill-ackman",
+    "name": "Bill Ackman",
+    "fund": "Pershing Square",
+    "ciks": ["1336528", "2026053"],
+    "styles": ["activist"],
+    "notes": "ตั้งแต่ Q2/2026 Pershing Square Capital Management ยื่น 13F-NT และให้ Pershing Square Inc. (บริษัทแม่) รายงานพอร์ตแทน จึงรวมสอง CIK"
+  },
+  {
+    "id": "seth-klarman",
+    "name": "Seth Klarman",
+    "fund": "Baupost Group",
+    "ciks": ["1061768"],
+    "styles": ["value"]
+  },
+  {
+    "id": "stanley-druckenmiller",
+    "name": "Stanley Druckenmiller",
+    "fund": "Duquesne Family Office",
+    "ciks": ["1536411"],
+    "styles": ["macro"]
+  },
+  {
+    "id": "david-tepper",
+    "name": "David Tepper",
+    "fund": "Appaloosa",
+    "ciks": ["1656456"],
+    "styles": ["distressed"],
+    "notes": "มีสถานะ put option ซึ่ง 13F รายงานเป็นมูลค่าหุ้นอ้างอิง ไม่นับรวมในมูลค่าพอร์ต"
+  }
+]

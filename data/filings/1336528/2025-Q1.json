@@ -1,0 +1,21 @@
+{
+  "cik": "1336528",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1336528","accession":"0001172661-25-002315","form":"13F-HR","filedAt":"2025-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":30301161,"shareType":"SH","putCall":null,"value":2207742590},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":41004657,"shareType":"SH","putCall":null,"value":2149054073},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1532780909},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1396560901},
+    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":21541177,"shareType":"SH","putCall":null,"value":1081582497},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14799796,"shareType":"SH","putCall":null,"value":1039093677},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":6324031,"shareType":"SH","putCall":null,"value":988003363},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":4437980,"shareType":"SH","putCall":null,"value":686289227},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":3000770,"shareType":"SH","putCall":null,"value":682825214},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":107860557},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":15000000,"shareType":"SH","putCall":null,"value":59100000}
+  ]
+}

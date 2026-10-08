@@ -1,0 +1,35 @@
+{
+  "investorId": "bill-ackman",
+  "period": "2025-12-31",
+  "quarter": "2025-Q4",
+  "filedAt": "2026-02-17",
+  "filings": [
+    {"cik":"1336528","accession":"0001172661-26-001091","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null},
+    {"cik":"2026053","accession":"0001172661-26-001095","form":"13F-HR","filedAt":"2026-02-17","amendmentType":null}
+  ],
+  "totalValue": 16244667802,
+  "holdings": [
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":61403089,"shareType":"SH","putCall":null,"value":2817787754,"ticker":"BN","weight":0.173459},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":30207734,"shareType":"SH","putCall":null,"value":2468273945,"ticker":"UBER","weight":0.151944},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":2221759145,"ticker":"HHH","weight":0.136769},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":9607824,"shareType":"SH","putCall":null,"value":2217677936,"ticker":"AMZN","weight":0.136517},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":6163871,"shareType":"SH","putCall":null,"value":1934222720,"ticker":"GOOG","weight":0.119068},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2673569,"shareType":"SH","putCall":null,"value":1764796161,"ticker":"META","weight":0.108638},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":22866773,"shareType":"SH","putCall":null,"value":1560199922,"ticker":"QSR","weight":0.096044},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":3028664,"shareType":"SH","putCall":null,"value":869983734,"ticker":"HLT","weight":0.053555},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":678297,"shareType":"SH","putCall":null,"value":212306961,"ticker":"GOOGL","weight":0.013069},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":99320131,"ticker":"SEG","weight":0.006114},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":15241127,"shareType":"SH","putCall":null,"value":78339393,"ticker":"HTZ","weight":0.004822}
+  ],
+  "changes": [
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"new","shares":2673569,"prevShares":0},
+    {"cusip":"11271J107","ticker":"BN","name":"BROOKFIELD CORP","putCall":null,"action":"add","shares":61403089,"prevShares":41020231},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"add","shares":9607824,"prevShares":5823316},
+    {"cusip":"90353T100","ticker":"UBER","name":"UBER TECHNOLOGIES INC","putCall":null,"action":"reduce","shares":30207734,"prevShares":30270518},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":6163871,"prevShares":6324031},
+    {"cusip":"76131D103","ticker":"QSR","name":"RESTAURANT BRANDS INTL INC","putCall":null,"action":"reduce","shares":22866773,"prevShares":22915496},
+    {"cusip":"43300A203","ticker":"HLT","name":"HILTON WORLDWIDE HLDGS INC","putCall":null,"action":"reduce","shares":3028664,"prevShares":3030578},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":678297,"prevShares":4843973},
+    {"cusip":"169656105","ticker":"CMG","name":"CHIPOTLE MEXICAN GRILL INC","putCall":null,"action":"exit","shares":0,"prevShares":21541177}
+  ]
+}

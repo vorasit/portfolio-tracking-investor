@@ -1,0 +1,32 @@
+{
+  "cik": "1061768",
+  "period": "2025-09-30",
+  "quarter": "2025-Q3",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-25-000007","form":"13F-HR","filedAt":"2025-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":8252862,"shareType":"SH","putCall":null,"value":529337000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1858138,"shareType":"SH","putCall":null,"value":452550000},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1319000,"shareType":"SH","putCall":null,"value":426195000},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":3383395,"shareType":"SH","putCall":null,"value":405669000},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":1089065,"shareType":"SH","putCall":null,"value":376218000},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":1496204,"shareType":"SH","putCall":null,"value":353658000},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":1503180,"shareType":"SH","putCall":null,"value":317923000},
+    {"cusip":"256677105","name":"DOLLAR GEN CORP NEW","titleOfClass":"COM","shares":2666876,"shareType":"SH","putCall":null,"value":275622000},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1155500,"shareType":"SH","putCall":null,"value":259502000},
+    {"cusip":"G61188127","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL C","shares":21657803,"shareType":"SH","putCall":null,"value":254479000},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":3789711,"shareType":"SH","putCall":null,"value":249894000},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":939660,"shareType":"SH","putCall":null,"value":218978000},
+    {"cusip":"372460105","name":"GENUINE PARTS CO","titleOfClass":"COM","shares":1395000,"shareType":"SH","putCall":null,"value":193347000},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":3249952,"shareType":"SH","putCall":null,"value":125773000},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":895000,"shareType":"SH","putCall":null,"value":115392000},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":7759844,"shareType":"SH","putCall":null,"value":65493000},
+    {"cusip":"G61188101","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL A","shares":5076762,"shareType":"SH","putCall":null,"value":58180000},
+    {"cusip":"03064D108","name":"AMERICOLD REALTY TRUST INC","titleOfClass":"COM","shares":3600000,"shareType":"SH","putCall":null,"value":44064000},
+    {"cusip":"G68707101","name":"PAGSEGURO DIGITAL LTD","titleOfClass":"COM CL A","shares":2500000,"shareType":"SH","putCall":null,"value":25000000},
+    {"cusip":"42703MAF0","name":"HERBALIFE LTD","titleOfClass":"NOTE 4.250% 6/1","shares":17129000,"shareType":"PRN","putCall":null,"value":15833000},
+    {"cusip":"87507T101","name":"TAMBORAN RES CORP","titleOfClass":"COM","shares":570833,"shareType":"SH","putCall":null,"value":15629000},
+    {"cusip":"12685JAG0","name":"CABLE ONE INC","titleOfClass":"NOTE 1.125% 3/1","shares":14100000,"shareType":"PRN","putCall":null,"value":12068000}
+  ]
+}

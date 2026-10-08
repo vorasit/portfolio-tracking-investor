@@ -1,0 +1,21 @@
+{
+  "cik": "1336528",
+  "period": "2026-03-31",
+  "quarter": "2026-Q1",
+  "filings": [
+    {"cik":"1336528","accession":"0001172661-26-002336","form":"13F-HR","filedAt":"2026-05-15","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":59697208,"shareType":"SH","putCall":null,"value":2415946008},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":11451981,"shareType":"SH","putCall":null,"value":2385104083},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":29958771,"shareType":"SH","putCall":null,"value":2154934398},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":5654078,"shareType":"SH","putCall":null,"value":2092970053},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":22645483,"shareType":"SH","putCall":null,"value":1673501194},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2660861,"shareType":"SH","putCall":null,"value":1522358404},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1192581569},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":107910794},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":311726,"shareType":"SH","putCall":null,"value":89421720},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":15241127,"shareType":"SH","putCall":null,"value":70261595},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":32376,"shareType":"SH","putCall":null,"value":9310043}
+  ]
+}

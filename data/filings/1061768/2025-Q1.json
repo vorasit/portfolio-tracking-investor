@@ -1,0 +1,33 @@
+{
+  "cik": "1061768",
+  "period": "2025-03-31",
+  "quarter": "2025-Q1",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-25-000003","form":"13F-HR","filedAt":"2025-05-14","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":1525667,"shareType":"SH","putCall":null,"value":515599000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2077988,"shareType":"SH","putCall":null,"value":324644000},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":2005601,"shareType":"SH","putCall":null,"value":311470000},
+    {"cusip":"G61188127","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL C","shares":24657803,"shareType":"SH","putCall":null,"value":295154000},
+    {"cusip":"31620M106","name":"FIDELITY NATL INFORMATION SV","titleOfClass":"COM","shares":3492947,"shareType":"SH","putCall":null,"value":260853000},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":3886562,"shareType":"SH","putCall":null,"value":259000000},
+    {"cusip":"G25508105","name":"CRH PLC","titleOfClass":"ORD","shares":2694395,"shareType":"SH","putCall":null,"value":237026000},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":909633,"shareType":"SH","putCall":null,"value":201875000},
+    {"cusip":"256677105","name":"DOLLAR GEN CORP NEW","titleOfClass":"COM","shares":2104876,"shareType":"SH","putCall":null,"value":185082000},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1132000,"shareType":"SH","putCall":null,"value":181380000},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":4249952,"shareType":"SH","putCall":null,"value":107651000},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC","titleOfClass":"COM","shares":246000,"shareType":"SH","putCall":null,"value":107000000},
+    {"cusip":"92552V100","name":"VIASAT INC","titleOfClass":"COM","shares":10190728,"shareType":"SH","putCall":null,"value":106187000},
+    {"cusip":"83444M101","name":"SOLVENTUM CORP","titleOfClass":"COM SHS","shares":1053240,"shareType":"SH","putCall":null,"value":80088000},
+    {"cusip":"G4705A100","name":"ICON PLC","titleOfClass":"SHS","shares":405000,"shareType":"SH","putCall":null,"value":70871000},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":7600526,"shareType":"SH","putCall":null,"value":65593000},
+    {"cusip":"G61188101","name":"LIBERTY GLOBAL LTD","titleOfClass":"COM CL A","shares":5076762,"shareType":"SH","putCall":null,"value":58434000},
+    {"cusip":"G21810109","name":"CLARIVATE PLC","titleOfClass":"ORD SHS","shares":10777863,"shareType":"SH","putCall":null,"value":42357000},
+    {"cusip":"88023U101","name":"SOMNIGROUP INTERNATIONAL INC","titleOfClass":"COM","shares":703349,"shareType":"SH","putCall":null,"value":42117000},
+    {"cusip":"42703MAF0","name":"HERBALIFE LTD","titleOfClass":"NOTE 4.250% 6/1","shares":17129000,"shareType":"PRN","putCall":null,"value":14834000},
+    {"cusip":"530307305","name":"LIBERTY BROADBAND CORP","titleOfClass":"COM SER C","shares":170610,"shareType":"SH","putCall":null,"value":14510000},
+    {"cusip":"87507T101","name":"TAMBORAN RES CORP","titleOfClass":"COM","shares":570833,"shareType":"SH","putCall":null,"value":13694000},
+    {"cusip":"530307107","name":"LIBERTY BROADBAND CORP","titleOfClass":"COM SER A","shares":7560,"shareType":"SH","putCall":null,"value":643000}
+  ]
+}
