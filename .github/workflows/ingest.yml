@@ -2,8 +2,9 @@ name: Ingest 13F filings
 
 on:
   schedule:
-    # Every 30 minutes. GitHub may delay scheduled runs when it is busy.
-    - cron: "*/30 * * * *"
+    # Hourly, at minute 17 rather than :00 because GitHub delays or drops
+    # scheduled runs most at the top of the hour.
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       args:
