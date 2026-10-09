@@ -8,13 +8,13 @@
   ],
   "totalValue": 4107246762,
   "holdings": [
-    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1418435778,"ticker":null,"weight":0.34535},
-    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030213,"shareType":"SH","putCall":null,"value":1212368675,"ticker":"GE","weight":0.295178},
-    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8462819,"shareType":"SH","putCall":null,"value":617785787,"ticker":"SOLV","weight":0.150414},
-    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":14628455,"shareType":"SH","putCall":null,"value":335576758,"ticker":"IVZ","weight":0.081704},
-    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30437023,"shareType":"SH","putCall":null,"value":278803131,"ticker":"WEN","weight":0.067881},
-    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":243974055,"ticker":null,"weight":0.059401},
-    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4029,"shareType":"SH","putCall":null,"value":302578,"ticker":"GEHC","weight":0.000074}
+    {"cusip":"G4474Y214","name":"Janus Henderson Group plc","titleOfClass":"ORD SHS","shares":31867800,"shareType":"SH","putCall":null,"value":1418435778,"ticker":null,"weight":0.34535,"price":44.51},
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030213,"shareType":"SH","putCall":null,"value":1212368675,"ticker":"GE","weight":0.295178,"price":300.82},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8462819,"shareType":"SH","putCall":null,"value":617785787,"ticker":"SOLV","weight":0.150414,"price":73},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":14628455,"shareType":"SH","putCall":null,"value":335576758,"ticker":"IVZ","weight":0.081704,"price":22.94},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30437023,"shareType":"SH","putCall":null,"value":278803131,"ticker":"WEN","weight":0.067881,"price":9.16},
+    {"cusip":"G3421J106","name":"Ferguson Plc New","titleOfClass":"SHS","shares":1086357,"shareType":"SH","putCall":null,"value":243974055,"ticker":null,"weight":0.059401,"price":224.58},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":4029,"shareType":"SH","putCall":null,"value":302578,"ticker":"GEHC","weight":0.000074,"price":75.1}
   ],
   "changes": [
     {"cusip":"95058W100","ticker":"WEN","name":"Wendys Co.","putCall":null,"action":"add","shares":30437023,"prevShares":30434794},

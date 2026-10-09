@@ -8,16 +8,16 @@
   ],
   "totalValue": 327076434,
   "holdings": [
-    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":4521894,"shareType":"SH","putCall":null,"value":75425192,"ticker":"VFC","weight":0.230604},
-    {"cusip":"98585X104","name":"YETI HLDGS INC","titleOfClass":"COM","shares":1194095,"shareType":"SH","putCall":null,"value":59179348,"ticker":"YETI","weight":0.180934},
-    {"cusip":"36262G101","name":"GXO LOGISTICS INCORPORATED","titleOfClass":"COMMON STOCK","shares":984769,"shareType":"SH","putCall":null,"value":49927788,"ticker":"GXO","weight":0.152649},
-    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":5563912,"shareType":"SH","putCall":null,"value":30156403,"ticker":"EVH","weight":0.0922},
-    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":484741,"shareType":"SH","putCall":null,"value":28657888,"ticker":"FRPT","weight":0.087618},
-    {"cusip":"192422103","name":"COGNEX CORP","titleOfClass":"COM","shares":339000,"shareType":"SH","putCall":null,"value":24550380,"ticker":"CGNX","weight":0.07506},
-    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":827619,"shareType":"SH","putCall":null,"value":23231265,"ticker":"BL","weight":0.071027},
-    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":3442990,"shareType":"SH","putCall":null,"value":16319773,"ticker":"PTLO","weight":0.049896},
-    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13935560,"shareType":"SH","putCall":null,"value":15468472,"ticker":null,"weight":0.047293},
-    {"cusip":"30050BAH4","name":"EVOLENT HEALTH INC","titleOfClass":"NOTE 3.500%12/0","shares":5500000,"shareType":"PRN","putCall":null,"value":4159925,"ticker":null,"weight":0.012719}
+    {"cusip":"918204108","name":"V F CORP","titleOfClass":"COM","shares":4521894,"shareType":"SH","putCall":null,"value":75425192,"ticker":"VFC","weight":0.230604,"price":16.68},
+    {"cusip":"98585X104","name":"YETI HLDGS INC","titleOfClass":"COM","shares":1194095,"shareType":"SH","putCall":null,"value":59179348,"ticker":"YETI","weight":0.180934,"price":49.56},
+    {"cusip":"36262G101","name":"GXO LOGISTICS INCORPORATED","titleOfClass":"COMMON STOCK","shares":984769,"shareType":"SH","putCall":null,"value":49927788,"ticker":"GXO","weight":0.152649,"price":50.7},
+    {"cusip":"30050B101","name":"EVOLENT HEALTH INC","titleOfClass":"CL A","shares":5563912,"shareType":"SH","putCall":null,"value":30156403,"ticker":"EVH","weight":0.0922,"price":5.42},
+    {"cusip":"358039105","name":"FRESHPET INC","titleOfClass":"COM","shares":484741,"shareType":"SH","putCall":null,"value":28657888,"ticker":"FRPT","weight":0.087618,"price":59.12},
+    {"cusip":"192422103","name":"COGNEX CORP","titleOfClass":"COM","shares":339000,"shareType":"SH","putCall":null,"value":24550380,"ticker":"CGNX","weight":0.07506,"price":72.42},
+    {"cusip":"09239B109","name":"BLACKLINE INC","titleOfClass":"COM","shares":827619,"shareType":"SH","putCall":null,"value":23231265,"ticker":"BL","weight":0.071027,"price":28.07},
+    {"cusip":"73642K106","name":"PORTILLOS INC","titleOfClass":"COM CL A","shares":3442990,"shareType":"SH","putCall":null,"value":16319773,"ticker":"PTLO","weight":0.049896,"price":4.74},
+    {"cusip":"05601U105","name":"BRC INC","titleOfClass":"COM CL A","shares":13935560,"shareType":"SH","putCall":null,"value":15468472,"ticker":null,"weight":0.047293,"price":1.11},
+    {"cusip":"30050BAH4","name":"EVOLENT HEALTH INC","titleOfClass":"NOTE 3.500%12/0","shares":5500000,"shareType":"PRN","putCall":null,"value":4159925,"ticker":null,"weight":0.012719,"price":null}
   ],
   "changes": [
     {"cusip":"358039105","ticker":"FRPT","name":"FRESHPET INC","putCall":null,"action":"new","shares":484741,"prevShares":0},

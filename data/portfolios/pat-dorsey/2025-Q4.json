@@ -8,16 +8,16 @@
   ],
   "totalValue": 1150397601,
   "holdings": [
-    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":192343,"shareType":"SH","putCall":null,"value":205780082,"ticker":"ASML","weight":0.178877},
-    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":827520,"shareType":"SH","putCall":null,"value":189435878,"ticker":"DHR","weight":0.16467},
-    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1215059,"shareType":"SH","putCall":null,"value":174676882,"ticker":"AER","weight":0.15184},
-    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":160450,"shareType":"SH","putCall":null,"value":105911441,"ticker":"META","weight":0.092065},
-    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":16317,"shareType":"SH","putCall":null,"value":87382920,"ticker":"BKNG","weight":0.075959},
-    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2259469,"shareType":"SH","putCall":null,"value":87305882,"ticker":"RPRX","weight":0.075892},
-    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":602973,"shareType":"SH","putCall":null,"value":85923653,"ticker":"LYV","weight":0.07469},
-    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":25121,"shareType":"SH","putCall":null,"value":85197872,"ticker":"AZO","weight":0.07406},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":216906,"shareType":"SH","putCall":null,"value":68065103,"ticker":"GOOG","weight":0.059167},
-    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2279200,"shareType":"SH","putCall":null,"value":60717888,"ticker":"ENOV","weight":0.05278}
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":192343,"shareType":"SH","putCall":null,"value":205780082,"ticker":"ASML","weight":0.178877,"price":1069.86},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":827520,"shareType":"SH","putCall":null,"value":189435878,"ticker":"DHR","weight":0.16467,"price":228.92},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":1215059,"shareType":"SH","putCall":null,"value":174676882,"ticker":"AER","weight":0.15184,"price":143.76},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":160450,"shareType":"SH","putCall":null,"value":105911441,"ticker":"META","weight":0.092065,"price":660.09},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":16317,"shareType":"SH","putCall":null,"value":87382920,"ticker":"BKNG","weight":0.075959,"price":5355.33},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2259469,"shareType":"SH","putCall":null,"value":87305882,"ticker":"RPRX","weight":0.075892,"price":38.64},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":602973,"shareType":"SH","putCall":null,"value":85923653,"ticker":"LYV","weight":0.07469,"price":142.5},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":25121,"shareType":"SH","putCall":null,"value":85197872,"ticker":"AZO","weight":0.07406,"price":3391.5},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":216906,"shareType":"SH","putCall":null,"value":68065103,"ticker":"GOOG","weight":0.059167,"price":313.8},
+    {"cusip":"194014502","name":"ENOVIS CORPORATION","titleOfClass":"COM","shares":2279200,"shareType":"SH","putCall":null,"value":60717888,"ticker":"ENOV","weight":0.05278,"price":26.64}
   ],
   "changes": [
     {"cusip":"538034109","ticker":"LYV","name":"LIVE NATION ENTERTAINMENT IN","putCall":null,"action":"new","shares":602973,"prevShares":0},

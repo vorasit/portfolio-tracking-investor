@@ -15,6 +15,7 @@ const holding = (ticker: string | null, value: number, putCall: Holding["putCall
   value,
   ticker,
   weight: putCall ? null : 0.5,
+  price: null,
 });
 
 const portfolio = (investorId: string, holdings: Holding[], changes: Change[] | null): Portfolio => ({

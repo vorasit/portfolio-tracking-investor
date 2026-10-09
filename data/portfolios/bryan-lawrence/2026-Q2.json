@@ -8,15 +8,15 @@
   ],
   "totalValue": 268452796,
   "holdings": [
-    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":89715610,"ticker":"IBKR","weight":0.334195},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":41749826,"ticker":"GOOG","weight":0.15552},
-    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":35175152,"ticker":"GIL","weight":0.131029},
-    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":32195407,"ticker":"TDG","weight":0.119929},
-    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":158683,"shareType":"SH","putCall":null,"value":19525943,"ticker":"GWRE","weight":0.072735},
-    {"cusip":"615369105","name":"MOODY'S CORP","titleOfClass":"COM","shares":34000,"shareType":"SH","putCall":null,"value":15399280,"ticker":"MCO","weight":0.057363},
-    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":14114229,"ticker":"SGU","weight":0.052576},
-    {"cusip":"526057104","name":"LENNAR CORP-A","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":10677820,"ticker":"LEN","weight":0.039775},
-    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS LP","titleOfClass":"COM UNIT LTD PAR","shares":102057,"shareType":"SH","putCall":null,"value":9899529,"ticker":"NRP","weight":0.036876}
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":89715610,"ticker":"IBKR","weight":0.334195,"price":87.04},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":41749826,"ticker":"GOOG","weight":0.15552,"price":353.33},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":35175152,"ticker":"GIL","weight":0.131029,"price":51.6},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":32195407,"ticker":"TDG","weight":0.119929,"price":1332.04},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":158683,"shareType":"SH","putCall":null,"value":19525943,"ticker":"GWRE","weight":0.072735,"price":123.05},
+    {"cusip":"615369105","name":"MOODY'S CORP","titleOfClass":"COM","shares":34000,"shareType":"SH","putCall":null,"value":15399280,"ticker":"MCO","weight":0.057363,"price":452.92},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":14114229,"ticker":"SGU","weight":0.052576,"price":12.84},
+    {"cusip":"526057104","name":"LENNAR CORP-A","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":10677820,"ticker":"LEN","weight":0.039775,"price":90.49},
+    {"cusip":"63900P608","name":"NATURAL RESOURCE PARTNERS LP","titleOfClass":"COM UNIT LTD PAR","shares":102057,"shareType":"SH","putCall":null,"value":9899529,"ticker":"NRP","weight":0.036876,"price":97}
   ],
   "changes": [
     {"cusip":"615369105","ticker":"MCO","name":"MOODY'S CORP","putCall":null,"action":"new","shares":34000,"prevShares":0},

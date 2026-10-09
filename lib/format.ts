@@ -23,6 +23,21 @@ export function formatPercent(weight: number): string {
 }
 
 const integer = new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 });
+const usdPrice = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", minimumFractionDigits: 2 });
+const usdPennyPrice = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", minimumFractionDigits: 4 });
+
+/** Share price: "$289.36", or 4 decimals below $1. */
+export function formatPrice(price: number): string {
+  return (price < 1 ? usdPennyPrice : usdPrice).format(price);
+}
+
+/** Current quotes live on other sites: this one shows only prices derived from 13F filings. */
+export function externalQuoteLinks(ticker: string): { label: string; href: string }[] {
+  return [
+    { label: "Yahoo Finance", href: `https://finance.yahoo.com/quote/${encodeURIComponent(ticker.replace(".", "-"))}` },
+    { label: "Google", href: `https://www.google.com/search?q=${encodeURIComponent(`${ticker} stock`)}` },
+  ];
+}
 
 export function formatShares(shares: number): string {
   return integer.format(shares);
@@ -30,8 +45,10 @@ export function formatShares(shares: number): string {
 
 /** 0.253 -> "+25.3%", -0.4 -> "−40.0%" */
 export function formatSignedPercent(ratio: number): string {
-  const sign = ratio > 0 ? "+" : ratio < 0 ? "−" : "";
-  return `${sign}${Math.abs(ratio * 100).toFixed(1)}%`;
+  const percent = Math.abs(ratio * 100).toFixed(1);
+  // Sign from the rounded figure, so -0.04% shows as "0.0%" rather than "−0.0%".
+  const sign = Number(percent) === 0 ? "" : ratio > 0 ? "+" : "−";
+  return `${sign}${percent}%`;
 }
 
 /** "2026-08-14" -> "14 ส.ค. 2026" */

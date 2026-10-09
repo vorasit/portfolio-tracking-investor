@@ -8,17 +8,17 @@
   ],
   "totalValue": 12916077581,
   "holdings": [
-    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":32735883,"shareType":"SH","putCall":null,"value":1739912181,"ticker":"BN","weight":0.134709},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":7370168,"shareType":"SH","putCall":null,"value":1698823724,"ticker":"HLT","weight":0.131528},
-    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":28815165,"shareType":"SH","putCall":null,"value":1660329807,"ticker":"CMG","weight":0.128548},
-    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1658825918,"ticker":"QSR","weight":0.128431},
-    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1459715316,"ticker":"HHH","weight":0.113015},
-    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":16280338,"shareType":"SH","putCall":null,"value":1439181879,"ticker":"NKE","weight":0.111426},
-    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14877651,"shareType":"SH","putCall":null,"value":1272634267,"ticker":"CP","weight":0.098531},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7547582,"shareType":"SH","putCall":null,"value":1261880235,"ticker":"GOOG","weight":0.097698},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":3986488,"shareType":"SH","putCall":null,"value":661159035,"ticker":"GOOGL","weight":0.051189},
-    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":2094673,"shareType":"SH","putCall":null,"value":57435934,"ticker":"SEG","weight":0.004447},
-    {"cusip":"812215101","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"RIGHT 10/10/2024","shares":2094673,"shareType":"SH","putCall":null,"value":6179285,"ticker":null,"weight":0.000478}
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":32735883,"shareType":"SH","putCall":null,"value":1739912181,"ticker":"BN","weight":0.134709,"price":53.15},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":7370168,"shareType":"SH","putCall":null,"value":1698823724,"ticker":"HLT","weight":0.131528,"price":230.5},
+    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":28815165,"shareType":"SH","putCall":null,"value":1660329807,"ticker":"CMG","weight":0.128548,"price":57.62},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1658825918,"ticker":"QSR","weight":0.128431,"price":72.12},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":18852064,"shareType":"SH","putCall":null,"value":1459715316,"ticker":"HHH","weight":0.113015,"price":77.43},
+    {"cusip":"654106103","name":"NIKE INC","titleOfClass":"CL B","shares":16280338,"shareType":"SH","putCall":null,"value":1439181879,"ticker":"NKE","weight":0.111426,"price":88.4},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":14877651,"shareType":"SH","putCall":null,"value":1272634267,"ticker":"CP","weight":0.098531,"price":85.54},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7547582,"shareType":"SH","putCall":null,"value":1261880235,"ticker":"GOOG","weight":0.097698,"price":167.19},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":3986488,"shareType":"SH","putCall":null,"value":661159035,"ticker":"GOOGL","weight":0.051189,"price":165.85},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":2094673,"shareType":"SH","putCall":null,"value":57435934,"ticker":"SEG","weight":0.004447,"price":27.42},
+    {"cusip":"812215101","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"RIGHT 10/10/2024","shares":2094673,"shareType":"SH","putCall":null,"value":6179285,"ticker":null,"weight":0.000478,"price":3.00993}
   ],
   "changes": null
 }

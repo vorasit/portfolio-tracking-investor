@@ -8,14 +8,14 @@
   ],
   "totalValue": 418666506,
   "holdings": [
-    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":495000,"shareType":"SH","putCall":null,"value":117978300,"ticker":"AMZN","weight":0.281795},
-    {"cusip":"92837L109","name":"VISTA ENERGY S.A.B. DE C.V.","titleOfClass":"SPONSORED ADS","shares":1189792,"shareType":"SH","putCall":null,"value":75908730,"ticker":"VIST","weight":0.181311},
-    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":372755,"shareType":"SH","putCall":null,"value":59130126,"ticker":"VST","weight":0.141234},
-    {"cusip":"025537101","name":"AMERICAN ELEC PWR CO INC","titleOfClass":"COM","shares":308617,"shareType":"SH","putCall":null,"value":42221892,"ticker":"AEP","weight":0.100849},
-    {"cusip":"233331107","name":"DTE ENERGY CO","titleOfClass":"COM","shares":264450,"shareType":"SH","putCall":null,"value":40294247,"ticker":"DTE","weight":0.096244},
-    {"cusip":"337932107","name":"FIRSTENERGY CORP","titleOfClass":"COM","shares":839319,"shareType":"SH","putCall":null,"value":39901225,"ticker":"FE","weight":0.095306},
-    {"cusip":"125896100","name":"CMS ENERGY CORP","titleOfClass":"COM","shares":517124,"shareType":"SH","putCall":null,"value":39559986,"ticker":"CMS","weight":0.09449},
-    {"cusip":"98386P102","name":"X-ENERGY INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":3672000,"ticker":"XE","weight":0.008771}
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":495000,"shareType":"SH","putCall":null,"value":117978300,"ticker":"AMZN","weight":0.281795,"price":238.34},
+    {"cusip":"92837L109","name":"VISTA ENERGY S.A.B. DE C.V.","titleOfClass":"SPONSORED ADS","shares":1189792,"shareType":"SH","putCall":null,"value":75908730,"ticker":"VIST","weight":0.181311,"price":63.8},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":372755,"shareType":"SH","putCall":null,"value":59130126,"ticker":"VST","weight":0.141234,"price":158.63},
+    {"cusip":"025537101","name":"AMERICAN ELEC PWR CO INC","titleOfClass":"COM","shares":308617,"shareType":"SH","putCall":null,"value":42221892,"ticker":"AEP","weight":0.100849,"price":136.81},
+    {"cusip":"233331107","name":"DTE ENERGY CO","titleOfClass":"COM","shares":264450,"shareType":"SH","putCall":null,"value":40294247,"ticker":"DTE","weight":0.096244,"price":152.37},
+    {"cusip":"337932107","name":"FIRSTENERGY CORP","titleOfClass":"COM","shares":839319,"shareType":"SH","putCall":null,"value":39901225,"ticker":"FE","weight":0.095306,"price":47.54},
+    {"cusip":"125896100","name":"CMS ENERGY CORP","titleOfClass":"COM","shares":517124,"shareType":"SH","putCall":null,"value":39559986,"ticker":"CMS","weight":0.09449,"price":76.5},
+    {"cusip":"98386P102","name":"X-ENERGY INC","titleOfClass":"COM CL A","shares":200000,"shareType":"SH","putCall":null,"value":3672000,"ticker":"XE","weight":0.008771,"price":18.36}
   ],
   "changes": [
     {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"new","shares":495000,"prevShares":0},

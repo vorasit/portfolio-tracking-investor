@@ -8,9 +8,9 @@
   ],
   "totalValue": 253439237,
   "holdings": [
-    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":487251,"shareType":"SH","putCall":null,"value":97508670,"ticker":"AMR","weight":0.384742},
-    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1704670,"shareType":"SH","putCall":null,"value":92461301,"ticker":"HCC","weight":0.364826},
-    {"cusip":"20854L108","name":"CONSOL ENERGY INC NEW","titleOfClass":"COM","shares":594950,"shareType":"SH","putCall":null,"value":63469266,"ticker":null,"weight":0.250432}
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":487251,"shareType":"SH","putCall":null,"value":97508670,"ticker":"AMR","weight":0.384742,"price":200.12},
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1704670,"shareType":"SH","putCall":null,"value":92461301,"ticker":"HCC","weight":0.364826,"price":54.24},
+    {"cusip":"20854L108","name":"CONSOL ENERGY INC NEW","titleOfClass":"COM","shares":594950,"shareType":"SH","putCall":null,"value":63469266,"ticker":null,"weight":0.250432,"price":106.68}
   ],
   "changes": [
     {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"add","shares":487251,"prevShares":479698},

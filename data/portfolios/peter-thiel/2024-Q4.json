@@ -8,9 +8,9 @@
   ],
   "totalValue": 118001154,
   "holdings": [
-    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":105460,"shareType":"SH","putCall":null,"value":42588966,"ticker":"TSLA","weight":0.36092},
-    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":192611,"shareType":"SH","putCall":null,"value":42256927,"ticker":"AMZN","weight":0.358106},
-    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":246893,"shareType":"SH","putCall":null,"value":33155261,"ticker":"NVDA","weight":0.280974}
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":105460,"shareType":"SH","putCall":null,"value":42588966,"ticker":"TSLA","weight":0.36092,"price":403.84},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":192611,"shareType":"SH","putCall":null,"value":42256927,"ticker":"AMZN","weight":0.358106,"price":219.39},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":246893,"shareType":"SH","putCall":null,"value":33155261,"ticker":"NVDA","weight":0.280974,"price":134.29}
   ],
   "changes": null
 }

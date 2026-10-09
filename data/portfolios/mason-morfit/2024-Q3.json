@@ -9,17 +9,17 @@
   ],
   "totalValue": 4373981460,
   "holdings": [
-    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":3914309,"shareType":"SH","putCall":null,"value":1071385516,"ticker":"CRM","weight":0.244945},
-    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":4061739,"shareType":"SH","putCall":null,"value":874857963,"ticker":"NSIT","weight":0.200014},
-    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":7464831,"shareType":"SH","putCall":null,"value":718042094,"ticker":"DIS","weight":0.164162},
-    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":10135921,"shareType":"SH","putCall":null,"value":448615863,"ticker":"RBLX","weight":0.102565},
-    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":15482200,"shareType":"SH","putCall":null,"value":438301082,"ticker":"TOST","weight":0.100206},
-    {"cusip":"30212P303","name":"EXPEDIA GROUP INC","titleOfClass":"COM NEW","shares":2607606,"shareType":"SH","putCall":null,"value":385977840,"ticker":"EXPE","weight":0.088244},
-    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":211500,"shareType":"SH","putCall":null,"value":121071060,"ticker":"META","weight":0.02768},
-    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":1014650,"shareType":"SH","putCall":null,"value":111094029,"ticker":"LYV","weight":0.025399},
-    {"cusip":"92826C839","name":"VISA","titleOfClass":"COM CL A","shares":373600,"shareType":"SH","putCall":null,"value":102721320,"ticker":"V","weight":0.023485},
-    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":1337500,"shareType":"SH","putCall":null,"value":68653875,"ticker":null,"weight":0.015696},
-    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":671800,"shareType":"SH","putCall":null,"value":33260818,"ticker":null,"weight":0.007604}
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":3914309,"shareType":"SH","putCall":null,"value":1071385516,"ticker":"CRM","weight":0.244945,"price":273.71},
+    {"cusip":"45765U103","name":"INSIGHT ENTERPRISES INC","titleOfClass":"COM","shares":4061739,"shareType":"SH","putCall":null,"value":874857963,"ticker":"NSIT","weight":0.200014,"price":215.39},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":7464831,"shareType":"SH","putCall":null,"value":718042094,"ticker":"DIS","weight":0.164162,"price":96.19},
+    {"cusip":"771049103","name":"ROBLOX CORP","titleOfClass":"CL A","shares":10135921,"shareType":"SH","putCall":null,"value":448615863,"ticker":"RBLX","weight":0.102565,"price":44.26},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":15482200,"shareType":"SH","putCall":null,"value":438301082,"ticker":"TOST","weight":0.100206,"price":28.31},
+    {"cusip":"30212P303","name":"EXPEDIA GROUP INC","titleOfClass":"COM NEW","shares":2607606,"shareType":"SH","putCall":null,"value":385977840,"ticker":"EXPE","weight":0.088244,"price":148.02},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":211500,"shareType":"SH","putCall":null,"value":121071060,"ticker":"META","weight":0.02768,"price":572.44},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":1014650,"shareType":"SH","putCall":null,"value":111094029,"ticker":"LYV","weight":0.025399,"price":109.49},
+    {"cusip":"92826C839","name":"VISA","titleOfClass":"COM CL A","shares":373600,"shareType":"SH","putCall":null,"value":102721320,"ticker":"V","weight":0.023485,"price":274.95},
+    {"cusip":"531229722","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S C","shares":1337500,"shareType":"SH","putCall":null,"value":68653875,"ticker":null,"weight":0.015696,"price":51.33},
+    {"cusip":"531229748","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM LBTY LIV S A","shares":671800,"shareType":"SH","putCall":null,"value":33260818,"ticker":null,"weight":0.007604,"price":49.51}
   ],
   "changes": null
 }

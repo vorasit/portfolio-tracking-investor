@@ -8,17 +8,17 @@
   ],
   "totalValue": 970037173,
   "holdings": [
-    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":578741,"shareType":"SH","putCall":null,"value":124168882,"ticker":"WIX","weight":0.128004},
-    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":208247,"shareType":"SH","putCall":null,"value":121930701,"ticker":"META","weight":0.125697},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":639218,"shareType":"SH","putCall":null,"value":121732676,"ticker":"GOOG","weight":0.125493},
-    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":37570,"shareType":"SH","putCall":null,"value":120299140,"ticker":"AZO","weight":0.124015},
-    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1301183,"shareType":"SH","putCall":null,"value":111055969,"ticker":"PYPL","weight":0.114486},
-    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":394791,"shareType":"SH","putCall":null,"value":90624274,"ticker":"DHR","weight":0.093424},
-    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1447727,"shareType":"SH","putCall":null,"value":81116144,"ticker":null,"weight":0.083622},
-    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":2306149,"shareType":"SH","putCall":null,"value":70821836,"ticker":"SPT","weight":0.073009},
-    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":272903,"shareType":"SH","putCall":null,"value":51668725,"ticker":"HRI","weight":0.053265},
-    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":3045142,"shareType":"SH","putCall":null,"value":49788072,"ticker":"UPWK","weight":0.051326},
-    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2258481,"shareType":"SH","putCall":null,"value":26830754,"ticker":null,"weight":0.02766}
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":578741,"shareType":"SH","putCall":null,"value":124168882,"ticker":"WIX","weight":0.128004,"price":214.55},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":208247,"shareType":"SH","putCall":null,"value":121930701,"ticker":"META","weight":0.125697,"price":585.51},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":639218,"shareType":"SH","putCall":null,"value":121732676,"ticker":"GOOG","weight":0.125493,"price":190.44},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":37570,"shareType":"SH","putCall":null,"value":120299140,"ticker":"AZO","weight":0.124015,"price":3202},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1301183,"shareType":"SH","putCall":null,"value":111055969,"ticker":"PYPL","weight":0.114486,"price":85.35},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":394791,"shareType":"SH","putCall":null,"value":90624274,"ticker":"DHR","weight":0.093424,"price":229.55},
+    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1447727,"shareType":"SH","putCall":null,"value":81116144,"ticker":null,"weight":0.083622,"price":56.03},
+    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":2306149,"shareType":"SH","putCall":null,"value":70821836,"ticker":"SPT","weight":0.073009,"price":30.71},
+    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":272903,"shareType":"SH","putCall":null,"value":51668725,"ticker":"HRI","weight":0.053265,"price":189.33},
+    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":3045142,"shareType":"SH","putCall":null,"value":49788072,"ticker":"UPWK","weight":0.051326,"price":16.35},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2258481,"shareType":"SH","putCall":null,"value":26830754,"ticker":null,"weight":0.02766,"price":11.88}
   ],
   "changes": [
     {"cusip":"M98068105","ticker":"WIX","name":"WIX COM LTD","putCall":null,"action":"add","shares":578741,"prevShares":553894},

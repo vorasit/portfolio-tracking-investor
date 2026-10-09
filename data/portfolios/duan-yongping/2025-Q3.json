@@ -8,17 +8,17 @@
   ],
   "totalValue": 14678516884,
   "holdings": [
-    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":34829107,"shareType":"SH","putCall":null,"value":8868535515,"ticker":"AAPL","weight":0.604185},
-    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":5191300,"shareType":"SH","putCall":null,"value":2609874162,"ticker":"BRK.B","weight":0.177802},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":8574194,"shareType":"SH","putCall":null,"value":1133251221,"ticker":"PDD","weight":0.077205},
-    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13556100,"shareType":"SH","putCall":null,"value":640525725,"ticker":"OXY","weight":0.043637},
-    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":2777330,"shareType":"SH","putCall":null,"value":496392191,"ticker":"BABA","weight":0.033818},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1810500,"shareType":"SH","putCall":null,"value":440947275,"ticker":"GOOG","weight":0.03004},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":279200,"shareType":"SH","putCall":null,"value":144611640,"ticker":"MSFT","weight":0.009852},
-    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":597800,"shareType":"SH","putCall":null,"value":111537524,"ticker":"NVDA","weight":0.007599},
-    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":723000,"shareType":"SH","putCall":null,"value":82783500,"ticker":"DIS","weight":0.00564},
-    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":80000,"shareType":"SH","putCall":null,"value":77447200,"ticker":"ASML","weight":0.005276},
-    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":259984,"shareType":"SH","putCall":null,"value":72610931,"ticker":"TSM","weight":0.004947}
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":34829107,"shareType":"SH","putCall":null,"value":8868535515,"ticker":"AAPL","weight":0.604185,"price":254.63},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":5191300,"shareType":"SH","putCall":null,"value":2609874162,"ticker":"BRK.B","weight":0.177802,"price":502.74},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":8574194,"shareType":"SH","putCall":null,"value":1133251221,"ticker":"PDD","weight":0.077205,"price":132.17},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13556100,"shareType":"SH","putCall":null,"value":640525725,"ticker":"OXY","weight":0.043637,"price":47.25},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":2777330,"shareType":"SH","putCall":null,"value":496392191,"ticker":"BABA","weight":0.033818,"price":178.73},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1810500,"shareType":"SH","putCall":null,"value":440947275,"ticker":"GOOG","weight":0.03004,"price":243.55},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":279200,"shareType":"SH","putCall":null,"value":144611640,"ticker":"MSFT","weight":0.009852,"price":517.95},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":597800,"shareType":"SH","putCall":null,"value":111537524,"ticker":"NVDA","weight":0.007599,"price":186.58},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":723000,"shareType":"SH","putCall":null,"value":82783500,"ticker":"DIS","weight":0.00564,"price":114.5},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":80000,"shareType":"SH","putCall":null,"value":77447200,"ticker":"ASML","weight":0.005276,"price":968.09},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MFG LTD","titleOfClass":"SPONSORED ADS","shares":259984,"shareType":"SH","putCall":null,"value":72610931,"ticker":"TSM","weight":0.004947,"price":279.29}
   ],
   "changes": [
     {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"new","shares":80000,"prevShares":0},

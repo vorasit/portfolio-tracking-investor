@@ -8,9 +8,9 @@
   ],
   "totalValue": 422885142,
   "holdings": [
-    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1810831,"shareType":"SH","putCall":null,"value":168678908,"ticker":"HCC","weight":0.398876},
-    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":20392672,"shareType":"SH","putCall":null,"value":135203415,"ticker":"RIG","weight":0.319717},
-    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":579738,"shareType":"SH","putCall":null,"value":119002819,"ticker":"AMR","weight":0.281407}
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1810831,"shareType":"SH","putCall":null,"value":168678908,"ticker":"HCC","weight":0.398876,"price":93.15},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":20392672,"shareType":"SH","putCall":null,"value":135203415,"ticker":"RIG","weight":0.319717,"price":6.63},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":579738,"shareType":"SH","putCall":null,"value":119002819,"ticker":"AMR","weight":0.281407,"price":205.27}
   ],
   "changes": [
     {"cusip":"93627C101","ticker":"HCC","name":"WARRIOR MET COAL INC","putCall":null,"action":"add","shares":1810831,"prevShares":1799831},

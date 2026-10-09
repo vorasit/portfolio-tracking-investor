@@ -8,18 +8,18 @@
   ],
   "totalValue": 927641584,
   "holdings": [
-    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":232669,"shareType":"SH","putCall":null,"value":133189042,"ticker":"META","weight":0.143578},
-    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":29458,"shareType":"SH","putCall":null,"value":92793878,"ticker":"AZO","weight":0.100032},
-    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":553894,"shareType":"SH","putCall":null,"value":92594460,"ticker":"WIX","weight":0.099817},
-    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":698796,"shareType":"SH","putCall":null,"value":91227818,"ticker":"APP","weight":0.098344},
-    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1162523,"shareType":"SH","putCall":null,"value":90711670,"ticker":"PYPL","weight":0.097787},
-    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":297492,"shareType":"SH","putCall":null,"value":82708726,"ticker":"DHR","weight":0.08916},
-    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1493286,"shareType":"SH","putCall":null,"value":82668313,"ticker":null,"weight":0.089117},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":451618,"shareType":"SH","putCall":null,"value":75506013,"ticker":"GOOG","weight":0.081396},
-    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":426060,"shareType":"SH","putCall":null,"value":67926746,"ticker":"HRI","weight":0.073225},
-    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":1975994,"shareType":"SH","putCall":null,"value":57442146,"ticker":"SPT","weight":0.061923},
-    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2113947,"shareType":"SH","putCall":null,"value":33210107,"ticker":null,"weight":0.035801},
-    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":2647145,"shareType":"SH","putCall":null,"value":27662665,"ticker":"UPWK","weight":0.02982}
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":232669,"shareType":"SH","putCall":null,"value":133189042,"ticker":"META","weight":0.143578,"price":572.44},
+    {"cusip":"053332102","name":"AUTOZONE INC","titleOfClass":"COM","shares":29458,"shareType":"SH","putCall":null,"value":92793878,"ticker":"AZO","weight":0.100032,"price":3150.04},
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":553894,"shareType":"SH","putCall":null,"value":92594460,"ticker":"WIX","weight":0.099817,"price":167.17},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":698796,"shareType":"SH","putCall":null,"value":91227818,"ticker":"APP","weight":0.098344,"price":130.55},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":1162523,"shareType":"SH","putCall":null,"value":90711670,"ticker":"PYPL","weight":0.097787,"price":78.03},
+    {"cusip":"235851102","name":"DANAHER CORPORATION","titleOfClass":"COM","shares":297492,"shareType":"SH","putCall":null,"value":82708726,"ticker":"DHR","weight":0.08916,"price":278.02},
+    {"cusip":"83200N103","name":"SMARTSHEET INC","titleOfClass":"COM CL A","shares":1493286,"shareType":"SH","putCall":null,"value":82668313,"ticker":null,"weight":0.089117,"price":55.36},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":451618,"shareType":"SH","putCall":null,"value":75506013,"ticker":"GOOG","weight":0.081396,"price":167.19},
+    {"cusip":"42704L104","name":"HERC HLDGS INC","titleOfClass":"COM","shares":426060,"shareType":"SH","putCall":null,"value":67926746,"ticker":"HRI","weight":0.073225,"price":159.43},
+    {"cusip":"85209W109","name":"SPROUT SOCIAL INC","titleOfClass":"COM CL A","shares":1975994,"shareType":"SH","putCall":null,"value":57442146,"ticker":"SPT","weight":0.061923,"price":29.07},
+    {"cusip":"81686C104","name":"SEMRUSH HLDGS INC","titleOfClass":"CL A COM","shares":2113947,"shareType":"SH","putCall":null,"value":33210107,"ticker":null,"weight":0.035801,"price":15.71},
+    {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":2647145,"shareType":"SH","putCall":null,"value":27662665,"ticker":"UPWK","weight":0.02982,"price":10.45}
   ],
   "changes": null
 }

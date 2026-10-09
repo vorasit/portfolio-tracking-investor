@@ -9,15 +9,15 @@
   ],
   "totalValue": 3568876223,
   "holdings": [
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":796052900,"ticker":"GOOGL","weight":0.223054},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":769217940,"ticker":"GOOG","weight":0.215535},
-    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":10431387,"shareType":"SH","putCall":null,"value":573726285,"ticker":"BAC","weight":0.160758},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":522501120,"ticker":"PDD","weight":0.146405},
-    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":451253535,"ticker":"BRK.B","weight":0.126441},
-    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":312034089,"ticker":"EWBC","weight":0.087432},
-    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":60302480,"ticker":"OXY","weight":0.016897},
-    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":628159,"shareType":"SH","putCall":null,"value":53720158,"ticker":"CROX","weight":0.015052},
-    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":30067716,"ticker":"AAPL","weight":0.008425}
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":796052900,"ticker":"GOOGL","weight":0.223054,"price":313},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":769217940,"ticker":"GOOG","weight":0.215535,"price":313.8},
+    {"cusip":"060505104","name":"BK OF AMERICA CORP","titleOfClass":"COM","shares":10431387,"shareType":"SH","putCall":null,"value":573726285,"ticker":"BAC","weight":0.160758,"price":55},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":4608000,"shareType":"SH","putCall":null,"value":522501120,"ticker":"PDD","weight":0.146405,"price":113.39},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":897749,"shareType":"SH","putCall":null,"value":451253535,"ticker":"BRK.B","weight":0.126441,"price":502.65},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":312034089,"ticker":"EWBC","weight":0.087432,"price":112.39},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":1466500,"shareType":"SH","putCall":null,"value":60302480,"ticker":"OXY","weight":0.016897,"price":41.12},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":628159,"shareType":"SH","putCall":null,"value":53720158,"ticker":"CROX","weight":0.015052,"price":85.52},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":30067716,"ticker":"AAPL","weight":0.008425,"price":271.86}
   ],
   "changes": [
     {"cusip":"227046109","ticker":"CROX","name":"CROCS INC","putCall":null,"action":"new","shares":628159,"prevShares":0},

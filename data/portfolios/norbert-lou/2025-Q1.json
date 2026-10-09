@@ -8,10 +8,10 @@
   ],
   "totalValue": 216625620,
   "holdings": [
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":115774032,"ticker":"BRK.A","weight":0.534443},
-    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58499337,"ticker":"SGOV","weight":0.270048},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":306751,"shareType":"SH","putCall":null,"value":36303981,"ticker":"PDD","weight":0.167589},
-    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":648956,"shareType":"SH","putCall":null,"value":6048270,"ticker":"SWBI","weight":0.02792}
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":115774032,"ticker":"BRK.A","weight":0.534443,"price":798442},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58499337,"ticker":"SGOV","weight":0.270048,"price":100.67},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":306751,"shareType":"SH","putCall":null,"value":36303981,"ticker":"PDD","weight":0.167589,"price":118.35},
+    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":648956,"shareType":"SH","putCall":null,"value":6048270,"ticker":"SWBI","weight":0.02792,"price":9.32}
   ],
   "changes": [
     {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":306751,"prevShares":130000},

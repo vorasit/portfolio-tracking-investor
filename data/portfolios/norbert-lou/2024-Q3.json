@@ -8,10 +8,10 @@
   ],
   "totalValue": 334565008,
   "holdings": [
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":349,"shareType":"SH","putCall":null,"value":241221820,"ticker":"BRK.A","weight":0.721001},
-    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58528392,"ticker":"SGOV","weight":0.174939},
-    {"cusip":"974637100","name":"WINNEBAGO INDS INC","titleOfClass":"COM","shares":411480,"shareType":"SH","putCall":null,"value":23911103,"ticker":"WGO","weight":0.071469},
-    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":840038,"shareType":"SH","putCall":null,"value":10903693,"ticker":"SWBI","weight":0.032591}
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":349,"shareType":"SH","putCall":null,"value":241221820,"ticker":"BRK.A","weight":0.721001,"price":691180},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":581100,"shareType":"SH","putCall":null,"value":58528392,"ticker":"SGOV","weight":0.174939,"price":100.72},
+    {"cusip":"974637100","name":"WINNEBAGO INDS INC","titleOfClass":"COM","shares":411480,"shareType":"SH","putCall":null,"value":23911103,"ticker":"WGO","weight":0.071469,"price":58.11},
+    {"cusip":"831754106","name":"SMITH & WESSON BRANDS INC","titleOfClass":"COM","shares":840038,"shareType":"SH","putCall":null,"value":10903693,"ticker":"SWBI","weight":0.032591,"price":12.98}
   ],
   "changes": null
 }

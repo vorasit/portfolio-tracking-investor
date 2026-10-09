@@ -9,17 +9,17 @@
   ],
   "totalValue": 14336620533,
   "holdings": [
-    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":30301161,"shareType":"SH","putCall":null,"value":2827098321,"ticker":"UBER","weight":0.197194},
-    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":41160397,"shareType":"SH","putCall":null,"value":2545770554,"ticker":"BN","weight":0.177571},
-    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":1880014320,"ticker":"HHH","weight":0.131134},
-    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1524730589,"ticker":"QSR","weight":0.106352},
-    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":5823316,"shareType":"SH","putCall":null,"value":1277577297,"ticker":"AMZN","weight":0.089113},
-    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":21541177,"shareType":"SH","putCall":null,"value":1209537089,"ticker":"CMG","weight":0.084367},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":6324031,"shareType":"SH","putCall":null,"value":1121819859,"ticker":"GOOG","weight":0.078249},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":5362980,"shareType":"SH","putCall":null,"value":945117965,"ticker":"GOOGL","weight":0.065923},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":3030578,"shareType":"SH","putCall":null,"value":807164145,"ticker":"HLT","weight":0.056301},
-    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":15241127,"shareType":"SH","putCall":null,"value":104096897,"ticker":"HTZ","weight":0.007261},
-    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":93693497,"ticker":"SEG","weight":0.006535}
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":30301161,"shareType":"SH","putCall":null,"value":2827098321,"ticker":"UBER","weight":0.197194,"price":93.3},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":41160397,"shareType":"SH","putCall":null,"value":2545770554,"ticker":"BN","weight":0.177571,"price":61.85},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":1880014320,"ticker":"HHH","weight":0.131134,"price":67.5},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":23000914,"shareType":"SH","putCall":null,"value":1524730589,"ticker":"QSR","weight":0.106352,"price":66.29},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":5823316,"shareType":"SH","putCall":null,"value":1277577297,"ticker":"AMZN","weight":0.089113,"price":219.39},
+    {"cusip":"169656105","name":"CHIPOTLE MEXICAN GRILL INC","titleOfClass":"COM","shares":21541177,"shareType":"SH","putCall":null,"value":1209537089,"ticker":"CMG","weight":0.084367,"price":56.15},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":6324031,"shareType":"SH","putCall":null,"value":1121819859,"ticker":"GOOG","weight":0.078249,"price":177.39},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":5362980,"shareType":"SH","putCall":null,"value":945117965,"ticker":"GOOGL","weight":0.065923,"price":176.23},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":3030578,"shareType":"SH","putCall":null,"value":807164145,"ticker":"HLT","weight":0.056301,"price":266.34},
+    {"cusip":"42806J700","name":"HERTZ GLOBAL HLDGS INC","titleOfClass":"COM NEW","shares":15241127,"shareType":"SH","putCall":null,"value":104096897,"ticker":"HTZ","weight":0.007261,"price":6.83},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":93693497,"ticker":"SEG","weight":0.006535,"price":18.65}
   ],
   "changes": [
     {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"new","shares":5823316,"prevShares":0},

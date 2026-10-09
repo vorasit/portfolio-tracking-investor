@@ -8,16 +8,16 @@
   ],
   "totalValue": 792381550,
   "holdings": [
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":138823,"shareType":"SH","putCall":null,"value":109341159,"ticker":"INTU","weight":0.137991},
-    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":1356060,"shareType":"SH","putCall":null,"value":109027224,"ticker":"CSGP","weight":0.137594},
-    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1561613,"shareType":"SH","putCall":null,"value":106845561,"ticker":"PCOR","weight":0.134841},
-    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":954293,"shareType":"SH","putCall":null,"value":95400671,"ticker":"OKTA","weight":0.120397},
-    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":281212,"shareType":"SH","putCall":null,"value":88435550,"ticker":"MNDY","weight":0.111607},
-    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":2887766,"shareType":"SH","putCall":null,"value":80770815,"ticker":"NCNO","weight":0.101934},
-    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":778722,"shareType":"SH","putCall":null,"value":77179137,"ticker":"FOUR","weight":0.097401},
-    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":2519600,"shareType":"SH","putCall":null,"value":70800760,"ticker":"BRZE","weight":0.089352},
-    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":8911039,"shareType":"SH","putCall":null,"value":29406429,"ticker":"BLND","weight":0.037111},
-    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":712445,"shareType":"SH","putCall":null,"value":25174244,"ticker":"VERX","weight":0.03177}
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":138823,"shareType":"SH","putCall":null,"value":109341159,"ticker":"INTU","weight":0.137991,"price":787.63},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":1356060,"shareType":"SH","putCall":null,"value":109027224,"ticker":"CSGP","weight":0.137594,"price":80.4},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1561613,"shareType":"SH","putCall":null,"value":106845561,"ticker":"PCOR","weight":0.134841,"price":68.42},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":954293,"shareType":"SH","putCall":null,"value":95400671,"ticker":"OKTA","weight":0.120397,"price":99.97},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":281212,"shareType":"SH","putCall":null,"value":88435550,"ticker":"MNDY","weight":0.111607,"price":314.48},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":2887766,"shareType":"SH","putCall":null,"value":80770815,"ticker":"NCNO","weight":0.101934,"price":27.97},
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":778722,"shareType":"SH","putCall":null,"value":77179137,"ticker":"FOUR","weight":0.097401,"price":99.11},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":2519600,"shareType":"SH","putCall":null,"value":70800760,"ticker":"BRZE","weight":0.089352,"price":28.1},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":8911039,"shareType":"SH","putCall":null,"value":29406429,"ticker":"BLND","weight":0.037111,"price":3.3},
+    {"cusip":"92538J106","name":"VERTEX INC","titleOfClass":"CL A","shares":712445,"shareType":"SH","putCall":null,"value":25174244,"ticker":"VERX","weight":0.03177,"price":35.335}
   ],
   "changes": [
     {"cusip":"679295105","ticker":"OKTA","name":"OKTA INC","putCall":null,"action":"new","shares":954293,"prevShares":0},

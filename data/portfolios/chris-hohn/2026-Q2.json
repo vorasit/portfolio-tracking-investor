@@ -8,17 +8,17 @@
   ],
   "totalValue": 52769884406,
   "holdings": [
-    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47428233,"shareType":"SH","putCall":null,"value":17725353519,"ticker":"GE","weight":0.335899},
-    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":30494133,"shareType":"SH","putCall":null,"value":10462232091,"ticker":"V","weight":0.198261},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":14334027,"shareType":"SH","putCall":null,"value":6492167509,"ticker":"MCO","weight":0.123028},
-    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":14081957,"shareType":"SH","putCall":null,"value":5735017808,"ticker":"SPGI","weight":0.10868},
-    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":45325726,"shareType":"SH","putCall":null,"value":3925911608,"ticker":"CP","weight":0.074397},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":9938819,"shareType":"SH","putCall":null,"value":3511682917,"ticker":"GOOG","weight":0.066547},
-    {"cusip":"N3168P101","name":"FERROVIAL NV","titleOfClass":"ORD SHS","shares":20940441,"shareType":"SH","putCall":null,"value":1434611939,"ticker":"FER","weight":0.027186},
-    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9433422,"shareType":"SH","putCall":null,"value":1124534915,"ticker":"CNI","weight":0.02131},
-    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2457000,"shareType":"SH","putCall":null,"value":878058090,"ticker":"GOOGL","weight":0.016639},
-    {"cusip":"573284106","name":"MARTIN MARIETTA MATLS INC","titleOfClass":"COM","shares":1315109,"shareType":"SH","putCall":null,"value":758423360,"ticker":"MLM","weight":0.014372},
-    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":2447004,"shareType":"SH","putCall":null,"value":721890650,"ticker":"VMC","weight":0.01368}
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47428233,"shareType":"SH","putCall":null,"value":17725353519,"ticker":"GE","weight":0.335899,"price":373.73},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":30494133,"shareType":"SH","putCall":null,"value":10462232091,"ticker":"V","weight":0.198261,"price":343.09},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":14334027,"shareType":"SH","putCall":null,"value":6492167509,"ticker":"MCO","weight":0.123028,"price":452.92},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":14081957,"shareType":"SH","putCall":null,"value":5735017808,"ticker":"SPGI","weight":0.10868,"price":407.26},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":45325726,"shareType":"SH","putCall":null,"value":3925911608,"ticker":"CP","weight":0.074397,"price":86.65},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":9938819,"shareType":"SH","putCall":null,"value":3511682917,"ticker":"GOOG","weight":0.066547,"price":353.33},
+    {"cusip":"N3168P101","name":"FERROVIAL NV","titleOfClass":"ORD SHS","shares":20940441,"shareType":"SH","putCall":null,"value":1434611939,"ticker":"FER","weight":0.027186,"price":68.5596},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9433422,"shareType":"SH","putCall":null,"value":1124534915,"ticker":"CNI","weight":0.02131,"price":119.218},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2457000,"shareType":"SH","putCall":null,"value":878058090,"ticker":"GOOGL","weight":0.016639,"price":357.37},
+    {"cusip":"573284106","name":"MARTIN MARIETTA MATLS INC","titleOfClass":"COM","shares":1315109,"shareType":"SH","putCall":null,"value":758423360,"ticker":"MLM","weight":0.014372,"price":576.7},
+    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":2447004,"shareType":"SH","putCall":null,"value":721890650,"ticker":"VMC","weight":0.01368,"price":295.01}
   ],
   "changes": [
     {"cusip":"573284106","ticker":"MLM","name":"MARTIN MARIETTA MATLS INC","putCall":null,"action":"new","shares":1315109,"prevShares":0},

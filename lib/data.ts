@@ -92,3 +92,29 @@ export function loadStockIndex(): StockEntry[] {
 export function findStock(slug: string): StockEntry | null {
   return loadStockIndex().find((s) => s.slug === slug) ?? null;
 }
+
+// ticker -> quarter -> quarter-end price, from every portfolio on file. Same caching as the stock index.
+let priceHistory: Map<string, Map<string, number>> | null = null;
+
+function buildPriceHistory(): Map<string, Map<string, number>> {
+  const byTicker = new Map<string, Map<string, number>>();
+  for (const investor of investors) {
+    for (const quarter of listPortfolioQuarters(investor.id)) {
+      for (const h of loadPortfolio(investor.id, quarter)?.holdings ?? []) {
+        if (!h.ticker || h.price === null) continue;
+        const prices = byTicker.get(h.ticker) ?? new Map<string, number>();
+        if (!prices.has(quarter)) prices.set(quarter, h.price);
+        byTicker.set(h.ticker, prices);
+      }
+    }
+  }
+  return byTicker;
+}
+
+/** Quarter-end prices implied by 13F filings, newest first. */
+export function loadPriceHistory(ticker: string): { quarter: string; price: number }[] {
+  const history = process.env.NODE_ENV === "production" ? (priceHistory ??= buildPriceHistory()) : buildPriceHistory();
+  return [...(history.get(ticker) ?? [])]
+    .map(([quarter, price]) => ({ quarter, price }))
+    .sort((a, b) => b.quarter.localeCompare(a.quarter));
+}

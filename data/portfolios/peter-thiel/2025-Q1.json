@@ -8,11 +8,11 @@
   ],
   "totalValue": 153037803,
   "holdings": [
-    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":68435,"shareType":"SH","putCall":null,"value":45347084,"ticker":"ASML","weight":0.296313},
-    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":358055,"shareType":"SH","putCall":null,"value":38806001,"ticker":"NVDA","weight":0.253571},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":78720,"shareType":"SH","putCall":null,"value":29550701,"ticker":"MSFT","weight":0.193094},
-    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":24515248,"ticker":"VST","weight":0.160191},
-    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":57180,"shareType":"SH","putCall":null,"value":14818769,"ticker":"TSLA","weight":0.096831}
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":68435,"shareType":"SH","putCall":null,"value":45347084,"ticker":"ASML","weight":0.296313,"price":662.63},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":358055,"shareType":"SH","putCall":null,"value":38806001,"ticker":"NVDA","weight":0.253571,"price":108.38},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":78720,"shareType":"SH","putCall":null,"value":29550701,"ticker":"MSFT","weight":0.193094,"price":375.39},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":208747,"shareType":"SH","putCall":null,"value":24515248,"ticker":"VST","weight":0.160191,"price":117.44},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":57180,"shareType":"SH","putCall":null,"value":14818769,"ticker":"TSLA","weight":0.096831,"price":259.16}
   ],
   "changes": [
     {"cusip":"N07059210","ticker":"ASML","name":"ASML HOLDING N V","putCall":null,"action":"new","shares":68435,"prevShares":0},

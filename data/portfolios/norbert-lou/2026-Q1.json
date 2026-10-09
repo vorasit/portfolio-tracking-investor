@@ -8,11 +8,11 @@
   ],
   "totalValue": 270645674,
   "holdings": [
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":104130300,"ticker":"BRK.A","weight":0.384748},
-    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":594570,"shareType":"SH","putCall":null,"value":49361201,"ticker":"CROX","weight":0.182383},
-    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":460000,"shareType":"SH","putCall":null,"value":46303600,"ticker":"SGOV","weight":0.171086},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":42405109,"ticker":"PDD","weight":0.156681},
-    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":628907,"shareType":"SH","putCall":null,"value":28445464,"ticker":"PYPL","weight":0.105102}
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":104130300,"ticker":"BRK.A","weight":0.384748,"price":718140},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":594570,"shareType":"SH","putCall":null,"value":49361201,"ticker":"CROX","weight":0.182383,"price":83.02},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":460000,"shareType":"SH","putCall":null,"value":46303600,"ticker":"SGOV","weight":0.171086,"price":100.66},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":42405109,"ticker":"PDD","weight":0.156681,"price":102.18},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":628907,"shareType":"SH","putCall":null,"value":28445464,"ticker":"PYPL","weight":0.105102,"price":45.23}
   ],
   "changes": [
     {"cusip":"46436E718","ticker":"SGOV","name":"ISHARES TR","putCall":null,"action":"reduce","shares":460000,"prevShares":566000}

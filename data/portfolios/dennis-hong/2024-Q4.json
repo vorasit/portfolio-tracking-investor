@@ -8,17 +8,17 @@
   ],
   "totalValue": 754917856,
   "holdings": [
-    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":969748,"shareType":"SH","putCall":null,"value":100640447,"ticker":"FOUR","weight":0.133313},
-    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1197199,"shareType":"SH","putCall":null,"value":89706121,"ticker":"PCOR","weight":0.118829},
-    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":378712,"shareType":"SH","putCall":null,"value":89163953,"ticker":"MNDY","weight":0.118111},
-    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":2628856,"shareType":"SH","putCall":null,"value":88276984,"ticker":"NCNO","weight":0.116936},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":314437,"shareType":"SH","putCall":null,"value":77716249,"ticker":"HLT","weight":0.102947},
-    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":909803,"shareType":"SH","putCall":null,"value":65132797,"ticker":"CSGP","weight":0.086278},
-    {"cusip":"44891N208","name":"IAC INC","titleOfClass":"COM NEW","shares":1490081,"shareType":"SH","putCall":null,"value":64282094,"ticker":"PPLI","weight":0.085151},
-    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":1500413,"shareType":"SH","putCall":null,"value":62837296,"ticker":"BRZE","weight":0.083237},
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":85728,"shareType":"SH","putCall":null,"value":53880048,"ticker":"INTU","weight":0.071372},
-    {"cusip":"81141R100","name":"SEA LTD","titleOfClass":"SPONSORD ADS","shares":315538,"shareType":"SH","putCall":null,"value":33478582,"ticker":"SE","weight":0.044347},
-    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":7079165,"shareType":"SH","putCall":null,"value":29803285,"ticker":"BLND","weight":0.039479}
+    {"cusip":"82452J109","name":"SHIFT4 PMTS INC","titleOfClass":"CL A","shares":969748,"shareType":"SH","putCall":null,"value":100640447,"ticker":"FOUR","weight":0.133313,"price":103.78},
+    {"cusip":"74275K108","name":"PROCORE TECHNOLOGIES INC","titleOfClass":"COM","shares":1197199,"shareType":"SH","putCall":null,"value":89706121,"ticker":"PCOR","weight":0.118829,"price":74.93},
+    {"cusip":"M7S64H106","name":"MONDAY COM LTD","titleOfClass":"SHS","shares":378712,"shareType":"SH","putCall":null,"value":89163953,"ticker":"MNDY","weight":0.118111,"price":235.44},
+    {"cusip":"63947X101","name":"NCINO INC","titleOfClass":"COM","shares":2628856,"shareType":"SH","putCall":null,"value":88276984,"ticker":"NCNO","weight":0.116936,"price":33.58},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE HLDGS INC","titleOfClass":"COM","shares":314437,"shareType":"SH","putCall":null,"value":77716249,"ticker":"HLT","weight":0.102947,"price":247.16},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":909803,"shareType":"SH","putCall":null,"value":65132797,"ticker":"CSGP","weight":0.086278,"price":71.59},
+    {"cusip":"44891N208","name":"IAC INC","titleOfClass":"COM NEW","shares":1490081,"shareType":"SH","putCall":null,"value":64282094,"ticker":"PPLI","weight":0.085151,"price":43.14},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":1500413,"shareType":"SH","putCall":null,"value":62837296,"ticker":"BRZE","weight":0.083237,"price":41.88},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":85728,"shareType":"SH","putCall":null,"value":53880048,"ticker":"INTU","weight":0.071372,"price":628.5},
+    {"cusip":"81141R100","name":"SEA LTD","titleOfClass":"SPONSORD ADS","shares":315538,"shareType":"SH","putCall":null,"value":33478582,"ticker":"SE","weight":0.044347,"price":106.1},
+    {"cusip":"09352U108","name":"BLEND LABS INC","titleOfClass":"CL A","shares":7079165,"shareType":"SH","putCall":null,"value":29803285,"ticker":"BLND","weight":0.039479,"price":4.21}
   ],
   "changes": [
     {"cusip":"22160N109","ticker":"CSGP","name":"COSTAR GROUP INC","putCall":null,"action":"new","shares":909803,"prevShares":0},

@@ -9,14 +9,14 @@
   ],
   "totalValue": 14515943539,
   "holdings": [
-    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":40864577,"shareType":"SH","putCall":null,"value":10233307372,"ticker":"AAPL","weight":0.70497},
-    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3621100,"shareType":"SH","putCall":null,"value":1641372208,"ticker":"BRK.B","weight":0.113074},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3766500,"shareType":"SH","putCall":null,"value":717292260,"ticker":"GOOG","weight":0.049414},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":7228700,"shareType":"SH","putCall":null,"value":701111613,"ticker":"PDD","weight":0.048299},
-    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13577000,"shareType":"SH","putCall":null,"value":670839570,"ticker":"OXY","weight":0.046214},
-    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":5450830,"shareType":"SH","putCall":null,"value":462175876,"ticker":"BABA","weight":0.031839},
-    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":746000,"shareType":"SH","putCall":null,"value":83067100,"ticker":"DIS","weight":0.005722},
-    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":163000,"shareType":"SH","putCall":null,"value":6777540,"ticker":"MRNA","weight":0.000467}
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":40864577,"shareType":"SH","putCall":null,"value":10233307372,"ticker":"AAPL","weight":0.70497,"price":250.42},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":3621100,"shareType":"SH","putCall":null,"value":1641372208,"ticker":"BRK.B","weight":0.113074,"price":453.28},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":3766500,"shareType":"SH","putCall":null,"value":717292260,"ticker":"GOOG","weight":0.049414,"price":190.44},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":7228700,"shareType":"SH","putCall":null,"value":701111613,"ticker":"PDD","weight":0.048299,"price":96.99},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":13577000,"shareType":"SH","putCall":null,"value":670839570,"ticker":"OXY","weight":0.046214,"price":49.41},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":5450830,"shareType":"SH","putCall":null,"value":462175876,"ticker":"BABA","weight":0.031839,"price":84.79},
+    {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":746000,"shareType":"SH","putCall":null,"value":83067100,"ticker":"DIS","weight":0.005722,"price":111.35},
+    {"cusip":"60770K107","name":"MODERNA INC","titleOfClass":"COM","shares":163000,"shareType":"SH","putCall":null,"value":6777540,"ticker":"MRNA","weight":0.000467,"price":41.58}
   ],
   "changes": [
     {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":7228700,"prevShares":3907600},

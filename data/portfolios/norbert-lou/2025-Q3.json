@@ -8,12 +8,12 @@
   ],
   "totalValue": 322420153,
   "holdings": [
-    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":109359000,"ticker":"BRK.A","weight":0.339182},
-    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":566000,"shareType":"SH","putCall":null,"value":56996200,"ticker":"SGOV","weight":0.176776},
-    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":54851079,"ticker":"PDD","weight":0.170123},
-    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":632250,"shareType":"SH","putCall":null,"value":52824488,"ticker":"CROX","weight":0.163837},
-    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":650447,"shareType":"SH","putCall":null,"value":43618976,"ticker":"PYPL","weight":0.135286},
-    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":37000,"shareType":"SH","putCall":null,"value":4770410,"ticker":"FISV","weight":0.014796}
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":109359000,"ticker":"BRK.A","weight":0.339182,"price":754200},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MNTH TREASRY","shares":566000,"shareType":"SH","putCall":null,"value":56996200,"ticker":"SGOV","weight":0.176776,"price":100.7},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":415004,"shareType":"SH","putCall":null,"value":54851079,"ticker":"PDD","weight":0.170123,"price":132.17},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":632250,"shareType":"SH","putCall":null,"value":52824488,"ticker":"CROX","weight":0.163837,"price":83.55},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":650447,"shareType":"SH","putCall":null,"value":43618976,"ticker":"PYPL","weight":0.135286,"price":67.06},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":37000,"shareType":"SH","putCall":null,"value":4770410,"ticker":"FISV","weight":0.014796,"price":128.93}
   ],
   "changes": [
     {"cusip":"337738108","ticker":"FISV","name":"FISERV INC","putCall":null,"action":"new","shares":37000,"prevShares":0},

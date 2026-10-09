@@ -8,13 +8,13 @@
   ],
   "totalValue": 3375637687,
   "holdings": [
-    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":769342,"shareType":"SH","putCall":null,"value":821303359,"ticker":"FICO","weight":0.243303},
-    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1758074,"shareType":"SH","putCall":null,"value":747779195,"ticker":"SPGI","weight":0.221522},
-    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1487496,"shareType":"SH","putCall":null,"value":743242251,"ticker":"MA","weight":0.220178},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317188,"shareType":"SH","putCall":null,"value":574623265,"ticker":"MCO","weight":0.170227},
-    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":171083,"shareType":"SH","putCall":null,"value":225971559,"ticker":"ASML","weight":0.066942},
-    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":598753,"shareType":"SH","putCall":null,"value":180967107,"ticker":"V","weight":0.05361},
-    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":189072,"shareType":"SH","putCall":null,"value":81750951,"ticker":"INTU","weight":0.024218}
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":769342,"shareType":"SH","putCall":null,"value":821303359,"ticker":"FICO","weight":0.243303,"price":1067.54},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1758074,"shareType":"SH","putCall":null,"value":747779195,"ticker":"SPGI","weight":0.221522,"price":425.34},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1487496,"shareType":"SH","putCall":null,"value":743242251,"ticker":"MA","weight":0.220178,"price":499.66},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1317188,"shareType":"SH","putCall":null,"value":574623265,"ticker":"MCO","weight":0.170227,"price":436.25},
+    {"cusip":"N07059210","name":"ASML HOLDING N V","titleOfClass":"N Y REGISTRY SHS","shares":171083,"shareType":"SH","putCall":null,"value":225971559,"ticker":"ASML","weight":0.066942,"price":1320.83},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":598753,"shareType":"SH","putCall":null,"value":180967107,"ticker":"V","weight":0.05361,"price":302.24},
+    {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":189072,"shareType":"SH","putCall":null,"value":81750951,"ticker":"INTU","weight":0.024218,"price":432.38}
   ],
   "changes": [
     {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INCORPORATED","putCall":null,"action":"add","shares":1487496,"prevShares":1487409},

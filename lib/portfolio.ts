@@ -16,12 +16,46 @@ export function previousQuarter(quarter: string): string {
 }
 
 export type TickerLookup = (cusip: string) => string | null;
+export type PriceLookup = (quarter: string, cusip: string) => number | null;
+
+/** value ÷ shares for share positions; null for options, PRN rows and empty rows. */
+export function impliedPrice(p: Position): number | null {
+  if (p.putCall || p.shareType !== "SH" || p.shares <= 0 || p.value <= 0) return null;
+  return p.value / p.shares;
+}
+
+/**
+ * Quarter-end price of each CUSIP: the median implied price over every filer holding it.
+ * One filer's figure can be off (values reported in thousands lose precision on small
+ * positions, some filers make typos); the median across filers is not.
+ */
+export function buildPriceIndex(parts: CikQuarter[]): PriceLookup {
+  const samples = new Map<string, number[]>();
+  for (const part of parts) {
+    for (const p of part.positions) {
+      const price = impliedPrice(p);
+      if (price === null) continue;
+      const key = `${part.quarter}|${p.cusip}`;
+      samples.set(key, [...(samples.get(key) ?? []), price]);
+    }
+  }
+
+  const prices = new Map<string, number>();
+  for (const [key, values] of samples) {
+    values.sort((a, b) => a - b);
+    const mid = Math.floor(values.length / 2);
+    const median = values.length % 2 ? values[mid] : (values[mid - 1] + values[mid]) / 2;
+    prices.set(key, Number(median.toPrecision(6)));
+  }
+  return (quarter, cusip) => prices.get(`${quarter}|${cusip}`) ?? null;
+}
 
 /** Merges the per-CIK files of one investor for one quarter. */
 export function buildPortfolio(
   investorId: string,
   parts: CikQuarter[],
   tickerOf: TickerLookup,
+  priceOf: PriceLookup = () => null,
 ): Omit<Portfolio, "changes"> {
   if (parts.length === 0) throw new Error(`buildPortfolio(${investorId}): no filings`);
   const { period, quarter } = parts[0];
@@ -36,6 +70,7 @@ export function buildPortfolio(
     ...p,
     ticker: tickerOf(p.cusip),
     weight: p.putCall || totalValue === 0 ? null : round(p.value / totalValue, 6),
+    price: impliedPrice(p) === null ? null : priceOf(quarter, p.cusip),
   }));
 
   return {

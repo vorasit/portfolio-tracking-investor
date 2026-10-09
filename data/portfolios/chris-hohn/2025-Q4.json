@@ -8,15 +8,15 @@
   ],
   "totalValue": 53648816254,
   "holdings": [
-    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47510431,"shareType":"SH","putCall":null,"value":14634638061,"ticker":"GE","weight":0.272786},
-    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":27724233,"shareType":"SH","putCall":null,"value":9723165755,"ticker":"V","weight":0.181237},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":16781953,"shareType":"SH","putCall":null,"value":8116088110,"ticker":"MSFT","weight":0.151282},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13308479,"shareType":"SH","putCall":null,"value":6798636497,"ticker":"MCO","weight":0.126725},
-    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":11790310,"shareType":"SH","putCall":null,"value":6161498103,"ticker":"SPGI","weight":0.114849},
-    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":47654423,"shareType":"SH","putCall":null,"value":3508630329,"ticker":"CP","weight":0.0654},
-    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7596819,"shareType":"SH","putCall":null,"value":2383881802,"ticker":"GOOG","weight":0.044435},
-    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":20740214,"shareType":"SH","putCall":null,"value":1348162940,"ticker":"FER","weight":0.025129},
-    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9849934,"shareType":"SH","putCall":null,"value":974114657,"ticker":"CNI","weight":0.018157}
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47510431,"shareType":"SH","putCall":null,"value":14634638061,"ticker":"GE","weight":0.272786,"price":308.03},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":27724233,"shareType":"SH","putCall":null,"value":9723165755,"ticker":"V","weight":0.181237,"price":350.71},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":16781953,"shareType":"SH","putCall":null,"value":8116088110,"ticker":"MSFT","weight":0.151282,"price":483.62},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":13308479,"shareType":"SH","putCall":null,"value":6798636497,"ticker":"MCO","weight":0.126725,"price":510.85},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":11790310,"shareType":"SH","putCall":null,"value":6161498103,"ticker":"SPGI","weight":0.114849,"price":522.59},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":47654423,"shareType":"SH","putCall":null,"value":3508630329,"ticker":"CP","weight":0.0654,"price":73.63},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":7596819,"shareType":"SH","putCall":null,"value":2383881802,"ticker":"GOOG","weight":0.044435,"price":313.8},
+    {"cusip":"N3168P101","name":"FERROVIAL SE","titleOfClass":"ORD SHS","shares":20740214,"shareType":"SH","putCall":null,"value":1348162940,"ticker":"FER","weight":0.025129,"price":64.8062},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9849934,"shareType":"SH","putCall":null,"value":974114657,"ticker":"CNI","weight":0.018157,"price":98.8956}
   ],
   "changes": [
     {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"add","shares":16781953,"prevShares":16592204},

@@ -8,14 +8,14 @@
   ],
   "totalValue": 4126337614,
   "holdings": [
-    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":7567946,"shareType":"SH","putCall":null,"value":1576176113,"ticker":"AMZN","weight":0.381979},
-    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":909168,"shareType":"SH","putCall":null,"value":1053689345,"ticker":"TDG","weight":0.255357},
-    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":1867537,"shareType":"SH","putCall":null,"value":691306171,"ticker":"MSFT","weight":0.167535},
-    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":862036,"shareType":"SH","putCall":null,"value":376063205,"ticker":"MCO","weight":0.091137},
-    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":522836,"shareType":"SH","putCall":null,"value":261240236,"ticker":"MA","weight":0.06331},
-    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":498677,"shareType":"SH","putCall":null,"value":150720137,"ticker":"V","weight":0.036526},
-    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":43391,"shareType":"SH","putCall":null,"value":12477516,"ticker":"GOOGL","weight":0.003024},
-    {"cusip":"43300A203","name":"HILTON WORLDWIDE","titleOfClass":"COMM","shares":15341,"shareType":"SH","putCall":null,"value":4664891,"ticker":"HLT","weight":0.001131}
+    {"cusip":"023135106","name":"AMAZON.COM INC","titleOfClass":"COMM","shares":7567946,"shareType":"SH","putCall":null,"value":1576176113,"ticker":"AMZN","weight":0.381979,"price":208.27},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COMM","shares":909168,"shareType":"SH","putCall":null,"value":1053689345,"ticker":"TDG","weight":0.255357,"price":1158.96},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COMM","shares":1867537,"shareType":"SH","putCall":null,"value":691306171,"ticker":"MSFT","weight":0.167535,"price":370.17},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COMM","shares":862036,"shareType":"SH","putCall":null,"value":376063205,"ticker":"MCO","weight":0.091137,"price":436.25},
+    {"cusip":"57636Q104","name":"MASTERCARD INC-CLASS A","titleOfClass":"COMM","shares":522836,"shareType":"SH","putCall":null,"value":261240236,"ticker":"MA","weight":0.06331,"price":499.66},
+    {"cusip":"92826C839","name":"VISA INC-CLASS A SHRS","titleOfClass":"COMM","shares":498677,"shareType":"SH","putCall":null,"value":150720137,"ticker":"V","weight":0.036526,"price":302.24},
+    {"cusip":"02079K305","name":"ALPHABET INC-CL A","titleOfClass":"COMM","shares":43391,"shareType":"SH","putCall":null,"value":12477516,"ticker":"GOOGL","weight":0.003024,"price":287.56},
+    {"cusip":"43300A203","name":"HILTON WORLDWIDE","titleOfClass":"COMM","shares":15341,"shareType":"SH","putCall":null,"value":4664891,"ticker":"HLT","weight":0.001131,"price":304.08}
   ],
   "changes": [
     {"cusip":"023135106","ticker":"AMZN","name":"AMAZON.COM INC","putCall":null,"action":"add","shares":7567946,"prevShares":7314534},

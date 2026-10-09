@@ -8,13 +8,13 @@
   ],
   "totalValue": 70961682,
   "holdings": [
-    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":67238,"shareType":"SH","putCall":null,"value":31390733,"ticker":"HCA","weight":0.442362},
-    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":356830,"shareType":"SH","putCall":null,"value":14026987,"ticker":"GLBE","weight":0.19767},
-    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CLA","shares":144046,"shareType":"SH","putCall":null,"value":10721344,"ticker":"AFRM","weight":0.151086},
-    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CLA","shares":248450,"shareType":"SH","putCall":null,"value":8800099,"ticker":"APPN","weight":0.124012},
-    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CLA","shares":180974,"shareType":"SH","putCall":null,"value":4269177,"ticker":"CPNG","weight":0.060162},
-    {"cusip":"G0896C103","name":"BBB FOODS INC","titleOfClass":"COM CL A","shares":48420,"shareType":"SH","putCall":null,"value":1616744,"ticker":"TBBB","weight":0.022783},
-    {"cusip":"37890B100","name":"GLOBAL BUSINESS TRAVEL GROUP","titleOfClass":"COM CLA","shares":17856,"shareType":"SH","putCall":null,"value":136598,"ticker":null,"weight":0.001925}
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":67238,"shareType":"SH","putCall":null,"value":31390733,"ticker":"HCA","weight":0.442362,"price":466.86},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":356830,"shareType":"SH","putCall":null,"value":14026987,"ticker":"GLBE","weight":0.19767,"price":39.31},
+    {"cusip":"00827B106","name":"AFFIRM HLDGS INC","titleOfClass":"COM CLA","shares":144046,"shareType":"SH","putCall":null,"value":10721344,"ticker":"AFRM","weight":0.151086,"price":74.43},
+    {"cusip":"03782L101","name":"APPIAN CORP","titleOfClass":"CLA","shares":248450,"shareType":"SH","putCall":null,"value":8800099,"ticker":"APPN","weight":0.124012,"price":35.42},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CLA","shares":180974,"shareType":"SH","putCall":null,"value":4269177,"ticker":"CPNG","weight":0.060162,"price":23.59},
+    {"cusip":"G0896C103","name":"BBB FOODS INC","titleOfClass":"COM CL A","shares":48420,"shareType":"SH","putCall":null,"value":1616744,"ticker":"TBBB","weight":0.022783,"price":33.39},
+    {"cusip":"37890B100","name":"GLOBAL BUSINESS TRAVEL GROUP","titleOfClass":"COM CLA","shares":17856,"shareType":"SH","putCall":null,"value":136598,"ticker":null,"weight":0.001925,"price":7.64999}
   ],
   "changes": [
     {"cusip":"22266T109","ticker":"CPNG","name":"COUPANG INC","putCall":null,"action":"new","shares":180974,"prevShares":0},
