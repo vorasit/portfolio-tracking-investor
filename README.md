@@ -73,4 +73,4 @@ npm run dev                  # http://localhost:3000
 
 ## License
 
-ยังไม่ได้เลือก (MIT หรือ AGPL) ข้อมูล 13F จาก SEC เป็น public domain
+โค้ดใช้ [MIT](LICENSE) ส่วนข้อมูล 13F จาก SEC ใน `/data` เป็น public domain
