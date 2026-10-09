@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect text files and perform LF normalization.
+# eol=lf also keeps LF in Windows working copies: `npm run derive` compares the
+# JSON in /data byte for byte, so CRLF checkouts made it rewrite every file.
+* text=auto eol=lf
