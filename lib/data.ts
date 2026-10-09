@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import investorsJson from "../data/investors.json";
 import { validateInvestors } from "./investors";
+import { buildFilingFeed, type FeedEntry } from "./feed";
 import { buildStockIndex, type StockEntry } from "./stocks";
 import type { Investor, Portfolio } from "./types";
 
@@ -93,19 +94,38 @@ export function findStock(slug: string): StockEntry | null {
   return loadStockIndex().find((s) => s.slug === slug) ?? null;
 }
 
-// ticker -> quarter -> quarter-end price, from every portfolio on file. Same caching as the stock index.
+/** Every quarter of every investor on file (~800 files). Cached like the stock index. */
+let allPortfolios: { investor: Investor; portfolio: Portfolio }[] | null = null;
+
+export function loadAllPortfolios(): { investor: Investor; portfolio: Portfolio }[] {
+  const build = () =>
+    investors.flatMap((investor) =>
+      listPortfolioQuarters(investor.id).flatMap((quarter) => {
+        const portfolio = loadPortfolio(investor.id, quarter);
+        return portfolio ? [{ investor, portfolio }] : [];
+      }),
+    );
+  if (process.env.NODE_ENV !== "production") return build();
+  allPortfolios ??= build();
+  return allPortfolios;
+}
+
+/** Every 13F filing on file, newest first. */
+export function loadFilingFeed(): FeedEntry[] {
+  return buildFilingFeed(loadAllPortfolios());
+}
+
+// ticker -> quarter -> quarter-end price, from every portfolio on file.
 let priceHistory: Map<string, Map<string, number>> | null = null;
 
 function buildPriceHistory(): Map<string, Map<string, number>> {
   const byTicker = new Map<string, Map<string, number>>();
-  for (const investor of investors) {
-    for (const quarter of listPortfolioQuarters(investor.id)) {
-      for (const h of loadPortfolio(investor.id, quarter)?.holdings ?? []) {
-        if (!h.ticker || h.price === null) continue;
-        const prices = byTicker.get(h.ticker) ?? new Map<string, number>();
-        if (!prices.has(quarter)) prices.set(quarter, h.price);
-        byTicker.set(h.ticker, prices);
-      }
+  for (const { portfolio } of loadAllPortfolios()) {
+    for (const h of portfolio.holdings) {
+      if (!h.ticker || h.price === null) continue;
+      const prices = byTicker.get(h.ticker) ?? new Map<string, number>();
+      if (!prices.has(portfolio.quarter)) prices.set(portfolio.quarter, h.price);
+      byTicker.set(h.ticker, prices);
     }
   }
   return byTicker;

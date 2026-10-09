@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans_Thai } from "next/font/google";
 import Link from "next/link";
+import { SITE_NAME, siteUrl } from "@/lib/site";
 import "./globals.css";
 
 const plexThai = IBM_Plex_Sans_Thai({
@@ -10,8 +11,10 @@ const plexThai = IBM_Plex_Sans_Thai({
 });
 
 export const metadata: Metadata = {
-  title: { default: "พอร์ตนักลงทุนระดับโลก", template: "%s · พอร์ตนักลงทุนระดับโลก" },
+  metadataBase: new URL(siteUrl()),
+  title: { default: SITE_NAME, template: `%s · ${SITE_NAME}` },
   description: "ติดตามพอร์ตของนักลงทุนระดับโลกจากแบบ 13F ที่ยื่นต่อ SEC สหรัฐฯ",
+  alternates: { types: { "application/rss+xml": [{ url: "/feed.xml", title: "เอกสาร 13F ล่าสุด" }] } },
 };
 
 // Data-as-code: every page is generated at build time from /data.
@@ -34,6 +37,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               </Link>
               <Link href="/stocks" className="hover:text-foreground">
                 หุ้น
+              </Link>
+              <Link href="/filings" className="hover:text-foreground">
+                เอกสารล่าสุด
               </Link>
             </nav>
           </div>
