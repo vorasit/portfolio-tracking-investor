@@ -23,13 +23,11 @@ import {
   formatUsd,
 } from "@/lib/format";
 import { changeLookup } from "@/lib/portfolio";
+import { DISPLAY_LIMITS } from "@/lib/stocks";
 import type { Investor, Portfolio } from "@/lib/types";
 
-// Quant and macro funds report thousands of rows; rendering all of them made
-// pages of several MB. Show the largest positions and say how much they cover.
-const MAX_SHARE_ROWS = 100;
-const MAX_OPTION_ROWS = 50;
-const MAX_EXITS = 60;
+// Shared with selectStockPages, which gives every row shown here a stock page.
+const { shares: MAX_SHARE_ROWS, options: MAX_OPTION_ROWS, exits: MAX_EXITS } = DISPLAY_LIMITS;
 
 interface Props {
   investor: Investor;

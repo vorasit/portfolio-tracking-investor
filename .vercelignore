@@ -1,0 +1,7 @@
+# The site build only reads data/investors.json and data/portfolios.
+# Ingest inputs and tooling are not uploaded to Vercel.
+data/filings
+data/cusip-map.json
+data/cusip-overrides.json
+scripts
+.github

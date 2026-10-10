@@ -41,6 +41,31 @@ export interface StockEntry {
   totalValue: number;
 }
 
+/**
+ * Rows an investor page shows. Quant and macro funds report thousands of positions;
+ * rendering all of them made pages of several MB.
+ */
+export const DISPLAY_LIMITS = { shares: 100, options: 50, exits: 60 } as const;
+
+/**
+ * Stocks that get their own page: held by at least two investors, or shown on some
+ * investor's latest page (so every link there works). Leaves out the long tail of
+ * single positions deep in a quant fund's portfolio, about 40% of all tickers.
+ */
+export function selectStockPages(
+  index: StockEntry[],
+  latest: { portfolio: Portfolio }[],
+): StockEntry[] {
+  const shown = new Set<string>();
+  for (const { portfolio } of latest) {
+    const shares = portfolio.holdings.filter((h) => !h.putCall).slice(0, DISPLAY_LIMITS.shares);
+    const options = portfolio.holdings.filter((h) => h.putCall).slice(0, DISPLAY_LIMITS.options);
+    const exits = (portfolio.changes ?? []).filter((c) => c.action === "exit").slice(0, DISPLAY_LIMITS.exits);
+    for (const { ticker } of [...shares, ...options, ...exits]) if (ticker) shown.add(ticker);
+  }
+  return index.filter((s) => s.holderCount >= 2 || shown.has(s.ticker));
+}
+
 /** URL segment for a ticker: "BRK.B" -> "brk-b". */
 export function tickerSlug(ticker: string): string {
   return ticker.toLowerCase().replace(/[^a-z0-9]+/g, "-");
