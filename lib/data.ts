@@ -3,7 +3,7 @@ import path from "node:path";
 import investorsJson from "../data/investors.json";
 import { validateInvestors } from "./investors";
 import { buildFilingFeed, type FeedEntry } from "./feed";
-import { buildStockIndex, type StockEntry } from "./stocks";
+import { buildStockIndex, selectStockPages, type StockEntry } from "./stocks";
 import type { Investor, Portfolio } from "./types";
 
 // Synchronous reads on purpose: with Cache Components, sync I/O is prerendered
@@ -82,16 +82,32 @@ export function loadLatestPortfolios(): { investor: Investor; portfolio: Portfol
 
 // Built once per build process: every stock page needs it, and rebuilding it per page
 // would re-read every investor's portfolio. Rebuilt on each call in dev so data edits show up.
-let stockIndex: StockEntry[] | null = null;
+let stockIndex: { entries: StockEntry[]; tickers: Set<string> } | null = null;
 
-export function loadStockIndex(): StockEntry[] {
-  if (process.env.NODE_ENV !== "production") return buildStockIndex(loadLatestPortfolios());
-  stockIndex ??= buildStockIndex(loadLatestPortfolios());
+function buildStockPages() {
+  const latest = loadLatestPortfolios();
+  const entries = selectStockPages(buildStockIndex(latest), latest);
+  return { entries, tickers: new Set(entries.map((s) => s.ticker)) };
+}
+
+function stockPages() {
+  if (process.env.NODE_ENV !== "production") return buildStockPages();
+  stockIndex ??= buildStockPages();
   return stockIndex;
+}
+
+/** Stocks that have a page, most widely held first. */
+export function loadStockIndex(): StockEntry[] {
+  return stockPages().entries;
 }
 
 export function findStock(slug: string): StockEntry | null {
   return loadStockIndex().find((s) => s.slug === slug) ?? null;
+}
+
+/** Whether /stocks/[slug] exists for a ticker, so links never lead to a 404. */
+export function hasStockPage(ticker: string): boolean {
+  return stockPages().tickers.has(ticker);
 }
 
 /** Every quarter of every investor on file (~800 files). Cached like the stock index. */

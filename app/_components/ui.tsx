@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { hasStockPage } from "@/lib/data";
 import { ACTION_LABELS, STYLE_LABELS, formatSignedPercent } from "@/lib/format";
 import { tickerSlug } from "@/lib/stocks";
 import type { Change, ChangeAction, InvestmentStyle } from "@/lib/types";
@@ -69,6 +70,8 @@ export function StyleTags({ styles }: { styles: InvestmentStyle[] }) {
 /** Ticker linking to its stock page, or the issuer name when the CUSIP has no ticker. */
 export function TickerLink({ ticker, name }: { ticker: string | null; name: string }) {
   if (!ticker) return <span className="text-zinc-500">{name}</span>;
+  // Tickers without a stock page (long-tail positions, stocks nobody holds any more).
+  if (!hasStockPage(ticker)) return <span className="font-medium">{ticker}</span>;
   return (
     <Link href={`/stocks/${tickerSlug(ticker)}`} className="font-medium hover:underline">
       {ticker}
