@@ -73,7 +73,7 @@
     {"cusip":"H5919C104","name":"On Holding AG","titleOfClass":"COM","shares":246670,"shareType":"SH","putCall":null,"value":7303898,"ticker":"ONON","weight":0.001671,"price":29.61},
     {"cusip":"N97284108","name":"Nebius Group N.V.","titleOfClass":"COM","shares":24050,"shareType":"SH","putCall":null,"value":5672914,"ticker":"NBIS","weight":0.001298,"price":235.88},
     {"cusip":"09290D101","name":"BlackRock, Inc.","titleOfClass":"COM","shares":5049,"shareType":"SH","putCall":null,"value":5343306,"ticker":"BLK","weight":0.001222,"price":1058.29},
-    {"cusip":"031162100","name":"Amgen Inc.","titleOfClass":"COM","shares":10462,"shareType":"SH","putCall":null,"value":4409744,"ticker":"AMGN","weight":0.001009,"price":421.501},
+    {"cusip":"031162100","name":"Amgen Inc.","titleOfClass":"COM","shares":10462,"shareType":"SH","putCall":null,"value":4409744,"ticker":"AMGN","weight":0.001009,"price":421.506},
     {"cusip":"172908105","name":"Cintas Corporation","titleOfClass":"COM","shares":20700,"shareType":"SH","putCall":null,"value":4037742,"ticker":"CTAS","weight":0.000924,"price":195.06},
     {"cusip":"09857L108","name":"Booking Holdings Inc.","titleOfClass":"COM","shares":23940,"shareType":"SH","putCall":null,"value":3900065,"ticker":"BKNG","weight":0.000892,"price":162.91},
     {"cusip":"743315103","name":"The Progressive Corporation","titleOfClass":"COM","shares":17350,"shareType":"SH","putCall":null,"value":3596829,"ticker":"PGR","weight":0.000823,"price":207.31},

@@ -1,0 +1,41 @@
+{
+  "cik": "1427008",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1427008","accession":"0001172661-26-004558","form":"13F-HR","filedAt":"2026-10-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":13568058,"shareType":"SH","putCall":null,"value":421759560},
+    {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":2305916,"shareType":"SH","putCall":null,"value":335072670},
+    {"cusip":"03743Q108","name":"APA CORPORATION","titleOfClass":"COM","shares":7714207,"shareType":"SH","putCall":null,"value":320448151},
+    {"cusip":"554382101","name":"MACERICH CO","titleOfClass":"COM","shares":11298361,"shareType":"SH","putCall":null,"value":252631357},
+    {"cusip":"828806109","name":"SIMON PPTY GROUP INC NEW","titleOfClass":"COM","shares":1255022,"shareType":"SH","putCall":null,"value":251958294},
+    {"cusip":"031162100","name":"AMGEN INC","titleOfClass":"COM","shares":586504,"shareType":"SH","putCall":null,"value":247217281},
+    {"cusip":"20825C104","name":"CONOCOPHILLIPS","titleOfClass":"COM","shares":1558825,"shareType":"SH","putCall":null,"value":195086899},
+    {"cusip":"87612E106","name":"TARGET CORP","titleOfClass":"COM","shares":1233410,"shareType":"SH","putCall":null,"value":193262945},
+    {"cusip":"23331A109","name":"D R HORTON INC","titleOfClass":"COM","shares":1396714,"shareType":"SH","putCall":null,"value":190860960},
+    {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":2284725,"shareType":"SH","putCall":null,"value":186410693},
+    {"cusip":"25278X109","name":"DIAMONDBACK ENERGY INC","titleOfClass":"COM","shares":997743,"shareType":"SH","putCall":null,"value":183395054},
+    {"cusip":"62944T105","name":"NVR INC","titleOfClass":"COM","shares":27829,"shareType":"SH","putCall":null,"value":171270962},
+    {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":562102,"shareType":"SH","putCall":null,"value":170935368},
+    {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":2939694,"shareType":"SH","putCall":null,"value":162623851},
+    {"cusip":"316773100","name":"FIFTH THIRD BANCORP","titleOfClass":"COM","shares":3125275,"shareType":"SH","putCall":null,"value":158076392},
+    {"cusip":"957638109","name":"WESTERN ALLIANCE BANCORP","titleOfClass":"COM","shares":1890270,"shareType":"SH","putCall":null,"value":141959291},
+    {"cusip":"46625H100","name":"JPMORGAN CHASE & CO","titleOfClass":"COM","shares":385586,"shareType":"SH","putCall":null,"value":127563298},
+    {"cusip":"91324P102","name":"UNITEDHEALTH GROUP INC","titleOfClass":"COM","shares":324391,"shareType":"SH","putCall":null,"value":119077569},
+    {"cusip":"060505104","name":"BANK OF AMER CORP","titleOfClass":"COM","shares":2167615,"shareType":"SH","putCall":null,"value":117983291},
+    {"cusip":"98978V103","name":"ZOETIS INC","titleOfClass":"CL A","shares":1580996,"shareType":"SH","putCall":null,"value":110400985},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":2005288,"shareType":"SH","putCall":null,"value":105979494},
+    {"cusip":"225310101","name":"CREDIT ACCEP CORP MICH","titleOfClass":"COM","shares":196381,"shareType":"SH","putCall":null,"value":104278044},
+    {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":805908,"shareType":"SH","putCall":null,"value":85466585},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":709816,"shareType":"SH","putCall":null,"value":83268496},
+    {"cusip":"437076102","name":"HOME DEPOT INC","titleOfClass":"COM","shares":286495,"shareType":"SH","putCall":null,"value":81504925},
+    {"cusip":"90384S303","name":"ULTA BEAUTY INC","titleOfClass":"COM","shares":116537,"shareType":"SH","putCall":null,"value":63649077},
+    {"cusip":"55261F104","name":"M & T BK CORP","titleOfClass":"COM","shares":274204,"shareType":"SH","putCall":null,"value":59666869},
+    {"cusip":"M46528101","name":"FRONTLINE PLC","titleOfClass":"COM","shares":760775,"shareType":"SH","putCall":null,"value":37667493},
+    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":192278,"shareType":"SH","putCall":null,"value":13330572},
+    {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":440241,"shareType":"SH","putCall":null,"value":11459473},
+    {"cusip":"464287598","name":"ISHARES TR","titleOfClass":"RUS 1000 VAL ETF","shares":4586,"shareType":"SH","putCall":null,"value":1137007}
+  ]
+}
