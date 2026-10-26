@@ -1,0 +1,37 @@
+{
+  "cik": "846222",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"846222","accession":"0001213900-26-112422","form":"13F-HR","filedAt":"2026-10-26","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"526057104","name":"Lennar Corporation - A (LEN)","titleOfClass":"COMMON","shares":13055103,"shareType":"SH","putCall":null,"value":1065165854},
+    {"cusip":"075887109","name":"Becton Dickinson & Co (BDX)","titleOfClass":"COMMON","shares":5904730,"shareType":"SH","putCall":null,"value":1056946670},
+    {"cusip":"35045V100","name":"General Motors Co (GM)","titleOfClass":"COMMON","shares":12906773,"shareType":"SH","putCall":null,"value":993821521},
+    {"cusip":"889478103","name":"Toll Brothers, Inc. (TOL)","titleOfClass":"COMMON","shares":5614009,"shareType":"SH","putCall":null,"value":756487713},
+    {"cusip":"745867101","name":"PulteGroup Inc. (PHM)","titleOfClass":"COMMON","shares":5394549,"shareType":"SH","putCall":null,"value":626091357},
+    {"cusip":"G4705A100","name":"Icon Plc (ICLR)","titleOfClass":"COMMON","shares":3069015,"shareType":"SH","putCall":null,"value":521701860},
+    {"cusip":"23331A109","name":"D R Horton, Inc. (DHI)","titleOfClass":"COMMON","shares":3753844,"shareType":"SH","putCall":null,"value":512962783},
+    {"cusip":"05352A100","name":"Avantor Inc (AVTR)","titleOfClass":"COMMON","shares":24359610,"shareType":"SH","putCall":null,"value":366612131},
+    {"cusip":"042735100","name":"Arrow Electronics Inc (ARW)","titleOfClass":"COMMON","shares":1486774,"shareType":"SH","putCall":null,"value":337497698},
+    {"cusip":"688239201","name":"Oshkosh Corp (OSK)","titleOfClass":"COMMON","shares":2527880,"shareType":"SH","putCall":null,"value":325641502},
+    {"cusip":"053807103","name":"Avnet Inc (AVT)","titleOfClass":"COMMON","shares":3205515,"shareType":"SH","putCall":null,"value":320391224},
+    {"cusip":"071813109","name":"Baxter International Inc (BAX)","titleOfClass":"COMMON","shares":12396504,"shareType":"SH","putCall":null,"value":297516096},
+    {"cusip":"806857108","name":"SLB Ltd (SLB)","titleOfClass":"COMMON","shares":3750244,"shareType":"SH","putCall":null,"value":182711888},
+    {"cusip":"46266C105","name":"Iqvia Hldgs Inc (IQV)","titleOfClass":"COMMON","shares":544925,"shareType":"SH","putCall":null,"value":146503086},
+    {"cusip":"62955J103","name":"Nov Inc (NOV)","titleOfClass":"COMMON","shares":5281619,"shareType":"SH","putCall":null,"value":98924724},
+    {"cusip":"521865204","name":"Lear Corporation (LEA)","titleOfClass":"COMMON","shares":834527,"shareType":"SH","putCall":null,"value":98499222},
+    {"cusip":"59001A102","name":"Meritage Homes Corp (MTH)","titleOfClass":"COMMON","shares":1367579,"shareType":"SH","putCall":null,"value":85952340},
+    {"cusip":"67011P100","name":"Dnow Inc (DNOW)","titleOfClass":"COMMON","shares":4377190,"shareType":"SH","putCall":null,"value":67846445},
+    {"cusip":"922040845","name":"Vanguard 0-3M T-Bill ETF (VBIL)","titleOfClass":"ETF","shares":858916,"shareType":"SH","putCall":null,"value":65037120},
+    {"cusip":"526057302","name":"Lennar Corporation - B SHS (LEN/B)","titleOfClass":"COMMON","shares":365959,"shareType":"SH","putCall":null,"value":29273060},
+    {"cusip":"00846U101","name":"Agilent Technologies, Inc. (A)","titleOfClass":"COMMON","shares":10700,"shareType":"SH","putCall":null,"value":1843717},
+    {"cusip":"G25508105","name":"CRH Plc (CRH)","titleOfClass":"COMMON","shares":17500,"shareType":"SH","putCall":null,"value":1449000},
+    {"cusip":"808513105","name":"Charles Schwab Corporation (SCHW)","titleOfClass":"COMMON","shares":10500,"shareType":"SH","putCall":null,"value":1026270},
+    {"cusip":"907818108","name":"Union Pacific Corp (UNP)","titleOfClass":"COMMON","shares":2032,"shareType":"SH","putCall":null,"value":552968},
+    {"cusip":"46625H100","name":"J P Morgan Chase (JPM)","titleOfClass":"COMMON","shares":1000,"shareType":"SH","putCall":null,"value":330830},
+    {"cusip":"G3922B107","name":"Genpact LTD (G)","titleOfClass":"COMMON","shares":10000,"shareType":"SH","putCall":null,"value":325300},
+    {"cusip":"070830104","name":"Bath & Body Works Inc (BBWI)","titleOfClass":"COMMON","shares":10000,"shareType":"SH","putCall":null,"value":159200}
+  ]
+}
