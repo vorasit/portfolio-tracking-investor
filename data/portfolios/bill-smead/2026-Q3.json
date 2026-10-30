@@ -19,7 +19,7 @@
     {"cusip":"23331A109","name":"D R HORTON INC","titleOfClass":"COM","shares":1396714,"shareType":"SH","putCall":null,"value":190860960,"ticker":"DHI","weight":0.040562,"price":136.65},
     {"cusip":"526057104","name":"LENNAR CORP","titleOfClass":"CL A","shares":2284725,"shareType":"SH","putCall":null,"value":186410693,"ticker":"LEN","weight":0.039616,"price":81.59},
     {"cusip":"25278X109","name":"DIAMONDBACK ENERGY INC","titleOfClass":"COM","shares":997743,"shareType":"SH","putCall":null,"value":183395054,"ticker":"FANG","weight":0.038975,"price":183.81},
-    {"cusip":"62944T105","name":"NVR INC","titleOfClass":"COM","shares":27829,"shareType":"SH","putCall":null,"value":171270962,"ticker":"NVR","weight":0.036399,"price":6154.41},
+    {"cusip":"62944T105","name":"NVR INC","titleOfClass":"COM","shares":27829,"shareType":"SH","putCall":null,"value":171270962,"ticker":"NVR","weight":0.036399,"price":6154.4},
     {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":562102,"shareType":"SH","putCall":null,"value":170935368,"ticker":"AXP","weight":0.036327,"price":304.1},
     {"cusip":"674599105","name":"OCCIDENTAL PETE CORP","titleOfClass":"COM","shares":2939694,"shareType":"SH","putCall":null,"value":162623851,"ticker":"OXY","weight":0.034561,"price":55.32},
     {"cusip":"316773100","name":"FIFTH THIRD BANCORP","titleOfClass":"COM","shares":3125275,"shareType":"SH","putCall":null,"value":158076392,"ticker":"FITB","weight":0.033595,"price":50.58},

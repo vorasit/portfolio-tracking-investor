@@ -68,7 +68,7 @@
     {"cusip":"093712107","name":"Bloom Energy Corporation","titleOfClass":"COM","shares":34390,"shareType":"SH","putCall":null,"value":9525342,"ticker":"BE","weight":0.002179,"price":276.98},
     {"cusip":"639193101","name":"Navan, Inc. Class A","titleOfClass":"COM","shares":387738,"shareType":"SH","putCall":null,"value":8138621,"ticker":"NAVN","weight":0.001862,"price":20.99},
     {"cusip":"68389X105","name":"Oracle Corporation","titleOfClass":"COM","shares":57890,"shareType":"SH","putCall":null,"value":7948297,"ticker":"ORCL","weight":0.001818,"price":137.3},
-    {"cusip":"22160K105","name":"Costco Wholesale Corporation","titleOfClass":"COM","shares":8303,"shareType":"SH","putCall":null,"value":7558920,"ticker":"COST","weight":0.001729,"price":910.384},
+    {"cusip":"22160K105","name":"Costco Wholesale Corporation","titleOfClass":"COM","shares":8303,"shareType":"SH","putCall":null,"value":7558920,"ticker":"COST","weight":0.001729,"price":910.362},
     {"cusip":"64110L106","name":"Netflix, Inc.","titleOfClass":"COM","shares":106535,"shareType":"SH","putCall":null,"value":7412705,"ticker":"NFLX","weight":0.001696,"price":69.58},
     {"cusip":"H5919C104","name":"On Holding AG","titleOfClass":"COM","shares":246670,"shareType":"SH","putCall":null,"value":7303898,"ticker":"ONON","weight":0.001671,"price":29.61},
     {"cusip":"N97284108","name":"Nebius Group N.V.","titleOfClass":"COM","shares":24050,"shareType":"SH","putCall":null,"value":5672914,"ticker":"NBIS","weight":0.001298,"price":235.88},
