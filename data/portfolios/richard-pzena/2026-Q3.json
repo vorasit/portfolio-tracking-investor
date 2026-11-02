@@ -46,7 +46,7 @@
     {"cusip":"G2519Y108","name":"CREDICORP LTD","titleOfClass":"COM","shares":665785,"shareType":"SH","putCall":null,"value":252911748,"ticker":"BAP","weight":0.007417,"price":379.87},
     {"cusip":"651229106","name":"NEWELL BRANDS INC","titleOfClass":"COM","shares":46720744,"shareType":"SH","putCall":null,"value":246685529,"ticker":"NWL","weight":0.007235,"price":5.28},
     {"cusip":"780259305","name":"SHELL PLC","titleOfClass":"SPON ADS","shares":2513507,"shareType":"SH","putCall":null,"value":238908834,"ticker":"SHEL","weight":0.007007,"price":95.05},
-    {"cusip":"N5505D105","name":"MAGNUM ICE CREAM CO NV","titleOfClass":"ORD SHS","shares":14014899,"shareType":"SH","putCall":null,"value":220146034,"ticker":"MICC","weight":0.006456,"price":15.708},
+    {"cusip":"N5505D105","name":"MAGNUM ICE CREAM CO NV","titleOfClass":"ORD SHS","shares":14014899,"shareType":"SH","putCall":null,"value":220146034,"ticker":"MICC","weight":0.006456,"price":16.744},
     {"cusip":"770323103","name":"ROBERT HALF INC.","titleOfClass":"COM","shares":5405276,"shareType":"SH","putCall":null,"value":198643893,"ticker":"RHI","weight":0.005826,"price":36.75},
     {"cusip":"00751Y106","name":"ADVANCE AUTO PARTS INC","titleOfClass":"COM","shares":4986453,"shareType":"SH","putCall":null,"value":194022886,"ticker":"AAP","weight":0.00569,"price":38.91},
     {"cusip":"247361702","name":"DELTA AIR LINES INC","titleOfClass":"COM NEW","shares":2248190,"shareType":"SH","putCall":null,"value":187633938,"ticker":"DAL","weight":0.005503,"price":83.46},
