@@ -30,7 +30,7 @@
     {"cusip":"064058100","name":"BANK OF NEW YORK MELLON CORP","titleOfClass":"COM","shares":92908,"shareType":"SH","putCall":null,"value":13437284,"ticker":"BNY","weight":0.010938,"price":144.63},
     {"cusip":"25243Q205","name":"DIAGEO P L C  - ADR","titleOfClass":"ADR","shares":122706,"shareType":"SH","putCall":null,"value":10503634,"ticker":"DEO","weight":0.00855,"price":85.6},
     {"cusip":"66987V109","name":"NOVARTIS AG AMERICAN DEPOSITORY SHARES","titleOfClass":"ADR","shares":69009,"shareType":"SH","putCall":null,"value":9838613,"ticker":"NVS","weight":0.008009,"price":142.57},
-    {"cusip":"F92124100","name":"TOTALENERGIES SE ADR","titleOfClass":"ADR","shares":113906,"shareType":"SH","putCall":null,"value":9738963,"ticker":"TTE","weight":0.007928,"price":80.6},
+    {"cusip":"F92124100","name":"TOTALENERGIES SE ADR","titleOfClass":"ADR","shares":113906,"shareType":"SH","putCall":null,"value":9738963,"ticker":"TTE","weight":0.007928,"price":85.5},
     {"cusip":"904708104","name":"UNIFIRST CORP","titleOfClass":"COM","shares":34714,"shareType":"SH","putCall":null,"value":8696551,"ticker":"UNF","weight":0.007079,"price":250.52},
     {"cusip":"902973304","name":"US BANCORP","titleOfClass":"COM","shares":142806,"shareType":"SH","putCall":null,"value":8248475,"ticker":"USB","weight":0.006715,"price":57.76},
     {"cusip":"254687106","name":"DISNEY WALT COMPANY HOLDING CO","titleOfClass":"COM","shares":49660,"shareType":"SH","putCall":null,"value":5209334,"ticker":"DIS","weight":0.004241,"price":104.9},

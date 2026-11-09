@@ -48,7 +48,7 @@
     {"cusip":"680665205","name":"Olin Corporation","titleOfClass":"COM PAR $1","shares":4292873,"shareType":"SH","putCall":null,"value":66539532,"ticker":"OLN","weight":0.007943,"price":15.5},
     {"cusip":"91324P102","name":"UnitedHealth Group Incorporated","titleOfClass":"COM","shares":172551,"shareType":"SH","putCall":null,"value":63340021,"ticker":"UNH","weight":0.007561,"price":367.08},
     {"cusip":"303075105","name":"FactSet Research Systems Inc.","titleOfClass":"COM","shares":229906,"shareType":"SH","putCall":null,"value":62063125,"ticker":"FDS","weight":0.007409,"price":269.95},
-    {"cusip":"07831C103","name":"BellRing Brands, Inc.","titleOfClass":"COM","shares":5271000,"shareType":"SH","putCall":null,"value":40533990,"ticker":"BRBR","weight":0.004839,"price":7.69},
+    {"cusip":"07831C103","name":"BellRing Brands, Inc.","titleOfClass":"COM","shares":5271000,"shareType":"SH","putCall":null,"value":40533990,"ticker":"BRBR","weight":0.004839,"price":7.68999},
     {"cusip":"35137L105","name":"Fox Corporation","titleOfClass":"CL A COM","shares":539987,"shareType":"SH","putCall":null,"value":33830186,"ticker":"FOXA","weight":0.004039,"price":62.65},
     {"cusip":"20030N101","name":"Comcast Corporation","titleOfClass":"CL A","shares":1170500,"shareType":"SH","putCall":null,"value":25470080,"ticker":"CMCSA","weight":0.003041,"price":21.76},
     {"cusip":"29082K105","name":"Embecta Corporation","titleOfClass":"COMMON STOCK","shares":4334926,"shareType":"SH","putCall":null,"value":24535681,"ticker":"EMBC","weight":0.002929,"price":5.66},
