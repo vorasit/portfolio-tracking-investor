@@ -46,7 +46,7 @@
     {"cusip":"01877R108","name":"ALLIANCE RESOURCE PARTNERS LP","titleOfClass":"COM","shares":126368,"shareType":"SH","putCall":null,"value":3069479,"ticker":"ARLP","weight":0.002499,"price":24.29},
     {"cusip":"17275R102","name":"CISCO SYSTEMS INC","titleOfClass":"COM","shares":28229,"shareType":"SH","putCall":null,"value":3038287,"ticker":"CSCO","weight":0.002473,"price":107.63},
     {"cusip":"L44385109","name":"GLOBANT SA","titleOfClass":"COM","shares":87296,"shareType":"SH","putCall":null,"value":3029171,"ticker":"GLOB","weight":0.002466,"price":34.7},
-    {"cusip":"67077M108","name":"NUTRIEN LTD","titleOfClass":"COM","shares":42946,"shareType":"SH","putCall":null,"value":3023084,"ticker":"NTR","weight":0.002461,"price":70.3927},
+    {"cusip":"67077M108","name":"NUTRIEN LTD","titleOfClass":"COM","shares":42946,"shareType":"SH","putCall":null,"value":3023084,"ticker":"NTR","weight":0.002461,"price":70.3213},
     {"cusip":"718546104","name":"PHILLIPS 66","titleOfClass":"COM","shares":11734,"shareType":"SH","putCall":null,"value":2995808,"ticker":"PSX","weight":0.002439,"price":255.31},
     {"cusip":"904767803","name":"UNILEVER PLC SPONSORED ADR","titleOfClass":"ADR","shares":47118,"shareType":"SH","putCall":null,"value":2861476,"ticker":"UL","weight":0.002329,"price":60.73},
     {"cusip":"01973R101","name":"ALLISON TRANSMISSION HLD","titleOfClass":"COM","shares":25155,"shareType":"SH","putCall":null,"value":2849055,"ticker":"ALSN","weight":0.002319,"price":113.26},

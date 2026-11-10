@@ -93,7 +93,7 @@
     {"cusip":"87612E106","name":"TARGET CORP","titleOfClass":"COM","shares":347376,"shareType":"SH","putCall":null,"value":54430345,"ticker":"TGT","weight":0.001596,"price":156.69},
     {"cusip":"25960R105","name":"DOUGLAS DYNAMICS INC","titleOfClass":"COM","shares":1366141,"shareType":"SH","putCall":null,"value":53621034,"ticker":"PLOW","weight":0.001573,"price":39.25},
     {"cusip":"688239201","name":"OSHKOSH CORP","titleOfClass":"COM","shares":411044,"shareType":"SH","putCall":null,"value":52950688,"ticker":"OSK","weight":0.001553,"price":128.82},
-    {"cusip":"7591EP100","name":"REGIONS FINANCIAL CORP NEW","titleOfClass":"COM","shares":1839837,"shareType":"SH","putCall":null,"value":49454819,"ticker":"RF","weight":0.00145,"price":26.88},
+    {"cusip":"7591EP100","name":"REGIONS FINANCIAL CORP NEW","titleOfClass":"COM","shares":1839837,"shareType":"SH","putCall":null,"value":49454819,"ticker":"RF","weight":0.00145,"price":26.8803},
     {"cusip":"H00501108","name":"AEBI SCHMIDT HLDG AG","titleOfClass":"COM","shares":4287385,"shareType":"SH","putCall":null,"value":45360533,"ticker":"AEBI","weight":0.00133,"price":10.58},
     {"cusip":"974637100","name":"WINNEBAGO INDS INC","titleOfClass":"COM","shares":1685995,"shareType":"SH","putCall":null,"value":44459688,"ticker":"WGO","weight":0.001304,"price":26.37},
     {"cusip":"67011P100","name":"DNOW INC","titleOfClass":"COM","shares":2777216,"shareType":"SH","putCall":null,"value":43046848,"ticker":"DNOW","weight":0.001262,"price":15.5},
