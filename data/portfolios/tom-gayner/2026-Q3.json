@@ -95,7 +95,7 @@
     {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":612000,"shareType":"SH","putCall":null,"value":21793320,"ticker":"EPD","weight":0.001697,"price":35.61},
     {"cusip":"199908104","name":"COMFORT SYS USA INC","titleOfClass":"COM","shares":13000,"shareType":"SH","putCall":null,"value":21503170,"ticker":"FIX","weight":0.001675,"price":1654.09},
     {"cusip":"988498101","name":"YUM BRANDS INC","titleOfClass":"COM","shares":142059,"shareType":"SH","putCall":null,"value":19368324,"ticker":"YUM","weight":0.001509,"price":136.34},
-    {"cusip":"038222105","name":"APPLIED MATLS INC","titleOfClass":"COM","shares":36350,"shareType":"SH","putCall":null,"value":18588663,"ticker":"AMAT","weight":0.001448,"price":511.38},
+    {"cusip":"038222105","name":"APPLIED MATLS INC","titleOfClass":"COM","shares":36350,"shareType":"SH","putCall":null,"value":18588663,"ticker":"AMAT","weight":0.001448,"price":511.382},
     {"cusip":"064058100","name":"BANK OF NY MELLON CORP","titleOfClass":"COM","shares":124500,"shareType":"SH","putCall":null,"value":18006435,"ticker":"BNY","weight":0.001402,"price":144.63},
     {"cusip":"784117103","name":"SEI INVTS CO","titleOfClass":"COM","shares":173200,"shareType":"SH","putCall":null,"value":17780712,"ticker":"SEIC","weight":0.001385,"price":102.66},
     {"cusip":"14040H105","name":"CAPITAL ONE FINL CORP","titleOfClass":"COM","shares":91000,"shareType":"SH","putCall":null,"value":17569370,"ticker":"COF","weight":0.001368,"price":193.07},

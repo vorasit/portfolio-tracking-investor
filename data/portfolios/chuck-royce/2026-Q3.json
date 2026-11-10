@@ -260,7 +260,7 @@
     {"cusip":"03763A207","name":"ASTRANA HEALTH INC","titleOfClass":"COM NEW","shares":419222,"shareType":"SH","putCall":null,"value":14911727,"ticker":"ASTH","weight":0.00136,"price":35.57},
     {"cusip":"50012A108","name":"KODIAK GAS SVCS INC","titleOfClass":"COM","shares":281111,"shareType":"SH","putCall":null,"value":14890450,"ticker":"KGS","weight":0.001358,"price":52.97},
     {"cusip":"64111Q104","name":"NETGEAR INC","titleOfClass":"COM","shares":666631,"shareType":"SH","putCall":null,"value":14805875,"ticker":"NTGR","weight":0.00135,"price":22.21},
-    {"cusip":"44891N208","name":"PEOPLE INC","titleOfClass":"COM NEW","shares":352805,"shareType":"SH","putCall":null,"value":14803698,"ticker":"PPLI","weight":0.00135,"price":41.96},
+    {"cusip":"44891N208","name":"PEOPLE INC","titleOfClass":"COM NEW","shares":352805,"shareType":"SH","putCall":null,"value":14803698,"ticker":"PPLI","weight":0.00135,"price":41.9601},
     {"cusip":"254067101","name":"DILLARDS INC","titleOfClass":"CL A","shares":22000,"shareType":"SH","putCall":null,"value":14739780,"ticker":"DDS","weight":0.001344,"price":669.99},
     {"cusip":"68628V308","name":"ORION GROUP HLDGS INC","titleOfClass":"COM","shares":1718279,"shareType":"SH","putCall":null,"value":14691285,"ticker":"ORN","weight":0.001339,"price":8.55},
     {"cusip":"74276R102","name":"PRIVIA HEALTH GROUP INC","titleOfClass":"COM","shares":745948,"shareType":"SH","putCall":null,"value":14687716,"ticker":"PRVA","weight":0.001339,"price":19.69},
