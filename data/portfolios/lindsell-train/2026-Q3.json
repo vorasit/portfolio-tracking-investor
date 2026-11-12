@@ -14,7 +14,7 @@
     {"cusip":"254687106","name":"DISNEY WALT CO","titleOfClass":"COM","shares":2299341,"shareType":"SH","putCall":null,"value":241200871,"ticker":"DIS","weight":0.102357,"price":104.9},
     {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":627583,"shareType":"SH","putCall":null,"value":173030909,"ticker":"INTU","weight":0.073428,"price":275.71},
     {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":2939672,"shareType":"SH","putCall":null,"value":154420970,"ticker":"PYPL","weight":0.065531,"price":52.53},
-    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":2281067,"shareType":"SH","putCall":null,"value":145890904,"ticker":"MDLZ","weight":0.061911,"price":60.8887},
+    {"cusip":"609207105","name":"MONDELEZ INTL INC","titleOfClass":"CL A","shares":2281067,"shareType":"SH","putCall":null,"value":145890904,"ticker":"MDLZ","weight":0.061911,"price":57.82},
     {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":212785,"shareType":"SH","putCall":null,"value":126068729,"ticker":"FICO","weight":0.053499,"price":592.47},
     {"cusip":"713448108","name":"PEPSICO INC","titleOfClass":"COM","shares":950988,"shareType":"SH","putCall":null,"value":120509199,"ticker":"PEP","weight":0.05114,"price":126.72},
     {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":1052401,"shareType":"SH","putCall":null,"value":111607126,"ticker":"EBAY","weight":0.047362,"price":106.05},

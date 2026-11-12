@@ -8,7 +8,7 @@
   ],
   "totalValue": 4705402906,
   "holdings": [
-    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":13568058,"shareType":"SH","putCall":null,"value":421759560,"ticker":"CVE","weight":0.089633,"price":31.0847},
+    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":13568058,"shareType":"SH","putCall":null,"value":421759560,"ticker":"CVE","weight":0.089633,"price":31.0824},
     {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":2305916,"shareType":"SH","putCall":null,"value":335072670,"ticker":"MRK","weight":0.07121,"price":145.31},
     {"cusip":"03743Q108","name":"APA CORPORATION","titleOfClass":"COM","shares":7714207,"shareType":"SH","putCall":null,"value":320448151,"ticker":"APA","weight":0.068102,"price":41.54},
     {"cusip":"554382101","name":"MACERICH CO","titleOfClass":"COM","shares":11298361,"shareType":"SH","putCall":null,"value":252631357,"ticker":"MAC","weight":0.05369,"price":22.36},
@@ -33,10 +33,10 @@
     {"cusip":"278642103","name":"EBAY INC.","titleOfClass":"COM","shares":805908,"shareType":"SH","putCall":null,"value":85466585,"ticker":"EBAY","weight":0.018163,"price":106.05},
     {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":709816,"shareType":"SH","putCall":null,"value":83268496,"ticker":"CROX","weight":0.017696,"price":117.31},
     {"cusip":"437076102","name":"HOME DEPOT INC","titleOfClass":"COM","shares":286495,"shareType":"SH","putCall":null,"value":81504925,"ticker":"HD","weight":0.017322,"price":284.49},
-    {"cusip":"90384S303","name":"ULTA BEAUTY INC","titleOfClass":"COM","shares":116537,"shareType":"SH","putCall":null,"value":63649077,"ticker":"ULTA","weight":0.013527,"price":546.171},
+    {"cusip":"90384S303","name":"ULTA BEAUTY INC","titleOfClass":"COM","shares":116537,"shareType":"SH","putCall":null,"value":63649077,"ticker":"ULTA","weight":0.013527,"price":546.17},
     {"cusip":"55261F104","name":"M & T BK CORP","titleOfClass":"COM","shares":274204,"shareType":"SH","putCall":null,"value":59666869,"ticker":"MTB","weight":0.012681,"price":217.6},
-    {"cusip":"M46528101","name":"FRONTLINE PLC","titleOfClass":"COM","shares":760775,"shareType":"SH","putCall":null,"value":37667493,"ticker":"FRO","weight":0.008005,"price":49.512},
-    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":192278,"shareType":"SH","putCall":null,"value":13330572,"ticker":"WFG","weight":0.002833,"price":69.3297},
+    {"cusip":"M46528101","name":"FRONTLINE PLC","titleOfClass":"COM","shares":760775,"shareType":"SH","putCall":null,"value":37667493,"ticker":"FRO","weight":0.008005,"price":49.391},
+    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":192278,"shareType":"SH","putCall":null,"value":13330572,"ticker":"WFG","weight":0.002833,"price":69.3548},
     {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":440241,"shareType":"SH","putCall":null,"value":11459473,"ticker":"GTX","weight":0.002435,"price":26.03},
     {"cusip":"464287598","name":"ISHARES TR","titleOfClass":"RUS 1000 VAL ETF","shares":4586,"shareType":"SH","putCall":null,"value":1137007,"ticker":"IWD","weight":0.000242,"price":247.93}
   ],
