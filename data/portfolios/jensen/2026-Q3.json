@@ -84,7 +84,7 @@
     {"cusip":"G02602103","name":"Amdocs Limited","titleOfClass":"COM","shares":17420,"shareType":"SH","putCall":null,"value":996076,"ticker":"DOX","weight":0.000313,"price":57.18},
     {"cusip":"257651109","name":"Donaldson Co. Inc.","titleOfClass":"COM","shares":9500,"shareType":"SH","putCall":null,"value":826880,"ticker":"DCI","weight":0.000259,"price":87.04},
     {"cusip":"562750109","name":"Manhattan Associates, Inc.","titleOfClass":"COM","shares":4060,"shareType":"SH","putCall":null,"value":806722,"ticker":"MANH","weight":0.000253,"price":198.7},
-    {"cusip":"099502106","name":"Booz Allen Hamilton Holding Co","titleOfClass":"COM","shares":7180,"shareType":"SH","putCall":null,"value":498436,"ticker":"BAH","weight":0.000156,"price":69.4201},
+    {"cusip":"099502106","name":"Booz Allen Hamilton Holding Co","titleOfClass":"COM","shares":7180,"shareType":"SH","putCall":null,"value":498436,"ticker":"BAH","weight":0.000156,"price":69.42},
     {"cusip":"89834G547","name":"Jensen U.S. Quality Index ETF","titleOfClass":"JENSEN QUALITY","shares":15680,"shareType":"SH","putCall":null,"value":395443,"ticker":"JQTY","weight":0.000124,"price":25.2196},
     {"cusip":"075887109","name":"Becton Dickinson & Co.","titleOfClass":"COM","shares":2040,"shareType":"SH","putCall":null,"value":365160,"ticker":"BDX","weight":0.000115,"price":179},
     {"cusip":"372460105","name":"Genuine Parts Company","titleOfClass":"COM","shares":2674,"shareType":"SH","putCall":null,"value":336229,"ticker":"GPC","weight":0.000105,"price":125.74},

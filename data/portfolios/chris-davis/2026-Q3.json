@@ -17,7 +17,7 @@
     {"cusip":"126650100","name":"CVS Health Corp.","titleOfClass":"Common Stock","shares":11896069,"shareType":"SH","putCall":null,"value":1019375204,"ticker":"CVS","weight":0.04403,"price":85.69},
     {"cusip":"02079K305","name":"Alphabet Inc., Class A","titleOfClass":"Common Stock","shares":2770105,"shareType":"SH","putCall":null,"value":953141629,"ticker":"GOOGL","weight":0.041169,"price":344.08},
     {"cusip":"552953101","name":"MGM Resorts International","titleOfClass":"Common Stock","shares":24043354,"shareType":"SH","putCall":null,"value":746546348,"ticker":"MGM","weight":0.032246,"price":31.05},
-    {"cusip":"570535104","name":"Markel Group Inc","titleOfClass":"Common Stock","shares":404348,"shareType":"SH","putCall":null,"value":692463689,"ticker":"MKL","weight":0.02991,"price":1712.5},
+    {"cusip":"570535104","name":"Markel Group Inc","titleOfClass":"Common Stock","shares":404348,"shareType":"SH","putCall":null,"value":692463689,"ticker":"MKL","weight":0.02991,"price":1712.45},
     {"cusip":"949746101","name":"Wells Fargo & Co.","titleOfClass":"Common Stock","shares":7990980,"shareType":"SH","putCall":null,"value":639678733,"ticker":"WFC","weight":0.02763,"price":80.05},
     {"cusip":"902494103","name":"Tyson Foods, Inc., Class A","titleOfClass":"Common Stock","shares":12578127,"shareType":"SH","putCall":null,"value":635573304,"ticker":"TSN","weight":0.027452,"price":50.53},
     {"cusip":"125523100","name":"Cigna Group","titleOfClass":"Common Stock","shares":2264230,"shareType":"SH","putCall":null,"value":615491799,"ticker":"CI","weight":0.026585,"price":271.83},

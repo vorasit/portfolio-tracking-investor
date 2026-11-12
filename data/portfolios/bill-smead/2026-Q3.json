@@ -13,7 +13,7 @@
     {"cusip":"03743Q108","name":"APA CORPORATION","titleOfClass":"COM","shares":7714207,"shareType":"SH","putCall":null,"value":320448151,"ticker":"APA","weight":0.068102,"price":41.54},
     {"cusip":"554382101","name":"MACERICH CO","titleOfClass":"COM","shares":11298361,"shareType":"SH","putCall":null,"value":252631357,"ticker":"MAC","weight":0.05369,"price":22.36},
     {"cusip":"828806109","name":"SIMON PPTY GROUP INC NEW","titleOfClass":"COM","shares":1255022,"shareType":"SH","putCall":null,"value":251958294,"ticker":"SPG","weight":0.053547,"price":200.76},
-    {"cusip":"031162100","name":"AMGEN INC","titleOfClass":"COM","shares":586504,"shareType":"SH","putCall":null,"value":247217281,"ticker":"AMGN","weight":0.052539,"price":421.506},
+    {"cusip":"031162100","name":"AMGEN INC","titleOfClass":"COM","shares":586504,"shareType":"SH","putCall":null,"value":247217281,"ticker":"AMGN","weight":0.052539,"price":421.51},
     {"cusip":"20825C104","name":"CONOCOPHILLIPS","titleOfClass":"COM","shares":1558825,"shareType":"SH","putCall":null,"value":195086899,"ticker":"COP","weight":0.04146,"price":125.15},
     {"cusip":"87612E106","name":"TARGET CORP","titleOfClass":"COM","shares":1233410,"shareType":"SH","putCall":null,"value":193262945,"ticker":"TGT","weight":0.041073,"price":156.69},
     {"cusip":"23331A109","name":"D R HORTON INC","titleOfClass":"COM","shares":1396714,"shareType":"SH","putCall":null,"value":190860960,"ticker":"DHI","weight":0.040562,"price":136.65},

@@ -1907,6 +1907,7 @@
   "922020805": {"ticker":"VTIP","name":"VANGUARD SHORT-TERM TIPS","figi":"BBG003H12X16"},
   "922021605": {"ticker":"VTEC","name":"VANGUARD CA TAX-EX BOND","figi":"BBG01L82WC98"},
   "922040845": {"ticker":"VBIL","name":"VANGUARD 0-3M T-BILL ETF","figi":"BBG01S6YYQ01"},
+  "922040852": {"ticker":"VGUS","name":"VANGUARD ULTRA SHRT TREASURY","figi":"BBG01S6YVJ64"},
   "922042676": {"ticker":"VNQI","name":"VANGUARD GLBL EX-US REAL EST","figi":"BBG001877Z08"},
   "922042718": {"ticker":"VSS","name":"VANGUARD FTSE ALL WO X-US SC","figi":"BBG000D6RYS7"},
   "922042742": {"ticker":"VT","name":"VANGUARD TOT WORLD STK ETF","figi":"BBG000GM5FZ6"},

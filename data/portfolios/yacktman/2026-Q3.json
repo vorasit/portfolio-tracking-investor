@@ -58,7 +58,7 @@
     {"cusip":"574599106","name":"Masco Corporation","titleOfClass":"COM","shares":304304,"shareType":"SH","putCall":null,"value":20510090,"ticker":"MAS","weight":0.002448,"price":67.4},
     {"cusip":"023586100","name":"U-Haul Holding Company","titleOfClass":"COM","shares":324719,"shareType":"SH","putCall":null,"value":19538342,"ticker":"UHAL","weight":0.002332,"price":60.17},
     {"cusip":"904767803","name":"Unilever PLC","titleOfClass":"ADR","shares":257223,"shareType":"SH","putCall":null,"value":15621153,"ticker":"UL","weight":0.001865,"price":60.73},
-    {"cusip":"78462F103","name":"State Street SPDR Portfolio","titleOfClass":"TR UNIT","shares":17035,"shareType":"SH","putCall":null,"value":12991402,"ticker":"SPY","weight":0.001551,"price":762.675},
+    {"cusip":"78462F103","name":"State Street SPDR Portfolio","titleOfClass":"TR UNIT","shares":17035,"shareType":"SH","putCall":null,"value":12991402,"ticker":"SPY","weight":0.001551,"price":762.63},
     {"cusip":"384313607","name":"GrafTech International Ltd.","titleOfClass":"COM","shares":1225151,"shareType":"SH","putCall":null,"value":10131999,"ticker":"EAF","weight":0.00121,"price":8.27},
     {"cusip":"064058100","name":"Bank of New York Mellon Corp","titleOfClass":"COM","shares":63121,"shareType":"SH","putCall":null,"value":9129190,"ticker":"BNY","weight":0.00109,"price":144.63},
     {"cusip":"949746101","name":"Wells Fargo & Company","titleOfClass":"COM","shares":108959,"shareType":"SH","putCall":null,"value":8722168,"ticker":"WFC","weight":0.001041,"price":80.05},

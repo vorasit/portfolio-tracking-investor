@@ -13,7 +13,7 @@
     {"cusip":"G87052109","name":"TE Connectivity PLC","titleOfClass":"Common Stocks","shares":562567,"shareType":"SH","putCall":null,"value":118746642,"ticker":"TEL","weight":0.037135,"price":211.08},
     {"cusip":"084670702","name":"Berkshire Hathaway Inc. - Class B","titleOfClass":"Common Stocks","shares":202411,"shareType":"SH","putCall":null,"value":100790558,"ticker":"BRK.B","weight":0.03152,"price":497.95},
     {"cusip":"254687106","name":"The Walt Disney Company","titleOfClass":"Common Stocks","shares":955899,"shareType":"SH","putCall":null,"value":100273805,"ticker":"DIS","weight":0.031358,"price":104.9},
-    {"cusip":"75886F107","name":"Regeneron Pharmaceuticals, Inc.","titleOfClass":"Common Stocks","shares":126179,"shareType":"SH","putCall":null,"value":95677750,"ticker":"REGN","weight":0.029921,"price":758.269},
+    {"cusip":"75886F107","name":"Regeneron Pharmaceuticals, Inc.","titleOfClass":"Common Stocks","shares":126179,"shareType":"SH","putCall":null,"value":95677750,"ticker":"REGN","weight":0.029921,"price":758.27},
     {"cusip":"N6596X109","name":"NXP Semiconductors NV","titleOfClass":"Common Stocks","shares":398185,"shareType":"SH","putCall":null,"value":94580883,"ticker":"NXPI","weight":0.029578,"price":237.53},
     {"cusip":"055622104","name":"BP PLC Sponsored ADR","titleOfClass":"Common Stocks","shares":2144561,"shareType":"SH","putCall":null,"value":94339238,"ticker":"BP","weight":0.029502,"price":43.99},
     {"cusip":"681919106","name":"Omnicom Group Inc.","titleOfClass":"Common Stocks","shares":1267379,"shareType":"SH","putCall":null,"value":93317116,"ticker":"OMC","weight":0.029183,"price":73.63},
