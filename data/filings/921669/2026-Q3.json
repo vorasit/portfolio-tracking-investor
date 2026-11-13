@@ -1,0 +1,20 @@
+{
+  "cik": "921669",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-26-002964","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":658924537,"shareType":"SH","putCall":null,"value":4447740626},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":71201875,"shareType":"SH","putCall":null,"value":3630583606},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4164274,"shareType":"SH","putCall":null,"value":515453836},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":14336044,"shareType":"SH","putCall":null,"value":287294322},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":2993728,"shareType":"SH","putCall":null,"value":249916413},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":72349232},
+    {"cusip":"610236101","name":"Monro, Inc.","titleOfClass":"COM","shares":5078573,"shareType":"SH","putCall":null,"value":71049236},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":5082427,"shareType":"SH","putCall":null,"value":68561946},
+    {"cusip":"278768106","name":"EchoStar Corporation","titleOfClass":"CL A","shares":500000,"shareType":"SH","putCall":null,"value":44705000},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":2378100,"shareType":"SH","putCall":null,"value":40427700}
+  ]
+}

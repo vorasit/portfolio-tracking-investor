@@ -27,7 +27,7 @@
     {"cusip":"883556102","name":"THERMO FISHER SCIENTIFIC INC","titleOfClass":"COM","shares":245508,"shareType":"SH","putCall":null,"value":165730175,"ticker":"TMO","weight":0.019749,"price":675.05},
     {"cusip":"N6596X109","name":"NXP SEMICONDUCTORS N V","titleOfClass":"COM","shares":685391,"shareType":"SH","putCall":null,"value":162800924,"ticker":"NXPI","weight":0.0194,"price":237.53},
     {"cusip":"34964C106","name":"FORTUNE BRANDS INNOVATIONS I","titleOfClass":"COM","shares":3877424,"shareType":"SH","putCall":null,"value":147535983,"ticker":"FBIN","weight":0.017581,"price":38.05},
-    {"cusip":"803054204","name":"SAP SE","titleOfClass":"SPON ADR","shares":705655,"shareType":"SH","putCall":null,"value":147114954,"ticker":"SAP","weight":0.01753,"price":208.486},
+    {"cusip":"803054204","name":"SAP SE","titleOfClass":"SPON ADR","shares":705655,"shareType":"SH","putCall":null,"value":147114954,"ticker":"SAP","weight":0.01753,"price":208.485},
     {"cusip":"H2927K103","name":"AMRIZE LTD","titleOfClass":"SHS","shares":3458299,"shareType":"SH","putCall":null,"value":129305800,"ticker":"AMRZ","weight":0.015408,"price":37.39},
     {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":461963,"shareType":"SH","putCall":null,"value":127367819,"ticker":"INTU","weight":0.015177,"price":275.71},
     {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":559723,"shareType":"SH","putCall":null,"value":124006631,"ticker":"DHR","weight":0.014777,"price":221.55},

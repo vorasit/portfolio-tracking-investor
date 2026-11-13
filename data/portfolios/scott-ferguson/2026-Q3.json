@@ -1,0 +1,49 @@
+{
+  "investorId": "scott-ferguson",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1582090","accession":"0000902664-26-004536","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 3969598137,
+  "holdings": [
+    {"cusip":"G7997R103","name":"Seagate Technology Hldngs PL","titleOfClass":"ORD SHS","shares":556000,"shareType":"SH","putCall":null,"value":512821040,"ticker":"STX","weight":0.129187,"price":922.34},
+    {"cusip":"87422Q109","name":"Talen Energy Corp","titleOfClass":"COM","shares":1157500,"shareType":"SH","putCall":null,"value":361938675,"ticker":"TLN","weight":0.091178,"price":312.69},
+    {"cusip":"462210105","name":"Ionic Digital Inc","titleOfClass":"COM CL A","shares":4450000,"shareType":"SH","putCall":null,"value":357468500,"ticker":"IOND","weight":0.090052,"price":80.33},
+    {"cusip":"741623102","name":"Primo Brands Corporation","titleOfClass":"CLASS A COM SHS","shares":16810000,"shareType":"SH","putCall":null,"value":320230500,"ticker":"PRMB","weight":0.080671,"price":19.05},
+    {"cusip":"71377A103","name":"Performance Food Group Co","titleOfClass":"COM","shares":3350000,"shareType":"SH","putCall":null,"value":306558500,"ticker":"PFGC","weight":0.077227,"price":91.51},
+    {"cusip":"83088M102","name":"Skyworks Solutions Inc","titleOfClass":"COM","shares":3495000,"shareType":"SH","putCall":null,"value":298752600,"ticker":"SWKS","weight":0.07526,"price":85.48},
+    {"cusip":"36165L108","name":"GDS Hldgs Ltd","titleOfClass":"Sponsored ADS","shares":8685000,"shareType":"SH","putCall":null,"value":271232550,"ticker":"GDS","weight":0.068327,"price":31.23},
+    {"cusip":"15118V207","name":"Celsius Hldgs Inc","titleOfClass":"COM NEW","shares":9090000,"shareType":"SH","putCall":null,"value":248611500,"ticker":"CELH","weight":0.062629,"price":27.35},
+    {"cusip":"146869102","name":"Carvana Co","titleOfClass":"CL A","shares":3630000,"shareType":"SH","putCall":null,"value":227020200,"ticker":"CVNA","weight":0.05719,"price":62.54},
+    {"cusip":"55306N104","name":"MKS INC.","titleOfClass":"COM","shares":812700,"shareType":"SH","putCall":null,"value":215658072,"ticker":"MKSI","weight":0.054327,"price":265.36},
+    {"cusip":"375916103","name":"Gildan Activewear Inc","titleOfClass":"COM","shares":4950000,"shareType":"SH","putCall":null,"value":211018500,"ticker":"GIL","weight":0.053159,"price":42.63},
+    {"cusip":"17253J106","name":"Cipher Digital Inc","titleOfClass":"COM","shares":11690000,"shareType":"SH","putCall":null,"value":185042700,"ticker":"CIFR","weight":0.046615,"price":15.8271},
+    {"cusip":"767292105","name":"Riot Platforms Inc","titleOfClass":"COM","shares":5810000,"shareType":"SH","putCall":null,"value":117071500,"ticker":"RIOT","weight":0.029492,"price":20.15},
+    {"cusip":"861012102","name":"STMicroelectronics N V","titleOfClass":"NY REGISTRY","shares":1945000,"shareType":"SH","putCall":null,"value":103785200,"ticker":"STM","weight":0.026145,"price":53.36},
+    {"cusip":"443320106","name":"Hub Group Inc","titleOfClass":"CL A","shares":2985000,"shareType":"SH","putCall":null,"value":88296300,"ticker":"HUBG","weight":0.022243,"price":29.58},
+    {"cusip":"46137V357","name":"Invesco Exchange Traded FD T","titleOfClass":"S&P500 EQL WGT","shares":265000,"shareType":"SH","putCall":null,"value":55125300,"ticker":"RSP","weight":0.013887,"price":208.02},
+    {"cusip":"83001C108","name":"Six Flags Entertainment Corp","titleOfClass":"COM","shares":5030000,"shareType":"SH","putCall":null,"value":53871300,"ticker":"FUN","weight":0.013571,"price":10.71},
+    {"cusip":"90138F102","name":"Twilio Inc","titleOfClass":"CL A","shares":120000,"shareType":"SH","putCall":null,"value":35095200,"ticker":"TWLO","weight":0.008841,"price":292.46}
+  ],
+  "changes": [
+    {"cusip":"462210105","ticker":"IOND","name":"Ionic Digital Inc","putCall":null,"action":"new","shares":4450000,"prevShares":0},
+    {"cusip":"83088M102","ticker":"SWKS","name":"Skyworks Solutions Inc","putCall":null,"action":"new","shares":3495000,"prevShares":0},
+    {"cusip":"17253J106","ticker":"CIFR","name":"Cipher Digital Inc","putCall":null,"action":"new","shares":11690000,"prevShares":0},
+    {"cusip":"443320106","ticker":"HUBG","name":"Hub Group Inc","putCall":null,"action":"new","shares":2985000,"prevShares":0},
+    {"cusip":"G7997R103","ticker":"STX","name":"Seagate Technology Hldngs PL","putCall":null,"action":"add","shares":556000,"prevShares":472000},
+    {"cusip":"375916103","ticker":"GIL","name":"Gildan Activewear Inc","putCall":null,"action":"add","shares":4950000,"prevShares":3640000},
+    {"cusip":"767292105","ticker":"RIOT","name":"Riot Platforms Inc","putCall":null,"action":"add","shares":5810000,"prevShares":2865000},
+    {"cusip":"87422Q109","ticker":"TLN","name":"Talen Energy Corp","putCall":null,"action":"reduce","shares":1157500,"prevShares":1370000},
+    {"cusip":"741623102","ticker":"PRMB","name":"Primo Brands Corporation","putCall":null,"action":"reduce","shares":16810000,"prevShares":17795000},
+    {"cusip":"146869102","ticker":"CVNA","name":"Carvana Co","putCall":null,"action":"reduce","shares":3630000,"prevShares":4475000},
+    {"cusip":"861012102","ticker":"STM","name":"STMicroelectronics N V","putCall":null,"action":"reduce","shares":1945000,"prevShares":2200000},
+    {"cusip":"90138F102","ticker":"TWLO","name":"Twilio Inc","putCall":null,"action":"reduce","shares":120000,"prevShares":620000},
+    {"cusip":"253393102","ticker":"DKS","name":"Dicks Sporting Goods Inc","putCall":null,"action":"exit","shares":0,"prevShares":1490000},
+    {"cusip":"83601L102","ticker":"SHC","name":"Sotera Health Co","putCall":null,"action":"exit","shares":0,"prevShares":15560000},
+    {"cusip":"G9456A100","ticker":"GLNG","name":"GOLAR LNG LTD","putCall":null,"action":"exit","shares":0,"prevShares":3620000},
+    {"cusip":"116794108","ticker":"BRKR","name":"Bruker Corp","putCall":null,"action":"exit","shares":0,"prevShares":2915000},
+    {"cusip":"G11448100","ticker":"BTDR","name":"Bitdeer Technologies Group","putCall":null,"action":"exit","shares":0,"prevShares":9635000}
+  ]
+}

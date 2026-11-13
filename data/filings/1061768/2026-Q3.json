@@ -1,0 +1,31 @@
+{
+  "cik": "1061768",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-26-000015","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3743854,"shareType":"SH","putCall":null,"value":932781000},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1275154,"shareType":"SH","putCall":null,"value":495805000},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":6753112,"shareType":"SH","putCall":null,"value":480104000},
+    {"cusip":"372460105","name":"GENUINE PARTS CO","titleOfClass":"COM","shares":3097978,"shareType":"SH","putCall":null,"value":389540000},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1571594,"shareType":"SH","putCall":null,"value":349868000},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":949931,"shareType":"SH","putCall":null,"value":323679000},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":718523,"shareType":"SH","putCall":null,"value":258374000},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":701355,"shareType":"SH","putCall":null,"value":252018000},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":795395,"shareType":"SH","putCall":null,"value":216451000},
+    {"cusip":"G0403H108","name":"AON PLC","titleOfClass":"SHS CL A","shares":674779,"shareType":"SH","putCall":null,"value":186759000},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":685435,"shareType":"SH","putCall":null,"value":179570000},
+    {"cusip":"43849R105","name":"HONEYWELL AEROSPACE INC","titleOfClass":"COM","shares":1132000,"shareType":"SH","putCall":null,"value":175426000},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":10259844,"shareType":"SH","putCall":null,"value":124452000},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":3769818,"shareType":"SH","putCall":null,"value":117731000},
+    {"cusip":"82982L103","name":"SITEONE LANDSCAPE SUPPLY INC","titleOfClass":"COM","shares":1245000,"shareType":"SH","putCall":null,"value":112436000},
+    {"cusip":"03064D108","name":"AMERICOLD REALTY TRUST INC","titleOfClass":"COM","shares":6830230,"shareType":"SH","putCall":null,"value":95487000},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":530763,"shareType":"SH","putCall":null,"value":90771000},
+    {"cusip":"60855R100","name":"MOLINA HEALTHCARE INC","titleOfClass":"COM","shares":449609,"shareType":"SH","putCall":null,"value":85021000},
+    {"cusip":"G0750C108","name":"AXALTA COATING SYS LTD","titleOfClass":"COM","shares":2506031,"shareType":"SH","putCall":null,"value":80594000},
+    {"cusip":"40054J109","name":"GRUPO AEROMEXICO SAB DE CV","titleOfClass":"SPONSORED ADS","shares":4880188,"shareType":"SH","putCall":null,"value":77058000},
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COMMON STOCK","shares":392000,"shareType":"SH","putCall":null,"value":21928000}
+  ]
+}

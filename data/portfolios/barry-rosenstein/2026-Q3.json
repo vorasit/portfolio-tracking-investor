@@ -1,0 +1,33 @@
+{
+  "investorId": "barry-rosenstein",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1998597","accession":"0000902664-26-004512","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 1589134762,
+  "holdings": [
+    {"cusip":"589378108","name":"MERCURY SYS INC","titleOfClass":"COM","shares":3871129,"shareType":"SH","putCall":null,"value":321303707,"ticker":"MRCY","weight":0.202188,"price":83},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":5394635,"shareType":"SH","putCall":null,"value":224902333,"ticker":"LW","weight":0.141525,"price":41.69},
+    {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":3838420,"shareType":"SH","putCall":null,"value":216985883,"ticker":"COO","weight":0.136543,"price":56.53},
+    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":280727,"shareType":"SH","putCall":null,"value":214090832,"ticker":"SPY","weight":0.134722,"price":762.63},
+    {"cusip":"337738108","name":"FISERV INC","titleOfClass":"COM","shares":4150249,"shareType":"SH","putCall":null,"value":187508250,"ticker":"FISV","weight":0.117994,"price":45.18},
+    {"cusip":"147448104","name":"CASELLA WASTE SYS INC","titleOfClass":"CL A","shares":1812493,"shareType":"SH","putCall":null,"value":145633813,"ticker":"CWST","weight":0.091643,"price":80.35},
+    {"cusip":"01644J108","name":"ALKAMI TECHNOLOGY INC","titleOfClass":"COM","shares":6747707,"shareType":"SH","putCall":null,"value":92376109,"ticker":"ALKT","weight":0.05813,"price":13.69},
+    {"cusip":"753422104","name":"RAPID7 INC","titleOfClass":"COM","shares":6749936,"shareType":"SH","putCall":null,"value":82484218,"ticker":"RPD","weight":0.051905,"price":12.22},
+    {"cusip":"607828100","name":"MODINE MFG CO","titleOfClass":"COM","shares":287620,"shareType":"SH","putCall":null,"value":53842464,"ticker":"MOD","weight":0.033882,"price":187.2},
+    {"cusip":"83001C108","name":"SIX FLAGS ENTERTAINMENT CORP","titleOfClass":"COM","shares":4669202,"shareType":"SH","putCall":null,"value":50007153,"ticker":"FUN","weight":0.031468,"price":10.71}
+  ],
+  "changes": [
+    {"cusip":"147448104","ticker":"CWST","name":"CASELLA WASTE SYS INC","putCall":null,"action":"new","shares":1812493,"prevShares":0},
+    {"cusip":"607828100","ticker":"MOD","name":"MODINE MFG CO","putCall":null,"action":"new","shares":287620,"prevShares":0},
+    {"cusip":"216648501","ticker":"COO","name":"COOPER COS INC","putCall":null,"action":"add","shares":3838420,"prevShares":3582480},
+    {"cusip":"337738108","ticker":"FISV","name":"FISERV INC","putCall":null,"action":"add","shares":4150249,"prevShares":3662080},
+    {"cusip":"83001C108","ticker":"FUN","name":"SIX FLAGS ENTERTAINMENT CORP","putCall":null,"action":"add","shares":4669202,"prevShares":4116099},
+    {"cusip":"589378108","ticker":"MRCY","name":"MERCURY SYS INC","putCall":null,"action":"reduce","shares":3871129,"prevShares":3958849},
+    {"cusip":"78462F103","ticker":"SPY","name":"STATE STR SPDR S&P 500 ETF T","putCall":null,"action":"reduce","shares":280727,"prevShares":342965},
+    {"cusip":"570535104","ticker":"MKL","name":"MARKEL GROUP INC","putCall":null,"action":"exit","shares":0,"prevShares":76743},
+    {"cusip":"74624M102","ticker":"P","name":"EVERPURE INC","putCall":null,"action":"exit","shares":0,"prevShares":989196}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "investorId": "chuck-akre",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1112520","accession":"0001112520-26-000022","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 4401918808,
+  "holdings": [
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1759235,"shareType":"SH","putCall":null,"value":970165325,"ticker":"MA","weight":0.220396,"price":551.47},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":1018916,"shareType":"SH","putCall":null,"value":462720323,"ticker":"MCO","weight":0.105118,"price":454.13},
+    {"cusip":"48251W104","name":"KKR & CO L P DEL","titleOfClass":"COM UNITS","shares":4309991,"shareType":"SH","putCall":null,"value":393502138,"ticker":"KKR","weight":0.089393,"price":91.3},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":10502604,"shareType":"SH","putCall":null,"value":382924957,"ticker":"BN","weight":0.08699,"price":36.46},
+    {"cusip":"776696106","name":"ROPER TECHNOLOGIES INC","titleOfClass":"COM","shares":1002383,"shareType":"SH","putCall":null,"value":350242644,"ticker":"ROP","weight":0.079566,"price":349.41},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":930084,"shareType":"SH","putCall":null,"value":334207084,"ticker":"V","weight":0.075923,"price":359.33},
+    {"cusip":"22160N109","name":"COSTAR GROUP INC","titleOfClass":"COM","shares":10809798,"shareType":"SH","putCall":null,"value":296188465,"ticker":"CSGP","weight":0.067286,"price":27.4},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":376072,"shareType":"SH","putCall":null,"value":222811378,"ticker":"FICO","weight":0.050617,"price":592.47},
+    {"cusip":"217204106","name":"COPART INC","titleOfClass":"COM","shares":7417241,"shareType":"SH","putCall":null,"value":202342334,"ticker":"CPRT","weight":0.045967,"price":27.28},
+    {"cusip":"12510Q100","name":"CCC INTELLIGENT SOLUTIONS HL","titleOfClass":"COM","shares":29192329,"shareType":"SH","putCall":null,"value":194420911,"ticker":"CCC","weight":0.044167,"price":6.66},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":2030061,"shareType":"SH","putCall":null,"value":173387510,"ticker":"ORLY","weight":0.039389,"price":85.41},
+    {"cusip":"81762P102","name":"SERVICENOW INC","titleOfClass":"COM","shares":1246099,"shareType":"SH","putCall":null,"value":166989727,"ticker":"NOW","weight":0.037936,"price":134.01},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":717799,"shareType":"SH","putCall":null,"value":164785116,"ticker":"CRM","weight":0.037435,"price":229.57},
+    {"cusip":"H82027105","name":"SOPHIA GENETICS SA","titleOfClass":"ORDINARY SHARES","shares":3719140,"shareType":"SH","putCall":null,"value":31166393,"ticker":"SOPH","weight":0.00708,"price":8.38},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":100000,"shareType":"SH","putCall":"Call","value":22957000,"ticker":"CRM","weight":null,"price":null},
+    {"cusip":"38267D109","name":"GOOSEHEAD INS INC","titleOfClass":"COM CL A","shares":414493,"shareType":"SH","putCall":null,"value":18801402,"ticker":"GSHD","weight":0.004271,"price":45.36},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":11500,"shareType":"SH","putCall":null,"value":12449900,"ticker":"TDG","weight":0.002828,"price":1082.6},
+    {"cusip":"775711104","name":"ROLLINS INC","titleOfClass":"COM","shares":320000,"shareType":"SH","putCall":null,"value":9638400,"ticker":"ROL","weight":0.00219,"price":30.12},
+    {"cusip":"71385M107","name":"PERIMETER SOLUTIONS INC","titleOfClass":"COMMON STOCK","shares":250000,"shareType":"SH","putCall":null,"value":6580000,"ticker":"PRM","weight":0.001495,"price":26.32},
+    {"cusip":"03027X100","name":"AMERICAN TOWER CORP NEW","titleOfClass":"COM","shares":28219,"shareType":"SH","putCall":null,"value":4619168,"ticker":"AMT","weight":0.001049,"price":163.69},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":7984,"shareType":"SH","putCall":null,"value":3975633,"ticker":"BRK.B","weight":0.000903,"price":497.95}
+  ],
+  "changes": [
+    {"cusip":"893641100","ticker":"TDG","name":"TRANSDIGM GROUP INC","putCall":null,"action":"new","shares":11500,"prevShares":0},
+    {"cusip":"775711104","ticker":"ROL","name":"ROLLINS INC","putCall":null,"action":"new","shares":320000,"prevShares":0},
+    {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC CORP","putCall":null,"action":"add","shares":376072,"prevShares":361826},
+    {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INCORPORATED","putCall":null,"action":"reduce","shares":1759235,"prevShares":1989906},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"reduce","shares":1018916,"prevShares":1156893},
+    {"cusip":"48251W104","ticker":"KKR","name":"KKR & CO L P DEL","putCall":null,"action":"reduce","shares":4309991,"prevShares":4981486},
+    {"cusip":"11271J107","ticker":"BN","name":"BROOKFIELD CORP","putCall":null,"action":"reduce","shares":10502604,"prevShares":12119927},
+    {"cusip":"776696106","ticker":"ROP","name":"ROPER TECHNOLOGIES INC","putCall":null,"action":"reduce","shares":1002383,"prevShares":1176562},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":930084,"prevShares":1110881},
+    {"cusip":"22160N109","ticker":"CSGP","name":"COSTAR GROUP INC","putCall":null,"action":"reduce","shares":10809798,"prevShares":11699396},
+    {"cusip":"217204106","ticker":"CPRT","name":"COPART INC","putCall":null,"action":"reduce","shares":7417241,"prevShares":7985808},
+    {"cusip":"12510Q100","ticker":"CCC","name":"CCC INTELLIGENT SOLUTIONS HL","putCall":null,"action":"reduce","shares":29192329,"prevShares":29858935},
+    {"cusip":"67103H107","ticker":"ORLY","name":"OREILLY AUTOMOTIVE INC","putCall":null,"action":"reduce","shares":2030061,"prevShares":2161818},
+    {"cusip":"38267D109","ticker":"GSHD","name":"GOOSEHEAD INS INC","putCall":null,"action":"reduce","shares":414493,"prevShares":443385},
+    {"cusip":"03027X100","ticker":"AMT","name":"AMERICAN TOWER CORP NEW","putCall":null,"action":"reduce","shares":28219,"prevShares":29254},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"reduce","shares":7984,"prevShares":8184},
+    {"cusip":"009066101","ticker":"ABNB","name":"AIRBNB INC","putCall":null,"action":"exit","shares":0,"prevShares":1183749}
+  ]
+}

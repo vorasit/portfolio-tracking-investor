@@ -1,0 +1,22 @@
+{
+  "investorId": "mohnish-pabrai",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1549575","accession":"0001549575-26-000023","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 362064212,
+  "holdings": [
+    {"cusip":"93627C101","name":"WARRIOR MET COAL INC","titleOfClass":"COM","shares":1867295,"shareType":"SH","putCall":null,"value":164452671,"ticker":"HCC","weight":0.454209,"price":88.07},
+    {"cusip":"H8817H100","name":"TRANSOCEAN LTD","titleOfClass":"REGISTERED SHS","shares":28475305,"shareType":"SH","putCall":null,"value":149210598,"ticker":"RIG","weight":0.412111,"price":5.24},
+    {"cusip":"020764106","name":"ALPHA METALLURGICAL RESOUR I","titleOfClass":"COM","shares":170744,"shareType":"SH","putCall":null,"value":28722556,"ticker":"AMR","weight":0.07933,"price":168.22},
+    {"cusip":"48581R205","name":"KASPI KZ JSC","titleOfClass":"SPONSORED ADS","shares":209211,"shareType":"SH","putCall":null,"value":19678387,"ticker":"KSPI","weight":0.054351,"price":94.06}
+  ],
+  "changes": [
+    {"cusip":"93627C101","ticker":"HCC","name":"WARRIOR MET COAL INC","putCall":null,"action":"add","shares":1867295,"prevShares":1744050},
+    {"cusip":"H8817H100","ticker":"RIG","name":"TRANSOCEAN LTD","putCall":null,"action":"add","shares":28475305,"prevShares":20398659},
+    {"cusip":"48581R205","ticker":"KSPI","name":"KASPI KZ JSC","putCall":null,"action":"add","shares":209211,"prevShares":1702},
+    {"cusip":"020764106","ticker":"AMR","name":"ALPHA METALLURGICAL RESOUR I","putCall":null,"action":"reduce","shares":170744,"prevShares":517194}
+  ]
+}

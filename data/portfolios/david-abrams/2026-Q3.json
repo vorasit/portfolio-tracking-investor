@@ -1,0 +1,27 @@
+{
+  "investorId": "david-abrams",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1358706","accession":"0001172661-26-005028","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 4806253123,
+  "holdings": [
+    {"cusip":"53947R105","name":"LOAR HOLDINGS INC","titleOfClass":"COM SHS","shares":32050240,"shareType":"SH","putCall":null,"value":1971730765,"ticker":"LOAR","weight":0.410243,"price":61.52},
+    {"cusip":"536797103","name":"LITHIA MTRS INC","titleOfClass":"COM","shares":2490534,"shareType":"SH","putCall":null,"value":726812537,"ticker":"LAD","weight":0.151222,"price":291.83},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":1370495,"shareType":"SH","putCall":null,"value":471559920,"ticker":"GOOGL","weight":0.098114,"price":344.08},
+    {"cusip":"043436104","name":"ASBURY AUTOMOTIVE GROUP INC","titleOfClass":"COM","shares":2155492,"shareType":"SH","putCall":null,"value":371391272,"ticker":"ABG","weight":0.077273,"price":172.3},
+    {"cusip":"88023U101","name":"SOMNIGROUP INTERNATIONAL INC","titleOfClass":"COM","shares":5798776,"shareType":"SH","putCall":null,"value":360161977,"ticker":"SGI","weight":0.074936,"price":62.11},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":325155,"shareType":"SH","putCall":null,"value":235795903,"ticker":"META","weight":0.04906,"price":725.18},
+    {"cusip":"G96629103","name":"WILLIS TOWERS WATSON PLC LTD","titleOfClass":"SHS","shares":720779,"shareType":"SH","putCall":null,"value":207750131,"ticker":"WTW","weight":0.043225,"price":288.23},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":13017964,"shareType":"SH","putCall":null,"value":180559161,"ticker":"CPNG","weight":0.037568,"price":13.87},
+    {"cusip":"023586506","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM SER N","shares":3251469,"shareType":"SH","putCall":null,"value":171840137,"ticker":"UHAL.B","weight":0.035753,"price":52.85},
+    {"cusip":"36168Q104","name":"GFL ENVIRONMENTAL INC","titleOfClass":"SUB VTG SHS","shares":2375000,"shareType":"SH","putCall":null,"value":99346250,"ticker":"GFL","weight":0.02067,"price":41.83},
+    {"cusip":"67080N101","name":"NUVATION BIO INC","titleOfClass":"COM CL A","shares":1270504,"shareType":"SH","putCall":null,"value":7114822,"ticker":"NUVB","weight":0.00148,"price":5.6},
+    {"cusip":"023586100","name":"U HAUL HOLDING COMPANY","titleOfClass":"COM","shares":36401,"shareType":"SH","putCall":null,"value":2190248,"ticker":"UHAL","weight":0.000456,"price":60.17}
+  ],
+  "changes": [
+    {"cusip":"36168Q104","ticker":"GFL","name":"GFL ENVIRONMENTAL INC","putCall":null,"action":"new","shares":2375000,"prevShares":0}
+  ]
+}

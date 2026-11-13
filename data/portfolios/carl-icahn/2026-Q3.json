@@ -1,0 +1,31 @@
+{
+  "investorId": "carl-icahn",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"921669","accession":"0001539497-26-002964","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 9428081917,
+  "holdings": [
+    {"cusip":"451100101","name":"Icahn Enterprises LP","titleOfClass":"DEPOSITARY UNIT","shares":658924537,"shareType":"SH","putCall":null,"value":4447740626,"ticker":"IEP","weight":0.471755,"price":6.75},
+    {"cusip":"12662P108","name":"CVR Energy Inc","titleOfClass":"COM","shares":71201875,"shareType":"SH","putCall":null,"value":3630583606,"ticker":"CVI","weight":0.385082,"price":50.99},
+    {"cusip":"126633205","name":"CVR Partners, LP","titleOfClass":"COM","shares":4164274,"shareType":"SH","putCall":null,"value":515453836,"ticker":"UAN","weight":0.054672,"price":123.78},
+    {"cusip":"155923105","name":"Centuri Holdings, Inc.","titleOfClass":"COM SHS","shares":14336044,"shareType":"SH","putCall":null,"value":287294322,"ticker":"CTRI","weight":0.030472,"price":20.04},
+    {"cusip":"459506101","name":"International Flavors and Fragrances Inc.","titleOfClass":"COM","shares":2993728,"shareType":"SH","putCall":null,"value":249916413,"ticker":"IFF","weight":0.026508,"price":83.48},
+    {"cusip":"12769G100","name":"Caesars Entertainment, Inc.","titleOfClass":"COM","shares":2440109,"shareType":"SH","putCall":null,"value":72349232,"ticker":"CZR","weight":0.007674,"price":29.65},
+    {"cusip":"610236101","name":"Monro, Inc.","titleOfClass":"COM","shares":5078573,"shareType":"SH","putCall":null,"value":71049236,"ticker":"MNRO","weight":0.007536,"price":13.99},
+    {"cusip":"80007P869","name":"SandRidge Energy, Inc.","titleOfClass":"COM NEW","shares":5082427,"shareType":"SH","putCall":null,"value":68561946,"ticker":"SD","weight":0.007272,"price":13.49},
+    {"cusip":"278768106","name":"EchoStar Corporation","titleOfClass":"CL A","shares":500000,"shareType":"SH","putCall":null,"value":44705000,"ticker":"ECHO","weight":0.004742,"price":89.41},
+    {"cusip":"071705107","name":"Bausch Plus Lomb Corp.","titleOfClass":"COMMON SHARES","shares":2378100,"shareType":"SH","putCall":null,"value":40427700,"ticker":"BLCO","weight":0.004288,"price":17}
+  ],
+  "changes": [
+    {"cusip":"451100101","ticker":"IEP","name":"Icahn Enterprises LP","putCall":null,"action":"add","shares":658924537,"prevShares":618393343},
+    {"cusip":"80007P869","ticker":"SD","name":"SandRidge Energy, Inc.","putCall":null,"action":"add","shares":5082427,"prevShares":5054907},
+    {"cusip":"459506101","ticker":"IFF","name":"International Flavors and Fragrances Inc.","putCall":null,"action":"reduce","shares":2993728,"prevShares":4275000},
+    {"cusip":"278768106","ticker":"ECHO","name":"EchoStar Corporation","putCall":null,"action":"reduce","shares":500000,"prevShares":1404542},
+    {"cusip":"071705107","ticker":"BLCO","name":"Bausch Plus Lomb Corp.","putCall":null,"action":"reduce","shares":2378100,"prevShares":3500000},
+    {"cusip":"477143101","ticker":"JBLU","name":"JetBlue Airways Corp.","putCall":null,"action":"exit","shares":0,"prevShares":20658179},
+    {"cusip":"025537101","ticker":"AEP","name":"American Electric Power Company","putCall":null,"action":"exit","shares":0,"prevShares":434710}
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "investorId": "seth-klarman",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-13",
+  "filings": [
+    {"cik":"1061768","accession":"0001061768-26-000015","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "totalValue": 5045853000,
+  "holdings": [
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3743854,"shareType":"SH","putCall":null,"value":932781000,"ticker":"AMZN","weight":0.184861,"price":249.15},
+    {"cusip":"036752103","name":"ELEVANCE HEALTH INC FORMERLY","titleOfClass":"COM","shares":1275154,"shareType":"SH","putCall":null,"value":495805000,"ticker":"ELV","weight":0.09826,"price":388.82},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":6753112,"shareType":"SH","putCall":null,"value":480104000,"ticker":"QSR","weight":0.095148,"price":71.0803},
+    {"cusip":"372460105","name":"GENUINE PARTS CO","titleOfClass":"COM","shares":3097978,"shareType":"SH","putCall":null,"value":389540000,"ticker":"GPC","weight":0.0772,"price":125.74},
+    {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":1571594,"shareType":"SH","putCall":null,"value":349868000,"ticker":"FERG","weight":0.069338,"price":222.62},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":949931,"shareType":"SH","putCall":null,"value":323679000,"ticker":"GOOG","weight":0.064148,"price":340.74},
+    {"cusip":"95082P105","name":"WESCO INTL INC","titleOfClass":"COM","shares":718523,"shareType":"SH","putCall":null,"value":258374000,"ticker":"WCC","weight":0.051205,"price":359.59},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":701355,"shareType":"SH","putCall":null,"value":252018000,"ticker":"V","weight":0.049946,"price":359.33},
+    {"cusip":"907818108","name":"UNION PAC CORP","titleOfClass":"COM","shares":795395,"shareType":"SH","putCall":null,"value":216451000,"ticker":"UNP","weight":0.042897,"price":272.13},
+    {"cusip":"G0403H108","name":"AON PLC","titleOfClass":"SHS CL A","shares":674779,"shareType":"SH","putCall":null,"value":186759000,"ticker":"AON","weight":0.037012,"price":276.77},
+    {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":685435,"shareType":"SH","putCall":null,"value":179570000,"ticker":"CME","weight":0.035588,"price":261.98},
+    {"cusip":"43849R105","name":"HONEYWELL AEROSPACE INC","titleOfClass":"COM","shares":1132000,"shareType":"SH","putCall":null,"value":175426000,"ticker":"HONA","weight":0.034766,"price":154.97},
+    {"cusip":"G4412G101","name":"HERBALIFE LTD","titleOfClass":"COM SHS","shares":10259844,"shareType":"SH","putCall":null,"value":124452000,"ticker":"HLF","weight":0.024664,"price":12.13},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":3769818,"shareType":"SH","putCall":null,"value":117731000,"ticker":"GDS","weight":0.023332,"price":31.23},
+    {"cusip":"82982L103","name":"SITEONE LANDSCAPE SUPPLY INC","titleOfClass":"COM","shares":1245000,"shareType":"SH","putCall":null,"value":112436000,"ticker":"SITE","weight":0.022283,"price":90.31},
+    {"cusip":"03064D108","name":"AMERICOLD REALTY TRUST INC","titleOfClass":"COM","shares":6830230,"shareType":"SH","putCall":null,"value":95487000,"ticker":"COLD","weight":0.018924,"price":13.98},
+    {"cusip":"26969P108","name":"EAGLE MATLS INC","titleOfClass":"COM","shares":530763,"shareType":"SH","putCall":null,"value":90771000,"ticker":"EXP","weight":0.017989,"price":171.02},
+    {"cusip":"60855R100","name":"MOLINA HEALTHCARE INC","titleOfClass":"COM","shares":449609,"shareType":"SH","putCall":null,"value":85021000,"ticker":"MOH","weight":0.01685,"price":189.1},
+    {"cusip":"G0750C108","name":"AXALTA COATING SYS LTD","titleOfClass":"COM","shares":2506031,"shareType":"SH","putCall":null,"value":80594000,"ticker":"AXTA","weight":0.015972,"price":32.16},
+    {"cusip":"40054J109","name":"GRUPO AEROMEXICO SAB DE CV","titleOfClass":"SPONSORED ADS","shares":4880188,"shareType":"SH","putCall":null,"value":77058000,"ticker":"AERO","weight":0.015272,"price":15.79},
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COMMON STOCK","shares":392000,"shareType":"SH","putCall":null,"value":21928000,"ticker":"PS","weight":0.004346,"price":55.9388}
+  ],
+  "changes": [
+    {"cusip":"43849R105","ticker":"HONA","name":"HONEYWELL AEROSPACE INC","putCall":null,"action":"new","shares":1132000,"prevShares":0},
+    {"cusip":"82982L103","ticker":"SITE","name":"SITEONE LANDSCAPE SUPPLY INC","putCall":null,"action":"new","shares":1245000,"prevShares":0},
+    {"cusip":"372460105","ticker":"GPC","name":"GENUINE PARTS CO","putCall":null,"action":"add","shares":3097978,"prevShares":2816178},
+    {"cusip":"31488V107","ticker":"FERG","name":"FERGUSON ENTERPRISES INC","putCall":null,"action":"add","shares":1571594,"prevShares":1450594},
+    {"cusip":"95082P105","ticker":"WCC","name":"WESCO INTL INC","putCall":null,"action":"add","shares":718523,"prevShares":662881},
+    {"cusip":"12572Q105","ticker":"CME","name":"CME GROUP INC","putCall":null,"action":"add","shares":685435,"prevShares":619000},
+    {"cusip":"G4412G101","ticker":"HLF","name":"HERBALIFE LTD","putCall":null,"action":"add","shares":10259844,"prevShares":9259844},
+    {"cusip":"G0750C108","ticker":"AXTA","name":"AXALTA COATING SYS LTD","putCall":null,"action":"add","shares":2506031,"prevShares":1274356},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":949931,"prevShares":1371931},
+    {"cusip":"907818108","ticker":"UNP","name":"UNION PAC CORP","putCall":null,"action":"reduce","shares":795395,"prevShares":1185395},
+    {"cusip":"G0403H108","ticker":"AON","name":"AON PLC","putCall":null,"action":"reduce","shares":674779,"prevShares":687000},
+    {"cusip":"60855R100","ticker":"MOH","name":"MOLINA HEALTHCARE INC","putCall":null,"action":"reduce","shares":449609,"prevShares":633609},
+    {"cusip":"879369106","ticker":"TFX","name":"TELEFLEX INCORPORATED","putCall":null,"action":"exit","shares":0,"prevShares":1409000},
+    {"cusip":"G66721104","ticker":"NCLH","name":"NORWEGIAN CRUISE LINE HLDGS","putCall":null,"action":"exit","shares":0,"prevShares":7730000},
+    {"cusip":"G61188127","ticker":"LBTYK","name":"LIBERTY GLOBAL LTD","putCall":null,"action":"exit","shares":0,"prevShares":8543161},
+    {"cusip":"67011P100","ticker":"DNOW","name":"DNOW INC","putCall":null,"action":"exit","shares":0,"prevShares":2788000}
+  ]
+}

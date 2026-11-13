@@ -1,0 +1,22 @@
+{
+  "cik": "1766908",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1766908","accession":"0001172661-26-004999","form":"13F-HR","filedAt":"2026-11-13","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":415121,"shareType":"SH","putCall":null,"value":44642112},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":146853,"shareType":"SH","putCall":null,"value":36588425},
+    {"cusip":"679295105","name":"OKTA INC","titleOfClass":"CL A","shares":147316,"shareType":"SH","putCall":null,"value":30805249},
+    {"cusip":"98980G102","name":"ZSCALER INC","titleOfClass":"COM","shares":123130,"shareType":"SH","putCall":null,"value":24554585},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":42434,"shareType":"SH","putCall":null,"value":21764399},
+    {"cusip":"531229755","name":"LIBERTY MEDIA CORP DEL","titleOfClass":"COM SER C","shares":159494,"shareType":"SH","putCall":null,"value":14737246},
+    {"cusip":"224408104","name":"CRANE COMPANY","titleOfClass":"COMMON STOCK","shares":63267,"shareType":"SH","putCall":null,"value":12907733},
+    {"cusip":"22266T109","name":"COUPANG INC","titleOfClass":"CL A","shares":860162,"shareType":"SH","putCall":null,"value":11930447},
+    {"cusip":"10576N102","name":"BRAZE INC","titleOfClass":"COM CL A","shares":445872,"shareType":"SH","putCall":null,"value":11191387},
+    {"cusip":"36165L108","name":"GDS HLDGS LTD","titleOfClass":"SPONSORED ADS","shares":354945,"shareType":"SH","putCall":null,"value":11084932},
+    {"cusip":"N97284108","name":"NEBIUS GROUP N.V.","titleOfClass":"SHS CLASS A","shares":29000,"shareType":"SH","putCall":null,"value":6840520},
+    {"cusip":"21037T109","name":"CONSTELLATION ENERGY CORP","titleOfClass":"COM","shares":26584,"shareType":"SH","putCall":null,"value":6752868}
+  ]
+}
