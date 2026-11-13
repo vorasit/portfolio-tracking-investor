@@ -10,7 +10,7 @@
   "holdings": [
     {"cusip":"67066G104","name":"NVIDIA Corporation","titleOfClass":"COM","shares":1765724,"shareType":"SH","putCall":null,"value":403256012,"ticker":"NVDA","weight":0.09225,"price":228.38},
     {"cusip":"594918104","name":"Microsoft Corporation","titleOfClass":"COM","shares":517109,"shareType":"SH","putCall":null,"value":265225418,"ticker":"MSFT","weight":0.060674,"price":512.9},
-    {"cusip":"007903107","name":"Advanced Micro Devices, Inc.","titleOfClass":"COM","shares":348709,"shareType":"SH","putCall":null,"value":213326218,"ticker":"AMD","weight":0.048801,"price":611.758},
+    {"cusip":"007903107","name":"Advanced Micro Devices, Inc.","titleOfClass":"COM","shares":348709,"shareType":"SH","putCall":null,"value":213326218,"ticker":"AMD","weight":0.048801,"price":611.76},
     {"cusip":"02079K107","name":"Alphabet Inc. Class C","titleOfClass":"COM","shares":546566,"shareType":"SH","putCall":null,"value":186236899,"ticker":"GOOG","weight":0.042604,"price":340.74},
     {"cusip":"88160R101","name":"Tesla, Inc.","titleOfClass":"COM","shares":521985,"shareType":"SH","putCall":null,"value":185205498,"ticker":"TSLA","weight":0.042368,"price":354.81},
     {"cusip":"037833100","name":"Apple Inc.","titleOfClass":"COM","shares":504622,"shareType":"SH","putCall":null,"value":168049056,"ticker":"AAPL","weight":0.038443,"price":333.02},
@@ -21,7 +21,7 @@
     {"cusip":"22788C105","name":"CrowdStrike Holdings, Inc.","titleOfClass":"COM","shares":478239,"shareType":"SH","putCall":null,"value":126613776,"ticker":"CRWD","weight":0.028965,"price":264.75},
     {"cusip":"833445109","name":"Snowflake Inc.","titleOfClass":"COM","shares":361516,"shareType":"SH","putCall":null,"value":122756373,"ticker":"SNOW","weight":0.028082,"price":339.56},
     {"cusip":"11135F101","name":"Broadcom Inc.","titleOfClass":"COM","shares":319000,"shareType":"SH","putCall":null,"value":112029610,"ticker":"AVGO","weight":0.025628,"price":351.19},
-    {"cusip":"609839105","name":"Monolithic Power Systems, Inc.","titleOfClass":"COM","shares":74736,"shareType":"SH","putCall":null,"value":100685834,"ticker":"MPWR","weight":0.023033,"price":1347.22},
+    {"cusip":"609839105","name":"Monolithic Power Systems, Inc.","titleOfClass":"COM","shares":74736,"shareType":"SH","putCall":null,"value":100685834,"ticker":"MPWR","weight":0.023033,"price":1347.21},
     {"cusip":"58733R102","name":"MercadoLibre, Inc.","titleOfClass":"COM","shares":55119,"shareType":"SH","putCall":null,"value":95274845,"ticker":"MELI","weight":0.021795,"price":1728.53},
     {"cusip":"632307104","name":"Natera, Inc.","titleOfClass":"COM","shares":227444,"shareType":"SH","putCall":null,"value":94004880,"ticker":"NTRA","weight":0.021505,"price":413.31},
     {"cusip":"05464C101","name":"Axon Enterprise, Inc.","titleOfClass":"COM","shares":217876,"shareType":"SH","putCall":null,"value":92056968,"ticker":"AXON","weight":0.021059,"price":422.52},

@@ -8,7 +8,7 @@
   ],
   "totalValue": 4705402906,
   "holdings": [
-    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":13568058,"shareType":"SH","putCall":null,"value":421759560,"ticker":"CVE","weight":0.089633,"price":31.0824},
+    {"cusip":"15135U109","name":"CENOVUS ENERGY INC","titleOfClass":"COM","shares":13568058,"shareType":"SH","putCall":null,"value":421759560,"ticker":"CVE","weight":0.089633,"price":31.0847},
     {"cusip":"58933Y105","name":"MERCK & CO INC","titleOfClass":"COM","shares":2305916,"shareType":"SH","putCall":null,"value":335072670,"ticker":"MRK","weight":0.07121,"price":145.31},
     {"cusip":"03743Q108","name":"APA CORPORATION","titleOfClass":"COM","shares":7714207,"shareType":"SH","putCall":null,"value":320448151,"ticker":"APA","weight":0.068102,"price":41.54},
     {"cusip":"554382101","name":"MACERICH CO","titleOfClass":"COM","shares":11298361,"shareType":"SH","putCall":null,"value":252631357,"ticker":"MAC","weight":0.05369,"price":22.36},

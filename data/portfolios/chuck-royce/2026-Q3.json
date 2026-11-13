@@ -427,7 +427,7 @@
     {"cusip":"70451A104","name":"PAYSIGN INC","titleOfClass":"COM","shares":582134,"shareType":"SH","putCall":null,"value":7847166,"ticker":"PAYS","weight":0.000715,"price":13.48},
     {"cusip":"024061103","name":"DAUCH CORP","titleOfClass":"COM","shares":1501870,"shareType":"SH","putCall":null,"value":7839761,"ticker":"DCH","weight":0.000715,"price":5.22},
     {"cusip":"92335C106","name":"VERA BRADLEY INC","titleOfClass":"COM","shares":1687252,"shareType":"SH","putCall":null,"value":7795104,"ticker":"VRA","weight":0.000711,"price":4.62},
-    {"cusip":"222070203","name":"COTY INC","titleOfClass":"COM CL A","shares":2979390,"shareType":"SH","putCall":null,"value":7776208,"ticker":"COTY","weight":0.000709,"price":2.61},
+    {"cusip":"222070203","name":"COTY INC","titleOfClass":"COM CL A","shares":2979390,"shareType":"SH","putCall":null,"value":7776208,"ticker":"COTY","weight":0.000709,"price":2.60998},
     {"cusip":"04523Y105","name":"ASPEN AEROGELS INC","titleOfClass":"COM","shares":1399765,"shareType":"SH","putCall":null,"value":7670712,"ticker":"ASPN","weight":0.000699,"price":5.48},
     {"cusip":"405024100","name":"HAEMONETICS CORP MASS","titleOfClass":"COM","shares":71923,"shareType":"SH","putCall":null,"value":7573492,"ticker":"HAE","weight":0.00069,"price":105.3},
     {"cusip":"629445206","name":"NVE CORP","titleOfClass":"COM NEW","shares":68500,"shareType":"SH","putCall":null,"value":7540480,"ticker":"NVEC","weight":0.000687,"price":110.08},
