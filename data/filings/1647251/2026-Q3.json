@@ -1,0 +1,22 @@
+{
+  "cik": "1647251",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-26-000011","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47368233,"shareType":"SH","putCall":null,"value":14792625484},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":30384133,"shareType":"SH","putCall":null,"value":10917930511},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":14279021,"shareType":"SH","putCall":null,"value":6484531807},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":14081957,"shareType":"SH","putCall":null,"value":5554909578},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":44469458,"shareType":"SH","putCall":null,"value":3787134760},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":10067338,"shareType":"SH","putCall":null,"value":3430344750},
+    {"cusip":"N3168P101","name":"FERROVIAL NV","titleOfClass":"ORD SHS","shares":20940441,"shareType":"SH","putCall":null,"value":1127199439},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9433422,"shareType":"SH","putCall":null,"value":1122649584},
+    {"cusip":"573284106","name":"MARTIN MARIETTA MATLS INC","titleOfClass":"COM","shares":1800889,"shareType":"SH","putCall":null,"value":864084551},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2361288,"shareType":"SH","putCall":null,"value":812471975},
+    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":2776873,"shareType":"SH","putCall":null,"value":679306442},
+    {"cusip":"60744M106","name":"MOBILITY GLOBAL INC","titleOfClass":"COM SHS","shares":623651,"shareType":"SH","putCall":null,"value":10695615}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cik": "1766504",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1766504","accession":"0001420506-26-002741","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MTH TREASURY","shares":690800,"shareType":"SH","putCall":null,"value":69549744},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":277040,"shareType":"SH","putCall":null,"value":69024516},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":1376910,"shareType":"SH","putCall":null,"value":50202139},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":63,"shareType":"SH","putCall":null,"value":47061315},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":98535,"shareType":"SH","putCall":null,"value":33903923},
+    {"cusip":"570535104","name":"MARKEL GROUP INC","titleOfClass":"COM","shares":14390,"shareType":"SH","putCall":null,"value":24642156},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":39370,"shareType":"SH","putCall":null,"value":19188151},
+    {"cusip":"898202106","name":"TRUPANION INC","titleOfClass":"COM","shares":776490,"shareType":"SH","putCall":null,"value":18138806},
+    {"cusip":"88160R101","name":"TESLA INC","titleOfClass":"COM","shares":47050,"shareType":"SH","putCall":null,"value":16693811}
+  ]
+}

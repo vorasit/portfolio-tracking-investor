@@ -39,7 +39,7 @@
     {"cusip":"79589L106","name":"SAMSARA INC","titleOfClass":"COM CL A","shares":7925872,"shareType":"SH","putCall":null,"value":302213499,"ticker":"IOT","weight":0.012189,"price":38.13},
     {"cusip":"80004C200","name":"SANDISK CORP","titleOfClass":"COM","shares":168382,"shareType":"SH","putCall":null,"value":292966158,"ticker":"SNDK","weight":0.011816,"price":1739.89},
     {"cusip":"81141R100","name":"SEA LTD","titleOfClass":"SPONSORD ADS","shares":2713218,"shareType":"SH","putCall":null,"value":264158904,"ticker":"SE","weight":0.010654,"price":97.36},
-    {"cusip":"04016X101","name":"ARGENX SE","titleOfClass":"SPONSORED ADR","shares":270206,"shareType":"SH","putCall":null,"value":259103235,"ticker":"ARGX","weight":0.01045,"price":958.919},
+    {"cusip":"04016X101","name":"ARGENX SE","titleOfClass":"SPONSORED ADR","shares":270206,"shareType":"SH","putCall":null,"value":259103235,"ticker":"ARGX","weight":0.01045,"price":958.91},
     {"cusip":"142339100","name":"CARLISLE COS INC","titleOfClass":"COM","shares":720711,"shareType":"SH","putCall":null,"value":232191463,"ticker":"CSL","weight":0.009365,"price":322.17},
     {"cusip":"23804L103","name":"DATADOG INC","titleOfClass":"CL A COM","shares":818699,"shareType":"SH","putCall":null,"value":224200721,"ticker":"DDOG","weight":0.009042,"price":273.85},
     {"cusip":"144285103","name":"CARPENTER TECHNOLOGY CORP","titleOfClass":"COM","shares":533872,"shareType":"SH","putCall":null,"value":207580111,"ticker":"CRS","weight":0.008372,"price":388.82},

@@ -46,7 +46,7 @@
     {"cusip":"46625H100","name":"JPMORGAN CHASE & CO","titleOfClass":"COM","shares":47204,"shareType":"SH","putCall":null,"value":15616499,"ticker":"JPM","weight":0.005352,"price":330.83},
     {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":49902,"shareType":"SH","putCall":null,"value":12433083,"ticker":"AMZN","weight":0.004261,"price":249.15},
     {"cusip":"420261109","name":"HAWKINS INC","titleOfClass":"COM","shares":95259,"shareType":"SH","putCall":null,"value":12002634,"ticker":"HWKN","weight":0.004114,"price":126},
-    {"cusip":"339750101","name":"FLOOR & DECOR HLDGS INC","titleOfClass":"CL A","shares":225417,"shareType":"SH","putCall":null,"value":10326353,"ticker":"FND","weight":0.003539,"price":45.81},
+    {"cusip":"339750101","name":"FLOOR & DECOR HLDGS INC","titleOfClass":"CL A","shares":225417,"shareType":"SH","putCall":null,"value":10326353,"ticker":"FND","weight":0.003539,"price":45.8097},
     {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":37119,"shareType":"SH","putCall":null,"value":8263432,"ticker":"FERG","weight":0.002832,"price":222.62},
     {"cusip":"724078209","name":"PIPER SANDLER COS","titleOfClass":"COM NEW","shares":69000,"shareType":"SH","putCall":null,"value":4551930,"ticker":"PIPR","weight":0.00156,"price":65.97},
     {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL (CLASS A)","titleOfClass":"CL A","shares":6,"shareType":"SH","putCall":null,"value":4482030,"ticker":"BRK.A","weight":0.001536,"price":747005},

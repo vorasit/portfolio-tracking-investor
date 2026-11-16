@@ -1,0 +1,35 @@
+{
+  "investorId": "chris-hohn",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1647251","accession":"0001647251-26-000011","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 49583884496,
+  "holdings": [
+    {"cusip":"369604301","name":"GE AEROSPACE","titleOfClass":"COM NEW","shares":47368233,"shareType":"SH","putCall":null,"value":14792625484,"ticker":"GE","weight":0.298335,"price":312.29},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":30384133,"shareType":"SH","putCall":null,"value":10917930511,"ticker":"V","weight":0.220191,"price":359.33},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":14279021,"shareType":"SH","putCall":null,"value":6484531807,"ticker":"MCO","weight":0.130779,"price":454.13},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":14081957,"shareType":"SH","putCall":null,"value":5554909578,"ticker":"SPGI","weight":0.112031,"price":394.47},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":44469458,"shareType":"SH","putCall":null,"value":3787134760,"ticker":"CP","weight":0.076378,"price":85.1313},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":10067338,"shareType":"SH","putCall":null,"value":3430344750,"ticker":"GOOG","weight":0.069183,"price":340.74},
+    {"cusip":"N3168P101","name":"FERROVIAL NV","titleOfClass":"ORD SHS","shares":20940441,"shareType":"SH","putCall":null,"value":1127199439,"ticker":"FER","weight":0.022733,"price":53.8288},
+    {"cusip":"136375102","name":"CANADIAN NATL RY CO","titleOfClass":"COM","shares":9433422,"shareType":"SH","putCall":null,"value":1122649584,"ticker":"CNI","weight":0.022641,"price":119.023},
+    {"cusip":"573284106","name":"MARTIN MARIETTA MATLS INC","titleOfClass":"COM","shares":1800889,"shareType":"SH","putCall":null,"value":864084551,"ticker":"MLM","weight":0.017427,"price":479.81},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2361288,"shareType":"SH","putCall":null,"value":812471975,"ticker":"GOOGL","weight":0.016386,"price":344.08},
+    {"cusip":"929160109","name":"VULCAN MATLS CO","titleOfClass":"COM","shares":2776873,"shareType":"SH","putCall":null,"value":679306442,"ticker":"VMC","weight":0.0137,"price":244.63},
+    {"cusip":"60744M106","name":"MOBILITY GLOBAL INC","titleOfClass":"COM SHS","shares":623651,"shareType":"SH","putCall":null,"value":10695615,"ticker":"MBGL","weight":0.000216,"price":17.15}
+  ],
+  "changes": [
+    {"cusip":"60744M106","ticker":"MBGL","name":"MOBILITY GLOBAL INC","putCall":null,"action":"new","shares":623651,"prevShares":0},
+    {"cusip":"02079K107","ticker":"GOOG","name":"ALPHABET INC","putCall":null,"action":"add","shares":10067338,"prevShares":9938819},
+    {"cusip":"573284106","ticker":"MLM","name":"MARTIN MARIETTA MATLS INC","putCall":null,"action":"add","shares":1800889,"prevShares":1315109},
+    {"cusip":"929160109","ticker":"VMC","name":"VULCAN MATLS CO","putCall":null,"action":"add","shares":2776873,"prevShares":2447004},
+    {"cusip":"369604301","ticker":"GE","name":"GE AEROSPACE","putCall":null,"action":"reduce","shares":47368233,"prevShares":47428233},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":30384133,"prevShares":30494133},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"reduce","shares":14279021,"prevShares":14334027},
+    {"cusip":"13646K108","ticker":"CP","name":"CANADIAN PACIFIC KANSAS CITY","putCall":null,"action":"reduce","shares":44469458,"prevShares":45325726},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":2361288,"prevShares":2457000}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "investorId": "bryan-lawrence",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1657335","accession":"0001172661-26-005077","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 262327805,
+  "holdings": [
+    {"cusip":"45841N107","name":"INTERACTIVE BROKERS GROUP IN","titleOfClass":"COM CL A","shares":1030740,"shareType":"SH","putCall":null,"value":88045811,"ticker":"IBKR","weight":0.335633,"price":85.42},
+    {"cusip":"78462F103","name":"STATE STR SPDR S&P 500 ETF T","titleOfClass":"TR UNIT","shares":95000,"shareType":"SH","putCall":"Put","value":72449850,"ticker":"SPY","weight":null,"price":null},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":118161,"shareType":"SH","putCall":null,"value":40262179,"ticker":"GOOG","weight":0.15348,"price":340.74},
+    {"cusip":"375916103","name":"GILDAN ACTIVEWEAR INC","titleOfClass":"COM","shares":681689,"shareType":"SH","putCall":null,"value":29060402,"ticker":"GIL","weight":0.110779,"price":42.63},
+    {"cusip":"893641100","name":"TRANSDIGM GROUP INC","titleOfClass":"COM","shares":24170,"shareType":"SH","putCall":null,"value":26166442,"ticker":"TDG","weight":0.099747,"price":1082.6},
+    {"cusip":"573284106","name":"MARTIN MARIETTA MATERIALS","titleOfClass":"COM","shares":45950,"shareType":"SH","putCall":null,"value":22047270,"ticker":"MLM","weight":0.084045,"price":479.81},
+    {"cusip":"40171V100","name":"GUIDEWIRE SOFTWARE INC","titleOfClass":"COM","shares":123183,"shareType":"SH","putCall":null,"value":17563432,"ticker":"GWRE","weight":0.066952,"price":142.58},
+    {"cusip":"615369105","name":"MOODY'S CORP","titleOfClass":"COM","shares":34000,"shareType":"SH","putCall":null,"value":15440420,"ticker":"MCO","weight":0.058859,"price":454.13},
+    {"cusip":"85512C105","name":"STAR GROUP L P","titleOfClass":"UNIT LTD PARTNR","shares":1099239,"shareType":"SH","putCall":null,"value":14114229,"ticker":"SGU","weight":0.053804,"price":12.84},
+    {"cusip":"526057104","name":"LENNAR CORP-A","titleOfClass":"CL A","shares":118000,"shareType":"SH","putCall":null,"value":9627620,"ticker":"LEN","weight":0.036701,"price":81.59}
+  ],
+  "changes": [
+    {"cusip":"78462F103","ticker":"SPY","name":"STATE STR SPDR S&P 500 ETF T","putCall":"Put","action":"new","shares":95000,"prevShares":0},
+    {"cusip":"573284106","ticker":"MLM","name":"MARTIN MARIETTA MATERIALS","putCall":null,"action":"new","shares":45950,"prevShares":0},
+    {"cusip":"40171V100","ticker":"GWRE","name":"GUIDEWIRE SOFTWARE INC","putCall":null,"action":"reduce","shares":123183,"prevShares":158683},
+    {"cusip":"63900P608","ticker":"NRP","name":"NATURAL RESOURCE PARTNERS LP","putCall":null,"action":"exit","shares":0,"prevShares":102057}
+  ]
+}

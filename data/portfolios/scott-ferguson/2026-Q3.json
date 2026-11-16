@@ -19,7 +19,7 @@
     {"cusip":"146869102","name":"Carvana Co","titleOfClass":"CL A","shares":3630000,"shareType":"SH","putCall":null,"value":227020200,"ticker":"CVNA","weight":0.05719,"price":62.54},
     {"cusip":"55306N104","name":"MKS INC.","titleOfClass":"COM","shares":812700,"shareType":"SH","putCall":null,"value":215658072,"ticker":"MKSI","weight":0.054327,"price":265.36},
     {"cusip":"375916103","name":"Gildan Activewear Inc","titleOfClass":"COM","shares":4950000,"shareType":"SH","putCall":null,"value":211018500,"ticker":"GIL","weight":0.053159,"price":42.63},
-    {"cusip":"17253J106","name":"Cipher Digital Inc","titleOfClass":"COM","shares":11690000,"shareType":"SH","putCall":null,"value":185042700,"ticker":"CIFR","weight":0.046615,"price":15.8271},
+    {"cusip":"17253J106","name":"Cipher Digital Inc","titleOfClass":"COM","shares":11690000,"shareType":"SH","putCall":null,"value":185042700,"ticker":"CIFR","weight":0.046615,"price":15.825},
     {"cusip":"767292105","name":"Riot Platforms Inc","titleOfClass":"COM","shares":5810000,"shareType":"SH","putCall":null,"value":117071500,"ticker":"RIOT","weight":0.029492,"price":20.15},
     {"cusip":"861012102","name":"STMicroelectronics N V","titleOfClass":"NY REGISTRY","shares":1945000,"shareType":"SH","putCall":null,"value":103785200,"ticker":"STM","weight":0.026145,"price":53.36},
     {"cusip":"443320106","name":"Hub Group Inc","titleOfClass":"CL A","shares":2985000,"shareType":"SH","putCall":null,"value":88296300,"ticker":"HUBG","weight":0.022243,"price":29.58},

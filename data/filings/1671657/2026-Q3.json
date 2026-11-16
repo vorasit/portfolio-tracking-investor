@@ -1,0 +1,23 @@
+{
+  "cik": "1671657",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1671657","accession":"0001398344-26-020103","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"922475108","name":"VEEVA SYS INC","titleOfClass":"CL A COM","shares":845653,"shareType":"SH","putCall":null,"value":241391649},
+    {"cusip":"03831W108","name":"APPLOVIN CORP","titleOfClass":"COM CL A","shares":602035,"shareType":"SH","putCall":null,"value":174849025},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":219583,"shareType":"SH","putCall":null,"value":159237200},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":372465,"shareType":"SH","putCall":null,"value":146926269},
+    {"cusip":"G7709Q104","name":"ROYALTY PHARMA PLC","titleOfClass":"SHS CLASS A","shares":2415667,"shareType":"SH","putCall":null,"value":140978326},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":833307,"shareType":"SH","putCall":null,"value":135754043},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":1980066,"shareType":"SH","putCall":null,"value":135654322},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":74237,"shareType":"SH","putCall":null,"value":134492946},
+    {"cusip":"902252105","name":"TYLER TECHNOLOGIES INC","titleOfClass":"COM","shares":401725,"shareType":"SH","putCall":null,"value":127989585},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":736832,"shareType":"SH","putCall":null,"value":124745658},
+    {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":681642,"shareType":"SH","putCall":null,"value":97829260},
+    {"cusip":"05464C101","name":"AXON ENTERPRISE INC","titleOfClass":"COM","shares":177631,"shareType":"SH","putCall":null,"value":75052650},
+    {"cusip":"464288257","name":"ISHARES TR","titleOfClass":"MSCI ACWI ETF","shares":111158,"shareType":"SH","putCall":null,"value":17648000}
+  ]
+}

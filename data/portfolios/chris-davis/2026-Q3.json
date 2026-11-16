@@ -74,7 +74,7 @@
     {"cusip":"038222105","name":"Applied Materials, Inc.","titleOfClass":"Common Stock","shares":45770,"shareType":"SH","putCall":null,"value":23407992,"ticker":"AMAT","weight":0.001011,"price":511.38},
     {"cusip":"29444U700","name":"Equinix, Inc.","titleOfClass":"Common Stock","shares":19283,"shareType":"SH","putCall":null,"value":19506297,"ticker":"EQIX","weight":0.000843,"price":1011.58},
     {"cusip":"00724F101","name":"Adobe Inc.","titleOfClass":"Common Stock","shares":79716,"shareType":"SH","putCall":null,"value":19128044,"ticker":"ADBE","weight":0.000826,"price":239.94},
-    {"cusip":"803054204","name":"SAP SE - ADR","titleOfClass":"ADR","shares":66068,"shareType":"SH","putCall":null,"value":13775218,"ticker":"SAP","weight":0.000595,"price":208.485},
+    {"cusip":"803054204","name":"SAP SE - ADR","titleOfClass":"ADR","shares":66068,"shareType":"SH","putCall":null,"value":13775218,"ticker":"SAP","weight":0.000595,"price":208.482},
     {"cusip":"222795502","name":"Cousins Properties Inc.","titleOfClass":"Common Stock","shares":489685,"shareType":"SH","putCall":null,"value":13534893,"ticker":"CUZ","weight":0.000585,"price":27.64},
     {"cusip":"55261F104","name":"M&T Bank Corp.","titleOfClass":"Common Stock","shares":57774,"shareType":"SH","putCall":null,"value":12571622,"ticker":"MTB","weight":0.000543,"price":217.6},
     {"cusip":"253868103","name":"Digital Realty Trust, Inc.","titleOfClass":"Common Stock","shares":71170,"shareType":"SH","putCall":null,"value":12492470,"ticker":"DLR","weight":0.00054,"price":175.53},

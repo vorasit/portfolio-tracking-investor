@@ -189,7 +189,7 @@
     {"cusip":"02079K305","name":"Alphabet Inc","titleOfClass":"Common Stock","shares":101,"shareType":"SH","putCall":null,"value":34752,"ticker":"GOOGL","weight":0.000002,"price":344.08},
     {"cusip":"98954M200","name":"Zillow Group Inc","titleOfClass":"Common Stock","shares":960,"shareType":"SH","putCall":null,"value":26045,"ticker":"Z","weight":0.000001,"price":27.13},
     {"cusip":"464287614","name":"iShares Russell 1000 Growth ET","titleOfClass":"ETP","shares":40,"shareType":"SH","putCall":null,"value":5027,"ticker":"IWF","weight":0,"price":125.26},
-    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"ADR","shares":2,"shareType":"SH","putCall":null,"value":237,"ticker":"BNTX","weight":0,"price":98.3}
+    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"ADR","shares":2,"shareType":"SH","putCall":null,"value":237,"ticker":"BNTX","weight":0,"price":98.3001}
   ],
   "changes": [
     {"cusip":"35661P100","ticker":"FRNM","name":"Freenome Inc","putCall":null,"action":"new","shares":2787707,"prevShares":0},

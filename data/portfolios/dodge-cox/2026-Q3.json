@@ -96,7 +96,7 @@
     {"cusip":"595017104","name":"Microchip Technology, Inc.","titleOfClass":"COM","shares":5365710,"shareType":"SH","putCall":null,"value":417291267,"ticker":"MCHP","weight":0.002237,"price":77.77},
     {"cusip":"039483102","name":"Archer-Daniels-Midland Co.","titleOfClass":"COM","shares":5110120,"shareType":"SH","putCall":null,"value":405641326,"ticker":"ADM","weight":0.002174,"price":79.38},
     {"cusip":"35137L204","name":"Fox Corp.","titleOfClass":"CL B COM","shares":6847828,"shareType":"SH","putCall":null,"value":385532716,"ticker":"FOX","weight":0.002067,"price":56.3},
-    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"SPONSORED ADS","shares":3687791,"shareType":"SH","putCall":null,"value":362509855,"ticker":"BNTX","weight":0.001943,"price":98.3},
+    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"SPONSORED ADS","shares":3687791,"shareType":"SH","putCall":null,"value":362509855,"ticker":"BNTX","weight":0.001943,"price":98.3001},
     {"cusip":"722304102","name":"PDD Holdings, Inc.","titleOfClass":"SPONSORED ADS","shares":4569600,"shareType":"SH","putCall":null,"value":356154624,"ticker":"PDD","weight":0.001909,"price":77.94},
     {"cusip":"98850P109","name":"Yum China Holdings, Inc.","titleOfClass":"COM","shares":8410062,"shareType":"SH","putCall":null,"value":345653548,"ticker":"YUMC","weight":0.001853,"price":41.1},
     {"cusip":"47215P106","name":"JD.com, Inc.","titleOfClass":"SPON ADS CL A","shares":12194648,"shareType":"SH","putCall":null,"value":324377637,"ticker":"JD","weight":0.001739,"price":26.6},
