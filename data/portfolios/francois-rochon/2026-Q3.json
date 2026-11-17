@@ -46,7 +46,7 @@
     {"cusip":"46625H100","name":"JPMORGAN CHASE & CO","titleOfClass":"COM","shares":47204,"shareType":"SH","putCall":null,"value":15616499,"ticker":"JPM","weight":0.005352,"price":330.83},
     {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":49902,"shareType":"SH","putCall":null,"value":12433083,"ticker":"AMZN","weight":0.004261,"price":249.15},
     {"cusip":"420261109","name":"HAWKINS INC","titleOfClass":"COM","shares":95259,"shareType":"SH","putCall":null,"value":12002634,"ticker":"HWKN","weight":0.004114,"price":126},
-    {"cusip":"339750101","name":"FLOOR & DECOR HLDGS INC","titleOfClass":"CL A","shares":225417,"shareType":"SH","putCall":null,"value":10326353,"ticker":"FND","weight":0.003539,"price":45.8097},
+    {"cusip":"339750101","name":"FLOOR & DECOR HLDGS INC","titleOfClass":"CL A","shares":225417,"shareType":"SH","putCall":null,"value":10326353,"ticker":"FND","weight":0.003539,"price":45.81},
     {"cusip":"31488V107","name":"FERGUSON ENTERPRISES INC","titleOfClass":"COMMON STOCK NEW","shares":37119,"shareType":"SH","putCall":null,"value":8263432,"ticker":"FERG","weight":0.002832,"price":222.62},
     {"cusip":"724078209","name":"PIPER SANDLER COS","titleOfClass":"COM NEW","shares":69000,"shareType":"SH","putCall":null,"value":4551930,"ticker":"PIPR","weight":0.00156,"price":65.97},
     {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL (CLASS A)","titleOfClass":"CL A","shares":6,"shareType":"SH","putCall":null,"value":4482030,"ticker":"BRK.A","weight":0.001536,"price":747005},
@@ -56,7 +56,7 @@
     {"cusip":"14040H105","name":"CAPITAL ONE FINANCIAL","titleOfClass":"COM","shares":8366,"shareType":"SH","putCall":null,"value":1615224,"ticker":"COF","weight":0.000554,"price":193.07},
     {"cusip":"98850P109","name":"YUM CHINA HLDGS INC","titleOfClass":"COM","shares":36036,"shareType":"SH","putCall":null,"value":1481080,"ticker":"YUMC","weight":0.000508,"price":41.1},
     {"cusip":"78463V107","name":"SPDR GOLD TR","titleOfClass":"GOLD SHS","shares":3876,"shareType":"SH","putCall":null,"value":1476136,"ticker":"GLD","weight":0.000506,"price":380.84},
-    {"cusip":"464288752","name":"ISHARES TR","titleOfClass":"US HOME CONS ETF","shares":11468,"shareType":"SH","putCall":null,"value":997945,"ticker":"ITB","weight":0.000342,"price":87.0274},
+    {"cusip":"464288752","name":"ISHARES TR","titleOfClass":"US HOME CONS ETF","shares":11468,"shareType":"SH","putCall":null,"value":997945,"ticker":"ITB","weight":0.000342,"price":87.02},
     {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":1746,"shareType":"SH","putCall":null,"value":895523,"ticker":"MSFT","weight":0.000307,"price":512.9},
     {"cusip":"46090E103","name":"INVESCO QQQ TR","titleOfClass":"UNIT SER 1","shares":391,"shareType":"SH","putCall":null,"value":289250,"ticker":"QQQ","weight":0.000099,"price":739.77}
   ],

@@ -270,7 +270,7 @@
     {"cusip":"00090Q103","name":"ADT INC DEL","titleOfClass":"COM","shares":11209,"shareType":"SH","putCall":null,"value":68151,"ticker":"ADT","weight":0.000011,"price":6.08},
     {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":143,"shareType":"SH","putCall":null,"value":48726,"ticker":"GOOG","weight":0.000008,"price":340.74},
     {"cusip":"N14506104","name":"ELASTIC N V","titleOfClass":"ORD SHS","shares":20,"shareType":"SH","putCall":null,"value":1834,"ticker":"ESTC","weight":0,"price":91.7},
-    {"cusip":"02079K602","name":"ALPHABET INC","titleOfClass":"DEP SHS RP1/20 B","shares":2,"shareType":"SH","putCall":null,"value":97,"ticker":null,"weight":0,"price":48.495}
+    {"cusip":"02079K602","name":"ALPHABET INC","titleOfClass":"DEP SHS RP1/20 B","shares":2,"shareType":"SH","putCall":null,"value":97,"ticker":null,"weight":0,"price":48.49}
   ],
   "changes": [
     {"cusip":"78468R556","ticker":"XOP","name":"SPDR SERIES TRUST","putCall":"Put","action":"new","shares":1826500,"prevShares":0},

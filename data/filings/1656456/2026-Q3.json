@@ -1,0 +1,34 @@
+{
+  "cik": "1656456",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1656456","accession":"0001656456-26-000004","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"595112103","name":"MICRON TECHNOLOGY INC","titleOfClass":"COM","shares":1250000,"shareType":"SH","putCall":null,"value":1331387500},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":4475000,"shareType":"SH","putCall":null,"value":1114946250},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":1575000,"shareType":"SH","putCall":null,"value":718499250},
+    {"cusip":"84615Q103","name":"SPACE EXPLORATION TECHN CORP","titleOfClass":"CLASS A COM STK","shares":3883329,"shareType":"SH","putCall":null,"value":556547062},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":7315000,"shareType":"SH","putCall":null,"value":501150650},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":2000000,"shareType":"SH","putCall":null,"value":456760000},
+    {"cusip":"464286772","name":"ISHARES INC","titleOfClass":"MSCI STH KOR ETF","shares":2106149,"shareType":"SH","putCall":null,"value":384961914},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":525000,"shareType":"SH","putCall":null,"value":380719500},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":1000000,"shareType":"SH","putCall":null,"value":340740000},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":2115272,"shareType":"SH","putCall":null,"value":292647881},
+    {"cusip":"512807306","name":"LAM RESEARCH CORP","titleOfClass":"COM NEW","shares":625000,"shareType":"SH","putCall":null,"value":205318750},
+    {"cusip":"01609W102","name":"ALIBABA GROUP HLDG LTD","titleOfClass":"SPONSORED ADS","shares":1850000,"shareType":"SH","putCall":null,"value":198949000},
+    {"cusip":"68389X105","name":"ORACLE CORP","titleOfClass":"COM","shares":1253932,"shareType":"SH","putCall":null,"value":172164864},
+    {"cusip":"097023105","name":"BOEING CO","titleOfClass":"COM","shares":760000,"shareType":"SH","putCall":null,"value":141398000},
+    {"cusip":"629377508","name":"NRG ENERGY INC","titleOfClass":"COM NEW","shares":1425000,"shareType":"SH","putCall":null,"value":136301250},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":65000,"shareType":"SH","putCall":null,"value":117758550},
+    {"cusip":"038222105","name":"APPLIED MATLS INC","titleOfClass":"COM","shares":225000,"shareType":"SH","putCall":null,"value":115060500},
+    {"cusip":"21873S108","name":"COREWEAVE INC","titleOfClass":"COM CL A","shares":1215000,"shareType":"SH","putCall":null,"value":105850800},
+    {"cusip":"056752108","name":"BAIDU INC","titleOfClass":"SPON ADR REP A","shares":1100000,"shareType":"SH","putCall":null,"value":95557000},
+    {"cusip":"607828100","name":"MODINE MFG CO","titleOfClass":"COM","shares":282959,"shareType":"SH","putCall":null,"value":52969925},
+    {"cusip":"02376R102","name":"AMERICAN AIRLINES GROUP INC","titleOfClass":"COM","shares":3928435,"shareType":"SH","putCall":null,"value":52523176},
+    {"cusip":"69331C108","name":"PG&E CORP","titleOfClass":"COM","shares":2525000,"shareType":"SH","putCall":null,"value":30931250},
+    {"cusip":"29273V100","name":"ENERGY TRANSFER L P","titleOfClass":"COM UT LTD PTN","shares":1497317,"shareType":"SH","putCall":null,"value":29601957},
+    {"cusip":"55336V100","name":"MPLX LP","titleOfClass":"COM UNIT REP LTD","shares":477336,"shareType":"SH","putCall":null,"value":26883564}
+  ]
+}

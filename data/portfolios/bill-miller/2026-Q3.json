@@ -17,7 +17,7 @@
     {"cusip":"747301109","name":"QUAD / GRAPHICS INC","titleOfClass":"COM CL A","shares":2000819,"shareType":"SH","putCall":null,"value":18467559,"ticker":"QUAD","weight":0.040035,"price":9.23},
     {"cusip":"094235108","name":"BLOOMIN BRANDS INC","titleOfClass":"COM","shares":2309029,"shareType":"SH","putCall":null,"value":17894975,"ticker":"BLMN","weight":0.038794,"price":7.75},
     {"cusip":"534187109","name":"LINCOLN NATL CORP IND","titleOfClass":"COM","shares":435535,"shareType":"SH","putCall":null,"value":17534639,"ticker":"LNC","weight":0.038012,"price":40.26},
-    {"cusip":"222070203","name":"COTY INC","titleOfClass":"COM CL A","shares":6585045,"shareType":"SH","putCall":null,"value":17186967,"ticker":"COTY","weight":0.037259,"price":2.60998},
+    {"cusip":"222070203","name":"COTY INC","titleOfClass":"COM CL A","shares":6585045,"shareType":"SH","putCall":null,"value":17186967,"ticker":"COTY","weight":0.037259,"price":2.61},
     {"cusip":"024061103","name":"DAUCH CORP","titleOfClass":"COM","shares":3066165,"shareType":"SH","putCall":null,"value":16005381,"ticker":"DCH","weight":0.034697,"price":5.22},
     {"cusip":"92556V106","name":"VIATRIS INC","titleOfClass":"COM","shares":733164,"shareType":"SH","putCall":null,"value":12991666,"ticker":"VTRS","weight":0.028164,"price":17.72},
     {"cusip":"47580P103","name":"JELD-WEN HLDG INC","titleOfClass":"COM","shares":6834380,"shareType":"SH","putCall":null,"value":12575259,"ticker":"JELD","weight":0.027261,"price":1.84},
@@ -60,7 +60,7 @@
     {"cusip":"92918V307","name":"VROOM INC","titleOfClass":"COM NEW","shares":58488,"shareType":"SH","putCall":null,"value":579031,"ticker":"VRM","weight":0.001255,"price":9.9},
     {"cusip":"911163103","name":"UNITED NAT FOODS INC","titleOfClass":"COM","shares":4705,"shareType":"SH","putCall":null,"value":210737,"ticker":"UNFI","weight":0.000457,"price":44.79},
     {"cusip":"957638109","name":"WESTERN ALLIANCE BANCORP","titleOfClass":"COM","shares":2755,"shareType":"SH","putCall":null,"value":206900,"ticker":"WAL","weight":0.000449,"price":75.1},
-    {"cusip":"901109108","name":"TUTOR PERINI CORP","titleOfClass":"COM","shares":2470,"shareType":"SH","putCall":null,"value":203824,"ticker":"TPC","weight":0.000442,"price":82.5199}
+    {"cusip":"901109108","name":"TUTOR PERINI CORP","titleOfClass":"COM","shares":2470,"shareType":"SH","putCall":null,"value":203824,"ticker":"TPC","weight":0.000442,"price":82.52}
   ],
   "changes": [
     {"cusip":"20602D101","ticker":"CNXC","name":"CONCENTRIX CORP","putCall":null,"action":"new","shares":851125,"prevShares":0},

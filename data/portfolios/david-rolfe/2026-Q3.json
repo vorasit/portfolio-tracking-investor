@@ -1,0 +1,53 @@
+{
+  "investorId": "david-rolfe",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"859804","accession":"0000859804-26-000008","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 460736421,
+  "holdings": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":63801,"shareType":"SH","putCall":null,"value":46267474,"ticker":"META","weight":0.100421,"price":725.18},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":96645,"shareType":"SH","putCall":null,"value":44088587,"ticker":"TSM","weight":0.095692,"price":456.19},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":81910,"shareType":"SH","putCall":null,"value":42011665,"ticker":"MSFT","weight":0.091184,"price":512.9},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":116464,"shareType":"SH","putCall":null,"value":40072883,"ticker":"GOOGL","weight":0.086976,"price":344.08},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":119494,"shareType":"SH","putCall":null,"value":39793732,"ticker":"AAPL","weight":0.08637,"price":333.02},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":152234,"shareType":"SH","putCall":null,"value":37929101,"ticker":"AMZN","weight":0.082323,"price":249.15},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":82347,"shareType":"SH","putCall":null,"value":29589690,"ticker":"V","weight":0.064223,"price":359.33},
+    {"cusip":"620076307","name":"MOTOROLA SOLUTIONS INC","titleOfClass":"COM NEW","shares":60036,"shareType":"SH","putCall":null,"value":26774122,"ticker":"MSI","weight":0.058112,"price":445.97},
+    {"cusip":"H1467J104","name":"CHUBB LIMITED","titleOfClass":"COM","shares":62262,"shareType":"SH","putCall":null,"value":20250732,"ticker":"CB","weight":0.043953,"price":325.25},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":97025,"shareType":"SH","putCall":null,"value":20114289,"ticker":"PGR","weight":0.043657,"price":207.31},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":122067,"shareType":"SH","putCall":null,"value":19885982,"ticker":"BKNG","weight":0.043161,"price":162.91},
+    {"cusip":"679580100","name":"OLD DOMINION FREIGHT LINE IN","titleOfClass":"COM","shares":100890,"shareType":"SH","putCall":null,"value":17538738,"ticker":"ODFL","weight":0.038067,"price":173.84},
+    {"cusip":"911363109","name":"UNITED RENTALS INC","titleOfClass":"COM","shares":15320,"shareType":"SH","putCall":null,"value":15331607,"ticker":"URI","weight":0.033276,"price":1000.78},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":158029,"shareType":"SH","putCall":null,"value":13497257,"ticker":"ORLY","weight":0.029295,"price":85.41},
+    {"cusip":"28176E108","name":"EDWARDS LIFESCIENCES CORP","titleOfClass":"COM","shares":151007,"shareType":"SH","putCall":null,"value":13034924,"ticker":"EW","weight":0.028291,"price":86.32},
+    {"cusip":"872540109","name":"TJX COS INC NEW","titleOfClass":"COM","shares":90105,"shareType":"SH","putCall":null,"value":11921793,"ticker":"TJX","weight":0.025876,"price":132.31},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":28590,"shareType":"SH","putCall":null,"value":11277871,"ticker":"SPGI","weight":0.024478,"price":394.47},
+    {"cusip":"889478103","name":"TOLL BROTHERS INC","titleOfClass":"COM","shares":82265,"shareType":"SH","putCall":null,"value":11085162,"ticker":"TOL","weight":0.02406,"price":134.75},
+    {"cusip":"464287614","name":"ISHARES TR","titleOfClass":"RUS 1000 GRW ETF","shares":2162,"shareType":"SH","putCall":null,"value":270812,"ticker":"IWF","weight":0.000588,"price":125.26}
+  ],
+  "changes": [
+    {"cusip":"872540109","ticker":"TJX","name":"TJX COS INC NEW","putCall":null,"action":"new","shares":90105,"prevShares":0},
+    {"cusip":"464287614","ticker":"IWF","name":"ISHARES TR","putCall":null,"action":"new","shares":2162,"prevShares":0},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"add","shares":152234,"prevShares":135440},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":63801,"prevShares":76471},
+    {"cusip":"874039100","ticker":"TSM","name":"TAIWAN SEMICONDUCTOR MANUFAC","putCall":null,"action":"reduce","shares":96645,"prevShares":105499},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"reduce","shares":81910,"prevShares":89518},
+    {"cusip":"02079K305","ticker":"GOOGL","name":"ALPHABET INC","putCall":null,"action":"reduce","shares":116464,"prevShares":127237},
+    {"cusip":"037833100","ticker":"AAPL","name":"APPLE INC","putCall":null,"action":"reduce","shares":119494,"prevShares":130682},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":82347,"prevShares":89188},
+    {"cusip":"620076307","ticker":"MSI","name":"MOTOROLA SOLUTIONS INC","putCall":null,"action":"reduce","shares":60036,"prevShares":65643},
+    {"cusip":"H1467J104","ticker":"CB","name":"CHUBB LIMITED","putCall":null,"action":"reduce","shares":62262,"prevShares":68039},
+    {"cusip":"743315103","ticker":"PGR","name":"PROGRESSIVE CORP","putCall":null,"action":"reduce","shares":97025,"prevShares":106261},
+    {"cusip":"09857L108","ticker":"BKNG","name":"BOOKING HOLDINGS INC","putCall":null,"action":"reduce","shares":122067,"prevShares":133351},
+    {"cusip":"679580100","ticker":"ODFL","name":"OLD DOMINION FREIGHT LINE IN","putCall":null,"action":"reduce","shares":100890,"prevShares":110288},
+    {"cusip":"911363109","ticker":"URI","name":"UNITED RENTALS INC","putCall":null,"action":"reduce","shares":15320,"prevShares":16732},
+    {"cusip":"67103H107","ticker":"ORLY","name":"OREILLY AUTOMOTIVE INC","putCall":null,"action":"reduce","shares":158029,"prevShares":172645},
+    {"cusip":"28176E108","ticker":"EW","name":"EDWARDS LIFESCIENCES CORP","putCall":null,"action":"reduce","shares":151007,"prevShares":165208},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"reduce","shares":28590,"prevShares":31339},
+    {"cusip":"889478103","ticker":"TOL","name":"TOLL BROTHERS INC","putCall":null,"action":"reduce","shares":82265,"prevShares":90562},
+    {"cusip":"217204106","ticker":"CPRT","name":"COPART INC","putCall":null,"action":"exit","shares":0,"prevShares":447748}
+  ]
+}

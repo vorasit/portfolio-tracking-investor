@@ -1,0 +1,42 @@
+{
+  "investorId": "bill-ackman",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"2026053","accession":"0001172661-26-005427","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 30796550126,
+  "holdings": [
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COM","shares":184289699,"shareType":"SH","putCall":null,"value":10309165762,"ticker":"PS","weight":0.334751,"price":55.9394},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":34268279,"shareType":"SH","putCall":null,"value":2347719794,"ticker":"UBER","weight":0.076233,"price":68.51},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":8505779,"shareType":"SH","putCall":null,"value":2119214838,"ticker":"AMZN","weight":0.068813,"price":249.15},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":4064779,"shareType":"SH","putCall":null,"value":2084825149,"ticker":"MSFT","weight":0.067697,"price":512.9},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2833299,"shareType":"SH","putCall":null,"value":2054651769,"ticker":"META","weight":0.066717,"price":725.18},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":2050468952,"ticker":"HHH","weight":0.066581,"price":73.62},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":51331099,"shareType":"SH","putCall":null,"value":1871531870,"ticker":"BN","weight":0.060771,"price":36.46},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":22007079,"shareType":"SH","putCall":null,"value":1564263175,"ticker":"QSR","weight":0.050793,"price":71.0802},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":15412744,"shareType":"SH","putCall":null,"value":1072418728,"ticker":"NFLX","weight":0.034823,"price":69.58},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1888419,"shareType":"SH","putCall":null,"value":1041406426,"ticker":"MA","weight":0.033816,"price":551.47},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2870720,"shareType":"SH","putCall":null,"value":1031535818,"ticker":"V","weight":0.033495,"price":359.33},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":2593155,"shareType":"SH","putCall":null,"value":1022921853,"ticker":"SPGI","weight":0.033215,"price":394.47},
+    {"cusip":"45866F104","name":"INTERCONTINENTAL EXCHANGE IN","titleOfClass":"COM","shares":6635899,"shareType":"SH","putCall":null,"value":1008855725,"ticker":"ICE","weight":0.032759,"price":152.03},
+    {"cusip":"H01301128","name":"ALCON AG","titleOfClass":"ORD SHS","shares":14736308,"shareType":"SH","putCall":null,"value":954175943,"ticker":"ALC","weight":0.030983,"price":64.75},
+    {"cusip":"71531T105","name":"PERSHING SQUARE USA LTD","titleOfClass":"COM SHS","shares":4000000,"shareType":"SH","putCall":null,"value":148400000,"ticker":"PSUS","weight":0.004819,"price":37.1},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":114994324,"ticker":"SEG","weight":0.003734,"price":22.89}
+  ],
+  "changes": [
+    {"cusip":"45866F104","ticker":"ICE","name":"INTERCONTINENTAL EXCHANGE IN","putCall":null,"action":"new","shares":6635899,"prevShares":0},
+    {"cusip":"H01301128","ticker":"ALC","name":"ALCON AG","putCall":null,"action":"new","shares":14736308,"prevShares":0},
+    {"cusip":"64110L106","ticker":"NFLX","name":"NETFLIX INC.","putCall":null,"action":"add","shares":15412744,"prevShares":13081465},
+    {"cusip":"90353T100","ticker":"UBER","name":"UBER TECHNOLOGIES INC","putCall":null,"action":"reduce","shares":34268279,"prevShares":34326200},
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"reduce","shares":8505779,"prevShares":8563857},
+    {"cusip":"594918104","ticker":"MSFT","name":"MICROSOFT CORP","putCall":null,"action":"reduce","shares":4064779,"prevShares":6206730},
+    {"cusip":"30303M102","ticker":"META","name":"META PLATFORMS INC","putCall":null,"action":"reduce","shares":2833299,"prevShares":3196062},
+    {"cusip":"11271J107","ticker":"BN","name":"BROOKFIELD CORP","putCall":null,"action":"reduce","shares":51331099,"prevShares":57481047},
+    {"cusip":"76131D103","ticker":"QSR","name":"RESTAURANT BRANDS INTL INC","putCall":null,"action":"reduce","shares":22007079,"prevShares":25821284},
+    {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INCORPORATED","putCall":null,"action":"reduce","shares":1888419,"prevShares":2124646},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":2870720,"prevShares":3270470},
+    {"cusip":"42806J700","ticker":"HTZ","name":"HERTZ GLOBAL HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":14991599}
+  ]
+}

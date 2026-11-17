@@ -1,0 +1,33 @@
+{
+  "investorId": "bruce-berkowitz",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-008096","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 1549866942,
+  "holdings": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":18182367,"shareType":"SH","putCall":null,"value":1196036101,"ticker":"JOE","weight":0.771702,"price":65.78},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5458600,"shareType":"SH","putCall":null,"value":194380746,"ticker":"EPD","weight":0.125418,"price":35.61},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":100372,"shareType":"SH","putCall":null,"value":49980237,"ticker":"BRK.B","weight":0.032248,"price":497.95},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":921452,"shareType":"SH","putCall":null,"value":42349943,"ticker":"OZK","weight":0.027325,"price":45.96},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":256350,"shareType":"SH","putCall":null,"value":17313879,"ticker":"WRB","weight":0.011171,"price":67.54},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":21,"shareType":"SH","putCall":null,"value":15687105,"ticker":"BRK.A","weight":0.010122,"price":747005},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":72200,"shareType":"SH","putCall":null,"value":14967782,"ticker":"PGR","weight":0.009657,"price":207.31},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":231000,"shareType":"SH","putCall":null,"value":6588120,"ticker":"PFE","weight":0.004251,"price":28.52},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":202300,"shareType":"SH","putCall":null,"value":4596256,"ticker":"KHC","weight":0.002966,"price":22.72},
+    {"cusip":"134429109","name":"THE CAMPBELLS COMPANY","titleOfClass":"COM","shares":116500,"shareType":"SH","putCall":null,"value":2310195,"ticker":"CPB","weight":0.001491,"price":19.83},
+    {"cusip":"125269100","name":"CF INDUSTRIES HOLD","titleOfClass":"COM","shares":19900,"shareType":"SH","putCall":null,"value":2292480,"ticker":"CF","weight":0.001479,"price":115.2},
+    {"cusip":"911312106","name":"UNITED PARCEL SVCS INC","titleOfClass":"CL B","shares":23800,"shareType":"SH","putCall":null,"value":2223872,"ticker":"UPS","weight":0.001435,"price":93.44},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":799248,"ticker":"AAPL","weight":0.000516,"price":333.02},
+    {"cusip":"436893200","name":"HOME BANCSHARES INC","titleOfClass":"COM","shares":12100,"shareType":"SH","putCall":null,"value":340978,"ticker":"HOMB","weight":0.00022,"price":28.18}
+  ],
+  "changes": [
+    {"cusip":"125269100","ticker":"CF","name":"CF INDUSTRIES HOLD","putCall":null,"action":"new","shares":19900,"prevShares":0},
+    {"cusip":"293792107","ticker":"EPD","name":"ENTERPRISE PRODS PARTNERS L","putCall":null,"action":"add","shares":5458600,"prevShares":5455800},
+    {"cusip":"084670702","ticker":"BRK.B","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":100372,"prevShares":87852},
+    {"cusip":"06417N103","ticker":"OZK","name":"BANK OZK","putCall":null,"action":"add","shares":921452,"prevShares":921252},
+    {"cusip":"084670108","ticker":"BRK.A","name":"BERKSHIRE HATHAWAY INC DEL","putCall":null,"action":"add","shares":21,"prevShares":11}
+  ]
+}

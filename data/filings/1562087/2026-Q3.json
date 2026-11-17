@@ -1,0 +1,15 @@
+{
+  "cik": "1562087",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1562087","accession":"0001315863-26-000787","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"464287523","name":"ISHARES TR","titleOfClass":"ISHARES SEMICDTR","shares":283068,"shareType":"SH","putCall":null,"value":160963788},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":495000,"shareType":"SH","putCall":null,"value":123329250},
+    {"cusip":"92837L109","name":"VISTA ENERGY S.A.B. DE C.V.","titleOfClass":"SPONSORED ADS","shares":1886835,"shareType":"SH","putCall":null,"value":123304667},
+    {"cusip":"92840M102","name":"VISTRA CORP","titleOfClass":"COM","shares":372755,"shareType":"SH","putCall":null,"value":51570654},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":2000,"shareType":"SH","putCall":null,"value":1025800}
+  ]
+}

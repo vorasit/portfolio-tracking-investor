@@ -1,0 +1,29 @@
+{
+  "cik": "859804",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"859804","accession":"0000859804-26-000008","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":63801,"shareType":"SH","putCall":null,"value":46267474},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":96645,"shareType":"SH","putCall":null,"value":44088587},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":81910,"shareType":"SH","putCall":null,"value":42011665},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":116464,"shareType":"SH","putCall":null,"value":40072883},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":119494,"shareType":"SH","putCall":null,"value":39793732},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":152234,"shareType":"SH","putCall":null,"value":37929101},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":82347,"shareType":"SH","putCall":null,"value":29589690},
+    {"cusip":"620076307","name":"MOTOROLA SOLUTIONS INC","titleOfClass":"COM NEW","shares":60036,"shareType":"SH","putCall":null,"value":26774122},
+    {"cusip":"H1467J104","name":"CHUBB LIMITED","titleOfClass":"COM","shares":62262,"shareType":"SH","putCall":null,"value":20250732},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":97025,"shareType":"SH","putCall":null,"value":20114289},
+    {"cusip":"09857L108","name":"BOOKING HOLDINGS INC","titleOfClass":"COM","shares":122067,"shareType":"SH","putCall":null,"value":19885982},
+    {"cusip":"679580100","name":"OLD DOMINION FREIGHT LINE IN","titleOfClass":"COM","shares":100890,"shareType":"SH","putCall":null,"value":17538738},
+    {"cusip":"911363109","name":"UNITED RENTALS INC","titleOfClass":"COM","shares":15320,"shareType":"SH","putCall":null,"value":15331607},
+    {"cusip":"67103H107","name":"OREILLY AUTOMOTIVE INC","titleOfClass":"COM","shares":158029,"shareType":"SH","putCall":null,"value":13497257},
+    {"cusip":"28176E108","name":"EDWARDS LIFESCIENCES CORP","titleOfClass":"COM","shares":151007,"shareType":"SH","putCall":null,"value":13034924},
+    {"cusip":"872540109","name":"TJX COS INC NEW","titleOfClass":"COM","shares":90105,"shareType":"SH","putCall":null,"value":11921793},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":28590,"shareType":"SH","putCall":null,"value":11277871},
+    {"cusip":"889478103","name":"TOLL BROTHERS INC","titleOfClass":"COM","shares":82265,"shareType":"SH","putCall":null,"value":11085162},
+    {"cusip":"464287614","name":"ISHARES TR","titleOfClass":"RUS 1000 GRW ETF","shares":2162,"shareType":"SH","putCall":null,"value":270812}
+  ]
+}

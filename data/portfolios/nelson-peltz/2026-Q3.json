@@ -1,0 +1,27 @@
+{
+  "investorId": "nelson-peltz",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000051","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 2595775908,
+  "holdings": [
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1258767602,"ticker":"GE","weight":0.484929,"price":312.29},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":726069777,"ticker":"SOLV","weight":0.279712,"price":88.15},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":3085344,"shareType":"SH","putCall":null,"value":201688937,"ticker":"GEHC","weight":0.077699,"price":65.37},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30468434,"shareType":"SH","putCall":null,"value":194388609,"ticker":"WEN","weight":0.074887,"price":6.38},
+    {"cusip":"31488V107","name":"Ferguson Enterprises Inc.","titleOfClass":"COMMON STOCK\nNEW","shares":855015,"shareType":"SH","putCall":null,"value":190343439,"ticker":"FERG","weight":0.073328,"price":222.62},
+    {"cusip":"760125104","name":"Rentokil Initial plc","titleOfClass":"SPONSORED ADR","shares":596811,"shareType":"SH","putCall":null,"value":11787017,"ticker":"RTO","weight":0.004541,"price":19.75},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":280000,"shareType":"SH","putCall":null,"value":8444800,"ticker":"IVZ","weight":0.003253,"price":30.16},
+    {"cusip":"N5505D105","name":"Magnum Ice Cream Co NV","titleOfClass":"ORD SHS","shares":241042,"shareType":"SH","putCall":null,"value":4285727,"ticker":"MICC","weight":0.001651,"price":17.78}
+  ],
+  "changes": [
+    {"cusip":"31488V107","ticker":"FERG","name":"Ferguson Enterprises Inc.","putCall":null,"action":"new","shares":855015,"prevShares":0},
+    {"cusip":"760125104","ticker":"RTO","name":"Rentokil Initial plc","putCall":null,"action":"new","shares":596811,"prevShares":0},
+    {"cusip":"G491BT108","ticker":"IVZ","name":"Invesco Ltd.","putCall":null,"action":"reduce","shares":280000,"prevShares":1625472},
+    {"cusip":"G4474Y214","ticker":null,"name":"Janus Henderson Group plc","putCall":null,"action":"exit","shares":0,"prevShares":25654382},
+    {"cusip":"G3421J106","ticker":null,"name":"Ferguson Plc New","putCall":null,"action":"exit","shares":0,"prevShares":1086357}
+  ]
+}

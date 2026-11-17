@@ -1,0 +1,24 @@
+{
+  "cik": "1056831",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1056831","accession":"0000919574-26-008096","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"790148100","name":"ST JOE CO","titleOfClass":"COM","shares":18182367,"shareType":"SH","putCall":null,"value":1196036101},
+    {"cusip":"293792107","name":"ENTERPRISE PRODS PARTNERS L","titleOfClass":"COM","shares":5458600,"shareType":"SH","putCall":null,"value":194380746},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":100372,"shareType":"SH","putCall":null,"value":49980237},
+    {"cusip":"06417N103","name":"BANK OZK","titleOfClass":"COM","shares":921452,"shareType":"SH","putCall":null,"value":42349943},
+    {"cusip":"084423102","name":"WR BERKLEY CORP","titleOfClass":"COM","shares":256350,"shareType":"SH","putCall":null,"value":17313879},
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":21,"shareType":"SH","putCall":null,"value":15687105},
+    {"cusip":"743315103","name":"PROGRESSIVE CORP","titleOfClass":"COM","shares":72200,"shareType":"SH","putCall":null,"value":14967782},
+    {"cusip":"717081103","name":"PFIZER INC","titleOfClass":"COM","shares":231000,"shareType":"SH","putCall":null,"value":6588120},
+    {"cusip":"500754106","name":"KRAFT HEINZ CO","titleOfClass":"COM","shares":202300,"shareType":"SH","putCall":null,"value":4596256},
+    {"cusip":"134429109","name":"THE CAMPBELLS COMPANY","titleOfClass":"COM","shares":116500,"shareType":"SH","putCall":null,"value":2310195},
+    {"cusip":"125269100","name":"CF INDUSTRIES HOLD","titleOfClass":"COM","shares":19900,"shareType":"SH","putCall":null,"value":2292480},
+    {"cusip":"911312106","name":"UNITED PARCEL SVCS INC","titleOfClass":"CL B","shares":23800,"shareType":"SH","putCall":null,"value":2223872},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":2400,"shareType":"SH","putCall":null,"value":799248},
+    {"cusip":"436893200","name":"HOME BANCSHARES INC","titleOfClass":"COM","shares":12100,"shareType":"SH","putCall":null,"value":340978}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "investorId": "dev-kantesaria",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-26-000007","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 2527376800,
+  "holdings": [
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1392860,"shareType":"SH","putCall":null,"value":549441484,"ticker":"SPGI","weight":0.217396,"price":394.47},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":911284,"shareType":"SH","putCall":null,"value":413841403,"ticker":"MCO","weight":0.163743,"price":454.13},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":640202,"shareType":"SH","putCall":null,"value":379300479,"ticker":"FICO","weight":0.150077,"price":592.47},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":208493,"shareType":"SH","putCall":null,"value":377720513,"ticker":"ASML","weight":0.149452,"price":1811.67},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":711048,"shareType":"SH","putCall":null,"value":177157609,"ticker":"AMZN","weight":0.070095,"price":249.15},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":475318,"shareType":"SH","putCall":null,"value":166926928,"ticker":"AVGO","weight":0.066048,"price":351.19},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":646113,"shareType":"SH","putCall":null,"value":147559287,"ticker":"NVDA","weight":0.058384,"price":228.38},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":298898,"shareType":"SH","putCall":null,"value":136354279,"ticker":"TSM","weight":0.053951,"price":456.19},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":169513,"shareType":"SH","putCall":null,"value":93481334,"ticker":"MA","weight":0.036987,"price":551.47},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":238203,"shareType":"SH","putCall":null,"value":85593484,"ticker":"V","weight":0.033867,"price":359.33}
+  ],
+  "changes": [
+    {"cusip":"023135106","ticker":"AMZN","name":"AMAZON COM INC","putCall":null,"action":"new","shares":711048,"prevShares":0},
+    {"cusip":"11135F101","ticker":"AVGO","name":"BROADCOM INC","putCall":null,"action":"new","shares":475318,"prevShares":0},
+    {"cusip":"67066G104","ticker":"NVDA","name":"NVIDIA CORPORATION","putCall":null,"action":"new","shares":646113,"prevShares":0},
+    {"cusip":"874039100","ticker":"TSM","name":"TAIWAN SEMICONDUCTOR MANUFAC","putCall":null,"action":"new","shares":298898,"prevShares":0},
+    {"cusip":"N07059210","ticker":"ASML","name":"ASML HLDG NV","putCall":null,"action":"add","shares":208493,"prevShares":171083},
+    {"cusip":"78409V104","ticker":"SPGI","name":"S&P GLOBAL INC","putCall":null,"action":"reduce","shares":1392860,"prevShares":1524036},
+    {"cusip":"615369105","ticker":"MCO","name":"MOODYS CORP","putCall":null,"action":"reduce","shares":911284,"prevShares":1317188},
+    {"cusip":"303250104","ticker":"FICO","name":"FAIR ISAAC CORP","putCall":null,"action":"reduce","shares":640202,"prevShares":672186},
+    {"cusip":"57636Q104","ticker":"MA","name":"MASTERCARD INCORPORATED","putCall":null,"action":"reduce","shares":169513,"prevShares":1065934},
+    {"cusip":"92826C839","ticker":"V","name":"VISA INC","putCall":null,"action":"reduce","shares":238203,"prevShares":462978},
+    {"cusip":"461202103","ticker":"INTU","name":"INTUIT","putCall":null,"action":"exit","shares":0,"prevShares":189072}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cik": "1631664",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1631664","accession":"0001398344-26-020179","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"084670108","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL A","shares":145,"shareType":"SH","putCall":null,"value":108315725},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":424370,"shareType":"SH","putCall":null,"value":49782845},
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPONSORED ADS","shares":385004,"shareType":"SH","putCall":null,"value":30007212},
+    {"cusip":"70450Y103","name":"PAYPAL HLDGS INC","titleOfClass":"COM","shares":416407,"shareType":"SH","putCall":null,"value":21873860},
+    {"cusip":"46436E718","name":"ISHARES TR","titleOfClass":"0-3 MTH TREASURY","shares":188000,"shareType":"SH","putCall":null,"value":18927840}
+  ]
+}

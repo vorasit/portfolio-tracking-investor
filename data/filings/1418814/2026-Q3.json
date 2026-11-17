@@ -1,0 +1,31 @@
+{
+  "cik": "1418814",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1418814","accession":"0001418814-26-000006","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2316250,"shareType":"SH","putCall":null,"value":832298113},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":3002700,"shareType":"SH","putCall":null,"value":748122705},
+    {"cusip":"79466L302","name":"SALESFORCE INC","titleOfClass":"COM","shares":2994509,"shareType":"SH","putCall":null,"value":687449431},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":915674,"shareType":"SH","putCall":null,"value":664028471},
+    {"cusip":"09290D101","name":"BLACKROCK INC","titleOfClass":"COM","shares":491200,"shareType":"SH","putCall":null,"value":519832048},
+    {"cusip":"77311W101","name":"ROCKET COS INC","titleOfClass":"COM CL A","shares":40428074,"shareType":"SH","putCall":null,"value":465327132},
+    {"cusip":"L8681T102","name":"SPOTIFY TECHNOLOGY S A","titleOfClass":"SHS","shares":497000,"shareType":"SH","putCall":null,"value":242227860},
+    {"cusip":"48251W104","name":"KKR & CO INC","titleOfClass":"COM","shares":2606600,"shareType":"SH","putCall":null,"value":237982580},
+    {"cusip":"888787108","name":"TOAST INC","titleOfClass":"CL A","shares":8180338,"shareType":"SH","putCall":null,"value":237147999},
+    {"cusip":"530909308","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SHS SER C","shares":2051887,"shareType":"SH","putCall":null,"value":199546011},
+    {"cusip":"00846U101","name":"AGILENT TECHNOLOGIES INC","titleOfClass":"COM","shares":1055600,"shareType":"SH","putCall":null,"value":181890436},
+    {"cusip":"58507V107","name":"MEDLINE INC","titleOfClass":"COM CL A","shares":4154600,"shareType":"SH","putCall":null,"value":144164620},
+    {"cusip":"363576109","name":"GALLAGHER ARTHUR J & CO","titleOfClass":"COM","shares":598600,"shareType":"SH","putCall":null,"value":136546646},
+    {"cusip":"78351F107","name":"RYAN SPECIALTY HOLDINGS INC","titleOfClass":"CL A","shares":3682200,"shareType":"SH","putCall":null,"value":136241400},
+    {"cusip":"829073105","name":"SIMPSON MFG INC","titleOfClass":"COM","shares":783042,"shareType":"SH","putCall":null,"value":133806217},
+    {"cusip":"620076307","name":"MOTOROLA SOLUTIONS INC","titleOfClass":"COM NEW","shares":290000,"shareType":"SH","putCall":null,"value":129331300},
+    {"cusip":"M98068105","name":"WIX COM LTD","titleOfClass":"SHS","shares":1792170,"shareType":"SH","putCall":null,"value":125300496},
+    {"cusip":"89400J107","name":"TRANSUNION","titleOfClass":"COM","shares":2004800,"shareType":"SH","putCall":null,"value":122533376},
+    {"cusip":"294429105","name":"EQUIFAX INC","titleOfClass":"COM","shares":892800,"shareType":"SH","putCall":null,"value":122527872},
+    {"cusip":"530909100","name":"LIBERTY LIVE HOLDINGS INC","titleOfClass":"COM SER A","shares":734039,"shareType":"SH","putCall":null,"value":69469451},
+    {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":247766,"shareType":"SH","putCall":null,"value":41946784}
+  ]
+}

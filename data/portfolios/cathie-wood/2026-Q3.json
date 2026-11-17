@@ -182,14 +182,14 @@
     {"cusip":"576690101","name":"Materion Corp","titleOfClass":"Common Stock","shares":340,"shareType":"SH","putCall":null,"value":91661,"ticker":"MTRN","weight":0.000005,"price":269.59},
     {"cusip":"01741R102","name":"ATI Inc","titleOfClass":"Common Stock","shares":444,"shareType":"SH","putCall":null,"value":84094,"ticker":"ATI","weight":0.000005,"price":189.4},
     {"cusip":"88579Y101","name":"3M Co","titleOfClass":"Common Stock","shares":509,"shareType":"SH","putCall":null,"value":83552,"ticker":"MMM","weight":0.000005,"price":164.15},
-    {"cusip":"05368V106","name":"Avient Corp","titleOfClass":"Common Stock","shares":2007,"shareType":"SH","putCall":null,"value":80782,"ticker":"AVNT","weight":0.000005,"price":40.2501},
+    {"cusip":"05368V106","name":"Avient Corp","titleOfClass":"Common Stock","shares":2007,"shareType":"SH","putCall":null,"value":80782,"ticker":"AVNT","weight":0.000005,"price":40.25},
     {"cusip":"466313103","name":"Jabil Inc","titleOfClass":"Common Stock","shares":249,"shareType":"SH","putCall":null,"value":71428,"ticker":"JBL","weight":0.000004,"price":286.86},
     {"cusip":"489170100","name":"Kennametal Inc","titleOfClass":"Common Stock","shares":2150,"shareType":"SH","putCall":null,"value":66091,"ticker":"KMT","weight":0.000004,"price":30.74},
     {"cusip":"144285103","name":"Carpenter Technology Corp","titleOfClass":"Common Stock","shares":148,"shareType":"SH","putCall":null,"value":57545,"ticker":"CRS","weight":0.000003,"price":388.82},
     {"cusip":"02079K305","name":"Alphabet Inc","titleOfClass":"Common Stock","shares":101,"shareType":"SH","putCall":null,"value":34752,"ticker":"GOOGL","weight":0.000002,"price":344.08},
     {"cusip":"98954M200","name":"Zillow Group Inc","titleOfClass":"Common Stock","shares":960,"shareType":"SH","putCall":null,"value":26045,"ticker":"Z","weight":0.000001,"price":27.13},
     {"cusip":"464287614","name":"iShares Russell 1000 Growth ET","titleOfClass":"ETP","shares":40,"shareType":"SH","putCall":null,"value":5027,"ticker":"IWF","weight":0,"price":125.26},
-    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"ADR","shares":2,"shareType":"SH","putCall":null,"value":237,"ticker":"BNTX","weight":0,"price":98.3001}
+    {"cusip":"09075V102","name":"BioNTech SE","titleOfClass":"ADR","shares":2,"shareType":"SH","putCall":null,"value":237,"ticker":"BNTX","weight":0,"price":98.3}
   ],
   "changes": [
     {"cusip":"35661P100","ticker":"FRNM","name":"Freenome Inc","putCall":null,"action":"new","shares":2787707,"prevShares":0},

@@ -1,0 +1,20 @@
+{
+  "cik": "1697868",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1697868","accession":"0001697868-26-000007","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":1392860,"shareType":"SH","putCall":null,"value":549441484},
+    {"cusip":"615369105","name":"MOODYS CORP","titleOfClass":"COM","shares":911284,"shareType":"SH","putCall":null,"value":413841403},
+    {"cusip":"303250104","name":"FAIR ISAAC CORP","titleOfClass":"COM","shares":640202,"shareType":"SH","putCall":null,"value":379300479},
+    {"cusip":"N07059210","name":"ASML HLDG NV","titleOfClass":"N Y REGISTRY SHS","shares":208493,"shareType":"SH","putCall":null,"value":377720513},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":711048,"shareType":"SH","putCall":null,"value":177157609},
+    {"cusip":"11135F101","name":"BROADCOM INC","titleOfClass":"COM","shares":475318,"shareType":"SH","putCall":null,"value":166926928},
+    {"cusip":"67066G104","name":"NVIDIA CORPORATION","titleOfClass":"COM","shares":646113,"shareType":"SH","putCall":null,"value":147559287},
+    {"cusip":"874039100","name":"TAIWAN SEMICONDUCTOR MANUFAC","titleOfClass":"SPONSORED ADS","shares":298898,"shareType":"SH","putCall":null,"value":136354279},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":169513,"shareType":"SH","putCall":null,"value":93481334},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":238203,"shareType":"SH","putCall":null,"value":85593484}
+  ]
+}

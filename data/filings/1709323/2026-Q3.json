@@ -1,0 +1,18 @@
+{
+  "cik": "1709323",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1709323","accession":"0002043585-26-000030","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPON ADS","shares":11761119,"shareType":"SH","putCall":null,"value":916661615},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":875098664},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":835255962},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":1108318,"shareType":"SH","putCall":null,"value":551886948},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":344073179},
+    {"cusip":"88034P109","name":"TENCENT MUSIC ENTERTAINM","titleOfClass":"SPON ADS","shares":14824464,"shareType":"SH","putCall":null,"value":117558000},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":887093,"shareType":"SH","putCall":null,"value":104064880},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":36832012}
+  ]
+}

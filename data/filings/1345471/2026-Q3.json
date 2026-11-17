@@ -1,0 +1,18 @@
+{
+  "cik": "1345471",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1345471","accession":"0001345471-26-000051","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"369604301","name":"GE Aerospace","titleOfClass":"COM NEW","shares":4030765,"shareType":"SH","putCall":null,"value":1258767602},
+    {"cusip":"83444M101","name":"Solventum Corporation","titleOfClass":"COM SHS","shares":8236753,"shareType":"SH","putCall":null,"value":726069777},
+    {"cusip":"36266G107","name":"GE HealthCare Technologies Inc.","titleOfClass":"COM","shares":3085344,"shareType":"SH","putCall":null,"value":201688937},
+    {"cusip":"95058W100","name":"Wendys Co.","titleOfClass":"COM","shares":30468434,"shareType":"SH","putCall":null,"value":194388609},
+    {"cusip":"31488V107","name":"Ferguson Enterprises Inc.","titleOfClass":"COMMON STOCK\nNEW","shares":855015,"shareType":"SH","putCall":null,"value":190343439},
+    {"cusip":"760125104","name":"Rentokil Initial plc","titleOfClass":"SPONSORED ADR","shares":596811,"shareType":"SH","putCall":null,"value":11787017},
+    {"cusip":"G491BT108","name":"Invesco Ltd.","titleOfClass":"SHS","shares":280000,"shareType":"SH","putCall":null,"value":8444800},
+    {"cusip":"N5505D105","name":"Magnum Ice Cream Co NV","titleOfClass":"ORD SHS","shares":241042,"shareType":"SH","putCall":null,"value":4285727}
+  ]
+}

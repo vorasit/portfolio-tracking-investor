@@ -20,7 +20,7 @@
     {"cusip":"538034109","name":"LIVE NATION ENTERTAINMENT IN","titleOfClass":"COM","shares":736832,"shareType":"SH","putCall":null,"value":124745658,"ticker":"LYV","weight":0.072842,"price":169.3},
     {"cusip":"N00985106","name":"AERCAP HOLDINGS NV","titleOfClass":"SHS","shares":681642,"shareType":"SH","putCall":null,"value":97829260,"ticker":"AER","weight":0.057125,"price":143.52},
     {"cusip":"05464C101","name":"AXON ENTERPRISE INC","titleOfClass":"COM","shares":177631,"shareType":"SH","putCall":null,"value":75052650,"ticker":"AXON","weight":0.043825,"price":422.52},
-    {"cusip":"464288257","name":"ISHARES TR","titleOfClass":"MSCI ACWI ETF","shares":111158,"shareType":"SH","putCall":null,"value":17648000,"ticker":"ACWI","weight":0.010305,"price":158.763}
+    {"cusip":"464288257","name":"ISHARES TR","titleOfClass":"MSCI ACWI ETF","shares":111158,"shareType":"SH","putCall":null,"value":17648000,"ticker":"ACWI","weight":0.010305,"price":158.765}
   ],
   "changes": [
     {"cusip":"922475108","ticker":"VEEV","name":"VEEVA SYS INC","putCall":null,"action":"new","shares":845653,"prevShares":0},

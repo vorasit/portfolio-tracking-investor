@@ -103,7 +103,7 @@
     {"cusip":"61945C103","name":"MOSAIC CO","titleOfClass":"COM","shares":110321,"shareType":"SH","putCall":null,"value":2388450,"ticker":"MOS","weight":0.000249,"price":21.65},
     {"cusip":"922042742","name":"VANGUARD INTL EQUITY INDEX F","titleOfClass":"TT WRLD ST ETF","shares":13691,"shareType":"SH","putCall":null,"value":2161124,"ticker":"VT","weight":0.000225,"price":157.85},
     {"cusip":"48241A105","name":"KB FINL GROUP INC","titleOfClass":"SPONSORED ADR","shares":13087,"shareType":"SH","putCall":null,"value":1611010,"ticker":"KB","weight":0.000168,"price":123.1},
-    {"cusip":"921943858","name":"VANGUARD TAX-MANAGED FDS","titleOfClass":"VAN FTSE DEV MKT","shares":15773,"shareType":"SH","putCall":null,"value":1113732,"ticker":"VEA","weight":0.000116,"price":70.6099},
+    {"cusip":"921943858","name":"VANGUARD TAX-MANAGED FDS","titleOfClass":"VAN FTSE DEV MKT","shares":15773,"shareType":"SH","putCall":null,"value":1113732,"ticker":"VEA","weight":0.000116,"price":70.61},
     {"cusip":"19762B202","name":"COLUMBIA ETF TR II","titleOfClass":"EM CORE EX ETF","shares":17575,"shareType":"SH","putCall":null,"value":903531,"ticker":"XCEM","weight":0.000094,"price":51.41},
     {"cusip":"40415F101","name":"HDFC BANK LTD","titleOfClass":"SPONSORED ADS","shares":14072,"shareType":"SH","putCall":null,"value":314368,"ticker":"HDB","weight":0.000033,"price":22.34},
     {"cusip":"922042858","name":"VANGUARD INTL EQUITY INDEX F","titleOfClass":"FTSE EMR MKT ETF","shares":4328,"shareType":"SH","putCall":null,"value":256694,"ticker":"VWO","weight":0.000027,"price":59.31}

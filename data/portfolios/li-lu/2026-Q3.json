@@ -1,0 +1,24 @@
+{
+  "investorId": "li-lu",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1709323","accession":"0002043585-26-000030","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 3781431260,
+  "holdings": [
+    {"cusip":"722304102","name":"PDD HOLDINGS INC","titleOfClass":"SPON ADS","shares":11761119,"shareType":"SH","putCall":null,"value":916661615,"ticker":"PDD","weight":0.242411,"price":77.94},
+    {"cusip":"02079K305","name":"ALPHABET INC","titleOfClass":"CAP STK CL A","shares":2543300,"shareType":"SH","putCall":null,"value":875098664,"ticker":"GOOGL","weight":0.23142,"price":344.08},
+    {"cusip":"02079K107","name":"ALPHABET INC","titleOfClass":"CAP STK CL C","shares":2451300,"shareType":"SH","putCall":null,"value":835255962,"ticker":"GOOG","weight":0.220884,"price":340.74},
+    {"cusip":"084670702","name":"BERKSHIRE HATHAWAY INC DEL","titleOfClass":"CL B NEW","shares":1108318,"shareType":"SH","putCall":null,"value":551886948,"ticker":"BRK.B","weight":0.145947,"price":497.95},
+    {"cusip":"27579R104","name":"EAST WEST BANCORP INC","titleOfClass":"COM","shares":2776351,"shareType":"SH","putCall":null,"value":344073179,"ticker":"EWBC","weight":0.09099,"price":123.93},
+    {"cusip":"88034P109","name":"TENCENT MUSIC ENTERTAINM","titleOfClass":"SPON ADS","shares":14824464,"shareType":"SH","putCall":null,"value":117558000,"ticker":"TME","weight":0.031088,"price":7.93},
+    {"cusip":"227046109","name":"CROCS INC","titleOfClass":"COM","shares":887093,"shareType":"SH","putCall":null,"value":104064880,"ticker":"CROX","weight":0.02752,"price":117.31},
+    {"cusip":"037833100","name":"APPLE INC","titleOfClass":"COM","shares":110600,"shareType":"SH","putCall":null,"value":36832012,"ticker":"AAPL","weight":0.00974,"price":333.02}
+  ],
+  "changes": [
+    {"cusip":"722304102","ticker":"PDD","name":"PDD HOLDINGS INC","putCall":null,"action":"add","shares":11761119,"prevShares":10761119},
+    {"cusip":"88034P109","ticker":"TME","name":"TENCENT MUSIC ENTERTAINM","putCall":null,"action":"add","shares":14824464,"prevShares":6590836}
+  ]
+}

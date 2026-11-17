@@ -24,7 +24,7 @@
     {"cusip":"115637209","name":"BROWN FORMAN CORP","titleOfClass":"CL B","shares":1327624,"shareType":"SH","putCall":null,"value":34783749,"ticker":"BF.B","weight":0.014761,"price":26.2},
     {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":10500,"shareType":"SH","putCall":null,"value":3772965,"ticker":"V","weight":0.001601,"price":359.33},
     {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":7400,"shareType":"SH","putCall":null,"value":2919078,"ticker":"SPGI","weight":0.001239,"price":394.47},
-    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":2553000,"ticker":"CP","weight":0.001083,"price":85.1313},
+    {"cusip":"13646K108","name":"CANADIAN PACIFIC KANSAS CITY","titleOfClass":"COM","shares":30000,"shareType":"SH","putCall":null,"value":2553000,"ticker":"CP","weight":0.001083,"price":85.1},
     {"cusip":"025816109","name":"AMERICAN EXPRESS CO","titleOfClass":"COM","shares":7200,"shareType":"SH","putCall":null,"value":2189520,"ticker":"AXP","weight":0.000929,"price":304.1},
     {"cusip":"12572Q105","name":"CME GROUP INC","titleOfClass":"COM","shares":6900,"shareType":"SH","putCall":null,"value":1807662,"ticker":"CME","weight":0.000767,"price":261.98},
     {"cusip":"00724F101","name":"ADOBE INC","titleOfClass":"COM","shares":7000,"shareType":"SH","putCall":null,"value":1679580,"ticker":"ADBE","weight":0.000713,"price":239.94},

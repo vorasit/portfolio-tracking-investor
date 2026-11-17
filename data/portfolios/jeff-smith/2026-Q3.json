@@ -1,0 +1,53 @@
+{
+  "investorId": "jeff-smith",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1517137","accession":"0000921895-26-003166","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 4670279299,
+  "holdings": [
+    {"cusip":"464287507","name":"ISHARES TR","titleOfClass":"CORE S&P MCP ETF","shares":12201301,"shareType":"SH","putCall":null,"value":877883607,"ticker":"IJH","weight":0.187972,"price":71.95},
+    {"cusip":"74736K101","name":"QORVO INC","titleOfClass":"COM","shares":5611526,"shareType":"SH","putCall":null,"value":642407496,"ticker":null,"weight":0.137552,"price":114.48},
+    {"cusip":"49177J102","name":"KENVUE INC","titleOfClass":"COM","shares":27307632,"shareType":"SH","putCall":null,"value":482252781,"ticker":"KVUE","weight":0.10326,"price":17.66},
+    {"cusip":"268150109","name":"DYNATRACE INC","titleOfClass":"COM NEW","shares":6424178,"shareType":"SH","putCall":null,"value":370932038,"ticker":"DT","weight":0.079424,"price":57.74},
+    {"cusip":"090043100","name":"BILL HOLDINGS INC","titleOfClass":"COM","shares":7025748,"shareType":"SH","putCall":null,"value":298875320,"ticker":"BILL","weight":0.063995,"price":42.54},
+    {"cusip":"015857105","name":"ALGONQUIN POWER & UTILITIES","titleOfClass":"COM","shares":57189420,"shareType":"SH","putCall":null,"value":287662783,"ticker":"AQN","weight":0.061594,"price":5.03},
+    {"cusip":"003881307","name":"ACACIA RESH CORP","titleOfClass":"ACACIA TCH COM","shares":61123595,"shareType":"SH","putCall":null,"value":263442694,"ticker":"ACTG","weight":0.056408,"price":4.31},
+    {"cusip":"34354P105","name":"FLOWSERVE CORP","titleOfClass":"COM","shares":3412641,"shareType":"SH","putCall":null,"value":249532310,"ticker":"FLS","weight":0.05343,"price":73.12},
+    {"cusip":"57667L107","name":"MATCH GROUP INC NEW","titleOfClass":"COM","shares":5711884,"shareType":"SH","putCall":null,"value":229332143,"ticker":"MTCH","weight":0.049105,"price":40.15},
+    {"cusip":"767292105","name":"RIOT PLATFORMS INC","titleOfClass":"COM","shares":10501253,"shareType":"SH","putCall":null,"value":211600248,"ticker":"RIOT","weight":0.045308,"price":20.15},
+    {"cusip":"143130102","name":"CARMAX INC","titleOfClass":"COM","shares":2899464,"shareType":"SH","putCall":null,"value":159789461,"ticker":"KMX","weight":0.034214,"price":55.11},
+    {"cusip":"513272104","name":"LAMB WESTON HLDGS INC","titleOfClass":"COM","shares":3511195,"shareType":"SH","putCall":null,"value":146381720,"ticker":"LW","weight":0.031343,"price":41.69},
+    {"cusip":"498894104","name":"KNIFE RIVER CORP","titleOfClass":"COMMON STOCK","shares":2495055,"shareType":"SH","putCall":null,"value":125800673,"ticker":"KNF","weight":0.026936,"price":50.42},
+    {"cusip":"819047101","name":"SHAKE SHACK INC","titleOfClass":"CL A","shares":1769911,"shareType":"SH","putCall":null,"value":103858377,"ticker":"SHAK","weight":0.022238,"price":58.68},
+    {"cusip":"65249B208","name":"NEWS CORP NEW","titleOfClass":"CL B","shares":2373527,"shareType":"SH","putCall":null,"value":75288276,"ticker":"NWS","weight":0.016121,"price":31.72},
+    {"cusip":"343412102","name":"FLUOR CORP","titleOfClass":"COM","shares":1411771,"shareType":"SH","putCall":null,"value":67595595,"ticker":"FLR","weight":0.014474,"price":47.88},
+    {"cusip":"896945201","name":"TRIPADVISOR INC","titleOfClass":"COM","shares":5096996,"shareType":"SH","putCall":null,"value":42661857,"ticker":"TRIP","weight":0.009135,"price":8.37},
+    {"cusip":"094235108","name":"BLOOMIN BRANDS INC","titleOfClass":"COM","shares":3885091,"shareType":"SH","putCall":null,"value":30109455,"ticker":"BLMN","weight":0.006447,"price":7.75},
+    {"cusip":"G1143H101","name":"BITCOIN INFRASTRUCTURE ACQUI","titleOfClass":"USD CL A ORD SHS","shares":300000,"shareType":"SH","putCall":null,"value":3036000,"ticker":"BIXI","weight":0.00065,"price":10.12},
+    {"cusip":"65249B109","name":"NEWS CORP NEW","titleOfClass":"CL A","shares":62522,"shareType":"SH","putCall":null,"value":1791255,"ticker":"NWSA","weight":0.000384,"price":28.65},
+    {"cusip":"464287655","name":"ISHARES TR","titleOfClass":"RUSSELL 2000 ETF","shares":350000,"shareType":"SH","putCall":"Put","value":1678250,"ticker":"IWM","weight":null,"price":null},
+    {"cusip":"G1143H119","name":"BITCOIN INFRASTRUCTURE ACQUI","titleOfClass":"*W EXP 11/06/203","shares":149999,"shareType":"SH","putCall":null,"value":45210,"ticker":"BIXIW","weight":0.00001,"price":0.301401}
+  ],
+  "changes": [
+    {"cusip":"498894104","ticker":"KNF","name":"KNIFE RIVER CORP","putCall":null,"action":"new","shares":2495055,"prevShares":0},
+    {"cusip":"819047101","ticker":"SHAK","name":"SHAKE SHACK INC","putCall":null,"action":"new","shares":1769911,"prevShares":0},
+    {"cusip":"464287655","ticker":"IWM","name":"ISHARES TR","putCall":"Put","action":"new","shares":350000,"prevShares":0},
+    {"cusip":"464287507","ticker":"IJH","name":"ISHARES TR","putCall":null,"action":"add","shares":12201301,"prevShares":8877781},
+    {"cusip":"34354P105","ticker":"FLS","name":"FLOWSERVE CORP","putCall":null,"action":"add","shares":3412641,"prevShares":1441600},
+    {"cusip":"767292105","ticker":"RIOT","name":"RIOT PLATFORMS INC","putCall":null,"action":"add","shares":10501253,"prevShares":10114576},
+    {"cusip":"268150109","ticker":"DT","name":"DYNATRACE INC","putCall":null,"action":"reduce","shares":6424178,"prevShares":8866692},
+    {"cusip":"57667L107","ticker":"MTCH","name":"MATCH GROUP INC NEW","putCall":null,"action":"reduce","shares":5711884,"prevShares":7775125},
+    {"cusip":"143130102","ticker":"KMX","name":"CARMAX INC","putCall":null,"action":"reduce","shares":2899464,"prevShares":3206438},
+    {"cusip":"513272104","ticker":"LW","name":"LAMB WESTON HLDGS INC","putCall":null,"action":"reduce","shares":3511195,"prevShares":5733982},
+    {"cusip":"65249B208","ticker":"NWS","name":"NEWS CORP NEW","putCall":null,"action":"reduce","shares":2373527,"prevShares":2431081},
+    {"cusip":"343412102","ticker":"FLR","name":"FLUOR CORP","putCall":null,"action":"reduce","shares":1411771,"prevShares":1586327},
+    {"cusip":"094235108","ticker":"BLMN","name":"BLOOMIN BRANDS INC","putCall":null,"action":"reduce","shares":3885091,"prevShares":4180992},
+    {"cusip":"65249B109","ticker":"NWSA","name":"NEWS CORP NEW","putCall":null,"action":"reduce","shares":62522,"prevShares":2040100},
+    {"cusip":"20459V105","ticker":"GPGI","name":"GPGI INC","putCall":null,"action":"exit","shares":0,"prevShares":5027028},
+    {"cusip":"42226K105","ticker":"HR","name":"HEALTHCARE RLTY TR","putCall":null,"action":"exit","shares":0,"prevShares":1936267},
+    {"cusip":"767292105","ticker":"RIOT","name":"RIOT PLATFORMS INC","putCall":"Put","action":"exit","shares":0,"prevShares":2423400}
+  ]
+}

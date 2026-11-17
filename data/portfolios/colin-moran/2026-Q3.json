@@ -1,0 +1,19 @@
+{
+  "investorId": "colin-moran",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filedAt": "2026-11-16",
+  "filings": [
+    {"cik":"1578684","accession":"0001578684-26-000004","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "totalValue": 44048398,
+  "holdings": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":75137,"shareType":"SH","putCall":null,"value":32063963,"ticker":"HCA","weight":0.727926,"price":426.74},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":301647,"shareType":"SH","putCall":null,"value":11984435,"ticker":"GLBE","weight":0.272074,"price":39.73}
+  ],
+  "changes": [
+    {"cusip":"00827B106","ticker":"AFRM","name":"AFFIRM HLDGS INC","putCall":null,"action":"exit","shares":0,"prevShares":134741},
+    {"cusip":"639193101","ticker":"NAVN","name":"NAVAN INC","putCall":null,"action":"exit","shares":0,"prevShares":37000},
+    {"cusip":"37890B100","ticker":null,"name":"GLOBAL BUSINESS TRAVEL GROUP","putCall":null,"action":"exit","shares":0,"prevShares":21100}
+  ]
+}

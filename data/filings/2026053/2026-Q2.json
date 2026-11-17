@@ -3,9 +3,11 @@
   "period": "2026-06-30",
   "quarter": "2026-Q2",
   "filings": [
-    {"cik":"2026053","accession":"0001172661-26-003790","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null}
+    {"cik":"2026053","accession":"0001172661-26-003790","form":"13F-HR","filedAt":"2026-08-14","amendmentType":null},
+    {"cik":"2026053","accession":"0001172661-26-005426","form":"13F-HR/A","filedAt":"2026-11-16","amendmentType":"NEW HOLDINGS"}
   ],
   "positions": [
+    {"cusip":"71531U102","name":"Pershing Square Inc.","titleOfClass":"COM","shares":184289699,"shareType":"SH","putCall":null,"value":6055759509},
     {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":34326200,"shareType":"SH","putCall":null,"value":2476978592},
     {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":57481047,"shareType":"SH","putCall":null,"value":2448117792},
     {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":6206730,"shareType":"SH","putCall":null,"value":2315234425},

@@ -1,0 +1,12 @@
+{
+  "cik": "1578684",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"1578684","accession":"0001578684-26-000004","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"40412C101","name":"HCA HEALTHCARE INC","titleOfClass":"COM","shares":75137,"shareType":"SH","putCall":null,"value":32063963},
+    {"cusip":"M5216V106","name":"GLOBAL E ONLINE LTD","titleOfClass":"SHS","shares":301647,"shareType":"SH","putCall":null,"value":11984435}
+  ]
+}

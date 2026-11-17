@@ -82,7 +82,7 @@
     {"cusip":"02209S103","name":"Altria Group, Inc.","titleOfClass":"COM","shares":4200,"shareType":"SH","putCall":null,"value":282828,"ticker":"MO","weight":0.000034,"price":67.34},
     {"cusip":"65249B208","name":"News Corporation","titleOfClass":"CL B","shares":8140,"shareType":"SH","putCall":null,"value":258201,"ticker":"NWS","weight":0.000031,"price":31.72},
     {"cusip":"149205106","name":"Cato Corporation","titleOfClass":"CL A","shares":105445,"shareType":"SH","putCall":null,"value":252014,"ticker":"CATO","weight":0.00003,"price":2.39},
-    {"cusip":"03062T105","name":"America's Car-Mart, Inc.","titleOfClass":"COM","shares":199300,"shareType":"SH","putCall":null,"value":203286,"ticker":"CRMT","weight":0.000024,"price":1.02}
+    {"cusip":"03062T105","name":"America's Car-Mart, Inc.","titleOfClass":"COM","shares":199300,"shareType":"SH","putCall":null,"value":203286,"ticker":"CRMT","weight":0.000024,"price":1.02001}
   ],
   "changes": [
     {"cusip":"N5505D105","ticker":"MICC","name":"Magnum Ice Cream Co. N.V.","putCall":null,"action":"new","shares":51671,"prevShares":0},

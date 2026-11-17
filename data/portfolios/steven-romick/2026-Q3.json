@@ -27,7 +27,7 @@
     {"cusip":"883556102","name":"THERMO FISHER SCIENTIFIC INC","titleOfClass":"COM","shares":245508,"shareType":"SH","putCall":null,"value":165730175,"ticker":"TMO","weight":0.019749,"price":675.05},
     {"cusip":"N6596X109","name":"NXP SEMICONDUCTORS N V","titleOfClass":"COM","shares":685391,"shareType":"SH","putCall":null,"value":162800924,"ticker":"NXPI","weight":0.0194,"price":237.53},
     {"cusip":"34964C106","name":"FORTUNE BRANDS INNOVATIONS I","titleOfClass":"COM","shares":3877424,"shareType":"SH","putCall":null,"value":147535983,"ticker":"FBIN","weight":0.017581,"price":38.05},
-    {"cusip":"803054204","name":"SAP SE","titleOfClass":"SPON ADR","shares":705655,"shareType":"SH","putCall":null,"value":147114954,"ticker":"SAP","weight":0.01753,"price":208.482},
+    {"cusip":"803054204","name":"SAP SE","titleOfClass":"SPON ADR","shares":705655,"shareType":"SH","putCall":null,"value":147114954,"ticker":"SAP","weight":0.01753,"price":208.48},
     {"cusip":"H2927K103","name":"AMRIZE LTD","titleOfClass":"SHS","shares":3458299,"shareType":"SH","putCall":null,"value":129305800,"ticker":"AMRZ","weight":0.015408,"price":37.39},
     {"cusip":"461202103","name":"INTUIT","titleOfClass":"COM","shares":461963,"shareType":"SH","putCall":null,"value":127367819,"ticker":"INTU","weight":0.015177,"price":275.71},
     {"cusip":"235851102","name":"DANAHER CORP DEL","titleOfClass":"COM","shares":559723,"shareType":"SH","putCall":null,"value":124006631,"ticker":"DHR","weight":0.014777,"price":221.55},
@@ -84,7 +84,7 @@
     {"cusip":"91688F104","name":"UPWORK INC","titleOfClass":"COM","shares":57081,"shareType":"SH","putCall":null,"value":465781,"ticker":"UPWK","weight":0.000056,"price":8.16},
     {"cusip":"922020698","name":"VANGUARD MALVERN FDS","titleOfClass":"TOTAL INFLATION","shares":4789,"shareType":"SH","putCall":null,"value":350459,"ticker":"VTP","weight":0.000042,"price":73.18},
     {"cusip":"056752108","name":"BAIDU INC","titleOfClass":"SPON ADR REP A","shares":3421,"shareType":"SH","putCall":null,"value":297182,"ticker":"BIDU","weight":0.000035,"price":86.87},
-    {"cusip":"912932100","name":"UNITI GROUP LLC","titleOfClass":"COM SHS","shares":25235,"shareType":"SH","putCall":null,"value":211469,"ticker":"UNIT","weight":0.000025,"price":8.37999}
+    {"cusip":"912932100","name":"UNITI GROUP LLC","titleOfClass":"COM SHS","shares":25235,"shareType":"SH","putCall":null,"value":211469,"ticker":"UNIT","weight":0.000025,"price":8.38}
   ],
   "changes": [
     {"cusip":"16119P108","ticker":"CHTR","name":"CHARTER COMMUNICATIONS INC","putCall":null,"action":"new","shares":1106776,"prevShares":0},

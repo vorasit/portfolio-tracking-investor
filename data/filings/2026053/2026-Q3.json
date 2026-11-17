@@ -1,0 +1,26 @@
+{
+  "cik": "2026053",
+  "period": "2026-09-30",
+  "quarter": "2026-Q3",
+  "filings": [
+    {"cik":"2026053","accession":"0001172661-26-005427","form":"13F-HR","filedAt":"2026-11-16","amendmentType":null}
+  ],
+  "positions": [
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COM","shares":184289699,"shareType":"SH","putCall":null,"value":10309165762},
+    {"cusip":"90353T100","name":"UBER TECHNOLOGIES INC","titleOfClass":"COM","shares":34268279,"shareType":"SH","putCall":null,"value":2347719794},
+    {"cusip":"023135106","name":"AMAZON COM INC","titleOfClass":"COM","shares":8505779,"shareType":"SH","putCall":null,"value":2119214838},
+    {"cusip":"594918104","name":"MICROSOFT CORP","titleOfClass":"COM","shares":4064779,"shareType":"SH","putCall":null,"value":2084825149},
+    {"cusip":"30303M102","name":"META PLATFORMS INC","titleOfClass":"CL A","shares":2833299,"shareType":"SH","putCall":null,"value":2054651769},
+    {"cusip":"44267T102","name":"HOWARD HUGHES HOLDINGS INC","titleOfClass":"COM","shares":27852064,"shareType":"SH","putCall":null,"value":2050468952},
+    {"cusip":"11271J107","name":"BROOKFIELD CORP","titleOfClass":"CL A LTD VT SH","shares":51331099,"shareType":"SH","putCall":null,"value":1871531870},
+    {"cusip":"76131D103","name":"RESTAURANT BRANDS INTL INC","titleOfClass":"COM","shares":22007079,"shareType":"SH","putCall":null,"value":1564263175},
+    {"cusip":"64110L106","name":"NETFLIX INC.","titleOfClass":"COM","shares":15412744,"shareType":"SH","putCall":null,"value":1072418728},
+    {"cusip":"57636Q104","name":"MASTERCARD INCORPORATED","titleOfClass":"CL A","shares":1888419,"shareType":"SH","putCall":null,"value":1041406426},
+    {"cusip":"92826C839","name":"VISA INC","titleOfClass":"COM CL A","shares":2870720,"shareType":"SH","putCall":null,"value":1031535818},
+    {"cusip":"78409V104","name":"S&P GLOBAL INC","titleOfClass":"COM","shares":2593155,"shareType":"SH","putCall":null,"value":1022921853},
+    {"cusip":"45866F104","name":"INTERCONTINENTAL EXCHANGE IN","titleOfClass":"COM","shares":6635899,"shareType":"SH","putCall":null,"value":1008855725},
+    {"cusip":"H01301128","name":"ALCON AG","titleOfClass":"ORD SHS","shares":14736308,"shareType":"SH","putCall":null,"value":954175943},
+    {"cusip":"71531T105","name":"PERSHING SQUARE USA LTD","titleOfClass":"COM SHS","shares":4000000,"shareType":"SH","putCall":null,"value":148400000},
+    {"cusip":"812215200","name":"SEAPORT ENTMT GROUP INC","titleOfClass":"COMMON STOCK","shares":5023780,"shareType":"SH","putCall":null,"value":114994324}
+  ]
+}

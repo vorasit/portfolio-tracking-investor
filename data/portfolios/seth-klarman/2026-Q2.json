@@ -30,7 +30,7 @@
     {"cusip":"40054J109","name":"GRUPO AEROMEXICO SAB DE CV","titleOfClass":"SPONSORED ADS","shares":4880188,"shareType":"SH","putCall":null,"value":87843000,"ticker":"AERO","weight":0.01622,"price":18},
     {"cusip":"G0750C108","name":"AXALTA COATING SYS LTD","titleOfClass":"COM","shares":1274356,"shareType":"SH","putCall":null,"value":43608000,"ticker":"AXTA","weight":0.008052,"price":34.22},
     {"cusip":"67011P100","name":"DNOW INC","titleOfClass":"COM","shares":2788000,"shareType":"SH","putCall":null,"value":36160000,"ticker":"DNOW","weight":0.006677,"price":12.97},
-    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COMMON STOCK","shares":392000,"shareType":"SH","putCall":null,"value":12881000,"ticker":"PS","weight":0.002378,"price":32.8597}
+    {"cusip":"71531U102","name":"PERSHING SQUARE INC","titleOfClass":"COMMON STOCK","shares":392000,"shareType":"SH","putCall":null,"value":12881000,"ticker":"PS","weight":0.002378,"price":32.8598}
   ],
   "changes": [
     {"cusip":"12572Q105","ticker":"CME","name":"CME GROUP INC","putCall":null,"action":"new","shares":619000,"prevShares":0},
