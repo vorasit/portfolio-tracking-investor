@@ -1352,7 +1352,7 @@
     {"cusip":"41653L305","name":"HARTFORD FDS EXCHANGE TRADED","titleOfClass":"TOTAL RTRN ETF","shares":43631,"shareType":"SH","putCall":null,"value":1398374,"ticker":"HTRB","weight":0.000028,"price":32.05},
     {"cusip":"464287499","name":"ISHARES TR","titleOfClass":"RUS MID CAP ETF","shares":13092,"shareType":"SH","putCall":null,"value":1397047,"ticker":"IWR","weight":0.000028,"price":106.71},
     {"cusip":"704551100","name":"PEABODY ENGR CORP","titleOfClass":"COM","shares":57022,"shareType":"SH","putCall":null,"value":1390767,"ticker":"BTU","weight":0.000027,"price":24.39},
-    {"cusip":"878742204","name":"TECK RESOURCES LTD","titleOfClass":"CL B","shares":20931,"shareType":"SH","putCall":null,"value":1377050,"ticker":"TECK","weight":0.000027,"price":65.7901},
+    {"cusip":"878742204","name":"TECK RESOURCES LTD","titleOfClass":"CL B","shares":20931,"shareType":"SH","putCall":null,"value":1377050,"ticker":"TECK","weight":0.000027,"price":65.79},
     {"cusip":"27923Q109","name":"ECOVYST INC","titleOfClass":"COM","shares":139459,"shareType":"SH","putCall":null,"value":1370882,"ticker":"ECVT","weight":0.000027,"price":9.83},
     {"cusip":"316092303","name":"FIDELITY COVINGTON TRUST","titleOfClass":"CONSMR STAPLES","shares":26750,"shareType":"SH","putCall":null,"value":1359970,"ticker":"FSTA","weight":0.000027,"price":50.84},
     {"cusip":"097023105","name":"BOEING CO","titleOfClass":"COM","shares":7303,"shareType":"SH","putCall":null,"value":1358723,"ticker":"BA","weight":0.000027,"price":186.05},

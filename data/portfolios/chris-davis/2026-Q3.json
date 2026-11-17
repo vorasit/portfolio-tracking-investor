@@ -27,7 +27,7 @@
     {"cusip":"N53745100","name":"LyondellBasell Industries N.V.","titleOfClass":"Common Stock","shares":9737827,"shareType":"SH","putCall":null,"value":559633602,"ticker":"LYB","weight":0.024172,"price":57.47},
     {"cusip":"882508104","name":"Texas Instruments Inc.","titleOfClass":"Common Stock","shares":1915400,"shareType":"SH","putCall":null,"value":536488888,"ticker":"TXN","weight":0.023173,"price":280.09},
     {"cusip":"91324P102","name":"UnitedHealth Group Inc.","titleOfClass":"Common Stock","shares":1285121,"shareType":"SH","putCall":null,"value":471750494,"ticker":"UNH","weight":0.020376,"price":367.08},
-    {"cusip":"878742204","name":"Teck Resources Ltd., Class B","titleOfClass":"Common Stock","shares":7140479,"shareType":"SH","putCall":null,"value":469772885,"ticker":"TECK","weight":0.020291,"price":65.7901},
+    {"cusip":"878742204","name":"Teck Resources Ltd., Class B","titleOfClass":"Common Stock","shares":7140479,"shareType":"SH","putCall":null,"value":469772885,"ticker":"TECK","weight":0.020291,"price":65.79},
     {"cusip":"03831W108","name":"AppLovin Corp., Class A","titleOfClass":"Common Stock","shares":1456542,"shareType":"SH","putCall":null,"value":423029796,"ticker":"APP","weight":0.018272,"price":290.43},
     {"cusip":"H1467J104","name":"Chubb Ltd.","titleOfClass":"Common Stock","shares":1153380,"shareType":"SH","putCall":null,"value":375141988,"ticker":"CB","weight":0.016204,"price":325.25},
     {"cusip":"89677Q107","name":"Trip.com Group Ltd., ADR","titleOfClass":"ADR","shares":9332952,"shareType":"SH","putCall":null,"value":364918446,"ticker":"TCOM","weight":0.015762,"price":39.1},

@@ -2614,7 +2614,7 @@
     {"cusip":"92763W103","name":"VIPSHOP HLDGS LTD","titleOfClass":"SPONSORED ADS A","shares":41800,"shareType":"SH","putCall":null,"value":522918,"ticker":"VIPS","weight":0.000007,"price":12.51},
     {"cusip":"174740100","name":"CITIZENS INC","titleOfClass":"CL A","shares":151194,"shareType":"SH","putCall":null,"value":521619,"ticker":"CIA","weight":0.000007,"price":3.45},
     {"cusip":"816212302","name":"CARTESIAN THERAPEUTICS INC","titleOfClass":"COM NEW","shares":72200,"shareType":"SH","putCall":null,"value":520562,"ticker":"RNAC","weight":0.000007,"price":7.21},
-    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":7500,"shareType":"SH","putCall":null,"value":520350,"ticker":"WFG","weight":0.000007,"price":69.3548},
+    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":7500,"shareType":"SH","putCall":null,"value":520350,"ticker":"WFG","weight":0.000007,"price":69.3354},
     {"cusip":"88636R479","name":"TIDAL TRUST II","titleOfClass":"DEFIA AI PWR ETF","shares":18400,"shareType":"SH","putCall":null,"value":518880,"ticker":"AIPO","weight":0.000007,"price":28.2},
     {"cusip":"464288570","name":"ISHARES TR","titleOfClass":"ESG MSCI KLD ETF","shares":3500,"shareType":"SH","putCall":null,"value":511630,"ticker":"DSI","weight":0.000007,"price":146.18},
     {"cusip":"482929106","name":"KALARIS THERAPEUTICS INC","titleOfClass":"COM","shares":176863,"shareType":"SH","putCall":null,"value":511134,"ticker":"KLRS","weight":0.000007,"price":2.89},

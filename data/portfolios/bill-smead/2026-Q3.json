@@ -36,7 +36,7 @@
     {"cusip":"90384S303","name":"ULTA BEAUTY INC","titleOfClass":"COM","shares":116537,"shareType":"SH","putCall":null,"value":63649077,"ticker":"ULTA","weight":0.013527,"price":546.17},
     {"cusip":"55261F104","name":"M & T BK CORP","titleOfClass":"COM","shares":274204,"shareType":"SH","putCall":null,"value":59666869,"ticker":"MTB","weight":0.012681,"price":217.6},
     {"cusip":"M46528101","name":"FRONTLINE PLC","titleOfClass":"COM","shares":760775,"shareType":"SH","putCall":null,"value":37667493,"ticker":"FRO","weight":0.008005,"price":49.27},
-    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":192278,"shareType":"SH","putCall":null,"value":13330572,"ticker":"WFG","weight":0.002833,"price":69.3548},
+    {"cusip":"952845105","name":"WEST FRASER TIMBER CO LTD","titleOfClass":"COM","shares":192278,"shareType":"SH","putCall":null,"value":13330572,"ticker":"WFG","weight":0.002833,"price":69.3354},
     {"cusip":"366505105","name":"GARRETT MOTION INC","titleOfClass":"COM","shares":440241,"shareType":"SH","putCall":null,"value":11459473,"ticker":"GTX","weight":0.002435,"price":26.03},
     {"cusip":"464287598","name":"ISHARES TR","titleOfClass":"RUS 1000 VAL ETF","shares":4586,"shareType":"SH","putCall":null,"value":1137007,"ticker":"IWD","weight":0.000242,"price":247.93}
   ],

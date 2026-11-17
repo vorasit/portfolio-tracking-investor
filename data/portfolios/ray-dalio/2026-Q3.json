@@ -925,7 +925,7 @@
     {"cusip":"205887102","name":"CONAGRA BRANDS INC","titleOfClass":"COM","shares":28494,"shareType":"SH","putCall":null,"value":382959,"ticker":"CAG","weight":0.000017,"price":13.44},
     {"cusip":"31847R102","name":"FIRST AMERN FINL CORP","titleOfClass":"COM","shares":6262,"shareType":"SH","putCall":null,"value":380354,"ticker":"FAF","weight":0.000017,"price":60.74},
     {"cusip":"216648501","name":"COOPER COS INC","titleOfClass":"COM","shares":6647,"shareType":"SH","putCall":null,"value":375755,"ticker":"COO","weight":0.000016,"price":56.53},
-    {"cusip":"878742204","name":"TECK RESOURCES LTD","titleOfClass":"CL B","shares":5673,"shareType":"SH","putCall":null,"value":373227,"ticker":"TECK","weight":0.000016,"price":65.7901},
+    {"cusip":"878742204","name":"TECK RESOURCES LTD","titleOfClass":"CL B","shares":5673,"shareType":"SH","putCall":null,"value":373227,"ticker":"TECK","weight":0.000016,"price":65.79},
     {"cusip":"G8994E103","name":"TRANE TECHNOLOGIES PLC","titleOfClass":"SHS","shares":825,"shareType":"SH","putCall":null,"value":372884,"ticker":"TT","weight":0.000016,"price":451.98},
     {"cusip":"741511109","name":"PRICESMART INC","titleOfClass":"COM","shares":2200,"shareType":"SH","putCall":null,"value":372042,"ticker":"PSMT","weight":0.000016,"price":169.11},
     {"cusip":"405552100","name":"HALEON PLC","titleOfClass":"SPON ADS","shares":41277,"shareType":"SH","putCall":null,"value":371493,"ticker":"HLN","weight":0.000016,"price":9},
